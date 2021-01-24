@@ -1,0 +1,87 @@
+[
+    {
+        "id":"zas5qpijno3c1tqlg545",
+        "name":"Bộ thủ 1 nét (1-6)",
+        "displayOrder":0
+    },
+    {
+        "id":"vui93qicm6g3zf9rp5wc",
+        "name":"Bộ thủ 2 nét (7-29)",
+        "displayOrder":1
+    },
+    {
+        "id":"bww4mun8elfzrmq8gu6q",
+        "name":"Bộ thủ 3 nét (30-60)",
+        "displayOrder":2
+    },
+    {
+        "id":"578wbgn7b6m5ka3a5b2s",
+        "name":"Bộ thủ 4 nét (61-94)",
+        "displayOrder":3
+    },
+    {
+        "id":"evbvon1xdwkrzd8mvv2s",
+        "name":"Bộ thủ 5 nét (95-117)",
+        "displayOrder":4
+    },
+    {
+        "id":"dokxip6xj1fdtmyiyc0l",
+        "name":"Bộ thủ 6 nét (118-146)",
+        "displayOrder":5
+    },
+    {
+        "id":"ro346630q6nzgscq8c6w",
+        "name":"Bộ thủ 7 nét (147-166)",
+        "displayOrder":6
+    },
+    {
+        "id":"8ie8h2xb7x2oybbda44l",
+        "name":"Bộ thủ 8 nét (167-175)",
+        "displayOrder":7
+    },
+    {
+        "id":"70ni357io4e9rsacma35",
+        "name":"Bộ thủ 9 nét (176-186)",
+        "displayOrder":8
+    },
+    {
+        "id":"miesv1dfwzrijb2381ff",
+        "name":"Bộ thủ 10 nét (187-194)",
+        "displayOrder":9
+    },
+    {
+        "id":"j6ti37bj8eis0r03pg5w",
+        "name":"Bộ thủ 11 nét (195-200)",
+        "displayOrder":10
+    },
+    {
+        "id":"w9ihky1ed7rjat4l7hsu",
+        "name":"Bộ thủ 12 nét (201-204)",
+        "displayOrder":11
+    },
+    {
+        "id":"6k6w05qbxyen2ca90ntu",
+        "name":"Bộ thủ 13 nét (205-208)",
+        "displayOrder":12
+    },
+    {
+        "id":"rr8s04rnrg8kphk8g8r1",
+        "name":"Bộ thủ 14 nét (209-210)",
+        "displayOrder":13
+    },
+    {
+        "id":"ay75p7g3kuocri3vee1i",
+        "name":"Bộ thủ 15 nét (211)",
+        "displayOrder":14
+    },
+    {
+        "id":"9pw9rf02twu79chopsv1",
+        "name":"Bộ thủ 16 nét (212-213)",
+        "displayOrder":15
+    },
+    {
+        "id":"rr5ejhgtuto4chqgb5r4",
+        "name":"Bộ thủ 17 nét (214)",
+        "displayOrder":16
+    }
+]

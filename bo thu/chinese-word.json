@@ -1,0 +1,2142 @@
+[
+    {
+        "id":"il67atczeydrpuag68a0",
+        "word":"一",
+        "wordFull":"一",
+        "meaning":"Một, thứ nhất, khởi đầu",
+        "pronunciation1":"yī",
+        "pronunciation2":"Nhất",
+        "imageUrl":"yi1.gif",
+        "typeId":"zas5qpijno3c1tqlg545"
+    },
+    {
+        "id":"l3gpswyn3ig6qei8kzdg",
+        "word":"丨",
+        "wordFull":"丨",
+        "meaning":"Nét sổ, đường thẳng đứng trên xuống dưới",
+        "pronunciation1":"gǔn",
+        "pronunciation2":"Cổn",
+        "imageUrl":"gun3.gif",
+        "typeId":"zas5qpijno3c1tqlg545"
+    },
+    {
+        "id":"8yz85ui6caxlfme9z5um",
+        "word":"丶",
+        "wordFull":"丶",
+        "meaning":"Nét chấm, một điểm",
+        "pronunciation1":"zhǔ",
+        "pronunciation2":"Chủ",
+        "imageUrl":"zhu3.gif",
+        "typeId":"zas5qpijno3c1tqlg545"
+    },
+    {
+        "id":"qc9g8x7dsrnmag46x0dq",
+        "word":"丿",
+        "wordFull":"丿",
+        "meaning":"Nét phảy, nét nghiêng từ phải qua trái, chỉ động tác",
+        "pronunciation1":"piě",
+        "pronunciation2":"Phiệt",
+        "imageUrl":"pie3.gif",
+        "typeId":"zas5qpijno3c1tqlg545"
+    },
+    {
+        "id":"yzhlc12wh5cv2wikqdin",
+        "word":"乙",
+        "wordFull":"乙",
+        "meaning":"Can thứ hai trong mười can (Giáp, ất , bính, đinh…)",
+        "pronunciation1":"yǐ",
+        "pronunciation2":"Ất",
+        "imageUrl":"yi3.gif",
+        "typeId":"zas5qpijno3c1tqlg545"
+    },
+    {
+        "id":"n76ofznz14ryqh8vz8y6",
+        "word":"亅",
+        "wordFull":"亅",
+        "meaning":"Nét sổ có móc, cái móc",
+        "pronunciation1":"jué",
+        "pronunciation2":"Quyết",
+        "imageUrl":"jue2.gif",
+        "typeId":"zas5qpijno3c1tqlg545"
+    },
+    {
+        "id":"gsmoonckyc4ez23wyl9q",
+        "word":"二",
+        "wordFull":"二",
+        "meaning":"Số hai, thường biểu thị nét chữ",
+        "pronunciation1":"èr",
+        "pronunciation2":"nhị",
+        "imageUrl":"er4.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"nko3hzue2c667qp5fgg8",
+        "word":"亠",
+        "wordFull":"亠",
+        "meaning":"Thường chỉ biểu thị nét chữ",
+        "pronunciation1":"tóu",
+        "pronunciation2":"đầu",
+        "imageUrl":"tou2.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"exem9qp29un31sc8wf66",
+        "word":"人",
+        "wordFull":"人 (亻)",
+        "meaning":"Người, biểu thị con người, các động tác, hành vi, tính cách hay sự việc",
+        "pronunciation1":"rén",
+        "pronunciation2":"nhân",
+        "imageUrl":"ren2.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"hhno3eps8y6jqltqc6a1",
+        "word":"儿",
+        "wordFull":"儿",
+        "meaning":"Đứa trẻ con, con trai, biểu thị các sự việc liên quan tới con người",
+        "pronunciation1":"ér",
+        "pronunciation2":"nhi",
+        "imageUrl":"er2.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"xmmwfkesl2cbx5wxfovs",
+        "word":"入",
+        "wordFull":"入",
+        "meaning":"Vào, biểu thị sự thâm nhập, tham gia.",
+        "pronunciation1":"rù",
+        "pronunciation2":"nhập",
+        "imageUrl":"ru4.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"2y68n4n649rzgtd2fb1i",
+        "word":"八",
+        "wordFull":"八",
+        "meaning":"Số tám, biểu thị các sự việc liên quan tới phân tách, ngược lại.",
+        "pronunciation1":"bā",
+        "pronunciation2":"bát",
+        "imageUrl":"ba1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"9vwba3vnex8uylqeq1vc",
+        "word":"冂",
+        "wordFull":"冂",
+        "meaning":"Vùng biên giới xa, hoang địa, biểu thị sự việc liên quan tới 1 khu vực",
+        "pronunciation1":"jiōng",
+        "pronunciation2":"quynh",
+        "imageUrl":"jiong1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"vrewncjwhv49lrzomsyy",
+        "word":"冖",
+        "wordFull":"冖",
+        "meaning":"Biểu thị các sự việc liên quan tới che, đậy, phủ lên",
+        "pronunciation1":"mì",
+        "pronunciation2":"mịch",
+        "imageUrl":"mi4.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"jnlkepv0gj2lsc10xqki",
+        "word":"冫",
+        "wordFull":"冫",
+        "meaning":"Biểu thị nhiệt độ thấp, hoặc liên quan tới nước",
+        "pronunciation1":"bīng",
+        "pronunciation2":"băng",
+        "imageUrl":"bing1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"2o9z6f1y1s29s3ucg3p8",
+        "word":"几",
+        "wordFull":"几",
+        "meaning":"Ghế dựa, biểu thị đồ dùng bằng gỗ nhỏ, thấp cho việc uống trà",
+        "pronunciation1":"jǐ",
+        "pronunciation2":"kỷ",
+        "imageUrl":"ji3.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"sflxbn5ys25b4vzkugeg",
+        "word":"凵",
+        "wordFull":"凵",
+        "meaning":"Há miệng, liên quan tới hang hốc hay lõm xuống",
+        "pronunciation1":"qiǎn",
+        "pronunciation2":"khảm",
+        "imageUrl":"qian3.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"w1jn3z8ahqfg5ivd3zsr",
+        "word":"刀",
+        "wordFull":"刀 (刂)",
+        "meaning":"Con dao, cây đao (vũ khí), chỉ động tác hay sự việc liên quan tới vũ khí",
+        "pronunciation1":"dāo",
+        "pronunciation2":"đao",
+        "imageUrl":"dao1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"fznh672pxeghjpor6i9k",
+        "word":"力",
+        "wordFull":"力",
+        "meaning":"Sức mạnh, liên quan đến việc dùng sức lực",
+        "pronunciation1":"lì",
+        "pronunciation2":"lực",
+        "imageUrl":"li4.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"xsb1bn7edz918crpnhgl",
+        "word":"勹",
+        "wordFull":"勹",
+        "meaning":"Bao bọc, biểu thị các sự việc liên quan tới con người",
+        "pronunciation1":"bāo",
+        "pronunciation2":"bao",
+        "imageUrl":"bao1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"yimt0ungh6bcmhg84737",
+        "word":"匕",
+        "wordFull":"匕",
+        "meaning":"Cái thìa (cái muỗng)",
+        "pronunciation1":"bǐ",
+        "pronunciation2":"chuỷ",
+        "imageUrl":"bi3.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"eil0c6e69q3gynwxx33f",
+        "word":"匚",
+        "wordFull":"匚",
+        "meaning":"Tủ đựng, biểu thị các đồ vật, sự việc có liên quan tới đồ đựng hình vuông",
+        "pronunciation1":"fāng",
+        "pronunciation2":"phương",
+        "imageUrl":"fang1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"lm1ts3grz3w891g5lq2d",
+        "word":"匸",
+        "wordFull":"匸",
+        "meaning":"Che đậy, dấu diếm",
+        "pronunciation1":"xǐ",
+        "pronunciation2":"hệ",
+        "imageUrl":"xi3.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"5k8q8c1lj4rjuiqwqap0",
+        "word":"十",
+        "wordFull":"十",
+        "meaning":"Số mười, thường sử dụng làm số đếm",
+        "pronunciation1":"shí",
+        "pronunciation2":"thập",
+        "imageUrl":"shi2.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"vq0i5unq7xxxyxi47dzm",
+        "word":"卜",
+        "wordFull":"卜",
+        "meaning":"Xem bói, biểu thị các sự việc liên quan tới bói toán",
+        "pronunciation1":"bo",
+        "pronunciation2":"bốc",
+        "imageUrl":"bo1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"6fz32asiw55imnezxtv8",
+        "word":"卩",
+        "wordFull":"卩",
+        "meaning":"Đốt tre, biểu thị sự việc liên quan tới quỳ gối",
+        "pronunciation1":"jié",
+        "pronunciation2":"tiết",
+        "imageUrl":"jie2.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"s50agxq73hvptn1h9gnt",
+        "word":"厂",
+        "wordFull":"厂",
+        "meaning":"Sườn núi, vách đá, biểu thị các sự việc có liên quan tới vách núi hoặc nhà xưởng",
+        "pronunciation1":"chǎng",
+        "pronunciation2":"hán",
+        "imageUrl":"chang3.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"1zc7on24ae1phrg40r1y",
+        "word":"厶",
+        "wordFull":"厶",
+        "meaning":"Riêng tư, thường làm nét chữ đôi khi biểu thị sự việc liên quan đến riêng tư",
+        "pronunciation1":"sī",
+        "pronunciation2":"khư, tư",
+        "imageUrl":"si1.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"4macn7gu0fdxupxwouyl",
+        "word":"又",
+        "wordFull":"又",
+        "meaning":"Lại nữa, một lần nữa, biểu thị sự việc, động tác liên quan tới tay",
+        "pronunciation1":"yòu",
+        "pronunciation2":"hựu",
+        "imageUrl":"you4.gif",
+        "typeId":"vui93qicm6g3zf9rp5wc"
+    },
+    {
+        "id":"d1uqorrrv8ap7hz6r3hi",
+        "word":"口",
+        "wordFull":"口",
+        "meaning":"Cái Miệng, liên quan ngôn ngữ hoặc động tác miệng, ngoài ra còn liên quan tới đồ vật hình vuông.",
+        "pronunciation1":"kǒu",
+        "pronunciation2":"khẩu",
+        "imageUrl":"口.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"q09hsglsmesqsvmrguph",
+        "word":"囗",
+        "wordFull":"囗",
+        "meaning":"Vây Quanh, liên quan tới sự bao vây, vòng tròn…",
+        "pronunciation1":"wéi",
+        "pronunciation2":"vi",
+        "imageUrl":"囗.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"94dk9os4i64kegyqrbqu",
+        "word":"土",
+        "wordFull":"土",
+        "meaning":"Đất, liên quan tới bùn, đất đai",
+        "pronunciation1":"tǔ",
+        "pronunciation2":"thổ",
+        "imageUrl":"土.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"tr1bj54r7787tfiy3kdu",
+        "word":"士",
+        "wordFull":"士",
+        "meaning":"Kẻ Sĩ, liên quan tới con trai, đàn ông",
+        "pronunciation1":"shì",
+        "pronunciation2":"sĩ",
+        "imageUrl":"士.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"xjq6ypaqvg9archza6si",
+        "word":"夂",
+        "wordFull":"夂",
+        "meaning":"Đến Ở Phía Sau,",
+        "pronunciation1":"zhǐ",
+        "pronunciation2":"truy",
+        "imageUrl":"夂.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"za6y90qbhbu1y7en3wjv",
+        "word":"夊",
+        "wordFull":"夊",
+        "meaning":"Đi Chậm, liên quan tới hoạt động của chân",
+        "pronunciation1":"suī",
+        "pronunciation2":"tuy",
+        "imageUrl":"夊.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"60he7foh0tjiy2w6hwrv",
+        "word":"夕",
+        "wordFull":"夕",
+        "meaning":"Đêm Tối, liên quan tới thời gian hay các hoạt động về đêm",
+        "pronunciation1":"xī",
+        "pronunciation2":"tịch",
+        "imageUrl":"夕.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"pdhw9pekw8xtw1x1ip08",
+        "word":"大",
+        "wordFull":"大",
+        "meaning":"To Lớn, liên quan tới sự việc to lớn hoặc người",
+        "pronunciation1":"dà",
+        "pronunciation2":"đại",
+        "imageUrl":"大.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"p1pea7wdh5l3iflba35p",
+        "word":"女",
+        "wordFull":"女",
+        "meaning":"Nữ Giới, Con Gái, Đàn Bà, liên quan tới phụ nữ, sự xinh đẹp hay họ tên. Đôi khi nó mang nghĩa cho \"tính tình không tốt\" (ngày xưa trọng nam khinh nữ)",
+        "pronunciation1":"nǚ",
+        "pronunciation2":"nữ",
+        "imageUrl":"女.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"vi7nn9zv6pbo3g3qyc43",
+        "word":"子",
+        "wordFull":"子",
+        "meaning":"Con, liên quan tới con cái",
+        "pronunciation1":"zi",
+        "pronunciation2":"tử",
+        "imageUrl":"子.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"cc7w4liacrdd0pdilp08",
+        "word":"宀",
+        "wordFull":"宀",
+        "meaning":"Mái Nhà Mái Che, liên quan tới nhà cửa hay những việc trong nhà",
+        "pronunciation1":"mián",
+        "pronunciation2":"miên",
+        "imageUrl":"宀.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"puadewou5itzsoqi7n1p",
+        "word":"寸",
+        "wordFull":"寸",
+        "meaning":"Đơn Vị \"Tấc\" (Đo Chiều Dài), liên quan tới phép đo, độ dài",
+        "pronunciation1":"cùn",
+        "pronunciation2":"thốn",
+        "imageUrl":"寸.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"niyhrsr68gog6tutc0x5",
+        "word":"小",
+        "wordFull":"小",
+        "meaning":"Nhỏ Bé, liên quan tới các việc nhỏ bé",
+        "pronunciation1":"xiǎo",
+        "pronunciation2":"tiểu",
+        "imageUrl":"小.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"cbnezrj5vyd1m33zrugq",
+        "word":"尢",
+        "wordFull":"尢",
+        "meaning":"Yếu Đuối, liên quan tới khiếm khuyết, tàn tật",
+        "pronunciation1":"yóu",
+        "pronunciation2":"uông",
+        "imageUrl":"尢.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"ql5t6vq1kva1igqkhid3",
+        "word":"尸",
+        "wordFull":"尸",
+        "meaning":"Xác Chết, Thây Ma, liên quan tới thân thể, thi thể hay động tác con người. Có lúc liên quan tới nhà cửa",
+        "pronunciation1":"shī",
+        "pronunciation2":"thi",
+        "imageUrl":"尸.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"82d19wztiu4cuw88vxl6",
+        "word":"屮",
+        "wordFull":"屮",
+        "meaning":"Mầm Non, Cỏ Non Mới Mọc, liên quan tới cỏ",
+        "pronunciation1":"chè",
+        "pronunciation2":"triệt",
+        "imageUrl":"屮.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"7hk9aswbqmbs30tb3k2h",
+        "word":"山",
+        "wordFull":"山",
+        "meaning":"Núi Non, liên quan tới đá, núi",
+        "pronunciation1":"shān",
+        "pronunciation2":"sơn",
+        "imageUrl":"%E5%B1%B1.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"x6h6j2aqouy7jp9mfxle",
+        "word":"巛",
+        "wordFull":"巛",
+        "meaning":"Sông Ngòi, liên quan tới sông nước",
+        "pronunciation1":"chuān",
+        "pronunciation2":"xuyên",
+        "imageUrl":"%E5%B7%9B.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"xkolwvnjt77by22yze5o",
+        "word":"工",
+        "wordFull":"工",
+        "meaning":"Người Thợ, Công Việc, liên quan tới công cụ, người thợ",
+        "pronunciation1":"gōng",
+        "pronunciation2":"công",
+        "imageUrl":"%E5%B7%A5.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"2ftv3cpsxlgxqllytbrw",
+        "word":"己",
+        "wordFull":"己",
+        "meaning":"Bản Thân Mình, liên quan tới trẻ sơ sinh",
+        "pronunciation1":"jǐ",
+        "pronunciation2":"kỷ",
+        "imageUrl":"%E5%B7%B1.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"hvlmkrixygneq87su95d",
+        "word":"巾",
+        "wordFull":"巾",
+        "meaning":"Cái Khăn, liên quan tới dệt may",
+        "pronunciation1":"jīn",
+        "pronunciation2":"cân",
+        "imageUrl":"%E5%B7%BE.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"fkjepd4flstfishhzp8y",
+        "word":"干",
+        "wordFull":"干",
+        "meaning":"Thiên Can, Can Dự,",
+        "pronunciation1":"gàn",
+        "pronunciation2":"can",
+        "imageUrl":"%E5%B9%B2.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"i0xn37fw5n4arsov39ky",
+        "word":"幺",
+        "wordFull":"幺",
+        "meaning":"Nhỏ Nhắn, liên quan tới sự vật nhỏ bé như sợi tơ",
+        "pronunciation1":"yāo",
+        "pronunciation2":"yêu",
+        "imageUrl":"%E5%B9%BA.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"dghuipp3gsk4ox9orl27",
+        "word":"广",
+        "wordFull":"广",
+        "meaning":"Mái Nhà, liên quan tới công trình kiến trúc, nhà cửa",
+        "pronunciation1":"guǎng",
+        "pronunciation2":"nghiễm",
+        "imageUrl":"%E5%B9%BF.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"gnpbcch9p3w9xzlkgm7c",
+        "word":"廴",
+        "wordFull":"廴",
+        "meaning":"Bước Dài, liên quan tới việc đi lại",
+        "pronunciation1":"yǐn",
+        "pronunciation2":"dẫn",
+        "imageUrl":"%E5%BB%B4.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"k95wp9qyjarxu0s1kecw",
+        "word":"廾",
+        "wordFull":"廾",
+        "meaning":"Chắp Tay, liên quan tới việc dùng 2 tay để cầm nắm vật gì",
+        "pronunciation1":"gǒng",
+        "pronunciation2":"củng",
+        "imageUrl":"%E5%BB%BE.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"2a0kmqlr6q0ghvx8syuv",
+        "word":"弋",
+        "wordFull":"弋",
+        "meaning":"Bắn, Chiếm Lấy, thường không biểu thị ý nghĩa",
+        "pronunciation1":"yì",
+        "pronunciation2":"dặc",
+        "imageUrl":"%E5%BC%8B.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"eqfxcy7f3riew6xmjj49",
+        "word":"弓",
+        "wordFull":"弓",
+        "meaning":"Cái Cung (Để Bắn Tên), liên quan tới vũ khí, cung nỏ",
+        "pronunciation1":"gōng",
+        "pronunciation2":"cung",
+        "imageUrl":"%E5%BC%93.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"s1qse25z76s9lb5fmkkp",
+        "word":"彐",
+        "wordFull":"彐",
+        "meaning":"Đầu Con Nhím, thường dùng làm nét chữ",
+        "pronunciation1":"jì",
+        "pronunciation2":"kệ",
+        "imageUrl":"%E5%BD%90.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"8lqknluudk5qup1nbt7r",
+        "word":"彡",
+        "wordFull":"彡",
+        "meaning":"Lông Tóc Dài, liên quan tới trang sức, hình ảnh, tranh vẽ",
+        "pronunciation1":"shān",
+        "pronunciation2":"sam",
+        "imageUrl":"%E5%BD%A1.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"8vunmo63xgcds4n14xhs",
+        "word":"彳",
+        "wordFull":"彳",
+        "meaning":"Bước Chân Trái, liên quan tới đi lại, đường sá, động tác của con người (thường là chân)",
+        "pronunciation1":"chì",
+        "pronunciation2":"xích",
+        "imageUrl":"%E5%BD%B3.gif",
+        "typeId":"bww4mun8elfzrmq8gu6q"
+    },
+    {
+        "id":"pk8ybob8i6fmd31j8eb3",
+        "word":"心",
+        "wordFull":"心 (忄)",
+        "meaning":"Tâm (Tâm Đứng): Quả Tim, Tâm Trí, Thể hiện tình cảm, thái độ và các hoạt động tâm lý",
+        "pronunciation1":"xīn",
+        "pronunciation2":"tâm",
+        "imageUrl":"%E5%BF%83.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"4r26mpneogciscz80i2o",
+        "word":"戈",
+        "wordFull":"戈",
+        "meaning":"Kích (mác), Một loại binh khí dài cổ xưa",
+        "pronunciation1":"gē",
+        "pronunciation2":"qua",
+        "imageUrl":"%E6%88%88.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"gw3kdcwza07d0yddf9ms",
+        "word":"戶",
+        "wordFull":"戶",
+        "meaning":"Cửa Một Cánh, Liên quan tới cửa",
+        "pronunciation1":"hù",
+        "pronunciation2":"hộ",
+        "imageUrl":"%E6%88%B6.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"w7ffk2n62fov8p19l6ae",
+        "word":"手",
+        "wordFull":"手 (扌)",
+        "meaning":"Tay, Liên quan tới động tác tay",
+        "pronunciation1":"shǒu",
+        "pronunciation2":"thủ",
+        "imageUrl":"%E6%89%8B.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"tvib0txiyf4rzqm19dek",
+        "word":"支",
+        "wordFull":"支",
+        "meaning":"Cành Nhánh, Của Cây",
+        "pronunciation1":"zhī",
+        "pronunciation2":"chi",
+        "imageUrl":"%E6%94%AF.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"yols6r1pkw4thzmtjccz",
+        "word":"攴",
+        "wordFull":"攴 (攵)",
+        "meaning":"Đánh Khẽ, Động tác đánh nhẹ",
+        "pronunciation1":"pù",
+        "pronunciation2":"phộc",
+        "imageUrl":"%E6%94%B4.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"x2506fwzux40ymdrxx6x",
+        "word":"文",
+        "wordFull":"文",
+        "meaning":"Văn Vẻ, Văn Chương, Liên quan tới hoa văn hay trang sức nhiều màu sắc",
+        "pronunciation1":"wén",
+        "pronunciation2":"văn",
+        "imageUrl":"%E6%96%87.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"gbkhwmxftjwk4p8govki",
+        "word":"斗",
+        "wordFull":"斗",
+        "meaning":"Cái Đấu, Đơn vị đo lường lương thực (đấu thóc, đấu gạo)",
+        "pronunciation1":"dōu",
+        "pronunciation2":"đẩu",
+        "imageUrl":"%E6%96%97.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"oe1yfqb3nexqmemrokg3",
+        "word":"斤",
+        "wordFull":"斤",
+        "meaning":"Cái Búa, Rìu, Dụng cụ đốn cây",
+        "pronunciation1":"jīn",
+        "pronunciation2":"cẩn",
+        "imageUrl":"%E6%96%A4.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"n9chet12zech9malbqam",
+        "word":"方",
+        "wordFull":"方",
+        "meaning":"Vuông, phương, Chỉ Hình vuông, Phương hướng",
+        "pronunciation1":"fāng",
+        "pronunciation2":"phương",
+        "imageUrl":"%E6%96%B9.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"5i48q70iv57dhsxg9g8w",
+        "word":"无",
+        "wordFull":"无",
+        "meaning":"Không,",
+        "pronunciation1":"wú",
+        "pronunciation2":"vô",
+        "imageUrl":"%E6%97%A0.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"38r1tl6awa66t7nvvxus",
+        "word":"日",
+        "wordFull":"日",
+        "meaning":"Ngày, Mặt Trời, Liên quan tới Mặt trời, thời gian (tính bằng ngày)",
+        "pronunciation1":"rì",
+        "pronunciation2":"nhật",
+        "imageUrl":"%E6%97%A5.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"o1804z42jguvnmu4yovi",
+        "word":"曰",
+        "wordFull":"曰",
+        "meaning":"Nói Rằng, Liên quan tới việc nói",
+        "pronunciation1":"yuē",
+        "pronunciation2":"viết",
+        "imageUrl":"%E6%9B%B0.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"xvbkuewuy9e9bc9dudt8",
+        "word":"月",
+        "wordFull":"月",
+        "meaning":"Tháng, Mặt Trăng, Liên quan tới mặt trăng, thời gian (tính bằng tháng)",
+        "pronunciation1":"yuè",
+        "pronunciation2":"nguyệt",
+        "imageUrl":"%E6%9C%88.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"2kin7fw4weog4u64iqfe",
+        "word":"木",
+        "wordFull":"木",
+        "meaning":"Gỗ, Cây Cối, Cây, gỗ (hình cây có cành và rễ).",
+        "pronunciation1":"mù",
+        "pronunciation2":"mộc",
+        "imageUrl":"%E6%9C%A8.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"wq5joju05ieefigllvmq",
+        "word":"欠",
+        "wordFull":"欠",
+        "meaning":"Khiếm Khuyết, Thiếu Vắng, Thiếu (khiếm nhã, khiếm khuyết).",
+        "pronunciation1":"qiàn",
+        "pronunciation2":"khiếm",
+        "imageUrl":"%E6%AC%A0.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"7iibbd7xelyrwbqwmht7",
+        "word":"止",
+        "wordFull":"止",
+        "meaning":"Dừng Lại, Chỉ động tác của chân",
+        "pronunciation1":"zhǐ",
+        "pronunciation2":"chỉ",
+        "imageUrl":"%E6%AD%A2.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"rourbypx6gmku2b8dd0v",
+        "word":"歹",
+        "wordFull":"歹",
+        "meaning":"Xấu Xa, Tệ Hại, Bộ Đãi/Ngạt ý chỉ việc xấu, không tốt",
+        "pronunciation1":"dǎi",
+        "pronunciation2":"đãi",
+        "imageUrl":"%E6%AD%B9.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"hwiz6fnpjqd6ex0p3ua1",
+        "word":"殳",
+        "wordFull":"殳",
+        "meaning":"Binh Khí Dài, Một loại vũ khí dài, không mũi nhọn",
+        "pronunciation1":"shū",
+        "pronunciation2":"thù",
+        "imageUrl":"%E6%AE%B3.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"wncz3pltbfy5nkqej3ag",
+        "word":"毋",
+        "wordFull":"毋",
+        "meaning":"Chớ, Đừng,",
+        "pronunciation1":"wú",
+        "pronunciation2":"vô",
+        "imageUrl":"%E6%AF%8B.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"q12io6rumu8la4tsms5b",
+        "word":"比",
+        "wordFull":"比",
+        "meaning":"So Sánh, So sánh, so bì. Hình hai người đứng ngang nhau để so cao thấp.",
+        "pronunciation1":"bǐ",
+        "pronunciation2":"tỷ",
+        "imageUrl":"%E6%AF%94.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"12kprqvvs39lb6v36e9h",
+        "word":"毛",
+        "wordFull":"毛",
+        "meaning":"Lông, Liên quan tới lông của loài thú hay râu tóc của con người.",
+        "pronunciation1":"máo",
+        "pronunciation2":"mao",
+        "imageUrl":"%E6%AF%9B.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"pnte7p05u8pezu4lj5rw",
+        "word":"氏",
+        "wordFull":"氏",
+        "meaning":"Họ, Họ, ngành họ mạc trong một gia tộc. Phần đệm trong họ tên phái nữ.",
+        "pronunciation1":"shì",
+        "pronunciation2":"thị",
+        "imageUrl":"%E6%B0%8F.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"th7os8bhtas8ku7jwkr4",
+        "word":"气",
+        "wordFull":"气",
+        "meaning":"Hơi Nước, Khí bốc hơi từ nước",
+        "pronunciation1":"qì",
+        "pronunciation2":"khí",
+        "imageUrl":"%E6%B0%94.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"pppeywzwiggpza4fhlil",
+        "word":"水",
+        "wordFull":"水 (氵)",
+        "meaning":"Nước, Liên quan tới sông nước, chất lỏng",
+        "pronunciation1":"shǔi",
+        "pronunciation2":"thủy",
+        "imageUrl":"%E6%B0%B4.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"udum18ghrj7rsp6x2q7r",
+        "word":"火",
+        "wordFull":"火 (灬)",
+        "meaning":"Lửa, Liên quan tới lửa hay việc sử dụng lửa",
+        "pronunciation1":"huǒ",
+        "pronunciation2":"hỏa",
+        "imageUrl":"%E7%81%AB.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"xagtsmerc4qb3vnn6wxw",
+        "word":"爪",
+        "wordFull":"爪",
+        "meaning":"Móng Vuốt, Của động vật",
+        "pronunciation1":"zhǎo",
+        "pronunciation2":"trảo",
+        "imageUrl":"%E7%88%AA.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"7qeevmj70ural5b0i57f",
+        "word":"父",
+        "wordFull":"父",
+        "meaning":"Cha, Nói tới người đàn ông đã trưởng thành",
+        "pronunciation1":"fù",
+        "pronunciation2":"phụ",
+        "imageUrl":"%E7%88%B6.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"wzy8iuj9gil19w04i1zi",
+        "word":"爻",
+        "wordFull":"爻",
+        "meaning":"Hào Âm, Hào Dương, Giao nhau. Mỗi quẻ trong kinh dịch có sáu hào (Kinh kịch)",
+        "pronunciation1":"yáo",
+        "pronunciation2":"hào",
+        "imageUrl":"%E7%88%BB.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"3fmx9plw731se97x5bw1",
+        "word":"爿",
+        "wordFull":"爿",
+        "meaning":"Mảnh Gỗ, Cái Giường,",
+        "pronunciation1":"qiáng",
+        "pronunciation2":"tường (丬)",
+        "imageUrl":"%E7%88%BF.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"vkc6atai4agoc6nxtluk",
+        "word":"片",
+        "wordFull":"片",
+        "meaning":"Mảnh, Tấm, Miếng, Mảnh vật mỏng và phẳng",
+        "pronunciation1":"piàn",
+        "pronunciation2":"phiến",
+        "imageUrl":"%E7%89%87.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"wl3nunf8bgevtqw125yy",
+        "word":"牙",
+        "wordFull":"牙",
+        "meaning":"Răng,",
+        "pronunciation1":"yá",
+        "pronunciation2":"nha",
+        "imageUrl":"%E7%89%99.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"ql6xdl7lrxy6ul0bqz3z",
+        "word":"牛",
+        "wordFull":"牛 ( 牜)",
+        "meaning":"Trâu, Liên quan tới động vật tương tự Trâu, bò",
+        "pronunciation1":"níu",
+        "pronunciation2":"ngưu",
+        "imageUrl":"%E7%89%9B.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"qclt50ow0ml91q0kkjvp",
+        "word":"犬",
+        "wordFull":"犬(犭)",
+        "meaning":"Con Chó, Nói tới loài chó",
+        "pronunciation1":"quǎn",
+        "pronunciation2":"khuyển",
+        "imageUrl":"%E7%8A%AC.gif",
+        "typeId":"578wbgn7b6m5ka3a5b2s"
+    },
+    {
+        "id":"9egg8owrdoj2ma56m334",
+        "word":"玄",
+        "wordFull":"玄",
+        "meaning":"màu đen huyền, huyền bí,",
+        "pronunciation1":"xuán",
+        "pronunciation2":"huyền",
+        "imageUrl":"xuan2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"ejd9a98vnl7ifnocsa2g",
+        "word":"玉",
+        "wordFull":"玉",
+        "meaning":"đá quý, ngọc,",
+        "pronunciation1":"yù",
+        "pronunciation2":"ngọc",
+        "imageUrl":"yu4.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"5uw7r6q0aulnqi7esj5z",
+        "word":"瓜",
+        "wordFull":"瓜",
+        "meaning":"quả dưa,",
+        "pronunciation1":"guā",
+        "pronunciation2":"qua",
+        "imageUrl":"gua1.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"uhzp037728xezu14wcp8",
+        "word":"瓦",
+        "wordFull":"瓦",
+        "meaning":"ngói,",
+        "pronunciation1":"wǎ",
+        "pronunciation2":"ngõa",
+        "imageUrl":"wa3.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"gh979tx658bfsj6o8lna",
+        "word":"甘",
+        "wordFull":"甘",
+        "meaning":"ngọt,",
+        "pronunciation1":"gān",
+        "pronunciation2":"cam",
+        "imageUrl":"gan1.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"imxm04vdc9kpcfjsq10i",
+        "word":"生",
+        "wordFull":"生",
+        "meaning":"sinh đẻ, sinh sống,",
+        "pronunciation1":"shēng",
+        "pronunciation2":"sinh",
+        "imageUrl":"sheng1.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"qvcnr1uycq0iej94teua",
+        "word":"用",
+        "wordFull":"用",
+        "meaning":"dùng,",
+        "pronunciation1":"yòng",
+        "pronunciation2":"dụng",
+        "imageUrl":"yong4.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"0aulo0y7i31no46rl9bn",
+        "word":"田",
+        "wordFull":"田",
+        "meaning":"ruộng,",
+        "pronunciation1":"tián",
+        "pronunciation2":"điền",
+        "imageUrl":"tian2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"aacpjo3uehaxfkody2mr",
+        "word":"疋",
+        "wordFull":"疋(匹)",
+        "meaning":"đơn vị đo chiều dài, tấm (vải),",
+        "pronunciation1":"pǐ",
+        "pronunciation2":"thất",
+        "imageUrl":"pi3.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"z8rtefy0wnvtw5h8fkiu",
+        "word":"疒",
+        "wordFull":"疒",
+        "meaning":"bệnh tật,",
+        "pronunciation1":"nǐ",
+        "pronunciation2":"nạch",
+        "imageUrl":"ni3.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"z5mtgnqk0lfnhtrbnk9f",
+        "word":"癶",
+        "wordFull":"癶",
+        "meaning":"gạt ngược lại, trở lại,",
+        "pronunciation1":"bǒ",
+        "pronunciation2":"bát",
+        "imageUrl":"bo3.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"nzdja0xr5ko32lm6ymc0",
+        "word":"白",
+        "wordFull":"白",
+        "meaning":"màu trắng,",
+        "pronunciation1":"bái",
+        "pronunciation2":"bạch",
+        "imageUrl":"bai2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"uzvpt7tp5by3eynmobpm",
+        "word":"皮",
+        "wordFull":"皮",
+        "meaning":"da,",
+        "pronunciation1":"pí",
+        "pronunciation2":"bì",
+        "imageUrl":"pi2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"yvavupdo868a4pph10ru",
+        "word":"皿",
+        "wordFull":"皿",
+        "meaning":"bát dĩa,",
+        "pronunciation1":"mǐn",
+        "pronunciation2":"mãnh",
+        "imageUrl":"min3.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"8t9vpkwkut9yifibkmay",
+        "word":"目",
+        "wordFull":"目",
+        "meaning":"mắt,",
+        "pronunciation1":"mù",
+        "pronunciation2":"mục",
+        "imageUrl":"mu4.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"1ulkhlt68dy9dqk0g47r",
+        "word":"矛",
+        "wordFull":"矛",
+        "meaning":"cây giáo để đâm,",
+        "pronunciation1":"máo",
+        "pronunciation2":"mâu",
+        "imageUrl":"mao2-1.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"u4nnhxrg2hnt9bwgx9yf",
+        "word":"矢",
+        "wordFull":"矢",
+        "meaning":"cây tên, mũi tên,",
+        "pronunciation1":"shǐ",
+        "pronunciation2":"thỉ",
+        "imageUrl":"shi3.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"eljhk5whynz6ma2kmz1v",
+        "word":"石",
+        "wordFull":"石",
+        "meaning":"đá,",
+        "pronunciation1":"shí",
+        "pronunciation2":"thạch",
+        "imageUrl":"shi2-1.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"85rlwzfkodxcg0re1che",
+        "word":"示",
+        "wordFull":"示 (礻)",
+        "meaning":"chỉ thị; thần đất,",
+        "pronunciation1":"shì",
+        "pronunciation2":"thị (kỳ)",
+        "imageUrl":"shi4.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"4zznar2gf7ihysrsm856",
+        "word":"禸",
+        "wordFull":"禸",
+        "meaning":"vết chân, lốt chân,",
+        "pronunciation1":"róu",
+        "pronunciation2":"nhựu",
+        "imageUrl":"rou2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"1kjw5i0ek6dj1rn81xnh",
+        "word":"禾",
+        "wordFull":"禾",
+        "meaning":"lúa,",
+        "pronunciation1":"hé",
+        "pronunciation2":"hòa",
+        "imageUrl":"he2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"w2dkwdshdafq9r620fgx",
+        "word":"穴",
+        "wordFull":"穴",
+        "meaning":"hang lỗ,",
+        "pronunciation1":"xué",
+        "pronunciation2":"huyệt",
+        "imageUrl":"xue2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"ou4nil2appxtrfpnxnw3",
+        "word":"立",
+        "wordFull":"立",
+        "meaning":"đứng, thành lập,",
+        "pronunciation1":"lì",
+        "pronunciation2":"lập",
+        "imageUrl":"li4-2.gif",
+        "typeId":"evbvon1xdwkrzd8mvv2s"
+    },
+    {
+        "id":"g5x7yfw0f8zx4ckm4ltn",
+        "word":"竹",
+        "wordFull":"竹",
+        "meaning":"tre trúc,",
+        "pronunciation1":"zhú",
+        "pronunciation2":"trúc",
+        "imageUrl":"zhu2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"ezx2o6gcmakxgloou8u2",
+        "word":"米",
+        "wordFull":"米",
+        "meaning":"gạo,",
+        "pronunciation1":"mǐ",
+        "pronunciation2":"mễ",
+        "imageUrl":"mi3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"uwgfy1lqvcympz5wr297",
+        "word":"糸",
+        "wordFull":"糸 (糹-纟)",
+        "meaning":"sợi tơ nhỏ,",
+        "pronunciation1":"mì",
+        "pronunciation2":"mịch",
+        "imageUrl":"mi4-1.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"qdlgheme3ogsuje2jsap",
+        "word":"缶",
+        "wordFull":"缶",
+        "meaning":"đồ sành,",
+        "pronunciation1":"fǒu",
+        "pronunciation2":"phẫu",
+        "imageUrl":"fou3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"4db1y6wnnvqszee0qbt3",
+        "word":"网",
+        "wordFull":"网 (罒- 罓)",
+        "meaning":"cái lưới,",
+        "pronunciation1":"wǎng",
+        "pronunciation2":"võng",
+        "imageUrl":"wang3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"d01vdqyl3gn3ht2la8fd",
+        "word":"羊",
+        "wordFull":"羊",
+        "meaning":"con dê,",
+        "pronunciation1":"yáng",
+        "pronunciation2":"dương",
+        "imageUrl":"yang2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"j3pbuqoqhi0jib462k51",
+        "word":"羽",
+        "wordFull":"羽 (羽)",
+        "meaning":"lông vũ,",
+        "pronunciation1":"yǔ",
+        "pronunciation2":"vũ",
+        "imageUrl":"yu3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"0z2ev4hbyph75sjrffbb",
+        "word":"老",
+        "wordFull":"老",
+        "meaning":"già,",
+        "pronunciation1":"lǎo",
+        "pronunciation2":"lão",
+        "imageUrl":"lao3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"ank7y83vezb45741ss0h",
+        "word":"而",
+        "wordFull":"而",
+        "meaning":"mà, và,",
+        "pronunciation1":"ér",
+        "pronunciation2":"nhi",
+        "imageUrl":"er2-1.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"mzj8rau4c330dtxe36e2",
+        "word":"耒",
+        "wordFull":"耒",
+        "meaning":"cái cày,",
+        "pronunciation1":"lěi",
+        "pronunciation2":"lỗi",
+        "imageUrl":"lei3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"lqfcsrlzk12veh2z5xzs",
+        "word":"耳",
+        "wordFull":"耳",
+        "meaning":"tai (lỗ tai),",
+        "pronunciation1":"ěr",
+        "pronunciation2":"nhĩ",
+        "imageUrl":"er3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"owvi51a37jegkh58llr1",
+        "word":"聿",
+        "wordFull":"聿",
+        "meaning":"cây bút,",
+        "pronunciation1":"yù",
+        "pronunciation2":"duật",
+        "imageUrl":"yu4-1.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"9ltv9bkxkqivytlu6wk6",
+        "word":"肉",
+        "wordFull":"肉",
+        "meaning":"thịt,",
+        "pronunciation1":"ròu",
+        "pronunciation2":"nhục",
+        "imageUrl":"rou4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"clf6qzt7yzhs0tpqgw1o",
+        "word":"臣",
+        "wordFull":"臣",
+        "meaning":"bầy tôi,",
+        "pronunciation1":"chén",
+        "pronunciation2":"thần",
+        "imageUrl":"chen2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"llfmb27lc2l89brd0q9q",
+        "word":"自",
+        "wordFull":"自",
+        "meaning":"tự bản thân, kể từ,",
+        "pronunciation1":"zì",
+        "pronunciation2":"tự",
+        "imageUrl":"zi4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"bu7fmxtve90eklsdzlvx",
+        "word":"至",
+        "wordFull":"至",
+        "meaning":"đến,",
+        "pronunciation1":"zhì",
+        "pronunciation2":"chí",
+        "imageUrl":"zhi4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"bpgjczt5pxvlwigi4c97",
+        "word":"臼",
+        "wordFull":"臼",
+        "meaning":"cái cối giã gạo,",
+        "pronunciation1":"jiù",
+        "pronunciation2":"cửu",
+        "imageUrl":"jiu4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"qqddmdsq2q9t5eriurwe",
+        "word":"舌",
+        "wordFull":"舌",
+        "meaning":"cái lưỡi,",
+        "pronunciation1":"shé",
+        "pronunciation2":"thiệt",
+        "imageUrl":"she2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"vu07dtkyboqlxhai4mc3",
+        "word":"舛",
+        "wordFull":"舛",
+        "meaning":"sai suyễn, sai lầm,",
+        "pronunciation1":"chuǎn",
+        "pronunciation2":"suyễn",
+        "imageUrl":"chuan3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"uf8rgd9k019nsty35p7r",
+        "word":"舟",
+        "wordFull":"舟",
+        "meaning":"cái thuyền,",
+        "pronunciation1":"zhōu",
+        "pronunciation2":"chu",
+        "imageUrl":"zhou1.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"pb321ya6ncnegelby0s1",
+        "word":"艮",
+        "wordFull":"艮",
+        "meaning":"quẻ Cấn (Kinh Dịch); dừng, bền cứng,",
+        "pronunciation1":"gèn",
+        "pronunciation2":"cấn",
+        "imageUrl":"gen4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"8gg0g6blt4fltif2xl6a",
+        "word":"色",
+        "wordFull":"色",
+        "meaning":"màu, dáng vẻ, nữ sắc,",
+        "pronunciation1":"sè",
+        "pronunciation2":"sắc",
+        "imageUrl":"se4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"u3vwbjow6zdi0kmm6j98",
+        "word":"艸",
+        "wordFull":"艸 (艹)",
+        "meaning":"cỏ,",
+        "pronunciation1":"cǎo",
+        "pronunciation2":"thảo",
+        "imageUrl":"cao3.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"4jn46q734p3p5hhvqtwz",
+        "word":"虍",
+        "wordFull":"虍",
+        "meaning":"vằn vện của con hổ,",
+        "pronunciation1":"hū",
+        "pronunciation2":"hổ",
+        "imageUrl":"hu1.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"ekjt9a39dnfoxh98fyvp",
+        "word":"虫",
+        "wordFull":"虫",
+        "meaning":"sâu bọ,",
+        "pronunciation1":"chóng",
+        "pronunciation2":"trùng",
+        "imageUrl":"chong2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"cgqwklc2uakf262adjoo",
+        "word":"血",
+        "wordFull":"血",
+        "meaning":"máu,",
+        "pronunciation1":"xuè",
+        "pronunciation2":"huyết",
+        "imageUrl":"xue4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"0q2k77nqnm6ui2o5s59z",
+        "word":"行",
+        "wordFull":"行",
+        "meaning":"đi, thi hành, làm được,",
+        "pronunciation1":"xíng",
+        "pronunciation2":"hành",
+        "imageUrl":"xing2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"gn0nys1n93m7jinrk4cd",
+        "word":"衣",
+        "wordFull":"衣 (衤)",
+        "meaning":"áo,",
+        "pronunciation1":"yī",
+        "pronunciation2":"y",
+        "imageUrl":"yi1-2.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"paizbyj6mha1sy20wnwh",
+        "word":"襾",
+        "wordFull":"襾",
+        "meaning":"che đậy, úp lên,",
+        "pronunciation1":"yà",
+        "pronunciation2":"á",
+        "imageUrl":"ya4.gif",
+        "typeId":"dokxip6xj1fdtmyiyc0l"
+    },
+    {
+        "id":"sj8j3hpncrfri7kemf05",
+        "word":"見",
+        "wordFull":"見( 见)",
+        "meaning":"trông thấy,",
+        "pronunciation1":"jiàn",
+        "pronunciation2":"kiến",
+        "imageUrl":"jian4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"u9ox9tattr43p2vy1z81",
+        "word":"角",
+        "wordFull":"角",
+        "meaning":"góc, sừng thú,",
+        "pronunciation1":"jué",
+        "pronunciation2":"giác",
+        "imageUrl":"jue2-1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"76n3lvked15cmwgvdygu",
+        "word":"言",
+        "wordFull":"言 (讠)",
+        "meaning":"nói,",
+        "pronunciation1":"yán",
+        "pronunciation2":"ngôn",
+        "imageUrl":"yan2.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"wyhrndfpheeqskee5c84",
+        "word":"谷",
+        "wordFull":"谷",
+        "meaning":"khe nước chảy giữa hai núi,",
+        "pronunciation1":"gǔ",
+        "pronunciation2":"cốc",
+        "imageUrl":"gu3.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"bhmafc0t595uu47ingha",
+        "word":"豆",
+        "wordFull":"豆",
+        "meaning":"hạt đậu, cây đậu,",
+        "pronunciation1":"dòu",
+        "pronunciation2":"đậu",
+        "imageUrl":"dou4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"lnb4rs8f0rstaqe55v0h",
+        "word":"豕",
+        "wordFull":"豕",
+        "meaning":"con heo, con lợn,",
+        "pronunciation1":"shǐ",
+        "pronunciation2":"thỉ",
+        "imageUrl":"shi3-1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"u14ip2xqkffsbmr7tn2f",
+        "word":"豸",
+        "wordFull":"豸",
+        "meaning":"loài sâu không chân,",
+        "pronunciation1":"zhì",
+        "pronunciation2":"trãi",
+        "imageUrl":"zhi4-1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"kzb81evdiq21kbcseyoz",
+        "word":"貝",
+        "wordFull":"貝 (贝)",
+        "meaning":"vật báu,",
+        "pronunciation1":"bèi",
+        "pronunciation2":"bối",
+        "imageUrl":"bei4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"lrehc5ll1uk0r8hawwps",
+        "word":"赤",
+        "wordFull":"赤",
+        "meaning":"màu đỏ,",
+        "pronunciation1":"chì",
+        "pronunciation2":"xích",
+        "imageUrl":"chi4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"hzbuh5d1dqjecvovdcus",
+        "word":"走",
+        "wordFull":"走",
+        "meaning":"đi, chạy,",
+        "pronunciation1":"zǒu",
+        "pronunciation2":"tẩu",
+        "imageUrl":"zou3.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"foeu5eez74jx7hucwkff",
+        "word":"足",
+        "wordFull":"足",
+        "meaning":"chân, đầy đủ,",
+        "pronunciation1":"zú",
+        "pronunciation2":"túc",
+        "imageUrl":"zu2.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"byqanhiehd6boj5tdyjz",
+        "word":"身",
+        "wordFull":"身",
+        "meaning":"thân thể, thân mình,",
+        "pronunciation1":"shēn",
+        "pronunciation2":"thân",
+        "imageUrl":"shen1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"ebvlerilcuv5m366hlhi",
+        "word":"車",
+        "wordFull":"車 (车)",
+        "meaning":"chiếc xe,",
+        "pronunciation1":"chē",
+        "pronunciation2":"xa",
+        "imageUrl":"che1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"mc3p06xmveon0fxa8je7",
+        "word":"辛",
+        "wordFull":"辛",
+        "meaning":"cay, vất vả,",
+        "pronunciation1":"xīn",
+        "pronunciation2":"tân",
+        "imageUrl":"xin1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"58velip7cr8b8vmfvkfn",
+        "word":"辰",
+        "wordFull":"辰",
+        "meaning":"nhật, nguyệt, tinh; thìn (12 chi),",
+        "pronunciation1":"chén",
+        "pronunciation2":"thần",
+        "imageUrl":"chen2-1.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"6krjqn26w38z6rx7jegb",
+        "word":"辵",
+        "wordFull":"辵(辶 )",
+        "meaning":"chợt bước đi chợt dừng lại,",
+        "pronunciation1":"chuò",
+        "pronunciation2":"quai xước",
+        "imageUrl":"chou4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"h7lyyprbj4egajj1ic0i",
+        "word":"邑",
+        "wordFull":"邑 (阝)",
+        "meaning":"vùng đất, đất phong cho quan,",
+        "pronunciation1":"yì",
+        "pronunciation2":"ấp",
+        "imageUrl":"yi4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"uk6a5f0ughzs09m8pc5e",
+        "word":"酉",
+        "wordFull":"酉",
+        "meaning":"một trong 12 địa chi,",
+        "pronunciation1":"yǒu",
+        "pronunciation2":"dậu",
+        "imageUrl":"you3.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"ifgunql7z8q1t6lfhzob",
+        "word":"釆",
+        "wordFull":"釆",
+        "meaning":"phân biệt,",
+        "pronunciation1":"biàn",
+        "pronunciation2":"biện",
+        "imageUrl":"bian4.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"hfop26gwztous5h5lvt4",
+        "word":"里",
+        "wordFull":"里",
+        "meaning":"dặm; làng xóm,",
+        "pronunciation1":"lǐ",
+        "pronunciation2":"lý",
+        "imageUrl":"li3.gif",
+        "typeId":"ro346630q6nzgscq8c6w"
+    },
+    {
+        "id":"ohwzbegn5w8nsn76lm2b",
+        "word":"金",
+        "wordFull":"金",
+        "meaning":"kim loại; vàng,",
+        "pronunciation1":"jīn",
+        "pronunciation2":"kim",
+        "imageUrl":"jin1-1.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"fp056y5al5v7lu01l0o7",
+        "word":"長",
+        "wordFull":"長 (镸- 长)",
+        "meaning":"dài; lớn (trưởng),",
+        "pronunciation1":"cháng",
+        "pronunciation2":"trường",
+        "imageUrl":"chang2.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"3vtekcwnyn1kp61dr2sz",
+        "word":"門",
+        "wordFull":"門 (门)",
+        "meaning":"cửa hai cánh,",
+        "pronunciation1":"mén",
+        "pronunciation2":"môn",
+        "imageUrl":"men2.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"to181fwai3nyz4owm3cm",
+        "word":"阜",
+        "wordFull":"阜 (阝)",
+        "meaning":"đống đất, gò đất,",
+        "pronunciation1":"fù",
+        "pronunciation2":"phụ",
+        "imageUrl":"fu4.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"3rzzhw9y911w2kzulw43",
+        "word":"隶",
+        "wordFull":"隶",
+        "meaning":"kịp, kịp đến,",
+        "pronunciation1":"dài",
+        "pronunciation2":"đãi",
+        "imageUrl":"dai4.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"u6cmk82euqebcubs15pb",
+        "word":"隹",
+        "wordFull":"隹",
+        "meaning":"chim đuôi ngắn,",
+        "pronunciation1":"zhuī",
+        "pronunciation2":"chuy",
+        "imageUrl":"zhui1.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"1cby7gu7w3tcnj38zqds",
+        "word":"雨",
+        "wordFull":"雨",
+        "meaning":"mưa,",
+        "pronunciation1":"yǔ",
+        "pronunciation2":"vũ",
+        "imageUrl":"yu3-1.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"3uny5giyqs070kd3w5pm",
+        "word":"青",
+        "wordFull":"青 (靑)",
+        "meaning":"màu xanh,",
+        "pronunciation1":"qīng",
+        "pronunciation2":"thanh",
+        "imageUrl":"qing1.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"l00zaaugqy9o22wgdm13",
+        "word":"非",
+        "wordFull":"非",
+        "meaning":"không,",
+        "pronunciation1":"fēi",
+        "pronunciation2":"phi",
+        "imageUrl":"fei1.gif",
+        "typeId":"8ie8h2xb7x2oybbda44l"
+    },
+    {
+        "id":"iz96ovr6gahw5yr9nv06",
+        "word":"面",
+        "wordFull":"面( 靣)",
+        "meaning":"mặt, bề mặt,",
+        "pronunciation1":"miàn",
+        "pronunciation2":"diện",
+        "imageUrl":"mian4-1.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"dfuw3h3h6wlzl4r5xdp4",
+        "word":"革",
+        "wordFull":"革",
+        "meaning":"da thú; thay đổi, cải cách,",
+        "pronunciation1":"gé",
+        "pronunciation2":"cách",
+        "imageUrl":"ge2.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"41mn5ahjil0grkmfixgd",
+        "word":"韋",
+        "wordFull":"韋 (韦)",
+        "meaning":"da đã thuộc rồi,",
+        "pronunciation1":"wéi",
+        "pronunciation2":"vi",
+        "imageUrl":"wei2.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"qizwoxhedowa3qftmtyj",
+        "word":"韭",
+        "wordFull":"韭",
+        "meaning":"rau phỉ (cây hẹ giống hành lá),",
+        "pronunciation1":"jiǔ",
+        "pronunciation2":"phỉ, cửu",
+        "imageUrl":"jiu3.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"t1aq7iy5nt4qvzps8vxs",
+        "word":"音",
+        "wordFull":"音",
+        "meaning":"âm thanh, tiếng,",
+        "pronunciation1":"yīn",
+        "pronunciation2":"âm",
+        "imageUrl":"yin1.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"3eg12vvq0rusrx19vqd7",
+        "word":"頁",
+        "wordFull":"頁 (页)",
+        "meaning":"đầu; trang giấy,",
+        "pronunciation1":"yè",
+        "pronunciation2":"hiệt",
+        "imageUrl":"ye4-1.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"qjgvf6fjng5qu82imbtr",
+        "word":"風",
+        "wordFull":"風 (凬-风)",
+        "meaning":"gió,",
+        "pronunciation1":"fēng",
+        "pronunciation2":"phong",
+        "imageUrl":"feng1.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"xju9ll1uagz0mm2ey2yp",
+        "word":"飛",
+        "wordFull":"飛 (飞)",
+        "meaning":"bay,",
+        "pronunciation1":"fēi",
+        "pronunciation2":"phi",
+        "imageUrl":"fei1-1.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"w2bwxrudnmh72oznpoqw",
+        "word":"食",
+        "wordFull":"食( 飠-饣)",
+        "meaning":"ăn,",
+        "pronunciation1":"shí",
+        "pronunciation2":"thực",
+        "imageUrl":"shi2-2.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"d1bidwenofb61sx55a0q",
+        "word":"首",
+        "wordFull":"首",
+        "meaning":"đầu,",
+        "pronunciation1":"shǒu",
+        "pronunciation2":"thủ",
+        "imageUrl":"shou3.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"l7ftzx37uc4ahnnapfav",
+        "word":"香",
+        "wordFull":"香",
+        "meaning":"mùi hương,hương thơm,",
+        "pronunciation1":"xiāng",
+        "pronunciation2":"hương",
+        "imageUrl":"xiang1-1.gif",
+        "typeId":"70ni357io4e9rsacma35"
+    },
+    {
+        "id":"rdfpwe93nfqdsix10hpc",
+        "word":"馬",
+        "wordFull":"馬( 马)",
+        "meaning":"con ngựa,",
+        "pronunciation1":"mǎ",
+        "pronunciation2":"mã",
+        "imageUrl":"ma3.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"dsuc65k63t228247bxy5",
+        "word":"骫",
+        "wordFull":"骫",
+        "meaning":"xương,",
+        "pronunciation1":"gǔ",
+        "pronunciation2":"cốt",
+        "imageUrl":"gu3-1.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"ni98o6t8fymq867qkjeg",
+        "word":"高",
+        "wordFull":"高",
+        "meaning":"cao,",
+        "pronunciation1":"gāo",
+        "pronunciation2":"cao",
+        "imageUrl":"gao1.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"tbkr87oezvzsb40s3q6l",
+        "word":"髟",
+        "wordFull":"髟",
+        "meaning":"tóc dài; sam cỏ phủ mái nhà,",
+        "pronunciation1":"biāo",
+        "pronunciation2":"bưu, tiêu",
+        "imageUrl":"biao1-1.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"hxf56ui2d4bjrg3enn3t",
+        "word":"鬥",
+        "wordFull":"鬥",
+        "meaning":"chống nhau, chiến đấu,",
+        "pronunciation1":"dòu",
+        "pronunciation2":"đấu",
+        "imageUrl":"dou4-1.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"gvv205rdvdeng8sbbqwy",
+        "word":"鬯",
+        "wordFull":"鬯",
+        "meaning":"rượu nếp; bao đựng cây cung,",
+        "pronunciation1":"chàng",
+        "pronunciation2":"sưởng",
+        "imageUrl":"chang4.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"gg3b1obuealle4moiper",
+        "word":"鬲",
+        "wordFull":"鬲",
+        "meaning":"tên một con sông xưa, cái đỉnh,",
+        "pronunciation1":"gé lì",
+        "pronunciation2":"cách",
+        "imageUrl":"ge2-1.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"cjqvwt7g1zrfmsx4zhyr",
+        "word":"鬼",
+        "wordFull":"鬼",
+        "meaning":"con quỷ,",
+        "pronunciation1":"gǔi",
+        "pronunciation2":"quỷ",
+        "imageUrl":"gui3.gif",
+        "typeId":"miesv1dfwzrijb2381ff"
+    },
+    {
+        "id":"jk5iikj1ddijd1zuk9ge",
+        "word":"魚",
+        "wordFull":"魚( 鱼)",
+        "meaning":"con cá,",
+        "pronunciation1":"yú",
+        "pronunciation2":"ngư",
+        "imageUrl":"yu2.gif",
+        "typeId":"j6ti37bj8eis0r03pg5w"
+    },
+    {
+        "id":"bkmyvwwueozd3m2c56u5",
+        "word":"鳥",
+        "wordFull":"鳥 (鸟)",
+        "meaning":"con chim,",
+        "pronunciation1":"niǎo",
+        "pronunciation2":"điểu",
+        "imageUrl":"niao3.gif",
+        "typeId":"j6ti37bj8eis0r03pg5w"
+    },
+    {
+        "id":"y9ti0kf1dlgnx6kx1100",
+        "word":"鹵",
+        "wordFull":"鹵",
+        "meaning":"đất mặn,",
+        "pronunciation1":"lǔ",
+        "pronunciation2":"lỗ",
+        "imageUrl":"lu3.gif",
+        "typeId":"j6ti37bj8eis0r03pg5w"
+    },
+    {
+        "id":"0rp5x35yctl7zmemcng0",
+        "word":"鹿",
+        "wordFull":"鹿",
+        "meaning":"con hươu,",
+        "pronunciation1":"lù",
+        "pronunciation2":"lộc",
+        "imageUrl":"lu4.gif",
+        "typeId":"j6ti37bj8eis0r03pg5w"
+    },
+    {
+        "id":"xa822xazfwwdtg25xvzs",
+        "word":"麥",
+        "wordFull":"麥 (麦)",
+        "meaning":"lúa mạch,",
+        "pronunciation1":"mò",
+        "pronunciation2":"mạch",
+        "imageUrl":"mo4.gif",
+        "typeId":"j6ti37bj8eis0r03pg5w"
+    },
+    {
+        "id":"810weid3o16elwg7flxp",
+        "word":"麻",
+        "wordFull":"麻",
+        "meaning":"cây gai,",
+        "pronunciation1":"má",
+        "pronunciation2":"ma",
+        "imageUrl":"ma2.gif",
+        "typeId":"j6ti37bj8eis0r03pg5w"
+    },
+    {
+        "id":"2ryki27bm5ijzt4uc1o0",
+        "word":"黃",
+        "wordFull":"黃",
+        "meaning":"màu vàng,",
+        "pronunciation1":"huáng",
+        "pronunciation2":"hoàng",
+        "imageUrl":"huang2.gif",
+        "typeId":"w9ihky1ed7rjat4l7hsu"
+    },
+    {
+        "id":"h0vczql3vw1qu1gr43ov",
+        "word":"黍",
+        "wordFull":"黍",
+        "meaning":"lúa nếp,",
+        "pronunciation1":"shǔ",
+        "pronunciation2":"thử",
+        "imageUrl":"shu3-1.gif",
+        "typeId":"w9ihky1ed7rjat4l7hsu"
+    },
+    {
+        "id":"9fek86z9f0ce14l835ge",
+        "word":"黑",
+        "wordFull":"黑",
+        "meaning":"màu đen,",
+        "pronunciation1":"hēi",
+        "pronunciation2":"hắc",
+        "imageUrl":"hei1.gif",
+        "typeId":"w9ihky1ed7rjat4l7hsu"
+    },
+    {
+        "id":"5xak9d29wc9e3v5p5zuu",
+        "word":"黹",
+        "wordFull":"黹",
+        "meaning":"may áo, khâu vá,",
+        "pronunciation1":"zhǐ",
+        "pronunciation2":"chỉ",
+        "imageUrl":"zhi3.gif",
+        "typeId":"w9ihky1ed7rjat4l7hsu"
+    },
+    {
+        "id":"tpm0ilciordgv0feqmy4",
+        "word":"黽",
+        "wordFull":"黽",
+        "meaning":"con ếch; cố gắng (mãnh miễn),",
+        "pronunciation1":"mǐn",
+        "pronunciation2":"mãnh",
+        "imageUrl":"min3-1.gif",
+        "typeId":"6k6w05qbxyen2ca90ntu"
+    },
+    {
+        "id":"tbtevur48ls0zizfsf5w",
+        "word":"鼎",
+        "wordFull":"鼎",
+        "meaning":"cái đỉnh,",
+        "pronunciation1":"dǐng",
+        "pronunciation2":"đỉnh",
+        "imageUrl":"ding3.gif",
+        "typeId":"6k6w05qbxyen2ca90ntu"
+    },
+    {
+        "id":"f6evja4yppbe0909rg9v",
+        "word":"鼓",
+        "wordFull":"鼓",
+        "meaning":"cái trống,",
+        "pronunciation1":"gǔ",
+        "pronunciation2":"cổ",
+        "imageUrl":"gu3-2.gif",
+        "typeId":"6k6w05qbxyen2ca90ntu"
+    },
+    {
+        "id":"sejkgn9tzm64u0a96vfi",
+        "word":"鼠",
+        "wordFull":"鼠",
+        "meaning":"con chuột,",
+        "pronunciation1":"shǔ",
+        "pronunciation2":"thử",
+        "imageUrl":"shu3.gif",
+        "typeId":"6k6w05qbxyen2ca90ntu"
+    },
+    {
+        "id":"djxzjsgtync0s1vvvk8p",
+        "word":"鼻",
+        "wordFull":"鼻",
+        "meaning":"cái mũi,",
+        "pronunciation1":"bí",
+        "pronunciation2":"tỵ",
+        "imageUrl":"bi2.gif",
+        "typeId":"rr8s04rnrg8kphk8g8r1"
+    },
+    {
+        "id":"tn49dcrtsfx3nap1yadx",
+        "word":"齊",
+        "wordFull":"齊 (斉-齐)",
+        "meaning":"ngang bằng, cùng nhau,",
+        "pronunciation1":"qí",
+        "pronunciation2":"tề",
+        "imageUrl":"qi2.gif",
+        "typeId":"rr8s04rnrg8kphk8g8r1"
+    },
+    {
+        "id":"7k6i38trbsg99lplto3b",
+        "word":"齒",
+        "wordFull":"齒 (歯 -齿)",
+        "meaning":"răng,",
+        "pronunciation1":"chǐ",
+        "pronunciation2":"xỉ",
+        "imageUrl":"chi3.gif",
+        "typeId":"ay75p7g3kuocri3vee1i"
+    },
+    {
+        "id":"dx4349hgxdga4tqaeree",
+        "word":"龍",
+        "wordFull":"龍 (龙)",
+        "meaning":"con rồng,",
+        "pronunciation1":"lóng",
+        "pronunciation2":"long",
+        "imageUrl":"long2.gif",
+        "typeId":"9pw9rf02twu79chopsv1"
+    },
+    {
+        "id":"vflezeuzdp28wa1e2ps1",
+        "word":"龜",
+        "wordFull":"龜 (亀-龟)",
+        "meaning":"con rùa,",
+        "pronunciation1":"guī",
+        "pronunciation2":"quy",
+        "imageUrl":"gui1.gif",
+        "typeId":"9pw9rf02twu79chopsv1"
+    },
+    {
+        "id":"pit9cfr8fnml458vnjhd",
+        "word":"龠",
+        "wordFull":"龠",
+        "meaning":"sáo 3 lỗ,",
+        "pronunciation1":"yuè",
+        "pronunciation2":"dược",
+        "imageUrl":"yue4.gif",
+        "typeId":"rr5ejhgtuto4chqgb5r4"
+    }
+]
