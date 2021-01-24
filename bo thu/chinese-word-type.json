@@ -2,86 +2,120 @@
     {
         "id":"zas5qpijno3c1tqlg545",
         "name":"Bộ thủ 1 nét (1-6)",
-        "displayOrder":0
+        "displayOrder":0,
+        "createdDate":"2021-01-24T13:02:22.794Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.794Z"
     },
     {
         "id":"vui93qicm6g3zf9rp5wc",
         "name":"Bộ thủ 2 nét (7-29)",
-        "displayOrder":1
+        "displayOrder":1,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"bww4mun8elfzrmq8gu6q",
         "name":"Bộ thủ 3 nét (30-60)",
-        "displayOrder":2
+        "displayOrder":2,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"578wbgn7b6m5ka3a5b2s",
         "name":"Bộ thủ 4 nét (61-94)",
-        "displayOrder":3
+        "displayOrder":3,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"evbvon1xdwkrzd8mvv2s",
         "name":"Bộ thủ 5 nét (95-117)",
-        "displayOrder":4
+        "displayOrder":4,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"dokxip6xj1fdtmyiyc0l",
         "name":"Bộ thủ 6 nét (118-146)",
-        "displayOrder":5
+        "displayOrder":5,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"ro346630q6nzgscq8c6w",
         "name":"Bộ thủ 7 nét (147-166)",
-        "displayOrder":6
+        "displayOrder":6,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"8ie8h2xb7x2oybbda44l",
         "name":"Bộ thủ 8 nét (167-175)",
-        "displayOrder":7
+        "displayOrder":7,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"70ni357io4e9rsacma35",
         "name":"Bộ thủ 9 nét (176-186)",
-        "displayOrder":8
+        "displayOrder":8,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"miesv1dfwzrijb2381ff",
         "name":"Bộ thủ 10 nét (187-194)",
-        "displayOrder":9
+        "displayOrder":9,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"j6ti37bj8eis0r03pg5w",
         "name":"Bộ thủ 11 nét (195-200)",
-        "displayOrder":10
+        "displayOrder":10,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"w9ihky1ed7rjat4l7hsu",
         "name":"Bộ thủ 12 nét (201-204)",
-        "displayOrder":11
+        "displayOrder":11,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"6k6w05qbxyen2ca90ntu",
         "name":"Bộ thủ 13 nét (205-208)",
-        "displayOrder":12
+        "displayOrder":12,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"rr8s04rnrg8kphk8g8r1",
         "name":"Bộ thủ 14 nét (209-210)",
-        "displayOrder":13
+        "displayOrder":13,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"ay75p7g3kuocri3vee1i",
         "name":"Bộ thủ 15 nét (211)",
-        "displayOrder":14
+        "displayOrder":14,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"9pw9rf02twu79chopsv1",
         "name":"Bộ thủ 16 nét (212-213)",
-        "displayOrder":15
+        "displayOrder":15,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     },
     {
         "id":"rr5ejhgtuto4chqgb5r4",
         "name":"Bộ thủ 17 nét (214)",
-        "displayOrder":16
+        "displayOrder":16,
+        "createdDate":"2021-01-24T13:02:22.795Z",
+        "lastModifiedDate":"2021-01-24T13:02:22.795Z"
     }
 ]

@@ -1,2142 +1,2784 @@
 [
     {
-        "id":"v2y9doadqqvdvx54mtsm",
+        "id":"ssofcvni9nmdle92ki69",
         "word":"一",
         "wordFull":"一",
         "meaning":"Một, thứ nhất, khởi đầu",
         "pronunciation1":"yī",
         "pronunciation2":"Nhất",
         "imageUrl":"yi1.gif",
-        "typeId":"zas5qpijno3c1tqlg545"
+        "typeId":"zas5qpijno3c1tqlg545",
+        "createdDate":"2021-01-24T13:00:29.071Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.071Z",
+        "displayOrder":0
     },
     {
-        "id":"u083yf4smunduakdflmz",
+        "id":"0qjai1fe45ph2702oqkf",
         "word":"丨",
         "wordFull":"丨",
         "meaning":"Nét sổ, đường thẳng đứng trên xuống dưới",
         "pronunciation1":"gǔn",
         "pronunciation2":"Cổn",
         "imageUrl":"gun3.gif",
-        "typeId":"zas5qpijno3c1tqlg545"
+        "typeId":"zas5qpijno3c1tqlg545",
+        "createdDate":"2021-01-24T13:00:29.072Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.072Z",
+        "displayOrder":1
     },
     {
-        "id":"5byhngulul4wqpua07c9",
+        "id":"2new5y6kn3oizk8o5j74",
         "word":"丶",
         "wordFull":"丶",
         "meaning":"Nét chấm, một điểm",
         "pronunciation1":"zhǔ",
         "pronunciation2":"Chủ",
         "imageUrl":"zhu3.gif",
-        "typeId":"zas5qpijno3c1tqlg545"
+        "typeId":"zas5qpijno3c1tqlg545",
+        "createdDate":"2021-01-24T13:00:29.072Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.072Z",
+        "displayOrder":2
     },
     {
-        "id":"x66tvwwovrx4bvj6yxxs",
+        "id":"mwafy3df7tixliotxu4n",
         "word":"丿",
         "wordFull":"丿",
         "meaning":"Nét phảy, nét nghiêng từ phải qua trái, chỉ động tác",
         "pronunciation1":"piě",
         "pronunciation2":"Phiệt",
         "imageUrl":"pie3.gif",
-        "typeId":"zas5qpijno3c1tqlg545"
+        "typeId":"zas5qpijno3c1tqlg545",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":3
     },
     {
-        "id":"5r4a9fn5ebmecyq3y8l1",
+        "id":"d33crg7frnxxdckw5udc",
         "word":"乙",
         "wordFull":"乙",
         "meaning":"Can thứ hai trong mười can (Giáp, ất , bính, đinh…)",
         "pronunciation1":"yǐ",
         "pronunciation2":"Ất",
         "imageUrl":"yi3.gif",
-        "typeId":"zas5qpijno3c1tqlg545"
+        "typeId":"zas5qpijno3c1tqlg545",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":4
     },
     {
-        "id":"x6q56x18w1an7cas8c6w",
+        "id":"f1crv0bj8jqw8stoavgk",
         "word":"亅",
         "wordFull":"亅",
         "meaning":"Nét sổ có móc, cái móc",
         "pronunciation1":"jué",
         "pronunciation2":"Quyết",
         "imageUrl":"jue2.gif",
-        "typeId":"zas5qpijno3c1tqlg545"
+        "typeId":"zas5qpijno3c1tqlg545",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":5
     },
     {
-        "id":"8g174i35tsh0freilyzw",
+        "id":"bsroncium0yxd0vrzbp2",
         "word":"二",
         "wordFull":"二",
         "meaning":"Số hai, thường biểu thị nét chữ",
         "pronunciation1":"èr",
         "pronunciation2":"nhị",
         "imageUrl":"er4.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":6
     },
     {
-        "id":"p120q5xhak6nfxsk1sow",
+        "id":"zkzbgp1giiu6hkh8dw58",
         "word":"亠",
         "wordFull":"亠",
         "meaning":"Thường chỉ biểu thị nét chữ",
         "pronunciation1":"tóu",
         "pronunciation2":"đầu",
         "imageUrl":"tou2.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":7
     },
     {
-        "id":"gts62efnoq21rha0xfa3",
+        "id":"hx3gi8xt0xjnh0vcpibz",
         "word":"人",
         "wordFull":"人 (亻)",
         "meaning":"Người, biểu thị con người, các động tác, hành vi, tính cách hay sự việc",
         "pronunciation1":"rén",
         "pronunciation2":"nhân",
         "imageUrl":"ren2.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":8
     },
     {
-        "id":"9er2maf27hwp8olzk1qi",
+        "id":"g73z3w0ytdxkebeesj76",
         "word":"儿",
         "wordFull":"儿",
         "meaning":"Đứa trẻ con, con trai, biểu thị các sự việc liên quan tới con người",
         "pronunciation1":"ér",
         "pronunciation2":"nhi",
         "imageUrl":"er2.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":9
     },
     {
-        "id":"v8l3vvlttzu851r68ak4",
+        "id":"ge98ybfiuehq4b8cpia7",
         "word":"入",
         "wordFull":"入",
         "meaning":"Vào, biểu thị sự thâm nhập, tham gia.",
         "pronunciation1":"rù",
         "pronunciation2":"nhập",
         "imageUrl":"ru4.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":10
     },
     {
-        "id":"9essedkojkz3j3w49pjt",
+        "id":"qbpyk5jmqct6xvrsj2x1",
         "word":"八",
         "wordFull":"八",
         "meaning":"Số tám, biểu thị các sự việc liên quan tới phân tách, ngược lại.",
         "pronunciation1":"bā",
         "pronunciation2":"bát",
         "imageUrl":"ba1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":11
     },
     {
-        "id":"o0f9qqqm65odxral8skn",
+        "id":"njxlb6d8ybnolo2amst4",
         "word":"冂",
         "wordFull":"冂",
         "meaning":"Vùng biên giới xa, hoang địa, biểu thị sự việc liên quan tới 1 khu vực",
         "pronunciation1":"jiōng",
         "pronunciation2":"quynh",
         "imageUrl":"jiong1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":12
     },
     {
-        "id":"mgirlskpmfufykp3eud2",
+        "id":"o8q1a2w8ge1xjpcq7zar",
         "word":"冖",
         "wordFull":"冖",
         "meaning":"Biểu thị các sự việc liên quan tới che, đậy, phủ lên",
         "pronunciation1":"mì",
         "pronunciation2":"mịch",
         "imageUrl":"mi4.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.073Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.073Z",
+        "displayOrder":13
     },
     {
-        "id":"e1m3rzvbfpwhspfuj601",
+        "id":"mnt2sfspnlw3jaua9fo1",
         "word":"冫",
         "wordFull":"冫",
         "meaning":"Biểu thị nhiệt độ thấp, hoặc liên quan tới nước",
         "pronunciation1":"bīng",
         "pronunciation2":"băng",
         "imageUrl":"bing1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":14
     },
     {
-        "id":"glikbu22lo7jtn1k66kp",
+        "id":"vx6yh04rrf3lzz1zxv4r",
         "word":"几",
         "wordFull":"几",
         "meaning":"Ghế dựa, biểu thị đồ dùng bằng gỗ nhỏ, thấp cho việc uống trà",
         "pronunciation1":"jǐ",
         "pronunciation2":"kỷ",
         "imageUrl":"ji3.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":15
     },
     {
-        "id":"6a7qe1tj8vdmczn5jz22",
+        "id":"quuuzumggfqwpyyg0znh",
         "word":"凵",
         "wordFull":"凵",
         "meaning":"Há miệng, liên quan tới hang hốc hay lõm xuống",
         "pronunciation1":"qiǎn",
         "pronunciation2":"khảm",
         "imageUrl":"qian3.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":16
     },
     {
-        "id":"0iujkf2d3vl2nr2sgby1",
+        "id":"aasby3k86nhzp9d95dj4",
         "word":"刀",
         "wordFull":"刀 (刂)",
         "meaning":"Con dao, cây đao (vũ khí), chỉ động tác hay sự việc liên quan tới vũ khí",
         "pronunciation1":"dāo",
         "pronunciation2":"đao",
         "imageUrl":"dao1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":17
     },
     {
-        "id":"xbfyazet07p2ny0sjzb7",
+        "id":"3omrwysuyszyupagdi1f",
         "word":"力",
         "wordFull":"力",
         "meaning":"Sức mạnh, liên quan đến việc dùng sức lực",
         "pronunciation1":"lì",
         "pronunciation2":"lực",
         "imageUrl":"li4.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":18
     },
     {
-        "id":"9z7rc4khxivpgmbcj0gk",
+        "id":"ttmonuu2pag30ci7g70r",
         "word":"勹",
         "wordFull":"勹",
         "meaning":"Bao bọc, biểu thị các sự việc liên quan tới con người",
         "pronunciation1":"bāo",
         "pronunciation2":"bao",
         "imageUrl":"bao1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":19
     },
     {
-        "id":"64aljear7iq7cyc69oti",
+        "id":"hcqf3lcs1c4m36vhm4ki",
         "word":"匕",
         "wordFull":"匕",
         "meaning":"Cái thìa (cái muỗng)",
         "pronunciation1":"bǐ",
         "pronunciation2":"chuỷ",
         "imageUrl":"bi3.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":20
     },
     {
-        "id":"0e3bk3o464w72xon9jif",
+        "id":"nk6anu9j0eqtmisg7kj5",
         "word":"匚",
         "wordFull":"匚",
         "meaning":"Tủ đựng, biểu thị các đồ vật, sự việc có liên quan tới đồ đựng hình vuông",
         "pronunciation1":"fāng",
         "pronunciation2":"phương",
         "imageUrl":"fang1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":21
     },
     {
-        "id":"p5xmypruth11jlash130",
+        "id":"xd4r5mj9mnvj1ripo4wg",
         "word":"匸",
         "wordFull":"匸",
         "meaning":"Che đậy, dấu diếm",
         "pronunciation1":"xǐ",
         "pronunciation2":"hệ",
         "imageUrl":"xi3.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":22
     },
     {
-        "id":"yxdkwfto2hqpwzu6rzv1",
+        "id":"9jsm9v4uy4fcn5aq4m2u",
         "word":"十",
         "wordFull":"十",
         "meaning":"Số mười, thường sử dụng làm số đếm",
         "pronunciation1":"shí",
         "pronunciation2":"thập",
         "imageUrl":"shi2.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":23
     },
     {
-        "id":"l7dnnwqrew7j8t35ufd4",
+        "id":"76l2c6z44zqdp9cid20m",
         "word":"卜",
         "wordFull":"卜",
         "meaning":"Xem bói, biểu thị các sự việc liên quan tới bói toán",
         "pronunciation1":"bo",
         "pronunciation2":"bốc",
         "imageUrl":"bo1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":24
     },
     {
-        "id":"yu46zfuuq68kc00jj8qo",
+        "id":"2hk6sk11w2zo2gmuwut1",
         "word":"卩",
         "wordFull":"卩",
         "meaning":"Đốt tre, biểu thị sự việc liên quan tới quỳ gối",
         "pronunciation1":"jié",
         "pronunciation2":"tiết",
         "imageUrl":"jie2.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":25
     },
     {
-        "id":"xx15ac7rmpkths10hx0z",
+        "id":"7kow48yvcbei2n4a0deu",
         "word":"厂",
         "wordFull":"厂",
         "meaning":"Sườn núi, vách đá, biểu thị các sự việc có liên quan tới vách núi hoặc nhà xưởng",
         "pronunciation1":"chǎng",
         "pronunciation2":"hán",
         "imageUrl":"chang3.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.074Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.074Z",
+        "displayOrder":26
     },
     {
-        "id":"5t5frxcurk0ds3rljfgn",
+        "id":"ih14uml67hb7ikmojxla",
         "word":"厶",
         "wordFull":"厶",
         "meaning":"Riêng tư, thường làm nét chữ đôi khi biểu thị sự việc liên quan đến riêng tư",
         "pronunciation1":"sī",
         "pronunciation2":"khư, tư",
         "imageUrl":"si1.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":27
     },
     {
-        "id":"ckbk0d77xfeeikpsanzg",
+        "id":"l9fowgxp8jl8jspmztwc",
         "word":"又",
         "wordFull":"又",
         "meaning":"Lại nữa, một lần nữa, biểu thị sự việc, động tác liên quan tới tay",
         "pronunciation1":"yòu",
         "pronunciation2":"hựu",
         "imageUrl":"you4.gif",
-        "typeId":"vui93qicm6g3zf9rp5wc"
+        "typeId":"vui93qicm6g3zf9rp5wc",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":28
     },
     {
-        "id":"hh90un2nkzluwgr1wsny",
+        "id":"dxy5kck02ics25hj7i4q",
         "word":"口",
         "wordFull":"口",
         "meaning":"Cái Miệng, liên quan ngôn ngữ hoặc động tác miệng, ngoài ra còn liên quan tới đồ vật hình vuông.",
         "pronunciation1":"kǒu",
         "pronunciation2":"khẩu",
         "imageUrl":"口.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":29
     },
     {
-        "id":"9ci7xbyl4hbfygtr63l8",
+        "id":"tcwb6h9b4n6xeclj9opw",
         "word":"囗",
         "wordFull":"囗",
         "meaning":"Vây Quanh, liên quan tới sự bao vây, vòng tròn…",
         "pronunciation1":"wéi",
         "pronunciation2":"vi",
         "imageUrl":"囗.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":30
     },
     {
-        "id":"hiz7gj1h1cjxro4btd37",
+        "id":"mnbtwnahdaa0cojputgc",
         "word":"土",
         "wordFull":"土",
         "meaning":"Đất, liên quan tới bùn, đất đai",
         "pronunciation1":"tǔ",
         "pronunciation2":"thổ",
         "imageUrl":"土.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":31
     },
     {
-        "id":"d6wm3aptth6n6qak5qiv",
+        "id":"71adewoc0h24e5zz14g5",
         "word":"士",
         "wordFull":"士",
         "meaning":"Kẻ Sĩ, liên quan tới con trai, đàn ông",
         "pronunciation1":"shì",
         "pronunciation2":"sĩ",
         "imageUrl":"士.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":32
     },
     {
-        "id":"h2m3h4q2t6xsyodr85n3",
+        "id":"dallgr88vuho1l0b9hv4",
         "word":"夂",
         "wordFull":"夂",
         "meaning":"Đến Ở Phía Sau,",
         "pronunciation1":"zhǐ",
         "pronunciation2":"truy",
         "imageUrl":"夂.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":33
     },
     {
-        "id":"zx73q0h6x0fk00etiu6m",
+        "id":"79w72mvdxj91u4u58nt0",
         "word":"夊",
         "wordFull":"夊",
         "meaning":"Đi Chậm, liên quan tới hoạt động của chân",
         "pronunciation1":"suī",
         "pronunciation2":"tuy",
         "imageUrl":"夊.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":34
     },
     {
-        "id":"1nksdt8y9tx6iqwl8wzd",
+        "id":"2rwjm0q4cx3eogl4ahy9",
         "word":"夕",
         "wordFull":"夕",
         "meaning":"Đêm Tối, liên quan tới thời gian hay các hoạt động về đêm",
         "pronunciation1":"xī",
         "pronunciation2":"tịch",
         "imageUrl":"夕.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.075Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.075Z",
+        "displayOrder":35
     },
     {
-        "id":"z5nhkze45scmf7wt6hr2",
+        "id":"65n6nkmvo1svvagu5eci",
         "word":"大",
         "wordFull":"大",
         "meaning":"To Lớn, liên quan tới sự việc to lớn hoặc người",
         "pronunciation1":"dà",
         "pronunciation2":"đại",
         "imageUrl":"大.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":36
     },
     {
-        "id":"6dxzoivzni54wzmocfpd",
+        "id":"l6iu1g4qsclb8n0kub2s",
         "word":"女",
         "wordFull":"女",
         "meaning":"Nữ Giới, Con Gái, Đàn Bà, liên quan tới phụ nữ, sự xinh đẹp hay họ tên. Đôi khi nó mang nghĩa cho \"tính tình không tốt\" (ngày xưa trọng nam khinh nữ)",
         "pronunciation1":"nǚ",
         "pronunciation2":"nữ",
         "imageUrl":"女.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":37
     },
     {
-        "id":"a3snzlso4pbsyqvzka3l",
+        "id":"du65ixsrg0p804hdpamz",
         "word":"子",
         "wordFull":"子",
         "meaning":"Con, liên quan tới con cái",
         "pronunciation1":"zi",
         "pronunciation2":"tử",
         "imageUrl":"子.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":38
     },
     {
-        "id":"dn6ezrv5do9zmnnuljg9",
+        "id":"poykdk3bbc022ii30wcr",
         "word":"宀",
         "wordFull":"宀",
         "meaning":"Mái Nhà Mái Che, liên quan tới nhà cửa hay những việc trong nhà",
         "pronunciation1":"mián",
         "pronunciation2":"miên",
         "imageUrl":"宀.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":39
     },
     {
-        "id":"c1u58r6jv5qi2j0hehg5",
+        "id":"laeilwews9qyvhxjw0de",
         "word":"寸",
         "wordFull":"寸",
         "meaning":"Đơn Vị \"Tấc\" (Đo Chiều Dài), liên quan tới phép đo, độ dài",
         "pronunciation1":"cùn",
         "pronunciation2":"thốn",
         "imageUrl":"寸.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":40
     },
     {
-        "id":"yc7w2ywifwwbqoiw36tq",
+        "id":"1z15grxaedz11czcpkz4",
         "word":"小",
         "wordFull":"小",
         "meaning":"Nhỏ Bé, liên quan tới các việc nhỏ bé",
         "pronunciation1":"xiǎo",
         "pronunciation2":"tiểu",
         "imageUrl":"小.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":41
     },
     {
-        "id":"zy9fvp4mfs137dg57otk",
+        "id":"ua9lj940lppj3mk6rah5",
         "word":"尢",
         "wordFull":"尢",
         "meaning":"Yếu Đuối, liên quan tới khiếm khuyết, tàn tật",
         "pronunciation1":"yóu",
         "pronunciation2":"uông",
         "imageUrl":"尢.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.076Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.076Z",
+        "displayOrder":42
     },
     {
-        "id":"59ut9wkiqqkl1zb6iz3m",
+        "id":"97ptqycjqqu3f89ttsxi",
         "word":"尸",
         "wordFull":"尸",
         "meaning":"Xác Chết, Thây Ma, liên quan tới thân thể, thi thể hay động tác con người. Có lúc liên quan tới nhà cửa",
         "pronunciation1":"shī",
         "pronunciation2":"thi",
         "imageUrl":"尸.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":43
     },
     {
-        "id":"yp2uhmkoz2r1dm2n1101",
+        "id":"0ih1gvvubihz0ejn0od7",
         "word":"屮",
         "wordFull":"屮",
         "meaning":"Mầm Non, Cỏ Non Mới Mọc, liên quan tới cỏ",
         "pronunciation1":"chè",
         "pronunciation2":"triệt",
         "imageUrl":"屮.gif",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":44
     },
     {
-        "id":"vp9pl7bdxq4471bhwor5",
+        "id":"q4zxq1f879ln3l41y8pl",
         "word":"山",
         "wordFull":"山",
         "meaning":"Núi Non, liên quan tới đá, núi",
         "pronunciation1":"shān",
         "pronunciation2":"sơn",
         "imageUrl":"山",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":45
     },
     {
-        "id":"m3v76pdph5w60ys0kgfd",
+        "id":"0j6ldnkapeixz428wcg0",
         "word":"巛",
         "wordFull":"巛",
         "meaning":"Sông Ngòi, liên quan tới sông nước",
         "pronunciation1":"chuān",
         "pronunciation2":"xuyên",
         "imageUrl":"巛",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":46
     },
     {
-        "id":"1fp0t1kkgxmi7tgchlbu",
+        "id":"ay9rxx8teh1rsg3td5e8",
         "word":"工",
         "wordFull":"工",
         "meaning":"Người Thợ, Công Việc, liên quan tới công cụ, người thợ",
         "pronunciation1":"gōng",
         "pronunciation2":"công",
         "imageUrl":"工",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":47
     },
     {
-        "id":"psgxcgyilgwv5y99ask3",
+        "id":"ad1gwnd4jsy6hgojbq9h",
         "word":"己",
         "wordFull":"己",
         "meaning":"Bản Thân Mình, liên quan tới trẻ sơ sinh",
         "pronunciation1":"jǐ",
         "pronunciation2":"kỷ",
         "imageUrl":"己",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":48
     },
     {
-        "id":"j2886w3u8qou4jd7cx9q",
+        "id":"2prti6zzhw76s940mi25",
         "word":"巾",
         "wordFull":"巾",
         "meaning":"Cái Khăn, liên quan tới dệt may",
         "pronunciation1":"jīn",
         "pronunciation2":"cân",
         "imageUrl":"巾",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":49
     },
     {
-        "id":"1flzweziq6ne4kylskbh",
+        "id":"uxjd7jwhdq3a7v8j52ua",
         "word":"干",
         "wordFull":"干",
         "meaning":"Thiên Can, Can Dự,",
         "pronunciation1":"gàn",
         "pronunciation2":"can",
         "imageUrl":"干",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":50
     },
     {
-        "id":"3a8iswn7o302aqar8zh2",
+        "id":"yqhbgq03hjnpg8x53bdd",
         "word":"幺",
         "wordFull":"幺",
         "meaning":"Nhỏ Nhắn, liên quan tới sự vật nhỏ bé như sợi tơ",
         "pronunciation1":"yāo",
         "pronunciation2":"yêu",
         "imageUrl":"幺",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.077Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.077Z",
+        "displayOrder":51
     },
     {
-        "id":"sss1cqke9biedrmckc1i",
+        "id":"tmpfzxmqeaqhxowkn05p",
         "word":"广",
         "wordFull":"广",
         "meaning":"Mái Nhà, liên quan tới công trình kiến trúc, nhà cửa",
         "pronunciation1":"guǎng",
         "pronunciation2":"nghiễm",
         "imageUrl":"广",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":52
     },
     {
-        "id":"y9fanbfafqx0cqdiefgk",
+        "id":"nw7i3a7q9k4ihymm1at0",
         "word":"廴",
         "wordFull":"廴",
         "meaning":"Bước Dài, liên quan tới việc đi lại",
         "pronunciation1":"yǐn",
         "pronunciation2":"dẫn",
         "imageUrl":"廴",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":53
     },
     {
-        "id":"igsnidojwj1vvhan55f9",
+        "id":"6vqwurp60fnpzwexcakl",
         "word":"廾",
         "wordFull":"廾",
         "meaning":"Chắp Tay, liên quan tới việc dùng 2 tay để cầm nắm vật gì",
         "pronunciation1":"gǒng",
         "pronunciation2":"củng",
         "imageUrl":"廾",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":54
     },
     {
-        "id":"t8tyl1nr4yai4gdreh8j",
+        "id":"0nhas75d5qhap3dh622e",
         "word":"弋",
         "wordFull":"弋",
         "meaning":"Bắn, Chiếm Lấy, thường không biểu thị ý nghĩa",
         "pronunciation1":"yì",
         "pronunciation2":"dặc",
         "imageUrl":"弋",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":55
     },
     {
-        "id":"ujqlgon72wg5yqeitnkw",
+        "id":"v5aum9vmds8kbjzt6ybs",
         "word":"弓",
         "wordFull":"弓",
         "meaning":"Cái Cung (Để Bắn Tên), liên quan tới vũ khí, cung nỏ",
         "pronunciation1":"gōng",
         "pronunciation2":"cung",
         "imageUrl":"弓",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":56
     },
     {
-        "id":"rhvmpyl8ctlrcov95fg7",
+        "id":"eyksp9y05jukms7vckwb",
         "word":"彐",
         "wordFull":"彐",
         "meaning":"Đầu Con Nhím, thường dùng làm nét chữ",
         "pronunciation1":"jì",
         "pronunciation2":"kệ",
         "imageUrl":"彐",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":57
     },
     {
-        "id":"g4mvbusaghf1x8dsiwic",
+        "id":"ks5gfqdj257smabi4y7p",
         "word":"彡",
         "wordFull":"彡",
         "meaning":"Lông Tóc Dài, liên quan tới trang sức, hình ảnh, tranh vẽ",
         "pronunciation1":"shān",
         "pronunciation2":"sam",
         "imageUrl":"彡",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":58
     },
     {
-        "id":"zvqyfe3ey9ggxg768x0p",
+        "id":"g0o3tu2ga6mc74c9v499",
         "word":"彳",
         "wordFull":"彳",
         "meaning":"Bước Chân Trái, liên quan tới đi lại, đường sá, động tác của con người (thường là chân)",
         "pronunciation1":"chì",
         "pronunciation2":"xích",
         "imageUrl":"彳",
-        "typeId":"bww4mun8elfzrmq8gu6q"
+        "typeId":"bww4mun8elfzrmq8gu6q",
+        "createdDate":"2021-01-24T13:00:29.078Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.078Z",
+        "displayOrder":59
     },
     {
-        "id":"h850i7l9ybvavh0tquhv",
+        "id":"spk7jpfxlbczlc4y6lxo",
         "word":"心",
         "wordFull":"心 (忄)",
         "meaning":"Tâm (Tâm Đứng): Quả Tim, Tâm Trí, Thể hiện tình cảm, thái độ và các hoạt động tâm lý",
         "pronunciation1":"xīn",
         "pronunciation2":"tâm",
         "imageUrl":"心",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":60
     },
     {
-        "id":"4qeel2lqvajdlxljs9t2",
+        "id":"m4pjvjnae22jck70tu3c",
         "word":"戈",
         "wordFull":"戈",
         "meaning":"Kích (mác), Một loại binh khí dài cổ xưa",
         "pronunciation1":"gē",
         "pronunciation2":"qua",
         "imageUrl":"戈",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":61
     },
     {
-        "id":"6phmu3r9fawi5cz2wx1o",
+        "id":"gagtq5whe8rt3zwai63m",
         "word":"戶",
         "wordFull":"戶",
         "meaning":"Cửa Một Cánh, Liên quan tới cửa",
         "pronunciation1":"hù",
         "pronunciation2":"hộ",
         "imageUrl":"戶",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":62
     },
     {
-        "id":"7i0s2agtzbx1ht1hrn62",
+        "id":"1j9ov5egn8797fa8s5dh",
         "word":"手",
         "wordFull":"手 (扌)",
         "meaning":"Tay, Liên quan tới động tác tay",
         "pronunciation1":"shǒu",
         "pronunciation2":"thủ",
         "imageUrl":"手",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":63
     },
     {
-        "id":"c7y6r5iuq9le5z0rzp7r",
+        "id":"ppkn10pc5fu8ecijugnl",
         "word":"支",
         "wordFull":"支",
         "meaning":"Cành Nhánh, Của Cây",
         "pronunciation1":"zhī",
         "pronunciation2":"chi",
         "imageUrl":"支",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":64
     },
     {
-        "id":"m29hgh80ryjnzegs52bf",
+        "id":"tp2ot5jlobiieukr6u5p",
         "word":"攴",
         "wordFull":"攴 (攵)",
         "meaning":"Đánh Khẽ, Động tác đánh nhẹ",
         "pronunciation1":"pù",
         "pronunciation2":"phộc",
         "imageUrl":"攴",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":65
     },
     {
-        "id":"6uq27ftj7bvrj9msnkrg",
+        "id":"fz1ahtn3ulisrurnl70f",
         "word":"文",
         "wordFull":"文",
         "meaning":"Văn Vẻ, Văn Chương, Liên quan tới hoa văn hay trang sức nhiều màu sắc",
         "pronunciation1":"wén",
         "pronunciation2":"văn",
         "imageUrl":"文",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":66
     },
     {
-        "id":"bbepbsizeefb8u07gj1k",
+        "id":"jak6wnnfc2ekxmjvjweh",
         "word":"斗",
         "wordFull":"斗",
         "meaning":"Cái Đấu, Đơn vị đo lường lương thực (đấu thóc, đấu gạo)",
         "pronunciation1":"dōu",
         "pronunciation2":"đẩu",
         "imageUrl":"斗",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":67
     },
     {
-        "id":"x825w1ivcbxjbnqmfgz1",
+        "id":"zxf4rpe050f8buwzkbxc",
         "word":"斤",
         "wordFull":"斤",
         "meaning":"Cái Búa, Rìu, Dụng cụ đốn cây",
         "pronunciation1":"jīn",
         "pronunciation2":"cẩn",
         "imageUrl":"斤",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":68
     },
     {
-        "id":"gixzks7398zqc0lzpfep",
+        "id":"zg9nqi4pidckfv02s0e4",
         "word":"方",
         "wordFull":"方",
         "meaning":"Vuông, phương, Chỉ Hình vuông, Phương hướng",
         "pronunciation1":"fāng",
         "pronunciation2":"phương",
         "imageUrl":"方",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":69
     },
     {
-        "id":"naj9cftzvx205loe3k6w",
+        "id":"p0pczevcv3yy1q6qimra",
         "word":"无",
         "wordFull":"无",
         "meaning":"Không,",
         "pronunciation1":"wú",
         "pronunciation2":"vô",
         "imageUrl":"无",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":70
     },
     {
-        "id":"mmcv7x7oge10zociv0ps",
+        "id":"qjyw6emt0i176pd1no6t",
         "word":"日",
         "wordFull":"日",
         "meaning":"Ngày, Mặt Trời, Liên quan tới Mặt trời, thời gian (tính bằng ngày)",
         "pronunciation1":"rì",
         "pronunciation2":"nhật",
         "imageUrl":"日",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.079Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.079Z",
+        "displayOrder":71
     },
     {
-        "id":"2syozmlttkcpheznlbny",
+        "id":"4y9cxok0k6m67qggx02i",
         "word":"曰",
         "wordFull":"曰",
         "meaning":"Nói Rằng, Liên quan tới việc nói",
         "pronunciation1":"yuē",
         "pronunciation2":"viết",
         "imageUrl":"曰",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":72
     },
     {
-        "id":"sa2o0tcxqo5f1vlrviqo",
+        "id":"c4a25xruod2vu4tjkvzl",
         "word":"月",
         "wordFull":"月",
         "meaning":"Tháng, Mặt Trăng, Liên quan tới mặt trăng, thời gian (tính bằng tháng)",
         "pronunciation1":"yuè",
         "pronunciation2":"nguyệt",
         "imageUrl":"月",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":73
     },
     {
-        "id":"iv9tw2hp2o297a1zq2ov",
+        "id":"jdub12ao4ct6w9m3f92n",
         "word":"木",
         "wordFull":"木",
         "meaning":"Gỗ, Cây Cối, Cây, gỗ (hình cây có cành và rễ).",
         "pronunciation1":"mù",
         "pronunciation2":"mộc",
         "imageUrl":"木",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":74
     },
     {
-        "id":"u7arakfzl7hf4zhas99e",
+        "id":"aaq5ngddhr2pkpbkzb7b",
         "word":"欠",
         "wordFull":"欠",
         "meaning":"Khiếm Khuyết, Thiếu Vắng, Thiếu (khiếm nhã, khiếm khuyết).",
         "pronunciation1":"qiàn",
         "pronunciation2":"khiếm",
         "imageUrl":"欠",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":75
     },
     {
-        "id":"wvsxz8vj5blzpip0ztde",
+        "id":"s5ps1z1frjmdjwhgaj1y",
         "word":"止",
         "wordFull":"止",
         "meaning":"Dừng Lại, Chỉ động tác của chân",
         "pronunciation1":"zhǐ",
         "pronunciation2":"chỉ",
         "imageUrl":"止",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":76
     },
     {
-        "id":"cygfbgxh6v6fd4mi7oro",
+        "id":"cxd1rs9ywqo354ouapmk",
         "word":"歹",
         "wordFull":"歹",
         "meaning":"Xấu Xa, Tệ Hại, Bộ Đãi/Ngạt ý chỉ việc xấu, không tốt",
         "pronunciation1":"dǎi",
         "pronunciation2":"đãi",
         "imageUrl":"歹",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":77
     },
     {
-        "id":"2sgy6fpnrgh9cql2r5jj",
+        "id":"0toy1v5slqfiv2r347l7",
         "word":"殳",
         "wordFull":"殳",
         "meaning":"Binh Khí Dài, Một loại vũ khí dài, không mũi nhọn",
         "pronunciation1":"shū",
         "pronunciation2":"thù",
         "imageUrl":"殳",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":78
     },
     {
-        "id":"g79ke040jlzndo2a02yy",
+        "id":"256cy18jweo9mpomeepu",
         "word":"毋",
         "wordFull":"毋",
         "meaning":"Chớ, Đừng,",
         "pronunciation1":"wú",
         "pronunciation2":"vô",
         "imageUrl":"毋",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":79
     },
     {
-        "id":"envmkfgz18sy1n9t94ce",
+        "id":"9hioez237b4uku1smrs8",
         "word":"比",
         "wordFull":"比",
         "meaning":"So Sánh, So sánh, so bì. Hình hai người đứng ngang nhau để so cao thấp.",
         "pronunciation1":"bǐ",
         "pronunciation2":"tỷ",
         "imageUrl":"比",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.080Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.080Z",
+        "displayOrder":80
     },
     {
-        "id":"f20gr8ren0aw5rhz1xkh",
+        "id":"kyub2ejcubw2e4ftialm",
         "word":"毛",
         "wordFull":"毛",
         "meaning":"Lông, Liên quan tới lông của loài thú hay râu tóc của con người.",
         "pronunciation1":"máo",
         "pronunciation2":"mao",
         "imageUrl":"毛",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":81
     },
     {
-        "id":"kxz87qztg832rk79m8zi",
+        "id":"o6fj25zdxi6yclanse03",
         "word":"氏",
         "wordFull":"氏",
         "meaning":"Họ, Họ, ngành họ mạc trong một gia tộc. Phần đệm trong họ tên phái nữ.",
         "pronunciation1":"shì",
         "pronunciation2":"thị",
         "imageUrl":"氏",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":82
     },
     {
-        "id":"5as3urcjb1w6jzco7wxj",
+        "id":"o1jaw5kggxjcgdv7l36o",
         "word":"气",
         "wordFull":"气",
         "meaning":"Hơi Nước, Khí bốc hơi từ nước",
         "pronunciation1":"qì",
         "pronunciation2":"khí",
         "imageUrl":"气",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":83
     },
     {
-        "id":"8kvqwxifi8uv8j3xhre8",
+        "id":"mkuks5julu9qbgo6y1qv",
         "word":"水",
         "wordFull":"水 (氵)",
         "meaning":"Nước, Liên quan tới sông nước, chất lỏng",
         "pronunciation1":"shǔi",
         "pronunciation2":"thủy",
         "imageUrl":"水",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":84
     },
     {
-        "id":"vujhj8glpwl0o9hsl516",
+        "id":"klq6i9foq27gjthrr7xw",
         "word":"火",
         "wordFull":"火 (灬)",
         "meaning":"Lửa, Liên quan tới lửa hay việc sử dụng lửa",
         "pronunciation1":"huǒ",
         "pronunciation2":"hỏa",
         "imageUrl":"火",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":85
     },
     {
-        "id":"tp795prcj8c4m4m7u4ct",
+        "id":"pmsb86fdtfeoxo6100zg",
         "word":"爪",
         "wordFull":"爪",
         "meaning":"Móng Vuốt, Của động vật",
         "pronunciation1":"zhǎo",
         "pronunciation2":"trảo",
         "imageUrl":"爪",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":86
     },
     {
-        "id":"wcflzx1utbjo9c61rzu4",
+        "id":"qof1e84zlcfqx6g2hkia",
         "word":"父",
         "wordFull":"父",
         "meaning":"Cha, Nói tới người đàn ông đã trưởng thành",
         "pronunciation1":"fù",
         "pronunciation2":"phụ",
         "imageUrl":"父",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":87
     },
     {
-        "id":"0rxjno9j1gut3m5vylvw",
+        "id":"c940r3ziufackkal6858",
         "word":"爻",
         "wordFull":"爻",
         "meaning":"Hào Âm, Hào Dương, Giao nhau. Mỗi quẻ trong kinh dịch có sáu hào (Kinh kịch)",
         "pronunciation1":"yáo",
         "pronunciation2":"hào",
         "imageUrl":"爻",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":88
     },
     {
-        "id":"zff8acqd9s43tsmc8j1i",
+        "id":"6n2zf3916700bilo2iy1",
         "word":"爿",
         "wordFull":"爿",
         "meaning":"Mảnh Gỗ, Cái Giường,",
         "pronunciation1":"qiáng",
         "pronunciation2":"tường (丬)",
         "imageUrl":"爿",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":89
     },
     {
-        "id":"rz918ug90we51rwafhfp",
+        "id":"j8433xh89aafynt4y685",
         "word":"片",
         "wordFull":"片",
         "meaning":"Mảnh, Tấm, Miếng, Mảnh vật mỏng và phẳng",
         "pronunciation1":"piàn",
         "pronunciation2":"phiến",
         "imageUrl":"片",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.081Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.081Z",
+        "displayOrder":90
     },
     {
-        "id":"h7qzlszkmv64uxz6td7n",
+        "id":"a09ul7xyjkqe9vdar98m",
         "word":"牙",
         "wordFull":"牙",
         "meaning":"Răng,",
         "pronunciation1":"yá",
         "pronunciation2":"nha",
         "imageUrl":"牙",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.082Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.082Z",
+        "displayOrder":91
     },
     {
-        "id":"dnhbc0mj1g19x9bey4pn",
+        "id":"is1qyo0ytj1dbc8m19xc",
         "word":"牛",
         "wordFull":"牛 ( 牜)",
         "meaning":"Trâu, Liên quan tới động vật tương tự Trâu, bò",
         "pronunciation1":"níu",
         "pronunciation2":"ngưu",
         "imageUrl":"牛",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.082Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.082Z",
+        "displayOrder":92
     },
     {
-        "id":"9nn0x3ybc1suavppu670",
+        "id":"6hwcid6i3dbd52gbyrei",
         "word":"犬",
         "wordFull":"犬(犭)",
         "meaning":"Con Chó, Nói tới loài chó",
         "pronunciation1":"quǎn",
         "pronunciation2":"khuyển",
         "imageUrl":"犬",
-        "typeId":"578wbgn7b6m5ka3a5b2s"
+        "typeId":"578wbgn7b6m5ka3a5b2s",
+        "createdDate":"2021-01-24T13:00:29.082Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.082Z",
+        "displayOrder":93
     },
     {
-        "id":"z5kht4vvlt939j6b4qaq",
+        "id":"riemluedyvj70jbl6f5n",
         "word":"玄",
         "wordFull":"玄",
         "meaning":"màu đen huyền, huyền bí,",
         "pronunciation1":"xuán",
         "pronunciation2":"huyền",
         "imageUrl":"xuan2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.084Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.084Z",
+        "displayOrder":94
     },
     {
-        "id":"bam2c5gg9qoeilo7w4oj",
+        "id":"o9qc1ix3diampjbhxtrx",
         "word":"玉",
         "wordFull":"玉",
         "meaning":"đá quý, ngọc,",
         "pronunciation1":"yù",
         "pronunciation2":"ngọc",
         "imageUrl":"yu4.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.084Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.084Z",
+        "displayOrder":95
     },
     {
-        "id":"rzpq8jzchvdpr9757eva",
+        "id":"w71pt85jhnxc0th5b75r",
         "word":"瓜",
         "wordFull":"瓜",
         "meaning":"quả dưa,",
         "pronunciation1":"guā",
         "pronunciation2":"qua",
         "imageUrl":"gua1.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.084Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.084Z",
+        "displayOrder":96
     },
     {
-        "id":"kxaiuon171nhqret6kom",
+        "id":"aetb6xwn0iqios87zzml",
         "word":"瓦",
         "wordFull":"瓦",
         "meaning":"ngói,",
         "pronunciation1":"wǎ",
         "pronunciation2":"ngõa",
         "imageUrl":"wa3.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.084Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.084Z",
+        "displayOrder":97
     },
     {
-        "id":"8dpuyuyf5xwif57oihnf",
+        "id":"46qg482adszislnfw6gh",
         "word":"甘",
         "wordFull":"甘",
         "meaning":"ngọt,",
         "pronunciation1":"gān",
         "pronunciation2":"cam",
         "imageUrl":"gan1.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.084Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.084Z",
+        "displayOrder":98
     },
     {
-        "id":"h3aqo6arcc4hja4oz2oi",
+        "id":"nd6tqe4jne3io6y19j1i",
         "word":"生",
         "wordFull":"生",
         "meaning":"sinh đẻ, sinh sống,",
         "pronunciation1":"shēng",
         "pronunciation2":"sinh",
         "imageUrl":"sheng1.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":99
     },
     {
-        "id":"9bmcegyvl0aaw6evt6wi",
+        "id":"dp6x7l4k6kap629blpbw",
         "word":"用",
         "wordFull":"用",
         "meaning":"dùng,",
         "pronunciation1":"yòng",
         "pronunciation2":"dụng",
         "imageUrl":"yong4.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":100
     },
     {
-        "id":"87dwyi3poc78lb4h6gj1",
+        "id":"20odwvov3p8bf9t8goyd",
         "word":"田",
         "wordFull":"田",
         "meaning":"ruộng,",
         "pronunciation1":"tián",
         "pronunciation2":"điền",
         "imageUrl":"tian2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":101
     },
     {
-        "id":"r3it2zphpuwwwc21ll99",
+        "id":"xc4o6eoz3j20w5oi6nbz",
         "word":"疋",
         "wordFull":"疋(匹)",
         "meaning":"đơn vị đo chiều dài, tấm (vải),",
         "pronunciation1":"pǐ",
         "pronunciation2":"thất",
         "imageUrl":"pi3.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":102
     },
     {
-        "id":"37k7h7qyu7qfwlvswxw6",
+        "id":"7ubfw5fupv3fkqga32mi",
         "word":"疒",
         "wordFull":"疒",
         "meaning":"bệnh tật,",
         "pronunciation1":"nǐ",
         "pronunciation2":"nạch",
         "imageUrl":"ni3.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":103
     },
     {
-        "id":"fmvpdpml8rox906qahei",
+        "id":"xwt93zq0o0qm4a0cjci6",
         "word":"癶",
         "wordFull":"癶",
         "meaning":"gạt ngược lại, trở lại,",
         "pronunciation1":"bǒ",
         "pronunciation2":"bát",
         "imageUrl":"bo3.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":104
     },
     {
-        "id":"vkif6sb64ulfvoioqp7u",
+        "id":"kstsyyhre1mhb9uhe4fj",
         "word":"白",
         "wordFull":"白",
         "meaning":"màu trắng,",
         "pronunciation1":"bái",
         "pronunciation2":"bạch",
         "imageUrl":"bai2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":105
     },
     {
-        "id":"c0di096qk1qxu70ikpbj",
+        "id":"xfw66hjo5i269nli4o21",
         "word":"皮",
         "wordFull":"皮",
         "meaning":"da,",
         "pronunciation1":"pí",
         "pronunciation2":"bì",
         "imageUrl":"pi2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":106
     },
     {
-        "id":"acak0fr3rht1cax4qi31",
+        "id":"q6myfelo6zuqycivmcp9",
         "word":"皿",
         "wordFull":"皿",
         "meaning":"bát dĩa,",
         "pronunciation1":"mǐn",
         "pronunciation2":"mãnh",
         "imageUrl":"min3.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":107
     },
     {
-        "id":"d07p5qz3gkhsu8uxesks",
+        "id":"hm27bkk9a1ifrcqt18bl",
         "word":"目",
         "wordFull":"目",
         "meaning":"mắt,",
         "pronunciation1":"mù",
         "pronunciation2":"mục",
         "imageUrl":"mu4.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":108
     },
     {
-        "id":"6e06jl5jx10gbjn2pqnd",
+        "id":"onewjlpmbjrxbv42t7ke",
         "word":"矛",
         "wordFull":"矛",
         "meaning":"cây giáo để đâm,",
         "pronunciation1":"máo",
         "pronunciation2":"mâu",
         "imageUrl":"mao2-1.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":109
     },
     {
-        "id":"3fk21tqaofanx697b4kd",
+        "id":"4xpbnltdm0w0w22nb17k",
         "word":"矢",
         "wordFull":"矢",
         "meaning":"cây tên, mũi tên,",
         "pronunciation1":"shǐ",
         "pronunciation2":"thỉ",
         "imageUrl":"shi3.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":110
     },
     {
-        "id":"a39pp2sapyg2tjg0zv3h",
+        "id":"ie3m7aj7v3xhx1cy20q4",
         "word":"石",
         "wordFull":"石",
         "meaning":"đá,",
         "pronunciation1":"shí",
         "pronunciation2":"thạch",
         "imageUrl":"shi2-1.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":111
     },
     {
-        "id":"h16k6dhkplq19d4x8hd1",
+        "id":"xwpvuk8xp9qye0vwurbb",
         "word":"示",
         "wordFull":"示 (礻)",
         "meaning":"chỉ thị; thần đất,",
         "pronunciation1":"shì",
         "pronunciation2":"thị (kỳ)",
         "imageUrl":"shi4.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.085Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.085Z",
+        "displayOrder":112
     },
     {
-        "id":"gjnot9kpmu2xy4xgr21q",
+        "id":"sux7l9mw2ddjx25yan1h",
         "word":"禸",
         "wordFull":"禸",
         "meaning":"vết chân, lốt chân,",
         "pronunciation1":"róu",
         "pronunciation2":"nhựu",
         "imageUrl":"rou2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":113
     },
     {
-        "id":"26feqyo2tn51q4d9blw1",
+        "id":"bl8bc5i5sht9xz8dttlr",
         "word":"禾",
         "wordFull":"禾",
         "meaning":"lúa,",
         "pronunciation1":"hé",
         "pronunciation2":"hòa",
         "imageUrl":"he2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":114
     },
     {
-        "id":"w1sons5jyndrl4zg7qtv",
+        "id":"4knxdons4jgwakuzof92",
         "word":"穴",
         "wordFull":"穴",
         "meaning":"hang lỗ,",
         "pronunciation1":"xué",
         "pronunciation2":"huyệt",
         "imageUrl":"xue2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":115
     },
     {
-        "id":"4oizhxuwvf96hbpjewzo",
+        "id":"yuwki9vmwa7roo6xzhti",
         "word":"立",
         "wordFull":"立",
         "meaning":"đứng, thành lập,",
         "pronunciation1":"lì",
         "pronunciation2":"lập",
         "imageUrl":"li4-2.gif",
-        "typeId":"evbvon1xdwkrzd8mvv2s"
+        "typeId":"evbvon1xdwkrzd8mvv2s",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":116
     },
     {
-        "id":"dfe76qzo1mvb5gm0qidr",
+        "id":"ojziso5a6stbdnyqqc41",
         "word":"竹",
         "wordFull":"竹",
         "meaning":"tre trúc,",
         "pronunciation1":"zhú",
         "pronunciation2":"trúc",
         "imageUrl":"zhu2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":117
     },
     {
-        "id":"9bvt4lchuq0kvhuslxq1",
+        "id":"2yitf0k295cz4v2j8m4p",
         "word":"米",
         "wordFull":"米",
         "meaning":"gạo,",
         "pronunciation1":"mǐ",
         "pronunciation2":"mễ",
         "imageUrl":"mi3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":118
     },
     {
-        "id":"ng6hr2irm39q188gefaz",
+        "id":"s4sjmv80pez9q3os10um",
         "word":"糸",
         "wordFull":"糸 (糹-纟)",
         "meaning":"sợi tơ nhỏ,",
         "pronunciation1":"mì",
         "pronunciation2":"mịch",
         "imageUrl":"mi4-1.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":119
     },
     {
-        "id":"76vg9pgf044qliwdudei",
+        "id":"1xh4cr157glngpy7yogi",
         "word":"缶",
         "wordFull":"缶",
         "meaning":"đồ sành,",
         "pronunciation1":"fǒu",
         "pronunciation2":"phẫu",
         "imageUrl":"fou3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":120
     },
     {
-        "id":"mk1hzt7qqm2i9tlmfqwn",
+        "id":"za4mmbp9jvqpgmka3jyf",
         "word":"网",
         "wordFull":"网 (罒- 罓)",
         "meaning":"cái lưới,",
         "pronunciation1":"wǎng",
         "pronunciation2":"võng",
         "imageUrl":"wang3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":121
     },
     {
-        "id":"gjaadgnx1bf81dd9d38i",
+        "id":"0fudhyk1x2iavt45l3jf",
         "word":"羊",
         "wordFull":"羊",
         "meaning":"con dê,",
         "pronunciation1":"yáng",
         "pronunciation2":"dương",
         "imageUrl":"yang2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":122
     },
     {
-        "id":"6akzct2pc7q00h0potk5",
+        "id":"4mcpkxuxwz8bftv1zvhd",
         "word":"羽",
         "wordFull":"羽 (羽)",
         "meaning":"lông vũ,",
         "pronunciation1":"yǔ",
         "pronunciation2":"vũ",
         "imageUrl":"yu3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":123
     },
     {
-        "id":"o9kff922qxi9368xbmis",
+        "id":"h6pga9qmmxmailpgxjfi",
         "word":"老",
         "wordFull":"老",
         "meaning":"già,",
         "pronunciation1":"lǎo",
         "pronunciation2":"lão",
         "imageUrl":"lao3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":124
     },
     {
-        "id":"i3tourfvugwme6k3i5kf",
+        "id":"fz60je159wvkxouuq6gl",
         "word":"而",
         "wordFull":"而",
         "meaning":"mà, và,",
         "pronunciation1":"ér",
         "pronunciation2":"nhi",
         "imageUrl":"er2-1.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":125
     },
     {
-        "id":"adtxa10ruqn64dlspmv8",
+        "id":"4wwx4yod3leuswtf96wy",
         "word":"耒",
         "wordFull":"耒",
         "meaning":"cái cày,",
         "pronunciation1":"lěi",
         "pronunciation2":"lỗi",
         "imageUrl":"lei3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":126
     },
     {
-        "id":"2iukdgyg3klitmbjfla4",
+        "id":"t4a6to5qqh0vp7iwmgsk",
         "word":"耳",
         "wordFull":"耳",
         "meaning":"tai (lỗ tai),",
         "pronunciation1":"ěr",
         "pronunciation2":"nhĩ",
         "imageUrl":"er3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":127
     },
     {
-        "id":"bb9k201msegrp99w0iqk",
+        "id":"7k69osqq1pgzpy20kj27",
         "word":"聿",
         "wordFull":"聿",
         "meaning":"cây bút,",
         "pronunciation1":"yù",
         "pronunciation2":"duật",
         "imageUrl":"yu4-1.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.086Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.086Z",
+        "displayOrder":128
     },
     {
-        "id":"jchshgr2epu7jn08yhpr",
+        "id":"39f83ao2to6j3dwd6035",
         "word":"肉",
         "wordFull":"肉",
         "meaning":"thịt,",
         "pronunciation1":"ròu",
         "pronunciation2":"nhục",
         "imageUrl":"rou4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":129
     },
     {
-        "id":"ny5nzlrt8xgqppvikxy8",
+        "id":"3m5rs20jpy9e1onwt9zv",
         "word":"臣",
         "wordFull":"臣",
         "meaning":"bầy tôi,",
         "pronunciation1":"chén",
         "pronunciation2":"thần",
         "imageUrl":"chen2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":130
     },
     {
-        "id":"4vaytjena6plw5xgmcqx",
+        "id":"iyolhevzpmvsy8mb70gh",
         "word":"自",
         "wordFull":"自",
         "meaning":"tự bản thân, kể từ,",
         "pronunciation1":"zì",
         "pronunciation2":"tự",
         "imageUrl":"zi4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":131
     },
     {
-        "id":"w5br1nvyo3kwiq0p41ec",
+        "id":"i0nbah4rjsxv7t8wwjpn",
         "word":"至",
         "wordFull":"至",
         "meaning":"đến,",
         "pronunciation1":"zhì",
         "pronunciation2":"chí",
         "imageUrl":"zhi4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":132
     },
     {
-        "id":"2yv1y84i83cs2f7uliik",
+        "id":"lxaruxigc886gbpytjri",
         "word":"臼",
         "wordFull":"臼",
         "meaning":"cái cối giã gạo,",
         "pronunciation1":"jiù",
         "pronunciation2":"cửu",
         "imageUrl":"jiu4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":133
     },
     {
-        "id":"d16fky920uernhurs4s7",
+        "id":"tkuozrwr5gqqxee8m0r2",
         "word":"舌",
         "wordFull":"舌",
         "meaning":"cái lưỡi,",
         "pronunciation1":"shé",
         "pronunciation2":"thiệt",
         "imageUrl":"she2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":134
     },
     {
-        "id":"udqc955i9b97wjs0f2on",
+        "id":"4ep4g5dhvqmvslt11pjx",
         "word":"舛",
         "wordFull":"舛",
         "meaning":"sai suyễn, sai lầm,",
         "pronunciation1":"chuǎn",
         "pronunciation2":"suyễn",
         "imageUrl":"chuan3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":135
     },
     {
-        "id":"nr6gjtk8s36ph2ga6go5",
+        "id":"iq1ro5hzelmz9iepof3t",
         "word":"舟",
         "wordFull":"舟",
         "meaning":"cái thuyền,",
         "pronunciation1":"zhōu",
         "pronunciation2":"chu",
         "imageUrl":"zhou1.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":136
     },
     {
-        "id":"1u208atic5s33cipvosi",
+        "id":"pxdnh69enwsqufotyu8r",
         "word":"艮",
         "wordFull":"艮",
         "meaning":"quẻ Cấn (Kinh Dịch); dừng, bền cứng,",
         "pronunciation1":"gèn",
         "pronunciation2":"cấn",
         "imageUrl":"gen4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":137
     },
     {
-        "id":"8r9pla0zmx48ofzcoy4g",
+        "id":"oop081podaffg1pf7iey",
         "word":"色",
         "wordFull":"色",
         "meaning":"màu, dáng vẻ, nữ sắc,",
         "pronunciation1":"sè",
         "pronunciation2":"sắc",
         "imageUrl":"se4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":138
     },
     {
-        "id":"h2acdazvi94x56pbcdq8",
+        "id":"ywlsqd6w6nf8c6p214ya",
         "word":"艸",
         "wordFull":"艸 (艹)",
         "meaning":"cỏ,",
         "pronunciation1":"cǎo",
         "pronunciation2":"thảo",
         "imageUrl":"cao3.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":139
     },
     {
-        "id":"y1a30ne8k6ku562vg45x",
+        "id":"36etiahu5cr8fecn0u5d",
         "word":"虍",
         "wordFull":"虍",
         "meaning":"vằn vện của con hổ,",
         "pronunciation1":"hū",
         "pronunciation2":"hổ",
         "imageUrl":"hu1.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":140
     },
     {
-        "id":"vlejmjxgu7zawg9etdx4",
+        "id":"b27hf6sfrzn5hldglwce",
         "word":"虫",
         "wordFull":"虫",
         "meaning":"sâu bọ,",
         "pronunciation1":"chóng",
         "pronunciation2":"trùng",
         "imageUrl":"chong2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":141
     },
     {
-        "id":"ynv8ss8jb9tydqky7968",
+        "id":"n3xihri2mrzqv9xnp1u9",
         "word":"血",
         "wordFull":"血",
         "meaning":"máu,",
         "pronunciation1":"xuè",
         "pronunciation2":"huyết",
         "imageUrl":"xue4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.087Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.087Z",
+        "displayOrder":142
     },
     {
-        "id":"1ikwcsrf5bfygbtm4upa",
+        "id":"81srshppb37h7j3swal2",
         "word":"行",
         "wordFull":"行",
         "meaning":"đi, thi hành, làm được,",
         "pronunciation1":"xíng",
         "pronunciation2":"hành",
         "imageUrl":"xing2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":143
     },
     {
-        "id":"tfjuhgdaiamf6jz6ton7",
+        "id":"cifykgyw43b8a742dn27",
         "word":"衣",
         "wordFull":"衣 (衤)",
         "meaning":"áo,",
         "pronunciation1":"yī",
         "pronunciation2":"y",
         "imageUrl":"yi1-2.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":144
     },
     {
-        "id":"p53coylekwop9tfoxwn7",
+        "id":"mzeqkqrtv13qhkfpj4s8",
         "word":"襾",
         "wordFull":"襾",
         "meaning":"che đậy, úp lên,",
         "pronunciation1":"yà",
         "pronunciation2":"á",
         "imageUrl":"ya4.gif",
-        "typeId":"dokxip6xj1fdtmyiyc0l"
+        "typeId":"dokxip6xj1fdtmyiyc0l",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":145
     },
     {
-        "id":"cr8g6s4fl58359czhxk0",
+        "id":"mh62w6uga7labdbqvd92",
         "word":"見",
         "wordFull":"見( 见)",
         "meaning":"trông thấy,",
         "pronunciation1":"jiàn",
         "pronunciation2":"kiến",
         "imageUrl":"jian4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":146
     },
     {
-        "id":"fo4gtm2wwqha9zra0ihw",
+        "id":"7h80s0m7txbsdlx3p0nt",
         "word":"角",
         "wordFull":"角",
         "meaning":"góc, sừng thú,",
         "pronunciation1":"jué",
         "pronunciation2":"giác",
         "imageUrl":"jue2-1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":147
     },
     {
-        "id":"gaig5gxx1jdbf4zu815t",
+        "id":"ivm5d5jggunzteu8j6ve",
         "word":"言",
         "wordFull":"言 (讠)",
         "meaning":"nói,",
         "pronunciation1":"yán",
         "pronunciation2":"ngôn",
         "imageUrl":"yan2.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":148
     },
     {
-        "id":"9zikufzh08qstzq2bhkr",
+        "id":"elscyjgafse4qqu2p9pe",
         "word":"谷",
         "wordFull":"谷",
         "meaning":"khe nước chảy giữa hai núi,",
         "pronunciation1":"gǔ",
         "pronunciation2":"cốc",
         "imageUrl":"gu3.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":149
     },
     {
-        "id":"ldrtior4xbr4mnapao75",
+        "id":"4jzhl2coqxjh2k24fggh",
         "word":"豆",
         "wordFull":"豆",
         "meaning":"hạt đậu, cây đậu,",
         "pronunciation1":"dòu",
         "pronunciation2":"đậu",
         "imageUrl":"dou4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":150
     },
     {
-        "id":"jt9mh93ero73ri7cv6zc",
+        "id":"ott6gvasp9wfpskiykip",
         "word":"豕",
         "wordFull":"豕",
         "meaning":"con heo, con lợn,",
         "pronunciation1":"shǐ",
         "pronunciation2":"thỉ",
         "imageUrl":"shi3-1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":151
     },
     {
-        "id":"0h6fts5qttvvrdnxfja5",
+        "id":"bik201tt8znik8j3ufzk",
         "word":"豸",
         "wordFull":"豸",
         "meaning":"loài sâu không chân,",
         "pronunciation1":"zhì",
         "pronunciation2":"trãi",
         "imageUrl":"zhi4-1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":152
     },
     {
-        "id":"hm2w6e2hvwolm57kn85x",
+        "id":"axixe5w70up4jgp0b6oz",
         "word":"貝",
         "wordFull":"貝 (贝)",
         "meaning":"vật báu,",
         "pronunciation1":"bèi",
         "pronunciation2":"bối",
         "imageUrl":"bei4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":153
     },
     {
-        "id":"jps5uvvy485sogilopt4",
+        "id":"rjs7vm7v95nb7vh60e3r",
         "word":"赤",
         "wordFull":"赤",
         "meaning":"màu đỏ,",
         "pronunciation1":"chì",
         "pronunciation2":"xích",
         "imageUrl":"chi4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":154
     },
     {
-        "id":"yqakkplze5ff7frswfgv",
+        "id":"bgsv6zttr6glf9vu01kk",
         "word":"走",
         "wordFull":"走",
         "meaning":"đi, chạy,",
         "pronunciation1":"zǒu",
         "pronunciation2":"tẩu",
         "imageUrl":"zou3.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":155
     },
     {
-        "id":"qct1iedt7z91tx5bmnbp",
+        "id":"w0w8kwhmuzkwls1dftp3",
         "word":"足",
         "wordFull":"足",
         "meaning":"chân, đầy đủ,",
         "pronunciation1":"zú",
         "pronunciation2":"túc",
         "imageUrl":"zu2.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":156
     },
     {
-        "id":"wp2tav7mucumssglw3zi",
+        "id":"fjzsnxcyk4xhkbg6e7g3",
         "word":"身",
         "wordFull":"身",
         "meaning":"thân thể, thân mình,",
         "pronunciation1":"shēn",
         "pronunciation2":"thân",
         "imageUrl":"shen1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":157
     },
     {
-        "id":"mi396nxkc7c4kt6rjknv",
+        "id":"2ekfnlu23jqtj8eqgjvo",
         "word":"車",
         "wordFull":"車 (车)",
         "meaning":"chiếc xe,",
         "pronunciation1":"chē",
         "pronunciation2":"xa",
         "imageUrl":"che1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":158
     },
     {
-        "id":"obq35i5uh4pj0yyhfwvj",
+        "id":"n2l8fbsgjpgtqjcgpn4g",
         "word":"辛",
         "wordFull":"辛",
         "meaning":"cay, vất vả,",
         "pronunciation1":"xīn",
         "pronunciation2":"tân",
         "imageUrl":"xin1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":159
     },
     {
-        "id":"ryoeb1p3zac8y2rzo95a",
+        "id":"xzg1roohqjldats14vsy",
         "word":"辰",
         "wordFull":"辰",
         "meaning":"nhật, nguyệt, tinh; thìn (12 chi),",
         "pronunciation1":"chén",
         "pronunciation2":"thần",
         "imageUrl":"chen2-1.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":160
     },
     {
-        "id":"uq9q1upehf9djeq1umg8",
+        "id":"25vj2nluli5msrkqxjx3",
         "word":"辵",
         "wordFull":"辵(辶 )",
         "meaning":"chợt bước đi chợt dừng lại,",
         "pronunciation1":"chuò",
         "pronunciation2":"quai xước",
         "imageUrl":"chou4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":161
     },
     {
-        "id":"uwcm9zmvzt0exwg3zjym",
+        "id":"tz8l6yk8w2ve3n5a3ptp",
         "word":"邑",
         "wordFull":"邑 (阝)",
         "meaning":"vùng đất, đất phong cho quan,",
         "pronunciation1":"yì",
         "pronunciation2":"ấp",
         "imageUrl":"yi4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":162
     },
     {
-        "id":"7ybvxrdic04fvhsec7p3",
+        "id":"461q192v5dkt9l18cpom",
         "word":"酉",
         "wordFull":"酉",
         "meaning":"một trong 12 địa chi,",
         "pronunciation1":"yǒu",
         "pronunciation2":"dậu",
         "imageUrl":"you3.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.088Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.088Z",
+        "displayOrder":163
     },
     {
-        "id":"38mhcy5ljt165hzywvhc",
+        "id":"ajoevytrldi477hqwzvh",
         "word":"釆",
         "wordFull":"釆",
         "meaning":"phân biệt,",
         "pronunciation1":"biàn",
         "pronunciation2":"biện",
         "imageUrl":"bian4.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.089Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.089Z",
+        "displayOrder":164
     },
     {
-        "id":"68wq6bh8svfa2lv2fkqh",
+        "id":"7nze16j30e4bczdr8vfx",
         "word":"里",
         "wordFull":"里",
         "meaning":"dặm; làng xóm,",
         "pronunciation1":"lǐ",
         "pronunciation2":"lý",
         "imageUrl":"li3.gif",
-        "typeId":"ro346630q6nzgscq8c6w"
+        "typeId":"ro346630q6nzgscq8c6w",
+        "createdDate":"2021-01-24T13:00:29.089Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.089Z",
+        "displayOrder":165
     },
     {
-        "id":"6eskgca3zk9k3qb6hthy",
+        "id":"oq9dif4e0vih36ovdedq",
         "word":"金",
         "wordFull":"金",
         "meaning":"kim loại; vàng,",
         "pronunciation1":"jīn",
         "pronunciation2":"kim",
         "imageUrl":"jin1-1.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.089Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.089Z",
+        "displayOrder":166
     },
     {
-        "id":"f7jwm3ordrz2qolxjpl5",
+        "id":"gls1pp1toeph823496e6",
         "word":"長",
         "wordFull":"長 (镸- 长)",
         "meaning":"dài; lớn (trưởng),",
         "pronunciation1":"cháng",
         "pronunciation2":"trường",
         "imageUrl":"chang2.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.089Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.089Z",
+        "displayOrder":167
     },
     {
-        "id":"bdqvryl475o5udntvpt2",
+        "id":"gnf7bpr7bwbb1rfle67p",
         "word":"門",
         "wordFull":"門 (门)",
         "meaning":"cửa hai cánh,",
         "pronunciation1":"mén",
         "pronunciation2":"môn",
         "imageUrl":"men2.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.089Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.089Z",
+        "displayOrder":168
     },
     {
-        "id":"neglq5ft9asv7gsu3qjd",
+        "id":"ic0e4hxn4n63qfnbnwlb",
         "word":"阜",
         "wordFull":"阜 (阝)",
         "meaning":"đống đất, gò đất,",
         "pronunciation1":"fù",
         "pronunciation2":"phụ",
         "imageUrl":"fu4.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.089Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.089Z",
+        "displayOrder":169
     },
     {
-        "id":"ckwad0codqnom1x8uf2c",
+        "id":"hs1oyp8kt7cja25qf2k4",
         "word":"隶",
         "wordFull":"隶",
         "meaning":"kịp, kịp đến,",
         "pronunciation1":"dài",
         "pronunciation2":"đãi",
         "imageUrl":"dai4.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":170
     },
     {
-        "id":"avlscxgxkx7vhnzk3yxf",
+        "id":"lszkb4k4xzg79oysigy7",
         "word":"隹",
         "wordFull":"隹",
         "meaning":"chim đuôi ngắn,",
         "pronunciation1":"zhuī",
         "pronunciation2":"chuy",
         "imageUrl":"zhui1.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":171
     },
     {
-        "id":"sf10xc2fm0rr96mup6fr",
+        "id":"45h88apji5e75xqnil7k",
         "word":"雨",
         "wordFull":"雨",
         "meaning":"mưa,",
         "pronunciation1":"yǔ",
         "pronunciation2":"vũ",
         "imageUrl":"yu3-1.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":172
     },
     {
-        "id":"zdci1frhf2x8m0t9wcha",
+        "id":"wqj25xgwsfzdmtjaploo",
         "word":"青",
         "wordFull":"青 (靑)",
         "meaning":"màu xanh,",
         "pronunciation1":"qīng",
         "pronunciation2":"thanh",
         "imageUrl":"qing1.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":173
     },
     {
-        "id":"4ul27rph1gxmcrnwf2zl",
+        "id":"0ywg5wq7lvj24qmedqw2",
         "word":"非",
         "wordFull":"非",
         "meaning":"không,",
         "pronunciation1":"fēi",
         "pronunciation2":"phi",
         "imageUrl":"fei1.gif",
-        "typeId":"8ie8h2xb7x2oybbda44l"
+        "typeId":"8ie8h2xb7x2oybbda44l",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":174
     },
     {
-        "id":"k854y444fjdh5wvi64jl",
+        "id":"pw5g6i7ikehb2n5vrp4t",
         "word":"面",
         "wordFull":"面( 靣)",
         "meaning":"mặt, bề mặt,",
         "pronunciation1":"miàn",
         "pronunciation2":"diện",
         "imageUrl":"mian4-1.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":175
     },
     {
-        "id":"ptj87ed4bpgwoscxtoas",
+        "id":"jx6ku567jhi9agn59nuu",
         "word":"革",
         "wordFull":"革",
         "meaning":"da thú; thay đổi, cải cách,",
         "pronunciation1":"gé",
         "pronunciation2":"cách",
         "imageUrl":"ge2.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":176
     },
     {
-        "id":"c3wy4xz05dtzon9zvdiq",
+        "id":"3gz3ogm0yqucs1hnfrev",
         "word":"韋",
         "wordFull":"韋 (韦)",
         "meaning":"da đã thuộc rồi,",
         "pronunciation1":"wéi",
         "pronunciation2":"vi",
         "imageUrl":"wei2.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":177
     },
     {
-        "id":"f37at37dwj0564rw3rwp",
+        "id":"nixwgjfhydv108z4lpxh",
         "word":"韭",
         "wordFull":"韭",
         "meaning":"rau phỉ (cây hẹ giống hành lá),",
         "pronunciation1":"jiǔ",
         "pronunciation2":"phỉ, cửu",
         "imageUrl":"jiu3.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":178
     },
     {
-        "id":"a4uj69cfli18frmtz0qo",
+        "id":"o3jrbyr252i9mbixtozc",
         "word":"音",
         "wordFull":"音",
         "meaning":"âm thanh, tiếng,",
         "pronunciation1":"yīn",
         "pronunciation2":"âm",
         "imageUrl":"yin1.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":179
     },
     {
-        "id":"yu1dy8qjuzbnadktyj5v",
+        "id":"bph711yb40zn5tt54sed",
         "word":"頁",
         "wordFull":"頁 (页)",
         "meaning":"đầu; trang giấy,",
         "pronunciation1":"yè",
         "pronunciation2":"hiệt",
         "imageUrl":"ye4-1.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":180
     },
     {
-        "id":"gahat2zznfqdsi5a2xmk",
+        "id":"vy5yxkg05mzuw9o1iw9a",
         "word":"風",
         "wordFull":"風 (凬-风)",
         "meaning":"gió,",
         "pronunciation1":"fēng",
         "pronunciation2":"phong",
         "imageUrl":"feng1.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":181
     },
     {
-        "id":"rhoold2lspdzvnawm0l4",
+        "id":"04ykhqo9sasjbwm6j3vt",
         "word":"飛",
         "wordFull":"飛 (飞)",
         "meaning":"bay,",
         "pronunciation1":"fēi",
         "pronunciation2":"phi",
         "imageUrl":"fei1-1.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":182
     },
     {
-        "id":"z1ek45nqfcb6l5x7ibu1",
+        "id":"b1einio6vib4sfhk42r6",
         "word":"食",
         "wordFull":"食( 飠-饣)",
         "meaning":"ăn,",
         "pronunciation1":"shí",
         "pronunciation2":"thực",
         "imageUrl":"shi2-2.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":183
     },
     {
-        "id":"q9cop3dvnextwwq06zzg",
+        "id":"qdfqsm1fr24g357k30h1",
         "word":"首",
         "wordFull":"首",
         "meaning":"đầu,",
         "pronunciation1":"shǒu",
         "pronunciation2":"thủ",
         "imageUrl":"shou3.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":184
     },
     {
-        "id":"0j0015ca31zrwpu178fa",
+        "id":"tzcackfrlwoffts72gi6",
         "word":"香",
         "wordFull":"香",
         "meaning":"mùi hương,hương thơm,",
         "pronunciation1":"xiāng",
         "pronunciation2":"hương",
         "imageUrl":"xiang1-1.gif",
-        "typeId":"70ni357io4e9rsacma35"
+        "typeId":"70ni357io4e9rsacma35",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":185
     },
     {
-        "id":"ma1w9j0dgq6wv8oky03o",
+        "id":"zgzykox3ue1uxo3i0yrg",
         "word":"馬",
         "wordFull":"馬( 马)",
         "meaning":"con ngựa,",
         "pronunciation1":"mǎ",
         "pronunciation2":"mã",
         "imageUrl":"ma3.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":186
     },
     {
-        "id":"qyz923palztzbbk895s5",
+        "id":"slrieilyoplrj84c7ld1",
         "word":"骫",
         "wordFull":"骫",
         "meaning":"xương,",
         "pronunciation1":"gǔ",
         "pronunciation2":"cốt",
         "imageUrl":"gu3-1.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":187
     },
     {
-        "id":"v3edfpxfoyswjhgahzyd",
+        "id":"30n0snn7y40jkfkyunbk",
         "word":"高",
         "wordFull":"高",
         "meaning":"cao,",
         "pronunciation1":"gāo",
         "pronunciation2":"cao",
         "imageUrl":"gao1.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.090Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.090Z",
+        "displayOrder":188
     },
     {
-        "id":"2ymdsy4x26jam7dulc8o",
+        "id":"36b7zzpkhilooovv8vbt",
         "word":"髟",
         "wordFull":"髟",
         "meaning":"tóc dài; sam cỏ phủ mái nhà,",
         "pronunciation1":"biāo",
         "pronunciation2":"bưu, tiêu",
         "imageUrl":"biao1-1.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":189
     },
     {
-        "id":"w2gpy7l8qkebpjw8xcfg",
+        "id":"hc1biflqmohdplq3rqsh",
         "word":"鬥",
         "wordFull":"鬥",
         "meaning":"chống nhau, chiến đấu,",
         "pronunciation1":"dòu",
         "pronunciation2":"đấu",
         "imageUrl":"dou4-1.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":190
     },
     {
-        "id":"u4u2ohypazjnfkyq4nso",
+        "id":"a0qqm5jgcxpay3fxhdsw",
         "word":"鬯",
         "wordFull":"鬯",
         "meaning":"rượu nếp; bao đựng cây cung,",
         "pronunciation1":"chàng",
         "pronunciation2":"sưởng",
         "imageUrl":"chang4.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":191
     },
     {
-        "id":"f88y9pc2zsgmmiskme92",
+        "id":"x758qo4opogz948izx0t",
         "word":"鬲",
         "wordFull":"鬲",
         "meaning":"tên một con sông xưa, cái đỉnh,",
         "pronunciation1":"gé lì",
         "pronunciation2":"cách",
         "imageUrl":"ge2-1.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":192
     },
     {
-        "id":"ry272t5lfdp91yfrtvxw",
+        "id":"onzz8qwiv714jsclngw5",
         "word":"鬼",
         "wordFull":"鬼",
         "meaning":"con quỷ,",
         "pronunciation1":"gǔi",
         "pronunciation2":"quỷ",
         "imageUrl":"gui3.gif",
-        "typeId":"miesv1dfwzrijb2381ff"
+        "typeId":"miesv1dfwzrijb2381ff",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":193
     },
     {
-        "id":"nlvzd0a8w4ki3hi3aw4l",
+        "id":"3o241pokudew9n3ydrf1",
         "word":"魚",
         "wordFull":"魚( 鱼)",
         "meaning":"con cá,",
         "pronunciation1":"yú",
         "pronunciation2":"ngư",
         "imageUrl":"yu2.gif",
-        "typeId":"j6ti37bj8eis0r03pg5w"
+        "typeId":"j6ti37bj8eis0r03pg5w",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":194
     },
     {
-        "id":"rmurcd2box1531pjx7ba",
+        "id":"npg7pvondre6yod2wyd7",
         "word":"鳥",
         "wordFull":"鳥 (鸟)",
         "meaning":"con chim,",
         "pronunciation1":"niǎo",
         "pronunciation2":"điểu",
         "imageUrl":"niao3.gif",
-        "typeId":"j6ti37bj8eis0r03pg5w"
+        "typeId":"j6ti37bj8eis0r03pg5w",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":195
     },
     {
-        "id":"1nrgk9s4z9ox6m5gsjig",
+        "id":"v3p800eh6jb56h5eboxw",
         "word":"鹵",
         "wordFull":"鹵",
         "meaning":"đất mặn,",
         "pronunciation1":"lǔ",
         "pronunciation2":"lỗ",
         "imageUrl":"lu3.gif",
-        "typeId":"j6ti37bj8eis0r03pg5w"
+        "typeId":"j6ti37bj8eis0r03pg5w",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":196
     },
     {
-        "id":"591kykztcll7fcw4yhla",
+        "id":"q5swnmktv7q6pqhzgysk",
         "word":"鹿",
         "wordFull":"鹿",
         "meaning":"con hươu,",
         "pronunciation1":"lù",
         "pronunciation2":"lộc",
         "imageUrl":"lu4.gif",
-        "typeId":"j6ti37bj8eis0r03pg5w"
+        "typeId":"j6ti37bj8eis0r03pg5w",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":197
     },
     {
-        "id":"wmabv39x6ota255dpqkh",
+        "id":"p5ed7ao874cqj0susozj",
         "word":"麥",
         "wordFull":"麥 (麦)",
         "meaning":"lúa mạch,",
         "pronunciation1":"mò",
         "pronunciation2":"mạch",
         "imageUrl":"mo4.gif",
-        "typeId":"j6ti37bj8eis0r03pg5w"
+        "typeId":"j6ti37bj8eis0r03pg5w",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":198
     },
     {
-        "id":"590qydjeq9ngnesu7eg8",
+        "id":"ebgansvnmig0pobhyv8k",
         "word":"麻",
         "wordFull":"麻",
         "meaning":"cây gai,",
         "pronunciation1":"má",
         "pronunciation2":"ma",
         "imageUrl":"ma2.gif",
-        "typeId":"j6ti37bj8eis0r03pg5w"
+        "typeId":"j6ti37bj8eis0r03pg5w",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":199
     },
     {
-        "id":"4xqkna1v29xnhvoxrm5c",
+        "id":"o4djn4qwnr2f55hnea7w",
         "word":"黃",
         "wordFull":"黃",
         "meaning":"màu vàng,",
         "pronunciation1":"huáng",
         "pronunciation2":"hoàng",
         "imageUrl":"huang2.gif",
-        "typeId":"w9ihky1ed7rjat4l7hsu"
+        "typeId":"w9ihky1ed7rjat4l7hsu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":200
     },
     {
-        "id":"u925h9ko5jcnz4nk5nu9",
+        "id":"4pkvj96mm5wlgqe5fxxi",
         "word":"黍",
         "wordFull":"黍",
         "meaning":"lúa nếp,",
         "pronunciation1":"shǔ",
         "pronunciation2":"thử",
         "imageUrl":"shu3-1.gif",
-        "typeId":"w9ihky1ed7rjat4l7hsu"
+        "typeId":"w9ihky1ed7rjat4l7hsu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":201
     },
     {
-        "id":"0hrm8ovbb44klhxtq9k9",
+        "id":"hu6r985umoz3fozyy1v2",
         "word":"黑",
         "wordFull":"黑",
         "meaning":"màu đen,",
         "pronunciation1":"hēi",
         "pronunciation2":"hắc",
         "imageUrl":"hei1.gif",
-        "typeId":"w9ihky1ed7rjat4l7hsu"
+        "typeId":"w9ihky1ed7rjat4l7hsu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":202
     },
     {
-        "id":"31pylpmm9hij5l1tt5hg",
+        "id":"lng3c1vod4t1vc7bo11r",
         "word":"黹",
         "wordFull":"黹",
         "meaning":"may áo, khâu vá,",
         "pronunciation1":"zhǐ",
         "pronunciation2":"chỉ",
         "imageUrl":"zhi3.gif",
-        "typeId":"w9ihky1ed7rjat4l7hsu"
+        "typeId":"w9ihky1ed7rjat4l7hsu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":203
     },
     {
-        "id":"323yzz94hbou8bxaho4q",
+        "id":"q2a9z7uskijqtuf8frho",
         "word":"黽",
         "wordFull":"黽",
         "meaning":"con ếch; cố gắng (mãnh miễn),",
         "pronunciation1":"mǐn",
         "pronunciation2":"mãnh",
         "imageUrl":"min3-1.gif",
-        "typeId":"6k6w05qbxyen2ca90ntu"
+        "typeId":"6k6w05qbxyen2ca90ntu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":204
     },
     {
-        "id":"dzz2w7wd7egmvoltshhm",
+        "id":"c4vs9hhckxhjjayxv2zi",
         "word":"鼎",
         "wordFull":"鼎",
         "meaning":"cái đỉnh,",
         "pronunciation1":"dǐng",
         "pronunciation2":"đỉnh",
         "imageUrl":"ding3.gif",
-        "typeId":"6k6w05qbxyen2ca90ntu"
+        "typeId":"6k6w05qbxyen2ca90ntu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":205
     },
     {
-        "id":"3fqb6v0nne4cjf9riur6",
+        "id":"syyemsr3cbtv3rl9010l",
         "word":"鼓",
         "wordFull":"鼓",
         "meaning":"cái trống,",
         "pronunciation1":"gǔ",
         "pronunciation2":"cổ",
         "imageUrl":"gu3-2.gif",
-        "typeId":"6k6w05qbxyen2ca90ntu"
+        "typeId":"6k6w05qbxyen2ca90ntu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":206
     },
     {
-        "id":"v8t7en7189onim38hh8v",
+        "id":"cw32g1qp7pzlurubmkya",
         "word":"鼠",
         "wordFull":"鼠",
         "meaning":"con chuột,",
         "pronunciation1":"shǔ",
         "pronunciation2":"thử",
         "imageUrl":"shu3.gif",
-        "typeId":"6k6w05qbxyen2ca90ntu"
+        "typeId":"6k6w05qbxyen2ca90ntu",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":207
     },
     {
-        "id":"hr5bugywqp5yhyiexdx2",
+        "id":"b66o7oeiucqjm13d5trw",
         "word":"鼻",
         "wordFull":"鼻",
         "meaning":"cái mũi,",
         "pronunciation1":"bí",
         "pronunciation2":"tỵ",
         "imageUrl":"bi2.gif",
-        "typeId":"rr8s04rnrg8kphk8g8r1"
+        "typeId":"rr8s04rnrg8kphk8g8r1",
+        "createdDate":"2021-01-24T13:00:29.091Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.091Z",
+        "displayOrder":208
     },
     {
-        "id":"xf38n2hhrrof1563ypsh",
+        "id":"24lf38amhumjvuws9luc",
         "word":"齊",
         "wordFull":"齊 (斉-齐)",
         "meaning":"ngang bằng, cùng nhau,",
         "pronunciation1":"qí",
         "pronunciation2":"tề",
         "imageUrl":"qi2.gif",
-        "typeId":"rr8s04rnrg8kphk8g8r1"
+        "typeId":"rr8s04rnrg8kphk8g8r1",
+        "createdDate":"2021-01-24T13:00:29.092Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.092Z",
+        "displayOrder":209
     },
     {
-        "id":"tgpuy2zg1pkllqkeo6v0",
+        "id":"o91q2g2ff1xkgzzbc7z4",
         "word":"齒",
         "wordFull":"齒 (歯 -齿)",
         "meaning":"răng,",
         "pronunciation1":"chǐ",
         "pronunciation2":"xỉ",
         "imageUrl":"chi3.gif",
-        "typeId":"ay75p7g3kuocri3vee1i"
+        "typeId":"ay75p7g3kuocri3vee1i",
+        "createdDate":"2021-01-24T13:00:29.092Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.092Z",
+        "displayOrder":210
     },
     {
-        "id":"kvhx7748whfoklt9j0cu",
+        "id":"85zmavt6zwrg498gj2e0",
         "word":"龍",
         "wordFull":"龍 (龙)",
         "meaning":"con rồng,",
         "pronunciation1":"lóng",
         "pronunciation2":"long",
         "imageUrl":"long2.gif",
-        "typeId":"9pw9rf02twu79chopsv1"
+        "typeId":"9pw9rf02twu79chopsv1",
+        "createdDate":"2021-01-24T13:00:29.092Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.092Z",
+        "displayOrder":211
     },
     {
-        "id":"enrhzlwcvi1yudssv8lk",
+        "id":"7zl6s5udzd39q7f62ua5",
         "word":"龜",
         "wordFull":"龜 (亀-龟)",
         "meaning":"con rùa,",
         "pronunciation1":"guī",
         "pronunciation2":"quy",
         "imageUrl":"gui1.gif",
-        "typeId":"9pw9rf02twu79chopsv1"
+        "typeId":"9pw9rf02twu79chopsv1",
+        "createdDate":"2021-01-24T13:00:29.092Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.092Z",
+        "displayOrder":212
     },
     {
-        "id":"z6oqnuph9c5k8rnqwspg",
+        "id":"h5tm4ygz90cvxye94xqr",
         "word":"龠",
         "wordFull":"龠",
         "meaning":"sáo 3 lỗ,",
         "pronunciation1":"yuè",
         "pronunciation2":"dược",
         "imageUrl":"yue4.gif",
-        "typeId":"rr5ejhgtuto4chqgb5r4"
+        "typeId":"rr5ejhgtuto4chqgb5r4",
+        "createdDate":"2021-01-24T13:00:29.092Z",
+        "lastModifiedDate":"2021-01-24T13:00:29.092Z",
+        "displayOrder":213
     }
 ]
