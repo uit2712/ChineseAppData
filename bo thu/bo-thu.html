@@ -4437,6 +4437,7 @@
         </div>
         <div class="page-links">Trang: <span class="post-page-numbers current" aria-current="page">1</span> <a href="https://toihoctiengtrung.com/214-bo-thu-tieng-trung/2" class="post-page-numbers">2</a> <a href="https://toihoctiengtrung.com/214-bo-thu-tieng-trung/3" class="post-page-numbers">3</a> <a href="https://toihoctiengtrung.com/214-bo-thu-tieng-trung/4" class="post-page-numbers">4</a></div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment-with-locales.min.js" integrity="sha512-LGXaggshOkD/at6PFNcp2V2unf9LzFq6LE+sChH7ceMTDP0g2kn6Vxwgg7wkPP7AAtX+lmPqPdxB47A0Nz0cMQ==" crossorigin="anonymous"></script>
     <script>
         function getRandomNumber(limit) {
             return Math.floor(Math.random() * limit).toString();
@@ -4540,6 +4541,15 @@
             });
         }
 
+        Date.prototype.toMysqlFormat = function() {
+            return moment(new Date()).format("MM/DD/yyyy HH:mm:ss");
+        };
+
+        function getListChineseWordTypesQuery(input = []) {
+            return input.map(item => `INSERT INTO ChineseWordType VALUES(N'${item.id}',N'${item.name}',${item.displayOrder},N'${new Date(item.createdDate).toMysqlFormat()}',N'${new Date(item.lastModifiedDate).toMysqlFormat()}')`).join(';');
+        }
+
+
         function getListChineseWords() {
             let listEl = Array.from(document.querySelectorAll('.bo-thu'));
             if (!listEl)
@@ -4593,13 +4603,17 @@
                     result.imageUrl = imageEl?.src?.replace(/^.*[\\\/]/, '');
                 }
                 if (result.imageUrl.includes('%') === true) {
-                    result.imageUrl = result.word;
+                    result.imageUrl = `${result.word}.gif`;
                 }
                 // type
                 result.typeId = listBoThu.find(item => item.displayOrder === boThuNumberic - 1)?.id;
 
                 return result;
             });
+        }
+
+        function getListChineseWordsQuery(input = []) {
+            return input.map(item => `INSERT INTO ChineseWord VALUES(N'${item.id}', N'${item.word}',N'${item.wordFull}',N'${item.meaning}',N'${item.pronunciation1}',N'${item.pronunciation2}',N'${item.imageUrl}',N'${item.typeId}','${item.createdDate.toMysqlFormat()}','${item.lastModifiedDate.toMysqlFormat()}',${item.displayOrder})`).join(';');
         }
     </script>
 </body>
