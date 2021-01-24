@@ -4587,6 +4587,9 @@
                 } else {
                     result.imageUrl = imageEl?.src?.replace(/^.*[\\\/]/, '');
                 }
+                if (result.imageUrl.includes('%') === true) {
+                    result.imageUrl = result.word;
+                }
                 // type
                 result.typeId = listBoThu.find(item => item.displayOrder === boThuNumberic - 1)?.id;
 
