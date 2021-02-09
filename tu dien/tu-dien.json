@@ -615,225 +615,415 @@
         ]
     },
     {
-        "word": "",
+        "word": "斗",
         "meanings": [
             {
-                "meaning": "",
+                "meaning": "đấu",
                 "wordType": "",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "今天 , 不管 是 男人 還是 女人 , 他 都 不是 一個 人 在 戰<b>鬥</b> 。",
+                        "meaning": "Ngày hôm nay, không có bất kỳ người nào ở đây <b>chiến đấu</b> 1 mình."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "斤",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "cân",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "她们会在背上放置50磅(约45<b>斤</b>)的负重",
+                        "meaning": "Họ có thể mang được 50 <b>cân</b> trên lưng"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "无",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "không",
+                "wordType": "đại từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我<b>無</b>法讓他停止吸煙。",
+                        "meaning": "Tôi <b>không</b> thể bắt nó ngừng hút thuốc."
+                    }
+                ]
+            },
+            {
+                "meaning": "không có",
+                "wordType": "giới từ/giới từ chung",
+                "examples": [
+                    {
+                        "example": "<b>无</b>风不起浪。",
+                        "meaning": "<b>Không có</b> lửa sao có khói."
+                    }
+                ]
+            },
+            {
+                "meaning": "không có gì",
+                "wordType": "đại từ",
+                "examples": [
+                    {
+                        "example": "簡 · 愛也 有 無話 可 說 的 時侯 ?",
+                        "meaning": "Jane Eyre mà <b>không có gì</b> để nói sao?"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "日",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "mặt trời",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "当月球运行到太阳和地球之间,我们就看到<b>日</b>蚀了。",
+                        "meaning": "Nhật thực xảy ra khi mặt trăng ở giữa <b>mặt trời</b> và trái đất."
+                    }
+                ]
+            },
+            {
+                "meaning": "ngày",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "经常 没<b>日</b>没夜 在 这条 路上 开来开去 。",
+                        "meaning": "Vẫn thường gầm rú trên con đường này suốt <b>ngày</b>, suốt đêm tìm ai đó để đua."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "月",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "tháng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "一个<b>月</b>后,天气就不会像现在这么热了。",
+                        "meaning": "Một <b>tháng</b> sau thì trời sẽ không nực như bây giờ nữa."
+                    }
+                ]
+            },
+            {
+                "meaning": "Mặt Trăng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "中国人毫无疑问正在领跑这场新的登<b>月</b>竞赛",
+                        "meaning": "Người Trung Quốc đang thực sự chiến thắng trong cuộc đua đến <b>Mặt Trăng</b> mới."
+                    }
+                ]
+            },
+            {
+                "meaning": "nguyệt",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我們 已經 知道 <b>月</b> 之靈 和 海之靈 的 位置 了",
+                        "meaning": "Chúng thần đã tìm ra vị trí của <b>Nguyệt</b> Hồn và Hải Hồn."
+                    }
+                ]
+            },
+            {
+                "meaning": "mặt trăng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "血<b>月</b> 升起 之時 我 的 魔力 就 會 恢 復",
+                        "meaning": "Quyền năng của ta sẽ hồi sinh khi <b>mặt trăng</b> máu xuất hiện."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "木",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "gỗ",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "这座雕像是由樱<b>木</b>雕刻而成。",
+                        "meaning": "Bức tượng được chạm khắc từ <b>gỗ</b> cây anh đào."
+                    }
+                ]
+            },
+            {
+                "meaning": "mộc",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "还有 鱼 梁<b>木</b> 上 的 脸",
+                        "meaning": "Tôi thấy cả Mặt Người của <b>Mộc</b> Tâm."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "欠",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "nợ",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我<b>欠</b>他一百元。",
+                        "meaning": "Tao <b>nợ</b> nó 100 đô la."
+                    }
+                ]
+            },
+            {
+                "meaning": "thiếu",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "你 怎么 知道 我 <b>欠</b> 西班牙 小子 钱 的?",
+                        "meaning": "Làm sao cô biết tôi <b>thiếu</b> tiền bọn Tây Ban Nha?"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "比",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "hơn",
+                "wordType": "giới từ/giới từ chung",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "今天的数学课<b>比</b>平时都有趣。",
+                        "meaning": "Giờ học Số học hôm nay thú vị <b>hơn</b> mọi ngày."
+                    }
+                ]
+            },
+            {
+                "meaning": "so sánh",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "但是这跟怎么<b>比</b>呢?如果你没有接受治疗呢?",
+                        "meaning": "Nhưng <b>so sánh</b> với cái gì? Cái gì sẽ xảy ra nếu bạn không điều trị?"
+                    }
+                ]
+            },
+            {
+                "meaning": "người Bỉ",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "那個 <b>比</b>利 時攝 影師 在 等 著 我們",
+                        "meaning": "Nhiếp ảnh gia <b>người Bỉ</b> đang chờ chúng ta."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "毛",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "lông",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "哥們 兒, 我 在 過去 半年 裡面 一直 用 這個 來 剪 我 的 陰<b>毛</b> 的",
+                        "meaning": "6 tháng nay tớ dùng nó tỉa <b>lông</b> đít rồi."
+                    }
+                ]
+            },
+            {
+                "meaning": "tóc",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "别人都叫我“长<b>毛</b>小子”“摇滚巨星”或“鼓手”。",
+                        "meaning": "Tôi được mọi người biết đến là “gã <b>tóc</b> dài”, “ngôi sao nhạc rock” hoặc “tay trống”."
+                    }
+                ]
+            },
+            {
+                "meaning": "Mao",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "而这在<b>毛</b>的时代是不可想象的。",
+                        "meaning": "một điều khó tưởng tượng được trong chính sách thời <b>Mao</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "气",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "khí",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "倫敦的<b>氣</b>候和東京不同。",
+                        "meaning": "London khác với Tokyo về mặt <b>khí hậu</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "chất khí",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "氦气也是种<b>气</b>体,它有许多好处",
+                        "meaning": "Heli là một <b>chất khí</b>, có nhiều lý do vì sao nó rất tốt"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "水",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "nước",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "地球跟其它星球不同是因為它有<b>水</b>。",
+                        "meaning": "Trái Đất khác các hành tinh khác vì nó có <b>nước</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "火",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "lửa",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "她在<b>火</b>旁邊讓自己暖和起來。",
+                        "meaning": "Cô ấy tự sưởi ấm bằng <b>lửa</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "hỏa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "像是 我 回家 時 看到 懷特 的 <b>火</b>車 自己 動起 來",
+                        "meaning": "Kiểu như là, con về tới nhà và tàu <b>hỏa</b> đồ chơi của Wyatt tự nhiên chuyển động."
+                    }
+                ]
+            },
+            {
+                "meaning": "vụ cháy",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "是場 <b>火</b>災 , 很久以前 的 事 了",
+                        "meaning": "Đó là một vụ cháy, nó đã xảy ra cách đây rất lâu."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "爪",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "vuốt",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "它们有着尖牙,它们有利<b>爪</b>,它们灵活,它们敏捷。",
+                        "meaning": "Chúng có răng nanh, móng <b>vuốt</b>, sự nhanh nhẹn, tốc độ."
+                    }
+                ]
+            },
+            {
+                "meaning": "móng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我們 要 拿走 皮削 , <b>爪</b> 和 翅膀 。",
+                        "meaning": "Chúng ta sẽ thu hoạch da, <b>móng</b> và cánh."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "父",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "cha",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "從前 <b>父</b>親 的 家 對 我 而言 只是 個 噩夢.",
+                        "meaning": "Nhà của <b>cha</b> ta như cơn ác mộng."
+                    }
+                ]
+            },
+            {
+                "meaning": "ba",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "這些藥是給我<b>父</b>親買的。",
+                        "meaning": "Thuốc này là <b>ba</b> mẹ mua cho tôi."
+                    }
+                ]
+            },
+            {
+                "meaning": "bố",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我 想 你 <b>父</b>親 是 家裡 的 支柱 對 嗎 ?",
+                        "meaning": "Tao nghĩ <b>bố</b> mày là người đàn ông thép, đúng không?"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "片",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "mảnh",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "就是在垃圾堆里找到一<b>片</b>满是灰的面包充饥。",
+                        "meaning": "Mục đích của tôi chỉ là tìm được một <b>mảnh</b> bánh mì bụi bặm trong thùng rác."
+                    }
+                ]
+            },
+            {
+                "meaning": "phiến",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "在箱底交叉放着两块石头,页<b>片</b>和其他东西,就放在这些石头上。",
+                        "meaning": "Đáy hộp là hai <b>phiến</b> đá đặt nằm ngang, và trên đó những bảng khắc được xếp chung với các vật khác."
                     }
                 ]
             }
