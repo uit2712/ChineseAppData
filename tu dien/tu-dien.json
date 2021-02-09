@@ -1030,150 +1030,215 @@
         ]
     },
     {
-        "word": "",
+        "word": "牙",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "răng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "烏龜沒有<b>牙</b>齒。",
+                        "meaning": "Những con rùa không có <b>răng</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "牛",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "bò",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "人 , 你 杀 过 , 你 杀 过 牛 吗 ?",
+                        "meaning": "Anh đã giết người, thế anh đã giết bò chưa?"
+                    }
+                ]
+            },
+            {
+                "meaning": "bò cái",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "这时 有个 很长 的 鞭子 , 像 母<b>牛</b> 一样",
+                        "meaning": "Và rồi một người với lông mi dài, trông như một <b>con bò cái</b> vậy."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "犬",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "chó",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我 看到 我 想像力 創造 出 的 巨<b>犬</b>",
+                        "meaning": "Tôi thấy <b>con chó</b>, Nhìn thấy nó như trí tưởng tượng của tôi trông đợi."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "玉",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "ngọc bích",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "不是 为了 黄金 和 钱 而是 为了 <b>玉</b>佛",
+                        "meaning": "Không phải vì vàng hay tiền bạc, nhưng vì tượng Phật <b>ngọc bích</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "瓜",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "dưa",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "瓦",
+        "meanings": [
+            {
+                "meaning": "ngói",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "经他这么一说,我回头看看,发现萨巴岛上的所有房子果然都是白墙红<b>瓦</b>的。",
+                        "meaning": "Thật thế, tôi đảo mắt nhìn quanh thấy nhà nào ở Saba cũng được sơn trắng với mái <b>ngói</b> đỏ."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "生",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "sinh",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "她昨天<b>生</b>了一個女兒。",
+                        "meaning": "Cô ấy <b>sinh</b> bé gái hồi hôm qua."
+                    }
+                ]
+            },
+            {
+                "meaning": "sinh sản",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "这将会改变我们<b>生</b>孩子的方式。",
+                        "meaning": "Nó sẽ thay đổi phương thức <b>sinh sản</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "用",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "dùng",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "Facebook的<b>用</b>戶比美國人口還多。",
+                        "meaning": "Số lượng người <b>dùng</b> trên Facebook lớn hơn cả dân số của nước Mỹ."
+                    }
+                ]
+            },
+            {
+                "meaning": "sử dụng",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "以前人們以為只有人類才懂得<b>用</b>語言溝通。",
+                        "meaning": "Mọi người thường nghĩ rằng chỉ có con người mới có thể <b>sử dụng</b> ngôn nghĩ."
+                    }
+                ]
+            },
+            {
+                "meaning": "lợi dụng",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "后来,有关这个译本的争论更跟政治沾上边,被人<b>用</b>来借题发挥,攻讦敌对的政治阵营。",
+                        "meaning": "Cuộc tranh luận đã quay sang chiều hướng chính trị, và đã bị những phe hiếu chiến <b>lợi dụng</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "田",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "cánh đồng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我们获悉,把水注回地下有助于地热<b>田</b>“复原”。",
+                        "meaning": "Chúng tôi biết được rằng việc bơm nước trở lại cũng giúp phục hồi <b>cánh đồng</b> địa nhiệt."
+                    }
+                ]
+            },
+            {
+                "meaning": "ruộng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "撒非拉说;“是啊,我们卖<b>田</b>得到的钱就是这么多。”",
+                        "meaning": "Sa-phi-ra đáp: ‘Phải, chúng tôi đã bán <b>thửa ruộng</b> chỉ được bằng đó tiền’."
+                    }
+                ]
+            },
+            {
+                "meaning": "điền",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "他 跟 <b>田</b>師 父剛 離開 了",
+                        "meaning": "Ông ấy vừa đi cùng <b>Điền</b> sư phụ."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "白",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "trắng",
+                "wordType": "tính từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "哦,我的<b>白</b>裤子!它是新的。",
+                        "meaning": "Kìa mấy cái quần trắng của mình! Vẫn còn mới!"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "word": "",
-        "meanings": [
+            },
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "bạch",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "绍尔患的是急性淋巴细胞<b>白</b>血病,是一种破坏白细胞的严重血癌。",
+                        "meaning": "Saúl mắc bệnh ung thư bạch cầu nguyên bào lymphô, một dạng ung thư máu nghiêm trọng vì nó hủy diệt các <b>bạch</b> cầu."
                     }
                 ]
             }
