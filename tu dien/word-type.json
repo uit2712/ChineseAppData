@@ -1,0 +1,37 @@
+[
+    {
+        "id":"c8sx4l5o12k2r2cbkd2n",
+        "name":"Danh từ",
+        "displayOrder":0,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"qym0hk7i9j0p5ozexxp0",
+        "name":"Tính từ",
+        "displayOrder":1,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"apfya7t9ddd7nt9btsgy",
+        "name":"Động từ",
+        "displayOrder":2,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"gtnyriek6m4ag4cfczp5",
+        "name":"Giới từ/giới từ chung",
+        "displayOrder":3,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"7do8r7szf5dy3ge95s6e",
+        "name":"Khác",
+        "displayOrder":-1,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    }
+]

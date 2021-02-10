@@ -7,8 +7,8 @@
                 "wordType": "",
                 "examples": [
                     {
-                        "example": "因為實在有太多工作要做了,所以我會多留一小時。",
-                        "meaning": "Tôi còn nhiều việc phải làm quá, chắc phải ở lại thêm một tiếng đồng hồ nữa."
+                        "example": "因為實在有太多工作要做了,所以我會多留<b>一</b>小時。",
+                        "meaning": "Tôi còn nhiều việc phải làm quá, chắc phải ở lại thêm <b>một</b> tiếng đồng hồ nữa."
                     }
                 ]
             }
@@ -22,8 +22,8 @@
                 "wordType": "",
                 "examples": [
                     {
-                        "example": "在這二百年來,有很多人從農村搬到了市區居住。",
-                        "meaning": "Sự dịch chuyện từ nông thôn lên thành thị đã diễn ra suốt hơn hai trăm năm."
+                        "example": "在這<b>二</b>百年來,有很多人從農村搬到了市區居住。",
+                        "meaning": "Sự dịch chuyện từ nông thôn lên thành thị đã diễn ra suốt hơn <b>hai</b> trăm năm."
                     }
                 ]
             }
@@ -37,8 +37,8 @@
                 "wordType": "",
                 "examples": [
                     {
-                        "example": "以前人們以為只有人類才懂得用語言溝通。",
-                        "meaning": "Mọi người thường nghĩ rằng chỉ có con người mới có thể sử dụng ngôn nghĩ."
+                        "example": "以前人們以為只有<b>人</b>類才懂得用語言溝通。",
+                        "meaning": "Mọi người thường nghĩ rằng chỉ có <b>con người</b> mới có thể sử dụng ngôn ngữ."
                     }
                 ]
             }
