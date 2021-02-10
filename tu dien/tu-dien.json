@@ -1790,152 +1790,1012 @@
         ]
     },
     {
-        "word": "",
+        "word": "血",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "máu",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "你 不怕 我 的 <b>血</b> 和 脑浆 弄脏 令 千金 的 美丽 华服 吗?",
+                        "meaning": "Và <b>máu</b> cùng với óc sẽ rơi lộp bộp trên áo lụa của con gái ông?"
+                    }
+                ]
+            },
+            {
+                "meaning": "huyết",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "同样,禁戒<b>血</b>意味着不以任何方式把血注入身体。",
+                        "meaning": "Cũng vậy kiêng <b>huyết</b> có nghĩa là không cho vào thân thể bằng bất cứ cách nào."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "行",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "hàng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "這麼 說, 他們 闖進 了 銀<b>行</b> 卻 沒 有 搶 錢?",
+                        "meaning": "Vậy là chúng chui vào ngân <b>hàng</b> và không thèm lấy tiền?"
+                    }
+                ]
+            },
+            {
+                "meaning": "tốt",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我們 得 更改 計畫 時間 表, 趕緊 進<b>行</b> 救援 任務",
+                        "meaning": "Chúng ta phải bắt đầu càng sớm càng <b>tốt</b>, phải thay đổi thời gian."
+                    }
+                ]
+            },
+            {
+                "meaning": "được",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "你忙,我自己干也<b>行</b>。",
+                        "meaning": "Anh bận, tôi tự mình làm lấy cũng <b>được</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "見",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "thấy",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我从没<b见</b>过红色的冰箱。",
+                        "meaning": "Tôi chưa bao giờ trông <b>thấy</b> một tủ lạnh màu đỏ."
+                    }
+                ]
+            },
+            {
+                "meaning": "nhìn thấy",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "我什么都看不<b>见</b>。",
+                        "meaning": "Tôi chẳng <b>nhìn thấy</b> gì cả."
+                    }
+                ]
+            },
+            {
+                "meaning": "xem",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "你 猜 我 又 看 <b>見</b> 什么 嗎 ?",
+                        "meaning": "Yeah. Cậu đoán <b>xem</b> tôi lại nhìn thấy gì nào?"
+                    }
+                ]
+            },
+            {
+                "meaning": "xem xét",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "我<b>見</b>過 你 的 假釋 官來查 你 的 崗",
+                        "meaning": "Tôi đã thấy nhân viên kiểm soát việc tạm tha tới <b>xem xét</b> cậu."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "角",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "sừng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我 想 这 是因为 我 这些 该死 的 <b>角</b> 。",
+                        "meaning": "Tớ nghĩ đó là do tớ và cặp <b>sừng</b> chết tiệt này!"
+                    }
+                ]
+            },
+            {
+                "meaning": "góc",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "下一个街<b>角</b>左转。",
+                        "meaning": "Hãy rẽ trái ở <b>góc</b> phố tới."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "言",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "lời",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "你 知道 他 的 臨終 遺<b>言</b> 嗎 ?",
+                        "meaning": "Con biết những <b>lời</b> nói cuối cùng của ổng là gì không?"
+                    }
+                ]
+            },
+            {
+                "meaning": "ngôn",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "以前人們以為只有人類才懂得用語<b>言</b>溝通。",
+                        "meaning": "Mọi người thường nghĩ rằng chỉ có con người mới có thể sử dụng <b>ngôn</b> ngữ."
+                    }
+                ]
+            },
+            {
+                "meaning": "tiếng",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "一个声音,或许一个或者另外两个人代<b>言</b>。",
+                        "meaning": "một <b>tiếng</b> nói, có thể một hay hai người khác."
+                    }
+                ]
+            },
+            {
+                "meaning": "từ",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "我们暂且假设你打算“让她容易下台”,也就是温<b>言</b>婉拒。",
+                        "meaning": "Chúng ta hãy giả dụ như đó là điều bạn muốn làm—“<b>từ</b> chối cách nhẹ nhàng”."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "谷",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "thung lũng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "他们在盐湖<b>谷</b>定居,而且从尼泊尔领养了两个孩子。",
+                        "meaning": "Họ định cư ở <b>thung lũng</b> Salt Lake Valley và nhận nuôi hai đứa trẻ từ Nepal."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "豆",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "đậu",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我 已经 建立 枫树 <b>豆</b> 在 这里 好几年 了 。",
+                        "meaning": "Tôi đã tích lũy <b>đậu</b> maple ở đây nhiều năm rồi."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "豕",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "lợn rừng",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "貝",
+        "meanings": [
+            {
+                "meaning": "vỏ",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我 負責 注意 冰山 幫 你 整理 <b>貝</b>殼 調酒 幫 你 擦 眼鏡 上 的 霧氣",
+                        "meaning": "Em canh chừng những tảng băng trôi, em sắp xếp <b>vỏ</b> sò và pha cocktail cho anh, và lau hơi nước khỏi kính của anh."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "走",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "biến mất",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "你 <b>走</b> 了 几星期 回来 就 说'嗨'?",
+                        "meaning": "Cậu xuất hiện sau hàng tuần <b>biến mất</b> chỉ để nói 'Hey' thôi sao?"
+                    }
+                ]
+            },
+            {
+                "meaning": "đi bộ",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "昨天我居然从新宿站<b>走</b>到了神保町!",
+                        "meaning": "Rốt cuộc tớ <b>đi bộ</b> từ trạm Shinjuku tới Jumbocho ngày hôm qua!"
+                    }
+                ]
+            },
+            {
+                "meaning": "bước",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "我们<b>走</b>进教室。",
+                        "meaning": "Chúng tôi <b>bước</b> vào lớp học."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "足",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "bàn chân",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "由于特兹勒患有先天性马蹄内翻足(先天双<b>足</b>畸形)。",
+                        "meaning": "nhưng bởi vì ông sinh ra với 2 <b>bàn chân</b> bị vẹo,"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "word": "身",
+        "meanings": [
+            {
+                "meaning": "thân",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "不 , 我想問 的 是 , 她 還是 獨<b>身</b> 嗎 ?",
+                        "meaning": "Không, tôi muốn hỏi là, Cô ấy vẫn độc <b>thân</b> chứ?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "車",
+        "meanings": [
+            {
+                "meaning": "xe hơi",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "最贵的<b>车</b>多少钱?",
+                        "meaning": "Chiếc <b>xe hơi</b> đắt nhất giá bao nhiêu?"
+                    }
+                ]
+            },
+            {
+                "meaning": "ôtô",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "其他 的 超豬 都 在 平地 , 開<b>車</b> 就 到 了",
+                        "meaning": "Những con siêu lợn khác đều ở vùng đất bằng, đến bằng <b>ôtô</b> được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "辰",
+        "meanings": [
+            {
+                "meaning": "thìn",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "酉",
+        "meanings": [
+            {
+                "meaning": "dậu",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "里",
+        "meanings": [
+            {
+                "meaning": "trong",
+                "wordType": "giới từ/giới từ chung",
+                "examples": [
+                    {
+                        "example": "這本書<b>裡</b>的每一個句子都是重要的。",
+                        "meaning": "Mỗi câu văn <b>trong</b> quyển sách này đầu rất quan trọng."
+                    }
+                ]
+            },
+            {
+                "meaning": "ở",
+                "wordType": "giới từ/giới từ chung",
+                "examples": [
+                    {
+                        "example": "我不知道她住在哪<b>裡</b>。",
+                        "meaning": "Tao chẳng biết nó sống <b>ở</b> đâu nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "金",
+        "meanings": [
+            {
+                "meaning": "vàng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "然而 看到 了 这些 , 一个 小 巫婆 猫王 , 和 一些 豌豆 <b>金</b>链 。",
+                        "meaning": "Một đứa con nít pháp sư tên Elvis với đống vòng <b>vàng</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "Kim",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "那个 自大 的 <b>金</b> 先生 现在 在 哪儿?",
+                        "meaning": "Ngài <b>Kim</b> đầy vênh váo bây giờ đâu rồi?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "長",
+        "meanings": [
+            {
+                "meaning": "dài",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "我认识那位<b>长</b>胡子德国人。",
+                        "meaning": "Tôi biết người Đức có râu <b>dài</b> này."
+                    }
+                ]
+            },
+            {
+                "meaning": "lâu",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "我真的等了她很<b>長</b>一段時間。",
+                        "meaning": "Tôi đã chờ cô ấy rất, rất <b>lâu</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "lớn lên",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "你为什么<b>长</b>不大呢?",
+                        "meaning": "Sao mày không <b>lớn lên</b>?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "門",
+        "meanings": [
+            {
+                "meaning": "cửa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我忘了鎖儲藏室的<b>門</b>。",
+                        "meaning": "Tôi quên khoá <b>cửa</b> nhà kho."
+                    }
+                ]
+            },
+            {
+                "meaning": "cổng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "獸 人 正在 建設 一個 傳送<b>門</b> , 他們 計劃 通過 它 帶 來 一支 軍隊",
+                        "meaning": "Loài orc đang xây một cánh <b>cổng</b> để chúng đưa tới đây cả một đội quân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "雨",
+        "meanings": [
+            {
+                "meaning": "mưa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "今天这个天气,可真是的,怎么偏在这时候下起<b>雨</b>来了。",
+                        "meaning": "Hôm nay cái thời tiết này, thật là, sao lại cứ nhè cái lúc này mà <b>mưa</b> chứ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "青",
+        "meanings": [
+            {
+                "meaning": "lục",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "<b>青</b>冥劍 為 什麼 在 你 手裡?",
+                        "meaning": "Sao <b>Lục</b> Mệnh Kiếm nằm trong tay ngươi?"
+                    }
+                ]
+            },
+            {
+                "meaning": "xanh",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "在 胸口 紋 了 一 隻 大<b>青</b>龍 兩肩 各紋 一 隻 蝴蝶",
+                        "meaning": "Rồng <b>xanh</b> trên ngực, bướm trên hai vai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "非",
+        "meanings": [
+            {
+                "meaning": "chống",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "<b>非</b>利士人结集起来要跟扫罗交战,他们的步兵“多如海边的沙”。",
+                        "meaning": "Một đội quân “đông như cát trên bờ biển” đã dấy lên <b>chống</b> lại Sau-lơ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "面",
+        "meanings": [
+            {
+                "meaning": "mặt",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "保养类的<b>面</b>膜 可以不清洗。",
+                        "meaning": "Loại <b>mặt</b> nạ dưỡng da có thể không được rửa sạch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "革",
+        "meanings": [
+            {
+                "meaning": "da thuộc",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "音",
+        "meanings": [
+            {
+                "meaning": "âm",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "這是你的錄<b>音</b>機嗎?",
+                        "meaning": "Đây là máy ghi <b>âm</b> dùng băng của bạn?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "頁",
+        "meanings": [
+            {
+                "meaning": "trang",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "翻译几<b>页</b>英文花了我2个多小时。",
+                        "meaning": "Tôi tốn hơn hai tiếng để dịch vài <b>trang</b> tiếng Anh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "風",
+        "meanings": [
+            {
+                "meaning": "gió",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我们的屋顶被<b>风</b>吹掉了。",
+                        "meaning": "Mái nhà của chúng tôi bị <b>gió</b> tốc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "飛",
+        "meanings": [
+            {
+                "meaning": "bay",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "經過數次延遲之後,<b>飛</b>機終於離開了。",
+                        "meaning": "Cuối cùng thì máy <b>bay</b> cũng cất cánh sau vài lần hoãn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "食",
+        "meanings": [
+            {
+                "meaning": "ăn",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "我们给我们的狗一天喂<b>食</b>三次。",
+                        "meaning": "Chúng tôi cho chó của chúng tôi <b>ăn</b> ba lần một ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "首",
+        "meanings": [
+            {
+                "meaning": "đầu",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我 發誓 他們 偷 了 那些 銅<b>首</b> !",
+                        "meaning": "Tôi thề chúng đã trộm những <b>đầu</b> tượng đồng đó."
+                    }
+                ]
+            },
+            {
+                "meaning": "thủ",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "你 難道 還想 變種 人 的 <b>首</b>領 繼續 作惡 嗎 人們 反對 蝙蝠 俠之子",
+                        "meaning": "Hay ông thích lúc <b>thủ</b> lĩnh Mutant điều hành hơn?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "香",
+        "meanings": [
+            {
+                "meaning": "thơm",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "做 我们 自己 的 咖喱 梅花 <b>香</b>薰",
+                        "meaning": "Và chúng ta có thể tự làm dầu <b>thơm</b> cho mình."
+                    }
+                ]
+            },
+            {
+                "meaning": "hương",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "在 一炷<b>香</b> 之内 你 没有 倒下 你 才 有 资格 教拳",
+                        "meaning": "Trong một tuần <b>hương</b>, nếu không bị ngã, thì mới được phép dạy võ."
+                    }
+                ]
+            },
+            {
+                "meaning": "nhang",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "您 介意 我 問問 你 是否 使用 過 <b>香</b>薰?",
+                        "meaning": "Ông bà có thể cho tôi hỏi ông bà có đốt <b>nhang</b> không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "馬",
+        "meanings": [
+            {
+                "meaning": "ngựa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我 现在 想 把 我 爸爸 从 你 这里 买 的 那些 小 小<b>马</b> 卖 还给 你",
+                        "meaning": "Tôi muốn bán lại những <b>con ngựa</b> giống mà cha tôi đã mua."
+                    }
+                ]
+            },
+            {
+                "meaning": "mã",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "如果他們必須先學拉丁文的話,是沒有機會讓羅<b>馬</b>人征服世界的對吧。",
+                        "meaning": "Nếu người La <b>Mã</b> phải học tiếng La-tinh trước rồi mới đi chinh phục thế giới thì sẽ không còn kịp nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "高",
+        "meanings": [
+            {
+                "meaning": "cao",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "我儿子现在和我一样<b>高</b>了。",
+                        "meaning": "Con trai tôi bây giờ <b>cao</b> lớn bằng tôi."
+                    }
+                ]
+            },
+            {
+                "meaning": "cao cấp",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "而这种机器只消耗一点<b>高</b>端的能源,如电",
+                        "meaning": "mà sử dụng một phần nhỏ hơn năng lượng <b>cao cấp</b> như điện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "鬼",
+        "meanings": [
+            {
+                "meaning": "bóng ma",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "他們 用 <b>鬼</b>蘭來 提煉 迷幻 藥 本來 是 用 在 祭典 上 的...",
+                        "meaning": "họ dùng cây <b>bóng ma</b> như 1 loại ma túy."
+                    }
+                ]
+            },
+            {
+                "meaning": "ma",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "她 是 <b>鬼</b> , 那 为什么 她 不 杀 我 ?",
+                        "meaning": "Cô ấy là <b>ma</b>, vậy tại sao cô ta không giết tôi?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "魚",
+        "meanings": [
+            {
+                "meaning": "cá",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "他昨天抓住的<b>鱼</b>一直还活着。",
+                        "meaning": "<b>Con cá</b> anh ta bắt được hôm qua vẫn còn sống."
+                    }
+                ]
+            },
+            {
+                "meaning": "ngư",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "是 你 幫 Spock 引爆 那些 <b>魚</b>雷 的?",
+                        "meaning": "Anh giúp Spock kích hoạt đống <b>ngư</b> lôi à?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "鳥",
+        "meanings": [
+            {
+                "meaning": "con chim",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "为什么 那 只 <b>鸟</b> 不停 的 叫 呢?",
+                        "meaning": "Chừng nào thì <b>con chim</b> chết tiệt này thôi kêu khóc?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "鹿",
+        "meanings": [
+            {
+                "meaning": "nai",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "那时候,跛脚的要跳跃如<b>鹿</b>,哑巴的舌头要高声欢呼。",
+                        "meaning": "Bấy giờ, kẻ què sẽ nhảy như <b>con nai</b>, lưỡi kẻ câm sẽ hát."
+                    }
+                ]
+            },
+            {
+                "meaning": "hươu",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "你 打死 那 只 小<b>鹿</b> 的 时候 是不是 觉得 有点 难过 ?",
+                        "meaning": "Có thấy tội cho <b>con hươu</b> khi cậu bắn nó không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "麥",
+        "meanings": [
+            {
+                "meaning": "lúa mì",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "可是,风速要是加大了,<b>麦</b>茎承受的压力也会相应增加。",
+                        "meaning": "Tuy nhiên, vận tốc gió gia tăng sẽ tăng áp lực trên thân cây <b>lúa mì</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "mạch",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "可是 你 知道 嗎 , 海格 先生... 牠 們 都 只 喝單 一純<b>麥</b> 威士忌",
+                        "meaning": "anh Hagrid tụi nó chỉ uống rượu <b>mạch</b> nha whiskey."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "麻",
+        "meanings": [
+            {
+                "meaning": "cần sa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "“以前我有酒瘾和毒瘾,常常吸食大<b>麻</b>、可卡因、霹雳可卡因和嗅胶水。",
+                        "meaning": "“Tôi nghiện rượu, <b>cần sa</b>, cocain, cocain nguyên chất, và hít hơi keo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "黍",
+        "meanings": [
+            {
+                "meaning": "kê",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "黑",
+        "meanings": [
+            {
+                "meaning": "đen",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "是<b>黑</b>灰色的, 而且他觉得看起来挺便宜的。",
+                        "meaning": "Nó màu xám và <b>đen</b>, ông nghĩ bộ này chắc rẻ."
+                    }
+                ]
+            },
+            {
+                "meaning": "đen thui",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "她的脸淤青。眼睛<b>黑</b>的。",
+                        "meaning": "mặt của con bé bầm tím. Một con mắt <b>đen thui</b>"
+                    }
+                ]
+            },
+            {
+                "meaning": "bóng tối",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "请 听 我 说 , 小孩 都 是 怕<b>黑</b> 的",
+                        "meaning": "Xin lỗi ông, trẻ con đứa nào chẳng sợ <b>bóng tối</b> nhưng rồi sẽ hết thôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "鼓",
+        "meanings": [
+            {
+                "meaning": "trống",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "他重返家园,女儿兴高采烈,跳着舞、拍着铃<b>鼓</b>出来迎接他。",
+                        "meaning": "Con gái ông chạy ra đón, cầm <b>trống</b> nhỏ nhảy múa hớn hở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "鼠",
+        "meanings": [
+            {
+                "meaning": "chuột",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "你 慢用 今天 早上 有 看到 土撥<b>鼠</b> 嗎 ?",
+                        "meaning": "Cô có xem lễ hội <b>chuột</b> chũi sáng nay không?"
+                    }
+                ]
+            },
+            {
+                "meaning": "con chuột",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "拖曳您的邊界 您可以用滑<b>鼠</b>拖曳圖示中的邊界線來設定 。",
+                        "meaning": "Kéo lề. Dùng <b>con chuột</b> để kéo và đặt mỗi lề trong cửa sổ nhỏ xem thử này"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "鼻",
+        "meanings": [
+            {
+                "meaning": "mũi",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "是 啊 , 也 會 炸掉 我們 的 船 <b>鼻</b>",
+                        "meaning": "Phải, nhưng nó cũng sẽ thổi bay cả phần <b>mũi</b> tàu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "齒",
+        "meanings": [
+            {
+                "meaning": "răng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "烏龜沒有牙<b>齒</b>。",
+                        "meaning": "Những con rùa không có <b>răng</b>."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "龍",
+        "meanings": [
+            {
+                "meaning": "rồng",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "難道 他們 會 打 著龍 的 旗幟 呼喊 我 的 名字 ?",
+                        "meaning": "Họ sẽ vẫy cờ in hình rồng và kêu gào tên tôi chắc?"
+                    }
+                ]
+            },
+            {
+                "meaning": "long",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "妳 創造 新 恐<b>龍</b> 但 不 知道 牠 的 來頭 ?",
+                        "meaning": "Cô tạo ra một con khủng <b>long</b> mới mà thậm chí không biết nó là gì ư?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "龜",
+        "meanings": [
+            {
+                "meaning": "rùa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "烏<b>龜</b>沒有牙齒。",
+                        "meaning": "Những <b>con rùa</b> không có răng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "龠",
+        "meanings": [
+            {
+                "meaning": "sáo ngang",
+                "wordType": "danh từ",
+                "examples": []
             }
         ]
     }
