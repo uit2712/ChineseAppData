@@ -1228,7 +1228,7 @@
                 "examples": [
                     {
                         "example": "哦,我的<b>白</b>裤子!它是新的。",
-                        "meaning": "Kìa mấy cái quần trắng của mình! Vẫn còn mới!"
+                        "meaning": "Kìa mấy cái quần <b>trắng</b> của mình! Vẫn còn mới!"
                     }
                 ]
             },
@@ -1245,362 +1245,547 @@
         ]
     },
     {
-        "word": "",
+        "word": "皮",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "da",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我的頭<b>皮</b>非常癢。",
+                        "meaning": "<b>Da</b> đầu tôi rất ngứa"
+                    }
+                ]
+            },
+            {
+                "meaning": "da thuộc",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "最著名的一份古卷是用希伯来语书写的以赛亚书,所用的<b>皮</b>卷十分耐用。",
+                        "meaning": "Một cuộn nổi tiếng nhất trong các cuộn này là cuộn Ê-sai viết bằng tiếng Hê-bơ-rơ trên <b>da thuộc</b> rất bền."
+                    }
+                ]
+            },
+            {
+                "meaning": "lông",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "目",
+        "meanings": [
+            {
+                "meaning": "mắt",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我们俩四<b>目</b>相接,他对我露出一个大大的笑容。",
+                        "meaning": "Tôi bắt gặp ánh <b>mắt</b> của ông, và ông đã nở một nụ cười thật tươi với tôi."
+                    }
+                ]
+            },
+            {
+                "meaning": "bộ",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我 主管 公司 内部 帐<b>目</b> , 先生",
+                        "meaning": "Tôi quản lý các tài khoản nội <b>bộ</b>, thưa ngài."
+                    }
+                ]
+            },
+            {
+                "meaning": "Cấp",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "在保罗这个案件中,吕西亚的做法,<b>目</b>的可能是保护人免受暴力侵袭,也可能是拘押滋事分子。",
+                        "meaning": "Thượng <b>cấp</b> của ông là tổng trấn xứ Giu-đê, người La Mã, đóng tại thành Sê-sa-rê."
+                    }
+                ]
+            },
+            {
+                "meaning": "mục",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "所以 我 讓 你 選 第一 個 <b>目</b>標",
+                        "meaning": "Nên tao sẽ để cho mày chọn <b>mục</b> tiêu đầu tiên."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "矛",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "giáo",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "用 我 的 <b>矛</b> 刺穿 賽特 的 頭骨 結束 他",
+                        "meaning": "Kết thúc với <b>giáo</b> của ta đâm xuyên qua sọ của Set."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "矢",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "mũi tên",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "石",
+        "meanings": [
+            {
+                "meaning": "đá",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "傳說 有 一個 <b>石</b>頭 砌成 的 地方",
+                        "meaning": "Chúng tôi nghe kể là một chỗ xây bằng <b>đá</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "Thạch",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "谢谢 , 我想 找<b>石</b> 探长 <b>石</b> 探长 现在 很 忙",
+                        "meaning": "Xin lỗi, tôi muốn tìm thám trưởng <b>Thạch</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "禾",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "họ lúa",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "穴",
+        "meanings": [
+            {
+                "meaning": "huyệt",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "燕赤霞 , 用 最后 的 神兵 插 她 死<b>穴</b> !",
+                        "meaning": "Yến Xích Hà, hãy dùng tối hậu thần binh đâm vào tử <b>huyệt</b> của ả!"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "立",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "đứng",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "你们若是a不信,定然不得<b>立</b>稳。",
+                        "meaning": "Nếu các ngươi không tin, thì chắc chắn các ngươi sẽ không <b>đứng</b> vững được."
+                    }
+                ]
+            },
+            {
+                "meaning": "lập",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "你 努力 工作 、 成家 <b>立</b>業 生出 來 的 小孩 一點 都 不 感激 你",
+                        "meaning": "Chăm làm, thì đi trước, <b>lập</b> gia đình, và con cái thì không biết ơn."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "竹",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "tre",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "高档次的则用<b>竹</b>片和马毛交织而成。",
+                        "meaning": "Hình dạng căn bản bắt đầu với một miếng lưới được đan bằng những sợi <b>tre</b> mỏng."
+                    }
+                ]
+            },
+            {
+                "meaning": "trúc",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "<b>竹</b>簟衬重茵,未忍都令卷。",
+                        "meaning": "Tôi không thể chịu được khi cất chiếc chiếu <b>trúc</b> ấy đi."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "米",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "mét",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "一头 雄性 有着 近 两<b>米</b> 高 的 巨大 背鳍",
+                        "meaning": "Và một con đực với cái vây lưng khổng lồ cao gần hai <b>mét</b>."
+                    }
+                ]
+            },
+            {
+                "meaning": "gạo",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "只有耶和华见证人来探访我们,给我们<b>米</b>和水。",
+                        "meaning": "Các bạn cho chúng tôi <b>gạo</b> và nước uống."
+                    }
+                ]
+            },
+            {
+                "meaning": "lúa",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "她把拾得的大麦和剩余的食物,带回家给拿俄<b>米</b>。",
+                        "meaning": "Nàng mang số <b>lúa</b> ấy và phần thức ăn để dành về cho Na-ô-mi."
+                    }
+                ]
+            },
+            {
+                "meaning": "cơm",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我在吃<b>米</b>饭。",
+                        "meaning": "Tôi đang ăn <b>cơm</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "网",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "mạng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "長 官 , 這樣 一個 密集 的 內部 <b>網</b>路 肯定 對 高頻 信號 十分 敏感",
+                        "meaning": "Sếp, một <b>mạng</b> lưới như vậy yêu cầu Sóng ở tần số rất cao."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "羊",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "cừu",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "给我画一只<b>羊</b>...",
+                        "meaning": "Xin vẽ hộ tôi một <b>con cừu</b>..."
+                    }
+                ]
+            },
+            {
+                "meaning": "dê",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "在有些地方,女孩子的价值甚至不如牛<b>羊</b>",
+                        "meaning": "Tại nhiều nơi họ không đáng giá bằng <b>dê</b> hay bò."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "羽",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "lông vũ",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "制造嵌着飞<b>羽</b>的箭杆",
+                        "meaning": "có đính <b>lông vũ</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "老",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "già",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "我对这个世界来说太<b>老</b>了。",
+                        "meaning": "Tôi đã quá <b>già</b> cho thế giới này."
+                    }
+                ]
+            },
+            {
+                "meaning": "cũ",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "你 想 今晚 过来 边 看 <b>老</b>电影 边 哭 嘛 ?",
+                        "meaning": "Anh muốn tối nay tôi ghé qua và xem những bộ phim <b>cũ</b> rồi cùng khóc không?"
+                    }
+                ]
+            },
+            {
+                "meaning": "lão",
+                "wordType": "tính từ",
+                "examples": [
+                    {
+                        "example": "<b>老</b>王很谦虚,他说:“叫我负责可不行,跑跑龙套还可以。”",
+                        "meaning": "<b>Lão</b> Vương rất khiêm tốn, ông nói: “Bảo tôi phụ trách thì không phải, hỗ trợ thôi thì còn được”."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "而",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "nhưng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "女人 喜歡 改造 男人 , <b>而</b> 艾米 呢 ?",
+                        "meaning": "Con gái thích những kẻ mà họ có thể thay đổi, <b>nhưng</b> Amy á?"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "耳",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "tai",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "你 的 耳道 似乎 受到 了 某种 影响 , 可能 让 你 的 头痛 变 严重",
+                        "meaning": "Ống tai của cô đã bị nhiễm trùng."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "肉",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "thịt",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "他们出售鱼和<b>肉</b>。",
+                        "meaning": "Họ bán cá và <b>thịt</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "自",
         "meanings": [
             {
-                "meaning": "",
+                "meaning": "từ",
+                "wordType": "liên từ",
+                "examples": [
+                    {
+                        "example": "我來<b>自</b>靜岡。",
+                        "meaning": "Tôi đến <b>từ</b> Shizuoka."
+                    }
+                ]
+            },
+            {
+                "meaning": "kể từ lúc",
                 "wordType": "",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "(约伯记38:4-7)<b>自</b>那时以来,天上这些受造物一直对人类事务深感兴趣。",
+                        "meaning": "(Gióp 38:4-7) <b>Kể từ lúc</b> đó, những tạo vật trên trời này rất chú ý đến các sinh hoạt của loài người."
+                    }
+                ]
+            },
+            {
+                "meaning": "tự",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "约翰逊是个<b>自</b>闭的人;他宁愿把自己孤立于我们班的其他学生。",
+                        "meaning": "Johnson là người hơi <b>tự</b> kỉ; anh ấy thích tách biệt mình với các học sinh khác trong lớp."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "至",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "vào",
+                "wordType": "động từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "无法保存设置<b>至</b>白平衡设置文本文件 。",
+                        "meaning": "Không thể lưu thiết lập <b>vào</b> tập tin văn bản cán cân màu trắng"
+                    }
+                ]
+            },
+            {
+                "meaning": "đến",
+                "wordType": "động từ",
+                "examples": [
+                    {
+                        "example": "喬治. 貝利 , 我 <b>至</b>死 都 愛著 你",
+                        "meaning": "George Bailey, em sẽ yêu anh cho <b>đến</b> khi em chết."
+                    }
+                ]
+            },
+            {
+                "meaning": "chí",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "我什<b>至</b> 不能 支付 我 的 账单 。",
+                        "meaning": "Tôi thậm <b>chí</b> không thể trả nổi hóa đơn của mình."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "臼",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "cối",
+                "wordType": "danh từ",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "word": "舌",
+        "meanings": [
+            {
+                "meaning": "lưỡi",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "现在 是 聪明 的 而且 看 你 的 <b>舌</b> 。",
+                        "meaning": "Khôn ra và coi chừng miệng <b>lưỡi</b> đấy!"
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "舟",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "thuyền",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "安德魯為 什麼 在 外面 又 再 挖 那個 可笑 的 老獨 木<b>舟</b> ?",
+                        "meaning": "Tại sao Andrew ở ngoài đập <b>con thuyền</b>?"
+                    }
+                ]
+            },
+            {
+                "meaning": "tàu",
+                "wordType": "danh từ",
+                "examples": [
+                    {
+                        "example": "他们要花很多年时间,才能建成体积庞大的方<b>舟</b>。",
+                        "meaning": "Công việc đóng <b>tàu</b> kéo dài nhiều năm vì đó là một <b>con tàu</b> rất lớn."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "色",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "màu sắc",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "很非常抱歉让你们失望了,它们是无<b>色</b>的。",
+                        "meaning": "Và tôi rất xin lỗi vì làm bạn thất vọng, chúng không có <b>màu sắc</b>."
                     }
                 ]
             }
         ]
     },
     {
-        "word": "",
+        "word": "虫",
         "meanings": [
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "bọ",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "而 不是 一匹 馬 一只 甲<b>蟲</b> 或者 一只 禿鷹?",
+                        "meaning": "Sao không phải là ngựa, <b>bọ cánh cứng</b> hay đại bàng đầu hói?"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "word": "",
-        "meanings": [
+            },
             {
-                "meaning": "",
-                "wordType": "",
+                "meaning": "côn trùng",
+                "wordType": "danh từ",
                 "examples": [
                     {
-                        "example": "",
-                        "meaning": ""
+                        "example": "一些水果进了<b>虫</b>有些损害。",
+                        "meaning": "Một số loại trái cây bị <b>côn trùng</b> gây hại."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "word": "",
-        "meanings": [
+            },
             {
-                "meaning": "",
-                "wordType": "",
-                "examples": [
-                    {
-                        "example": "",
-                        "meaning": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "",
-        "meanings": [
-            {
-                "meaning": "",
-                "wordType": "",
-                "examples": [
-                    {
-                        "example": "",
-                        "meaning": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "",
-        "meanings": [
-            {
-                "meaning": "",
-                "wordType": "",
-                "examples": [
-                    {
-                        "example": "",
-                        "meaning": ""
-                    }
-                ]
+                "meaning": "rệp",
+                "wordType": "danh từ",
+                "examples": []
             }
         ]
     },
