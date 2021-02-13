@@ -4,7 +4,7 @@
         "pronunciation":"ài",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"V",
                 "meaning":"yêu",
                 "examples":[
                     {
@@ -25,7 +25,7 @@
         "pronunciation":"bā",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"num",
                 "meaning":"tám",
                 "examples":[
                     {
@@ -42,7 +42,7 @@
         "pronunciation":"bàba",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"bố",
                 "examples":[
                     {
@@ -59,7 +59,7 @@
         "pronunciation":"bēizi",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"cốc, chén, ly, tách",
                 "examples":[
                     {
@@ -76,7 +76,7 @@
         "pronunciation":"běijīng",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"Bắc Kinh",
                 "examples":[
                     {
@@ -93,7 +93,7 @@
         "pronunciation":"běn",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"nm",
                 "meaning":"quyển, gốc, vốn, thân",
                 "examples":[
                     {
@@ -127,7 +127,7 @@
         "pronunciation":"bù",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adv",
                 "meaning":"không, chưa",
                 "examples":[
                     {
@@ -144,7 +144,7 @@
         "pronunciation":"cài",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"món ăn, thức ăn",
                 "examples":[
                     {
@@ -154,7 +154,7 @@
                 ]
             },
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"rau củ",
                 "examples":[
                     {
@@ -171,7 +171,7 @@
         "pronunciation":"chá",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"trà",
                 "examples":[
                     {
@@ -188,7 +188,7 @@
         "pronunciation":"chī",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"ăn",
                 "examples":[
                     {
@@ -205,7 +205,7 @@
         "pronunciation":"chūzū chē",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"V",
                 "meaning":"Taxi",
                 "examples":[
                     {
@@ -239,7 +239,7 @@
         "pronunciation":"dà",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adj",
                 "meaning":"to, lớn",
                 "examples":[
                     {
@@ -256,7 +256,7 @@
         "pronunciation":"de",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"sa",
                 "meaning":"của",
                 "examples":[
                     {
@@ -266,7 +266,7 @@
                 ]
             },
             {
-                "wordType":"",
+                "wordType":"sa",
                 "meaning":"thể hiện sự nhấn mạnh",
                 "examples":[
                     {
@@ -283,7 +283,7 @@
         "pronunciation":"diǎn",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"điểm, giờ",
                 "examples":[
                     {
@@ -300,7 +300,7 @@
         "pronunciation":"diànnǎo",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"máy vi tính",
                 "examples":[
                     {
@@ -317,7 +317,7 @@
         "pronunciation":"diànshì",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"truyền hình, ti-vi",
                 "examples":[
                     {
@@ -334,7 +334,7 @@
         "pronunciation":"diànyǐng",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"phim",
                 "examples":[
                     {
@@ -351,8 +351,8 @@
         "pronunciation":"dōngxi",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"đồ",
+                "wordType":"n",
+                "meaning":"đồ vật",
                 "examples":[
                     {
                         "example":"我 在 商 店 买 了 很 多 〜 。",
@@ -368,7 +368,7 @@
         "pronunciation":"dōu",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adv",
                 "meaning":"đều",
                 "examples":[
                     {
@@ -385,7 +385,7 @@
         "pronunciation":"dú",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"V",
                 "meaning":"đọc",
                 "examples":[
                     {
@@ -423,7 +423,7 @@
         "pronunciation":"duō",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adj",
                 "meaning":"nhiều",
                 "examples":[
                     {
@@ -433,7 +433,7 @@
                 ]
             },
             {
-                "wordType":"",
+                "wordType":"adv",
                 "meaning":"như thế nào",
                 "examples":[
                     {
@@ -450,7 +450,7 @@
         "pronunciation":"duōshǎo",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"pron",
                 "meaning":"bao nhiêu, mấy",
                 "examples":[
                     {
@@ -467,7 +467,7 @@
         "pronunciation":"érzi",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"con trai",
                 "examples":[
                     {
@@ -484,7 +484,7 @@
         "pronunciation":"èr",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"num",
                 "meaning":"hai",
                 "examples":[
                     {
@@ -501,7 +501,7 @@
         "pronunciation":"fànguǎn",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"Quán cơm",
                 "examples":[
                     {
@@ -518,7 +518,7 @@
         "pronunciation":"fēijī",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"máy bay",
                 "examples":[
                     {
@@ -535,7 +535,7 @@
         "pronunciation":"fēnzhōng",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"phút",
                 "examples":[
                     {
@@ -552,7 +552,7 @@
         "pronunciation":"gāoxìng",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adj",
                 "meaning":"vui vẻ, vui mừng",
                 "examples":[
                     {
@@ -569,7 +569,7 @@
         "pronunciation":"gè",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"nm",
                 "meaning":"cái",
                 "examples":[
                     {
@@ -586,7 +586,7 @@
         "pronunciation":"gōngzuò",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"công việc",
                 "examples":[
                     {
@@ -596,7 +596,7 @@
                 ]
             },
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"làm việc",
                 "examples":[
                     {
@@ -613,7 +613,7 @@
         "pronunciation":"gǒu",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"chó",
                 "examples":[
                     {
@@ -630,7 +630,7 @@
         "pronunciation":"hànyǔ",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"tiếng Hán",
                 "examples":[
                     {
@@ -647,7 +647,7 @@
         "pronunciation":"hǎo",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adj",
                 "meaning":"tốt,hay",
                 "examples":[
                     {
@@ -657,8 +657,8 @@
                 ]
             },
             {
-                "wordType":"",
-                "meaning":"đồng ý, vui lòng",
+                "wordType":"adj",
+                "meaning":"được, hài lòng",
                 "examples":[
                     {
                         "example":"你 听 我 说 ， 〜 吗 ？",
@@ -674,21 +674,11 @@
         "pronunciation":"hào",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"ngày",
                 "examples":[
                     {
                         "example":"今 天 是 2 0 0 2 年 1 月 1〜 。",
-                        "meaning":""
-                    }
-                ]
-            },
-            {
-                "wordType":"",
-                "meaning":"đồng ý, vui lòng",
-                "examples":[
-                    {
-                        "example":"你 听 我 说 ， 〜 吗 ？",
                         "meaning":""
                     }
                 ]
@@ -701,7 +691,7 @@
         "pronunciation":"hē",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"uống",
                 "examples":[
                     {
@@ -718,7 +708,7 @@
         "pronunciation":"hé",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"conj",
                 "meaning":"và",
                 "examples":[
                     {
@@ -728,7 +718,7 @@
                 ]
             },
             {
-                "wordType":"",
+                "wordType":"prep",
                 "meaning":"với",
                 "examples":[
                     {
@@ -745,7 +735,7 @@
         "pronunciation":"hěn",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adv",
                 "meaning":"rất, lắm",
                 "examples":[
                     {
@@ -762,7 +752,7 @@
         "pronunciation":"hòumiàn",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"phía sau, mặt sau",
                 "examples":[
                     {
@@ -779,7 +769,7 @@
         "pronunciation":"huí",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"lần, về, quay lại",
                 "examples":[
                     {
@@ -796,7 +786,7 @@
         "pronunciation":"huì",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"aux",
                 "meaning":"có thể; có khả năng",
                 "examples":[
                     {
@@ -813,7 +803,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"pron",
                 "meaning":"bao nhiêu",
                 "examples":[
                     {
@@ -830,7 +820,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"gia đình; hộ gia đình",
                 "examples":[
                     {
@@ -847,7 +837,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"được gọi (theo sau là tên)",
                 "examples":[
                     {
@@ -864,7 +854,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"hôm nay",
                 "examples":[
                     {
@@ -881,7 +871,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"num",
                 "meaning":"(số) 9",
                 "examples":[
                     {
@@ -898,7 +888,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"lái xe",
                 "examples":[
                     {
@@ -915,7 +905,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"nhìn, xem",
                 "examples":[
                     {
@@ -925,7 +915,7 @@
                 ]
             },
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"đọc, đánh giá",
                 "examples":[
                     {
@@ -939,7 +929,7 @@
     },
     {
         "word":"看 见 ",
-        "pronunciation":"",
+        "pronunciation":"v",
         "meanings":[
             {
                 "wordType":"",
@@ -956,7 +946,7 @@
     },
     {
         "word":"块",
-        "pronunciation":"",
+        "pronunciation":"n",
         "meanings":[
             {
                 "wordType":"",
@@ -976,7 +966,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"v",
                 "meaning":"đến",
                 "examples":[
                     {
@@ -993,7 +983,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"giáo viên",
                 "examples":[
                     {
@@ -1010,7 +1000,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"mp",
                 "meaning":"được sử dụng ở cuối câu để biểu thị sự thay đổi trạng thái",
                 "examples":[
                     {
@@ -1027,7 +1017,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"adj",
                 "meaning":"lạnh",
                 "examples":[
                     {
@@ -1044,7 +1034,7 @@
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
+                "wordType":"n",
                 "meaning":"nội địa; phía trong",
                 "examples":[
                     {
