@@ -1,0 +1,2761 @@
+[
+    {
+        "word":"爱",
+        "pronunciation":"ài",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"yêu",
+                "examples":[
+                    {
+                        "example":"妈 妈 ，我 〜 你 。",
+                        "meaning":""
+                    },
+                    {
+                        "example":"我 〜 吃 米 饭 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"八",
+        "pronunciation":"bā",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tám",
+                "examples":[
+                    {
+                        "example":"他 儿 子 今 年 〜 岁 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"爸爸",
+        "pronunciation":"bàba",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bố",
+                "examples":[
+                    {
+                        "example":"我 〜 是 医 生 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"杯子",
+        "pronunciation":"bēizi",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cốc, chén, ly, tách",
+                "examples":[
+                    {
+                        "example":"〜 里 有 茶 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"北京",
+        "pronunciation":"běijīng",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Bắc Kinh",
+                "examples":[
+                    {
+                        "example":"我 住 在 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"本",
+        "pronunciation":"běn",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"quyển, gốc, vốn, thân",
+                "examples":[
+                    {
+                        "example":"桌 子 上 有 一 〜 书 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"不客气",
+        "pronunciation":"bú kèqì",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"không có gì",
+                "examples":[
+                    {
+                        "example":"甲 ： 谢 谢 你 ！乙 ： 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"不",
+        "pronunciation":"bù",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"không, chưa",
+                "examples":[
+                    {
+                        "example":"我 〜 是 学 生 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"菜",
+        "pronunciation":"cài",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"món ăn, thức ăn",
+                "examples":[
+                    {
+                        "example":"今 天 我 做 了 三 个 〜。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"rau củ",
+                "examples":[
+                    {
+                        "example":"我 去 超 市 买 点 儿 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"茶",
+        "pronunciation":"chá",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"trà",
+                "examples":[
+                    {
+                        "example":"请 喝 杯 〜 吧 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"吃",
+        "pronunciation":"chī",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ăn",
+                "examples":[
+                    {
+                        "example":"请 〜 点 儿 米 饭 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"出租车",
+        "pronunciation":"chūzū chē",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Taxi",
+                "examples":[
+                    {
+                        "example":"我 们 坐 〜 去 火 车 站 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"打电话",
+        "pronunciation":"dǎ diànhuà",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"gọi điện thoại",
+                "examples":[
+                    {
+                        "example":"他 在 〜 呢 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"大",
+        "pronunciation":"dà",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"to, lớn",
+                "examples":[
+                    {
+                        "example":"这 个 苹 果 很 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"的",
+        "pronunciation":"de",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"của",
+                "examples":[
+                    {
+                        "example":"这 是 我 〜 书 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"thể hiện sự nhấn mạnh",
+                "examples":[
+                    {
+                        "example":"我 是 坐 飞 机 来 中 国 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"点",
+        "pronunciation":"diǎn",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"điểm, giờ",
+                "examples":[
+                    {
+                        "example":"现 在 是 下 午 3 〜 2 0 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"电脑",
+        "pronunciation":"diànnǎo",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"máy vi tính",
+                "examples":[
+                    {
+                        "example":"我 买 了 个 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"电视",
+        "pronunciation":"diànshì",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"truyền hình, ti-vi",
+                "examples":[
+                    {
+                        "example":"妈 妈 在 看 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"电影",
+        "pronunciation":"diànyǐng",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"phim",
+                "examples":[
+                    {
+                        "example":"我 喜 欢 看 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"东西",
+        "pronunciation":"dōngxi",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"đồ",
+                "examples":[
+                    {
+                        "example":"我 在 商 店 买 了 很 多 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"都",
+        "pronunciation":"dōu",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"đều",
+                "examples":[
+                    {
+                        "example":"我 们 〜 来 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"读",
+        "pronunciation":"dú",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"đọc",
+                "examples":[
+                    {
+                        "example":"你 会 〜 这 个 汉 字 吗 ？",
+                        "meaning":""
+                    },
+                    {
+                        "example":"你 喜 欢 〜 书 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"对不起",
+        "pronunciation":"duìbùqǐ",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"xin lỗi",
+                "examples":[
+                    {
+                        "example":"甲 ： 〜 。 乙 ： 没 关 系 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"多",
+        "pronunciation":"duō",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nhiều",
+                "examples":[
+                    {
+                        "example":"这 里 的 人 很 〜 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"như thế nào",
+                "examples":[
+                    {
+                        "example":"你 儿 子 〜 大 了 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"多少",
+        "pronunciation":"duōshǎo",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bao nhiêu, mấy",
+                "examples":[
+                    {
+                        "example":"你 们 学 校 有 〜 学 生 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"儿子",
+        "pronunciation":"érzi",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"con trai",
+                "examples":[
+                    {
+                        "example":"我 〜 三 岁 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"二",
+        "pronunciation":"èr",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"hai",
+                "examples":[
+                    {
+                        "example":"我 〜 三 岁 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"饭馆",
+        "pronunciation":"fànguǎn",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Quán cơm",
+                "examples":[
+                    {
+                        "example":"我 〜 三 岁 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"飞机",
+        "pronunciation":"fēijī",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"máy bay",
+                "examples":[
+                    {
+                        "example":"我 坐 〜 去 北 京 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"分钟",
+        "pronunciation":"fēnzhōng",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"phút",
+                "examples":[
+                    {
+                        "example":"我 想 休 息 几 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"高兴",
+        "pronunciation":"gāoxìng",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"vui vẻ, vui mừng",
+                "examples":[
+                    {
+                        "example":"今 天 我 很 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"个",
+        "pronunciation":"gè",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cái",
+                "examples":[
+                    {
+                        "example":"我 是 一 〜 学 生 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"工作",
+        "pronunciation":"gōngzuò",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"công việc",
+                "examples":[
+                    {
+                        "example":"我 很 喜 欢 现 在 的 〜",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"làm việc",
+                "examples":[
+                    {
+                        "example":"我 在 医 院 〜",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"狗",
+        "pronunciation":"gǒu",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"chó",
+                "examples":[
+                    {
+                        "example":"",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"汉语",
+        "pronunciation":"hànyǔ",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tiếng Hán",
+                "examples":[
+                    {
+                        "example":"他 在 学 习 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"好",
+        "pronunciation":"hǎo",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tốt,hay",
+                "examples":[
+                    {
+                        "example":"今 天 天 气 很 〜 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"đồng ý, vui lòng",
+                "examples":[
+                    {
+                        "example":"你 听 我 说 ， 〜 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"号",
+        "pronunciation":"hào",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ngày",
+                "examples":[
+                    {
+                        "example":"今 天 是 2 0 0 2 年 1 月 1〜 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"đồng ý, vui lòng",
+                "examples":[
+                    {
+                        "example":"你 听 我 说 ， 〜 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"喝",
+        "pronunciation":"hē",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"uống",
+                "examples":[
+                    {
+                        "example":"我 想 〜 水 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"和",
+        "pronunciation":"hé",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"và",
+                "examples":[
+                    {
+                        "example":"爸 爸 〜 妈 妈 都 在 家 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"với",
+                "examples":[
+                    {
+                        "example":"他 〜 王 先 生 说 话 呢 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"很",
+        "pronunciation":"hěn",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"rất, lắm",
+                "examples":[
+                    {
+                        "example":"李 小 姐 〜 漂 亮 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"后面",
+        "pronunciation":"hòumiàn",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"phía sau, mặt sau",
+                "examples":[
+                    {
+                        "example":"商 店 在 学 校 〜",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"回",
+        "pronunciation":"huí",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"lần, về, quay lại",
+                "examples":[
+                    {
+                        "example":"我 八 点 〜 家 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"会",
+        "pronunciation":"huì",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"có thể; có khả năng",
+                "examples":[
+                    {
+                        "example":"我 〜 开 车 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"几",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bao nhiêu",
+                "examples":[
+                    {
+                        "example":"你 有 〜 个 儿 子 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"家",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"gia đình; hộ gia đình",
+                "examples":[
+                    {
+                        "example":"我 〜 在 北 京 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"叫",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"được gọi (theo sau là tên)",
+                "examples":[
+                    {
+                        "example":"我 的 名 字 〜 李 明 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"今 天 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"hôm nay",
+                "examples":[
+                    {
+                        "example":"我 〜 去 北 京 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"九",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"(số) 9",
+                "examples":[
+                    {
+                        "example":"今 天 是 八 月 〜 日 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"开",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"lái xe",
+                "examples":[
+                    {
+                        "example":"我 〜 了 三 年 出 租 车 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"看",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nhìn, xem",
+                "examples":[
+                    {
+                        "example":"你 〜 ，那 本 书 在 桌 子 上 呢 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"đọc, đánh giá",
+                "examples":[
+                    {
+                        "example":"我 在 〜 书 呢 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"看 见 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nhìn thấy",
+                "examples":[
+                    {
+                        "example":"我 没 〜 他 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"块",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Nhân dân tệ RMB",
+                "examples":[
+                    {
+                        "example":"这 本 书 二 十 〜 钱 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"来",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"đến",
+                "examples":[
+                    {
+                        "example":"他 是 昨 天 〜 这 儿 的 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"老 师 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"giáo viên",
+                "examples":[
+                    {
+                        "example":"他 就 是 我 们 的 汉 语 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"了",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"được sử dụng ở cuối câu để biểu thị sự thay đổi trạng thái",
+                "examples":[
+                    {
+                        "example":"昨 天 下 雨 〜",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"冷",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"lạnh",
+                "examples":[
+                    {
+                        "example":"今 天 太 〜 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"里",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nội địa; phía trong",
+                "examples":[
+                    {
+                        "example":"我 们 都 在 学 校 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"零",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 0",
+                "examples":[
+                    {
+                        "example":"今 年 是 〜 一 二 年 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"六",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 6",
+                "examples":[
+                    {
+                        "example":"桌 子 上 有 〜 个 杯 子 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"妈 妈",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"mẹ",
+                "examples":[
+                    {
+                        "example":"我 〜 不 在 家 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"吗",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"được sử dụng ở cuối câu, biểu thị một câu hỏi",
+                "examples":[
+                    {
+                        "example":"你 是 中 国 人 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"买",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"mua",
+                "examples":[
+                    {
+                        "example":"我 〜 了 一 些 苹 果 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"没 关 系 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Không sao đâu. Không có gì",
+                "examples":[
+                    {
+                        "example":"甲 ： 对 不 起 ！乙 ： 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"没 有",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"không có gì hoặc không có ai",
+                "examples":[
+                    {
+                        "example":"我 家 里 〜 人 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"không thể so sánh với những người khác",
+                "examples":[
+                    {
+                        "example":"我 〜 他 高 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"米 饭",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cơm",
+                "examples":[
+                    {
+                        "example":"我 爱 吃 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"明 天",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ngày mai",
+                "examples":[
+                    {
+                        "example":"今 天 星 期 日 ， 〜 是 星 期 一 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"名 字",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tên; danh hiệu",
+                "examples":[
+                    {
+                        "example":"我 的 〜 叫 李 明 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"哪",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cái nào (được sử dụng trước từ đo lường)",
+                "examples":[
+                    {
+                        "example":"〜 个 杯 子 是 你 的 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"哪 儿",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ở đâu",
+                "examples":[
+                    {
+                        "example":"你 家 在 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"那",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"(cái) đó",
+                "examples":[
+                    {
+                        "example":"我 不 认 识 〜 个 人 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"(nơi) đó",
+                "examples":[
+                    {
+                        "example":"我 们 的 车 在 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"呢",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"được sử dụng ở cuối câu, biểu thị một câu nghi vấn",
+                "examples":[
+                    {
+                        "example":"你 们 家 有 几 个 人 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"được sử dụng ở cuối câu để biểu thị một tuyên bố",
+                "examples":[
+                    {
+                        "example":"我 在 睡 觉 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"能",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"có thể",
+                "examples":[
+                    {
+                        "example":"我 〜 坐 在 这 儿 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"你",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bạn",
+                "examples":[
+                    {
+                        "example":"〜 认 识 这 个 人 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"年",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"năm",
+                "examples":[
+                    {
+                        "example":"我 在 中 国 住 了 三 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"女 儿",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"con gái",
+                "examples":[
+                    {
+                        "example":"我 有 两 个 〜。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"朋 友",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bạn bè",
+                "examples":[
+                    {
+                        "example":"他 是 我 的 好 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"漂 亮 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ưa nhìn, xinh, đẹp",
+                "examples":[
+                    {
+                        "example":"你 的 衣 服 真 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"苹 果",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"trái táo, quả táo",
+                "examples":[
+                    {
+                        "example":"你 想 不 想 吃 个 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"七",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 7",
+                "examples":[
+                    {
+                        "example":"一 个 星 期 有 〜 天 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"钱",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tiền",
+                "examples":[
+                    {
+                        "example":"一 个 苹 果 三 块 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"前 面",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"trước; phía trước; trên đầu; phía trước",
+                "examples":[
+                    {
+                        "example":"〜 那 个 人 是 我 的 同 学 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"请",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"vui lòng",
+                "examples":[
+                    {
+                        "example":"〜 坐 在 椅 子 上 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"去",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"đi, rời đi",
+                "examples":[
+                    {
+                        "example":"我 星 期 三 〜 中 国 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"热",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nóng, nhiệt độ cao",
+                "examples":[
+                    {
+                        "example":"今 天 很 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"人",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"con người; người; mọi người",
+                "examples":[
+                    {
+                        "example":"商 店 里 有 很 多 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"认 识",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"làm quen; làm quen với",
+                "examples":[
+                    {
+                        "example":"〜 你 很 高 兴 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"三",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 3",
+                "examples":[
+                    {
+                        "example":"我 有 〜 本 书 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"商店",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tiệm, cửa hàng",
+                "examples":[
+                    {
+                        "example":"她 去 〜 买 东 西 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"上",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"phía trên; lên; trên; hướng lên",
+                "examples":[
+                    {
+                        "example":"水 果 在 桌 子 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"上午",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"buổi sáng",
+                "examples":[
+                    {
+                        "example":"现 在 是 〜 1 0 点 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"少",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"không nhiều",
+                "examples":[
+                    {
+                        "example":"杯 子 里 的 水 很 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"谁",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"người mà (đại từ)",
+                "examples":[
+                    {
+                        "example":"那 个 人 是 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"什 么",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cái gì",
+                "examples":[
+                    {
+                        "example":"你 看 见 了 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"十",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 10",
+                "examples":[
+                    {
+                        "example":"现 在 是 〜 月 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"时候",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"chốc lát; thời gian; giai đoạn",
+                "examples":[
+                    {
+                        "example":"我 回 家 的 〜 ，他 在 睡 觉 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"是",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"là",
+                "examples":[
+                    {
+                        "example":"他 不 〜 学 生 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"vâng",
+                "examples":[
+                    {
+                        "example":"甲 ： 你 是 中 国 人 吗 ？\n乙 ： 〜 ， 我 是 中 国 人 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"书",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"sách",
+                "examples":[
+                    {
+                        "example":"我 喜 欢 读 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"水",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nước",
+                "examples":[
+                    {
+                        "example":"杯 子 里 还 有 〜 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"水 果",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"trái cây",
+                "examples":[
+                    {
+                        "example":"我 想 去 商 店 买 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"睡 觉",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ngủ, đi ngủ",
+                "examples":[
+                    {
+                        "example":"儿 子 在 〜 呢 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"说",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nói; nói chuyện",
+                "examples":[
+                    {
+                        "example":"你 在 〜 什 么 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"说 话 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nói; nói chuyện",
+                "examples":[
+                    {
+                        "example":"他 们 在 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"四",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 4",
+                "examples":[
+                    {
+                        "example":"我 们 〜 个 人 去 看 电 影 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"岁",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tuổi",
+                "examples":[
+                    {
+                        "example":"李 医 生 今 年 4 0 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"他",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"anh ta, cậu ta",
+                "examples":[
+                    {
+                        "example":"〜 是 我 们 的 老 师 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"她 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cô ấy",
+                "examples":[
+                    {
+                        "example":"我 认 识 〜 的 妈 妈 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"太",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"(thể hiện sự tán thành hoặc khen ngợi) rất nhiều hoặc cực kỳ",
+                "examples":[
+                    {
+                        "example":"这 个 学 校 〜 大 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"天 气",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"thời tiết",
+                "examples":[
+                    {
+                        "example":"今 天 的 〜 非 常 好 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"听",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nghe thấy, nghe",
+                "examples":[
+                    {
+                        "example":"你 〜 ， 谁 来 了 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"同 学",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"học sinh; bạn cùng lớp",
+                "examples":[
+                    {
+                        "example":"〜 们 ，你 们 好 ！",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"喂",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"xin chào",
+                "examples":[
+                    {
+                        "example":"〜 ， 李 老 师 在 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"我",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tôi",
+                "examples":[
+                    {
+                        "example":"〜 是 一 个 学 生 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"我 们",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"chúng ta, chúng tôi",
+                "examples":[
+                    {
+                        "example":"〜 都 是 学 生 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"五",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 5",
+                "examples":[
+                    {
+                        "example":"今 天 星 期 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"喜 欢",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"thích hay quan tâm đến (người/vật)",
+                "examples":[
+                    {
+                        "example":"我 〜 学 汉 语 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"下 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"dưới; phía dưới",
+                "examples":[
+                    {
+                        "example":"小 猫 在 桌 子 〜 面 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"ngã",
+                "examples":[
+                    {
+                        "example":"今 天 〜 雨 了 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"kế tiếp",
+                "examples":[
+                    {
+                        "example":"我 〜 个 月 去 北 京 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"下 午 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"buổi chiều",
+                "examples":[
+                    {
+                        "example":"我 今 天 〜 不 去 学 校 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"下 雨",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"mưa",
+                "examples":[
+                    {
+                        "example":"昨 天 〜 了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"先 生",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ông, quý ông",
+                "examples":[
+                    {
+                        "example":"你 也 认 识 王 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"现 在",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"hiện nay ; ngày nay; hôm nay; hiện tại",
+                "examples":[
+                    {
+                        "example":"〜 是 1 2 点 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"想 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"muốn; dự định sẽ",
+                "examples":[
+                    {
+                        "example":"我 〜 星 期 六 去 北 京 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"nghĩ rằng; nghĩ về; nghĩ kỹ",
+                "examples":[
+                    {
+                        "example":"妈 妈 ，你 在 〜 什 么 呢 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"小",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"nhỏ; bé",
+                "examples":[
+                    {
+                        "example":"这 个 苹 果 太 〜了 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"小 姐 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"quý cô, quý bà",
+                "examples":[
+                    {
+                        "example":"〜 ， 你 叫 什 么 名 字 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"些",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"một vài",
+                "examples":[
+                    {
+                        "example":"我 买 了 〜 苹 果 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"写",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"viết",
+                "examples":[
+                    {
+                        "example":"你 〜 的 字 很 漂 亮 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"谢 谢",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cảm ơn",
+                "examples":[
+                    {
+                        "example":"甲 ： 〜 你 。 乙 ： 不 客 气 ！",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"星 期",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tuần",
+                "examples":[
+                    {
+                        "example":"一 个 〜 有 七 天 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"学 生",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"học sinh",
+                "examples":[
+                    {
+                        "example":"我 们 学 校 里 的 〜 很 多 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"学 习",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"học",
+                "examples":[
+                    {
+                        "example":"你 喜 欢 〜 汉 语 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"学 校 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"trường học",
+                "examples":[
+                    {
+                        "example":"我 们 〜 很 大 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"一",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"số 1",
+                "examples":[
+                    {
+                        "example":"这 儿 〜 个 人 都 没 有 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"一 点 儿",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"một ít, một tý",
+                "examples":[
+                    {
+                        "example":"我 只 有 〜 钱 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"衣 服",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"quần áo; trang phục",
+                "examples":[
+                    {
+                        "example":"我 在 商 店 买 了 很 多 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"医 生 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bác sĩ; bác sĩ phẫu thuật",
+                "examples":[
+                    {
+                        "example":"他 是 这 个 医 院 里 的 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"医 院 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"bệnh viện",
+                "examples":[
+                    {
+                        "example":"这 是 一 个 大 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"椅 子",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ghế tựa",
+                "examples":[
+                    {
+                        "example":"小 狗 在 〜 下 面 呢 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"有",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"có",
+                "examples":[
+                    {
+                        "example":"我 〜 一 个 女 儿 。",
+                        "meaning":""
+                    },
+                    {
+                        "example": "桌 子 上 〜 本 书 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"月",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tháng",
+                "examples":[
+                    {
+                        "example":"一 年 有 1 2 个 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"再 见",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tạm biệt",
+                "examples":[
+                    {
+                        "example":"妈 妈 ，我 去 学 校 了 ， 〜 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"在",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ở trên, nằm trên (vật gì)",
+                "examples":[
+                    {
+                        "example":"书 〜 桌 子 上 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"đang (thì hiện tại tiếp diễn)",
+                "examples":[
+                    {
+                        "example":"我 〜 吃 饭 呢 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"怎 么",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"đòi hỏi tài sản, tình trạng, cách thức và nguyên nhân,...",
+                "examples":[
+                    {
+                        "example":"你 〜 去 北 京 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"怎 么 样 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Nó thì sao? Bạn nghĩ sao? (yêu cầu nhận xét và đề xuất như một câu độc lập)",
+                "examples":[
+                    {
+                        "example":"我 们 去 看 电 影 ， 〜 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"这 (这 儿)",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"này, ở đây",
+                "examples":[
+                    {
+                        "example":"〜 个 人 是 我 的 同 学 。\n我 能 坐 在 〜 儿 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"中 国",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"Trung Quốc",
+                "examples":[
+                    {
+                        "example":"我 在 〜 学 汉 语 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"中 午 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"trưa; giữa trưa; ban trưa",
+                "examples":[
+                    {
+                        "example":"",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"住 ",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"sống, ở lại; ở",
+                "examples":[
+                    {
+                        "example":"他 在 北 京 〜 了 很 多 年 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"桌 子",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"cái bàn",
+                "examples":[
+                    {
+                        "example":"电 脑 在 〜 上 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"字",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"từ",
+                "examples":[
+                    {
+                        "example":"这 个 〜 你 认 识 吗 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"昨 天",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"hôm qua",
+                "examples":[
+                    {
+                        "example":"他 〜 没 去 学 校 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"坐",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"ngồi",
+                "examples":[
+                    {
+                        "example":"他 一 个 下 午 都 〜 在 电 视 前 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"di chuyển bằng (1 phương tiện)",
+                "examples":[
+                    {
+                        "example":"我 〜 飞 机 去 中 国 。",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    },
+    {
+        "word":"做",
+        "pronunciation":"",
+        "meanings":[
+            {
+                "wordType":"",
+                "meaning":"tạo ra; sản xuất",
+                "examples":[
+                    {
+                        "example":"今 天 妈 妈 〜 了 很 多 菜 。",
+                        "meaning":""
+                    }
+                ]
+            },
+            {
+                "wordType":"",
+                "meaning":"là; trở thành",
+                "examples":[
+                    {
+                        "example":"你 是 〜 什 么 工 作 的 ？",
+                        "meaning":""
+                    }
+                ]
+            }
+        ],
+        "topicId":"7ye56hmhssxr20hj36b4"
+    }
+]
