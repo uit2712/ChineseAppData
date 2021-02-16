@@ -395,6 +395,66 @@
                 return null;
             }).filter(item => item !== null).slice(1);
         }
+
+        Array.prototype.trimListVocabularies = function() {
+            // if (!window.pinyin) {
+            //     return [];
+            // }
+
+            return this.map(item => {
+                let result = {};
+
+                result.word = item.word.replaceAll(' ', '');
+                result.pronunciation = item.pronunciation;
+                // result.pronunciation = window.pinyin(result.word);
+
+                result.meanings = item.meanings.map(meaning => {
+                    // let wordTypeId = '7do8r7szf5dy3ge95s6e';
+                    // switch (meaning.wordType.trim().toLowerCase()) {
+                    //     default:
+                    //         break;
+                    //     case 'num':
+                    //     case 'n':
+                    //         wordTypeId = 'c8sx4l5o12k2r2cbkd2n';
+                    //         break;
+                    //     case 'adj':
+                    //         wordTypeId = 'qym0hk7i9j0p5ozexxp0';
+                    //         break;
+                    //     case 'v':
+                    //         wordTypeId = 'apfya7t9ddd7nt9btsgy';
+                    //         break;
+                    //     case 'giới từ/giới từ chung':
+                    //         wordTypeId = 'gtnyriek6m4ag4cfczp5';
+                    //         break;
+                    //     case 'adv':
+                    //         wordTypeId = 'tnb4bc5p8h33cy019qci';
+                    //         break;
+                    //     case 'pron':
+                    //         wordTypeId = 'iss2po1tch1ixacftmu0';
+                    //         break;
+                    //     case 'prep':
+                    //         wordTypeId = 'gtnyriek6m4ag4cfczp5';
+                    //         break;
+                    //     case 'conj':
+                    //         wordTypeId = '8tmz3eeqb3y2qw5jei0d';
+                    //         break;
+                    // }
+
+                    let examples = meaning.examples.map(item => ({
+                        ...item,
+                        exampleBold: item.example.replaceAll(' ', '').replaceAll('〜', result.word),
+                        example: item.example.replaceAll(' ', '').replaceAll('〜', `<b>${result.word}</b>`),
+                    }));
+
+                    return {
+                        ...meaning,
+                        examples,
+                    }
+                });
+
+                return result;
+            });
+        }
     </script>
 </body>
 </html>

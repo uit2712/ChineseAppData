@@ -22,8 +22,36 @@
     },
     {
         "id":"gtnyriek6m4ag4cfczp5",
-        "name":"Giới từ/giới từ chung",
+        "name":"Giới từ",
         "displayOrder":3,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"tnb4bc5p8h33cy019qci",
+        "name":"Trạng từ",
+        "displayOrder":4,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"iss2po1tch1ixacftmu0",
+        "name":"Đại từ",
+        "displayOrder":5,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"8tmz3eeqb3y2qw5jei0d",
+        "name":"Liên từ",
+        "displayOrder":6,
+        "createdDate":"2021-02-10T17:46:47.373Z",
+        "lastModifiedDate":"2021-02-10T17:46:47.373Z"
+    },
+    {
+        "id":"tres09zr9m3seeja7pek",
+        "name":"Trợ động từ",
+        "displayOrder":7,
         "createdDate":"2021-02-10T17:46:47.373Z",
         "lastModifiedDate":"2021-02-10T17:46:47.373Z"
     },
