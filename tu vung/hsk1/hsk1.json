@@ -48,7 +48,7 @@
                 "examples":[
                     {
                         "example":"我<b>爸爸</b>是医生。",
-                        "meaning":"Cha tôi là bác sĩ.",
+                        "meaning":"<b>Cha tôi</b> là bác sĩ.",
                         "exampleBold":"我爸爸是医生。"
                     }
                 ]
