@@ -446,20 +446,9 @@
                     let examples = meaning.examples.map(item => {
                         console.log(index);
                         if (!item.example) {
-                            // index++;
+                            index++;
                             return item;
                         }
-
-                        fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=vi&dt=t&q=${item.example.replaceAll(' ', '').replaceAll('〜', result.word)}`, {
-                            headers: {
-                                'Access-Control-Allow-Origin': '*'
-                            }
-                        })
-                        .then(result => result.json())
-                        .then(data => {
-                            console.log(data[0][0]);
-                            return data[0][0]
-                        });
 
                         return {
                             example: item.example.replaceAll(' ', '').replaceAll('〜', result.word),
