@@ -499,7 +499,80 @@
             }));
         }
 
-        JSON.stringify(listVocabularies.getListVocabulariesJson());
+        let listWords = listVocabularies.getListVocabulariesJson();
+
+        let listMeanings = [], listExamples = [];
+        listVocabularies.forEach(word => {
+            let foundWord = listWords.find(item => item.word === word.word);
+
+            if (word.meanings.length > 0 && foundWord) {
+                word.meanings.forEach(meaning => {
+                    let wordTypeId = '7do8r7szf5dy3ge95s6e';
+                    switch (meaning.wordType.trim().toLowerCase()) {
+                        default:
+                            break;
+                        case 'num':
+                        case 'n':
+                            wordTypeId = 'c8sx4l5o12k2r2cbkd2n';
+                            break;
+                        case 'adj':
+                            wordTypeId = 'qym0hk7i9j0p5ozexxp0';
+                            break;
+                        case 'v':
+                            wordTypeId = 'apfya7t9ddd7nt9btsgy';
+                            break;
+                        case 'giới từ/giới từ chung':
+                            wordTypeId = 'gtnyriek6m4ag4cfczp5';
+                            break;
+                        case 'adv':
+                            wordTypeId = 'tnb4bc5p8h33cy019qci';
+                            break;
+                        case 'pron':
+                            wordTypeId = 'iss2po1tch1ixacftmu0';
+                            break;
+                        case 'prep':
+                            wordTypeId = 'gtnyriek6m4ag4cfczp5';
+                            break;
+                        case 'conj':
+                            wordTypeId = '8tmz3eeqb3y2qw5jei0d';
+                            break;
+                    }
+
+                    let newMeaning = {
+                        id: generateUniqueId(),
+                        meaning: meaning.meaning,
+                        wordTypeId,
+                        wordId: foundWord.id,
+                        createdDate: new Date(),
+                        lastModifiedDate: new Date(),
+                    }
+                    listMeanings.push(newMeaning);
+
+                    meaning.examples.forEach(example => {
+                        listExamples.push({
+                            id: generateUniqueId(),
+                            meaningId: newMeaning.id,
+                            createdDate: new Date(),
+                            lastModifiedDate: new Date(),
+                            pronunciation: window.pinyin(example.example.replace('<b>').replace('</b>')),
+                            ...example,
+                        });
+                    });
+                });
+            }
+        });
+
+        Array.prototype.getListVocabulariesSQL = function() {
+            return this.map(item => `INSERT INTO Vocabularies VALUES('${item.id}', N'${item.word}', N'${item.topicId}', N'${item.pronunciation}')`).join(';\n');
+        }
+
+        Array.prototype.getListMeaningsSQL = function() {
+            return this.map(({ id, meaning, wordTypeId, wordId, createdDate, lastModifiedDate }) => `INSERT INTO Meanings VALUES('${id}', N'${meaning}', '${wordTypeId}', '${wordId}', '${createdDate}', '${lastModifiedDate}')`).join(';\n');
+        }
+
+        Array.prototype.getListExamplesSQL = function() {
+            return this.map(({ id, example, meaning, meaningId, createdDate, lastModifiedDate, pronunciation }) => `INSERT INTO Examples VALUES('${id}', N'${example}', N'${meaning}', '${meaningId}', '${createdDate}', '${lastModifiedDate}', N'${pronunciation}')`).join(';\n');
+        }
     </script>
 </body>
 </html>
