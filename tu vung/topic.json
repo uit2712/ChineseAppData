@@ -1,44 +1,58 @@
 [
     {
-        "id": "fymri0fbdzhybunc14lc",
-        "name": "Từ vựng theo cấp độ",
-        "displayOrder": 0,
-        "parentTopicId": null
+        "id":"fymri0fbdzhybunc14lc",
+        "name":"Từ vựng theo cấp độ",
+        "displayOrder":0,
+        "parentTopicId":null,
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     },
     {
-        "id": "7ye56hmhssxr20hj36b4",
-        "name": "Từ vựng HSK 1",
-        "displayOrder": 1,
-        "parentTopicId": "fymri0fbdzhybunc14lc"
+        "id":"7ye56hmhssxr20hj36b4",
+        "name":"Từ vựng HSK 1",
+        "displayOrder":1,
+        "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     },
     {
-        "id": "ow5qqf1bez47qhjcnad4",
-        "name": "Từ vựng HSK 2",
-        "displayOrder": 2,
-        "parentTopicId": "fymri0fbdzhybunc14lc"
+        "id":"ow5qqf1bez47qhjcnad4",
+        "name":"Từ vựng HSK 2",
+        "displayOrder":2,
+        "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     },
     {
-        "id": "lvscsjun8hrnt9azuklq",
-        "name": "Từ vựng HSK 3",
-        "displayOrder": 3,
-        "parentTopicId": "fymri0fbdzhybunc14lc"
+        "id":"lvscsjun8hrnt9azuklq",
+        "name":"Từ vựng HSK 3",
+        "displayOrder":3,
+        "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     },
     {
-        "id": "2pafy50ybrtwqrx7v1io",
-        "name": "Từ vựng HSK 4",
-        "displayOrder": 4,
-        "parentTopicId": "fymri0fbdzhybunc14lc"
+        "id":"2pafy50ybrtwqrx7v1io",
+        "name":"Từ vựng HSK 4",
+        "displayOrder":4,
+        "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     },
     {
-        "id": "zjwpiddvblkucug4dftf",
-        "name": "Từ vựng HSK 5",
-        "displayOrder": 5,
-        "parentTopicId": "fymri0fbdzhybunc14lc"
+        "id":"zjwpiddvblkucug4dftf",
+        "name":"Từ vựng HSK 5",
+        "displayOrder":5,
+        "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     },
     {
-        "id": "2rgymjrsreqhn1rmuq51",
-        "name": "Từ vựng HSK 6",
-        "displayOrder": 6,
-        "parentTopicId": "fymri0fbdzhybunc14lc"
+        "id":"2rgymjrsreqhn1rmuq51",
+        "name":"Từ vựng HSK 6",
+        "displayOrder":6,
+        "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     }
 ]
