@@ -495,7 +495,9 @@
                 id: generateUniqueId(),
                 word: voca.word,
                 pronunciation: window.pinyin(voca.word),
-                topicId: '7ye56hmhssxr20hj36b4'
+                topicId: '7ye56hmhssxr20hj36b4',
+                createdDate: new Date(),
+                lastModifiedDate: new Date(),
             }));
         }
 
@@ -563,7 +565,7 @@
         });
 
         Array.prototype.getListVocabulariesSQL = function() {
-            return this.map(item => `INSERT INTO Vocabularies VALUES('${item.id}', N'${item.word}', N'${item.topicId}', N'${item.pronunciation}')`).join(';\n');
+            return this.map(({ id, word, topicId, pronunciation, createdDate, lastModifiedDate }) => `INSERT INTO Vocabularies VALUES('${id}', N'${word}', N'${topicId}', N'${pronunciation}', '${createdDate}', '${lastModifiedDate}')`).join(';\n');
         }
 
         Array.prototype.getListMeaningsSQL = function() {
