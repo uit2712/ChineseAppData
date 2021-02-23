@@ -10,7 +10,7 @@
     {
         "id":"7ye56hmhssxr20hj36b4",
         "name":"Từ vựng HSK 1",
-        "displayOrder":1,
+        "displayOrder":0,
         "parentTopicId":"fymri0fbdzhybunc14lc",
         "createdDate":"2021-02-20T01:15:04.864Z",
         "lastModifiedDate":"2021-02-20T01:15:04.864Z"
@@ -18,7 +18,7 @@
     {
         "id":"ow5qqf1bez47qhjcnad4",
         "name":"Từ vựng HSK 2",
-        "displayOrder":2,
+        "displayOrder":1,
         "parentTopicId":"fymri0fbdzhybunc14lc",
         "createdDate":"2021-02-20T01:15:04.864Z",
         "lastModifiedDate":"2021-02-20T01:15:04.864Z"
@@ -26,7 +26,7 @@
     {
         "id":"lvscsjun8hrnt9azuklq",
         "name":"Từ vựng HSK 3",
-        "displayOrder":3,
+        "displayOrder":2,
         "parentTopicId":"fymri0fbdzhybunc14lc",
         "createdDate":"2021-02-20T01:15:04.864Z",
         "lastModifiedDate":"2021-02-20T01:15:04.864Z"
@@ -34,7 +34,7 @@
     {
         "id":"2pafy50ybrtwqrx7v1io",
         "name":"Từ vựng HSK 4",
-        "displayOrder":4,
+        "displayOrder":3,
         "parentTopicId":"fymri0fbdzhybunc14lc",
         "createdDate":"2021-02-20T01:15:04.864Z",
         "lastModifiedDate":"2021-02-20T01:15:04.864Z"
@@ -42,7 +42,7 @@
     {
         "id":"zjwpiddvblkucug4dftf",
         "name":"Từ vựng HSK 5",
-        "displayOrder":5,
+        "displayOrder":4,
         "parentTopicId":"fymri0fbdzhybunc14lc",
         "createdDate":"2021-02-20T01:15:04.864Z",
         "lastModifiedDate":"2021-02-20T01:15:04.864Z"
@@ -50,8 +50,24 @@
     {
         "id":"2rgymjrsreqhn1rmuq51",
         "name":"Từ vựng HSK 6",
-        "displayOrder":6,
+        "displayOrder":5,
         "parentTopicId":"fymri0fbdzhybunc14lc",
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
+    },
+    {
+        "id":"hj8513whqdwf5k1g55mf",
+        "name":"Từ vựng theo chủ đề",
+        "displayOrder":1,
+        "parentTopicId":null,
+        "createdDate":"2021-02-20T01:15:04.864Z",
+        "lastModifiedDate":"2021-02-20T01:15:04.864Z"
+    },
+    {
+        "id":"vo1jcjejdcdboig6b9kn",
+        "name":"Âm nhạc",
+        "displayOrder":0,
+        "parentTopicId":"hj8513whqdwf5k1g55mf",
         "createdDate":"2021-02-20T01:15:04.864Z",
         "lastModifiedDate":"2021-02-20T01:15:04.864Z"
     }

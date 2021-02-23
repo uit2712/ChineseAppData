@@ -1,0 +1,578 @@
+[
+    {
+        "id":"k7m7l44ckf07kae3b105",
+        "wordId":"uhxbl6tojfvv7zfiwsx1",
+        "meaning":"âm nhạc cổ điển",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.611Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.611Z"
+    },
+    {
+        "id":"6crri8q6ei6cqtahpdsw",
+        "wordId":"l7rxit56vhjzx3prk2h6",
+        "meaning":"âm nhạc của người da đen",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"7gv7rigchcrjlmmexyzk",
+        "wordId":"y5br3omf2iyus3nzpl2r",
+        "meaning":"âm nhạc giáo hội",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"7coqasbmgqjr7qaxhqr2",
+        "wordId":"4wyuqv698intf3u1w5pm",
+        "meaning":"âm nhạc thuần túy",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"ov2vgfnq80xlpfxz511a",
+        "wordId":"y10wa4k0pn3e22lutyld",
+        "meaning":"bài hát",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"pdvb3l1008nt56e45fit",
+        "wordId":"5ypyhnj8ezbun26jrkrf",
+        "meaning":"bài hát được yêu thích",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"8khbtt6dki8p1ljiy7x4",
+        "wordId":"v7cb1szxd1at2keyn9t2",
+        "meaning":"bài hát ru",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"sf8pnujbsp41nngyz0g6",
+        "wordId":"xr05sz9t7nefwrxprajg",
+        "meaning":"bản Capriccio",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"iapus193fci08ekkqmog",
+        "wordId":"aei7uz1n9rzpxbc0euei",
+        "meaning":"bản concertino",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"aqdvapx82b46ksvmcyld",
+        "wordId":"slj2uyn5bx5wqg55rmuk",
+        "meaning":"bản concerto",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"xxyx2cc1oiz94djtyfz7",
+        "wordId":"j61z0yaml4tn1tonu5iz",
+        "meaning":"bản concerto grosso",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"975wuy9d4acbbd4r0vjn",
+        "wordId":"ynxrmcgej479mwyo243p",
+        "meaning":"bản nhạc cầu siêu (requiem mass)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"xy3vydzzfru3082t1yv4",
+        "wordId":"f6burakts6q94cpv4zmj",
+        "meaning":"bản nhạc lễ misa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"6y9jjwa6ggaip2k2etnc",
+        "wordId":"ljqt44ey4yitynzh2n5s",
+        "meaning":"bản rapxôdi (Rhapsody)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"fuly0wk5i2gkhatv4ov0",
+        "wordId":"6apbajqdkr1qe15f9gl0",
+        "meaning":"bản sonata",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"29relf8dvux46qcw4rmu",
+        "wordId":"xguohwyzbhzka924bgtj",
+        "meaning":"bản thơ giao hưởng (symphonic poem)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"ncgsmj7kf6p9dzf6zfnk",
+        "wordId":"6yp526d7u9e4z2ht7jeq",
+        "meaning":"buổi hòa nhạc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"uoo1mojg2nfki8z7rx1d",
+        "wordId":"stpul9rdjtnkh7pgjd2u",
+        "meaning":"buổi hòa nhạc lưu động",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"nl034j2diweshe3txxfw",
+        "wordId":"uf3xpkn4c6426q7h3edn",
+        "meaning":"buổi hòa nhạc ngoài trời",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"3wjmeyuxth8nt8vwo0nj",
+        "wordId":"it6syg5ox5wegutm55vf",
+        "meaning":"buổi liên hoan văn nghệ có đơn ca, độc tấu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"jwdfa9nimdiyieeup3ab",
+        "wordId":"wjtn7f1is3a26j4va26o",
+        "meaning":"ca khúc nghệ thuật",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"zjvyshz3lkzmrj4uac56",
+        "wordId":"uimn8y6hfyqdqpgnoza6",
+        "meaning":"ca kịch",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.612Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.612Z"
+    },
+    {
+        "id":"zth8803r2p80m8hs3jme",
+        "wordId":"rkbhh8a33nv602bjl6be",
+        "meaning":"ca sĩ",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.613Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.613Z"
+    },
+    {
+        "id":"uey20lluoprct7u1va98",
+        "wordId":"rcg9a9t2sv6z1tit8980",
+        "meaning":"ca sĩ được yêu thích",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.617Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.617Z"
+    },
+    {
+        "id":"4yx7w9wi7irg5yvmsx8o",
+        "wordId":"3f2shc1s81hkpefktxin",
+        "meaning":"ca sĩ tự biên tự diễn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.617Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.617Z"
+    },
+    {
+        "id":"8oixm9052oy1a02qhlna",
+        "wordId":"2xqdpaf8olxlc5av8weg",
+        "meaning":"dạ khúc (nocturne)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.617Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.617Z"
+    },
+    {
+        "id":"89b10qq6dn4py4qnqiyr",
+        "wordId":"5bv7hwqbywzxtxb0lyt9",
+        "meaning":"dân ca",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"bsarcsth68xewdr44ifj",
+        "wordId":"e002dp1tohrg2xj8ki22",
+        "meaning":"diễn tấu ngẫu hứng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"gzhrr9e9l7fdcdcw3vwd",
+        "wordId":"e4ruajjb3t3zea5masy5",
+        "meaning":"điệu Blue",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"frb6zc33dkiqr21pvwye",
+        "wordId":"7rqjhmajoie0s27ql2m3",
+        "meaning":"điệu menuet",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"o4ic0h19surd04qqyayj",
+        "wordId":"cf1hfcguinz5ylirfj1h",
+        "meaning":"điệu ragtime",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"k3dn5jjqpkt8tamzg7f9",
+        "wordId":"e4a4y9mmcexekbnl8nkc",
+        "meaning":"điệu vanse",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"ciazpic2z3yvt6yqj3iz",
+        "wordId":"hgughjzomrsbdra7czgf",
+        "meaning":"festival âm nhạc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"iril782ols1s7tntpiwb",
+        "wordId":"e3yeblz87moeuvzwq3au",
+        "meaning":"giai điệu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.618Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.618Z"
+    },
+    {
+        "id":"vediiv0whjrt5vadmeb3",
+        "wordId":"n30z8o6kcqyu9bnj4o4m",
+        "meaning":"grand opera",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"o2sbqalh2ifxx1n2sem3",
+        "wordId":"hpzv01kceusgxxvkfw2j",
+        "meaning":"hành khúc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"90rt6i2idubcrdig0puq",
+        "wordId":"ypql4ryhqhej4nmbuwdd",
+        "meaning":"khí nhạc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"b23x7jdhp8hoe4n55mfe",
+        "wordId":"ctk4s0jdf6pone4bcsty",
+        "meaning":"khúc aria (khúc đơn ca trữ tình)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"jlduk5f6nbe7a03639os",
+        "wordId":"l4c6hac5mc9tnq2uyub5",
+        "meaning":"khúc dạo",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"t7prfgqpq4ezeuhwy898",
+        "wordId":"zosb2caxqfmrvatxox1i",
+        "meaning":"khúc ngẫu hứng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"h9sldhda1tbrailp68yr",
+        "wordId":"wtrend6wzx2s151k4h7l",
+        "meaning":"khúc nhạc chiều (serenade)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"fkx4zzjb3bkrp46qgxsi",
+        "wordId":"0nqigpe1oi5n2bw8pp7h",
+        "meaning":"khúc phóng túng (fantasia)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"segq02hhwu9j1e7erpq0",
+        "wordId":"8onucxue1vk1kgaysq28",
+        "meaning":"khúc trung gian (intermezzo)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"iv02jbzp1a260piqnxfd",
+        "wordId":"t95fbiic9fk9pyzl1oew",
+        "meaning":"làn điệu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"9nbk09cetxofvt2xn8x1",
+        "wordId":"zn7n6sjfyz3w2re2u3tm",
+        "meaning":"người đánh trống, tay trống",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.619Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.619Z"
+    },
+    {
+        "id":"t4ymxdg417i9p2fmpsx7",
+        "wordId":"d0jxzgfd4ctq0j5blam0",
+        "meaning":"người mê nhạc jazz",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"bkt1t7g4gmb7edygus5k",
+        "wordId":"sdh2qjqsrta318l7dijb",
+        "meaning":"nhạc beat box",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"eqspj6e7kogvsdhnkc6u",
+        "wordId":"qkuh4rpojck6ec6sp2i8",
+        "meaning":"nhạc cổ điển",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"1o8ysdwc89xx4k7406aj",
+        "wordId":"j7mflwj114krjxxub85m",
+        "meaning":"nhạc dạo",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"ryfs99l8kap7yakwngx6",
+        "wordId":"b4nh4ii45g5nfj4i4unh",
+        "meaning":"nhạc dân tộc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"zy4cwrtrgzvtb754j3o5",
+        "wordId":"48c4adoigxnctr54a0z3",
+        "meaning":"nhạc điện tử",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"fn5cqzt4v0dkkjcp8kif",
+        "wordId":"vv5xgssixx7wcis2z46u",
+        "meaning":"nhạc dùng cho bộ hơi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"yfl95w2v090pchwp3qcf",
+        "wordId":"kvpwojwp2umy9t7y62y5",
+        "meaning":"nhạc dùng cho đàn dây",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"mqe3xmagb01olz36d8af",
+        "wordId":"ah7f6gxlujivzohea82e",
+        "meaning":"nhạc dùng cho đàn dây và hơi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.620Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.620Z"
+    },
+    {
+        "id":"b4im8ic9t0nxe3wmew1z",
+        "wordId":"9urfanajyhxoszuvw5up",
+        "meaning":"nhạc đồng quê",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"wvui8rj4rq3ljp2qo46b",
+        "wordId":"11ikdyl045g05pany1uj",
+        "meaning":"nhạc giao hưởng pop",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"qk3qyi4g41luk81aboar",
+        "wordId":"2amq6rj4bwnlh9l1oq3k",
+        "meaning":"nhạc giao hưởng, bản giao hưởng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"fqdwnaoysvemzh0yute5",
+        "wordId":"xu2co4fsn69a0bp1si3w",
+        "meaning":"nhạc jazz",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"b64hggaagwfwhiw1mlcq",
+        "wordId":"cps0bspefyruc9dmpwer",
+        "meaning":"nhạc jazz tự do",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"yegjh4hjn922r5ie7alb",
+        "wordId":"1gs2ym5z3dvrtemg8yzw",
+        "meaning":"nhạc nhẹ",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"hdzi3p7hfidcaa296sri",
+        "wordId":"jz0ykknqslnpn9b9umrw",
+        "meaning":"nhạc phúc âm",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"wlxh8bpao3yaow2t152l",
+        "wordId":"2mfguoh57virck0h7908",
+        "meaning":"nhạc pop",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"vbi5sl0he3d8ge575scw",
+        "wordId":"3k5xrvlzsgyzlgi50b9n",
+        "meaning":"nhạc rock",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"zmbl8wuvuoeswj505ocl",
+        "wordId":"uyikz7mwkwkcyh6e0rph",
+        "meaning":"nhạc rock mới",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"o45ah066jwu8fkptck2c",
+        "wordId":"68rufqe4ven1xbl6tyhf",
+        "meaning":"nhạc thính phòng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"0laxqrac9beja56oxmw8",
+        "wordId":"607f9xfoa7lw1wj5pc6m",
+        "meaning":"ôpêret (operetta – nhạc kịch hài, nhẹ nhàng, ngắn)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"vce3pgucutgqu9wp8xve",
+        "wordId":"3atd5kbt9n8g5h2f14w0",
+        "meaning":"ôratô (oratorio)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"1diu7rp49grmb930heh3",
+        "wordId":"0dhyk7sia6frpedne92s",
+        "meaning":"soạn nhạc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"yz7ujai92d5wtow3nkob",
+        "wordId":"3smz5od0fqxlzv7wtnnd",
+        "meaning":"tác giả bài hát được ưa thích",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"6uw6pjbqf26y2dmyxw3y",
+        "wordId":"hfuxa2a1p9k6uwpbll51",
+        "meaning":"thanh nhạc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.621Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.621Z"
+    },
+    {
+        "id":"ylha9ijzqv69ij8z085n",
+        "wordId":"lepwd4vdm6n9yu7xmmg0",
+        "meaning":"thánh ca của người da đen",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.622Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.622Z"
+    },
+    {
+        "id":"f24cjnr3dshvf99cewjn",
+        "wordId":"jsusgj5fff5lceovccke",
+        "meaning":"tổ khúc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "createdDate":"2021-02-23T14:58:04.622Z",
+        "lastModifiedDate":"2021-02-23T14:58:04.622Z"
+    }
+]
