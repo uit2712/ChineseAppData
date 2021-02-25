@@ -7,7 +7,212 @@
     <title>Document</title>
 </head>
 <body>
+    <table>
+        <tbody>
+            <tr>
+                <td><strong>STT</strong></td>
+                <td><strong>Tiếng Trung</strong></td>
+                <td><strong>Phiên âm</strong></td>
+                <td><strong>Nghĩa tiếng Việt</strong></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>爱</td>
+                <td>ài</td>
+                <td>yêu</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>八</td>
+                <td>bā</td>
+                <td>tám</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>爸爸</td>
+                <td>bàba</td>
+                <td>bố</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>吧</td>
+                <td>ba</td>
+                <td>nhé, nhá</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>白</td>
+                <td>bái</td>
+                <td>trắng, bạc</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>百</td>
+                <td>bǎi</td>
+                <td>trăm</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>帮助</td>
+                <td>bāngzhù</td>
+                <td>giúp, giúp đỡ</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>报纸</td>
+                <td>bàozhǐ</td>
+                <td>báo</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>杯子</td>
+                <td>bēizi</td>
+                <td>cốc, chén, ly, tách</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>北京</td>
+                <td>běijīng</td>
+                <td>Bắc Kinh</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>本</td>
+                <td>běn</td>
+                <td>quyển, gốc, vốn, thân</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>比</td>
+                <td>bǐ</td>
+                <td>đọ, so với, ví</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>别</td>
+                <td>bié</td>
+                <td>khác, chia lìa</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>不客气</td>
+                <td>bú kèqì</td>
+                <td>không có gì</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>不</td>
+                <td>bù</td>
+                <td>không, chưa</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>菜</td>
+                <td>cài</td>
+                <td>món ăn, thức ăn</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>茶</td>
+                <td>chá</td>
+                <td>trà</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>长</td>
+                <td>zhǎng</td>
+                <td>lớn, cả, trưởng</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>唱歌</td>
+                <td>chànggē</td>
+                <td>hát</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>吃</td>
+                <td>chī</td>
+                <td>ăn</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>出</td>
+                <td>chū</td>
+                <td>ra, xuất, đến</td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>出租车</td>
+                <td>chūzū chē</td>
+                <td>Taxi</td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td>穿</td>
+                <td>chuān</td>
+                <td>mặc, đội</td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>船</td>
+                <td>chuán</td>
+                <td>thuyền ,tàu</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>次</td>
+                <td>cì</td>
+                <td>lần</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>从</td>
+                <td>cóng</td>
+                <td>theo</td>
+            </tr>
+            <tr>
+                <td>27</td>
+                <td>错</td>
+                <td>cuò</td>
+                <td>sai</td>
+            </tr>
+            <tr>
+                <td>28</td>
+                <td>打电话</td>
+                <td>dǎ diànhuà</td>
+                <td>gọi điện thoại</td>
+            </tr>
+        </tbody>
+    </table>
     <script>
+        function getListVocabulariesFromTable() {
+            return Array.from(document.querySelectorAll('tr')).map(el => {
+                let words = Array.from(el.querySelectorAll('td'));
+                if (words?.length === 4) {
+                    return {
+                        word: words[1].innerText,
+                        pronunciation: words[2].innerText,
+                        meanings: [
+                            {
+                                wordType: "",
+                                meaning: words[3].innerText,
+                                examples: [
+                                    {
+                                        example: "",
+                                        meaning: "",
+                                    }
+                                ],
+                            }
+                        ],
+                        topicId: "ow5qqf1bez47qhjcnad4"
+                    }
+                }
+
+                return null;
+            }).filter(item => item !== null).slice(1);
+        }
+
         function getRandomNumber(limit) {
             return Math.floor(Math.random() * limit).toString();
         }
