@@ -9,3 +9,7 @@ Array.prototype.getVocabularySQL = function() {
 Array.prototype.getMeaningSQL = function() {
     return this.map(({ id, meaning, wordTypeId, wordId, createdDate, lastModifiedDate }) => `INSERT INTO Meanings VALUES('${id}', N'${meaning}', '${wordTypeId}', '${wordId}', '${createdDate}', '${lastModifiedDate}')`).join(';\n');
 }
+
+Array.prototype.getListExamplesSQL = function() {
+    return this.map(({ id, example, meaning, meaningId, createdDate, lastModifiedDate, pronunciation }) => `INSERT INTO Examples VALUES('${id}', N'${example}', N'${meaning}', '${meaningId}', '${createdDate}', '${lastModifiedDate}', N'${pronunciation}')`).join(';\n');
+}
