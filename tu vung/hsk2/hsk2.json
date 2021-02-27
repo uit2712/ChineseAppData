@@ -8,8 +8,9 @@
                 "meaning":"được sử dụng ở cuối câu để diễn đạt thẩm vấn đầu câu",
                 "examples":[
                     {
-                        "example":"你 是 个 学 生 〜？",
-                        "meaning":""
+                        "example":"你是个学生吧？",
+                        "exampleBold":"你是个学生<b>吧</b>？",
+                        "meaning":"Bạn là sinh viên?"
                     }
                 ]
             },
@@ -18,13 +19,13 @@
                 "meaning":"được dùng ở cuối câu mệnh lệnh",
                 "examples":[
                     {
-                        "example":"请 你 走 〜！",
-                        "meaning":""
+                        "example":"请你走吧！",
+                        "exampleBold":"请你走<b>吧</b>！",
+                        "meaning":"Xin hãy đi đi!"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"白",
@@ -35,13 +36,13 @@
                 "meaning":"màu trắng",
                 "examples":[
                     {
-                        "example":"我 很 爱 穿 那 件 〜衣 服 。",
-                        "meaning":""
+                        "example":"我很爱穿那件白衣服。",
+                        "exampleBold":"我很爱穿那件<b>白</b>衣服。",
+                        "meaning":"Tôi rất thích mặc chiếc váy trắng đó."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"百",
@@ -52,16 +53,16 @@
                 "meaning":"một trăm",
                 "examples":[
                     {
-                        "example":"这 个 自 行 车 五 〜多 元 。",
-                        "meaning":""
+                        "example":"这个自行车五百多元。",
+                        "exampleBold":"这个自行车五<b>百</b>多元。",
+                        "meaning":"Chiếc xe đạp này hơn năm trăm tệ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"帮 助",
+        "word":"帮助",
         "pronunciation":"bãngzhù",
         "meanings":[
             {
@@ -69,16 +70,16 @@
                 "meaning":"cứu giúp; hỗ trợ; viện trợ; ủng hộ",
                 "examples":[
                     {
-                        "example":"请 〜我 找 一 家 搬 家 公 司 ，好 吗 ？",
-                        "meaning":""
+                        "example":"请帮助我找一家搬家公司，好吗？",
+                        "exampleBold":"请<b>帮助</b>我找一家搬家公司，好吗？",
+                        "meaning":"Làm ơn giúp tôi tìm một công ty chuyển nhà, được không?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"报 纸",
+        "word":"报纸",
         "pronunciation":"baozhi",
         "meanings":[
             {
@@ -86,13 +87,13 @@
                 "meaning":"tờ báo",
                 "examples":[
                     {
-                        "example":"我 每 天 早 上 都 要 读 〜。",
-                        "meaning":""
+                        "example":"我每天早上都要读报纸。",
+                        "exampleBold":"我每天早上都要读<b>报纸</b>。",
+                        "meaning":"Tôi đọc báo mỗi sáng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"比",
@@ -103,13 +104,13 @@
                 "meaning":"được sử dụng để so sánh",
                 "examples":[
                     {
-                        "example":"我 的 孩 子 〜我 高 。",
-                        "meaning":""
+                        "example":"我的孩子比我高。",
+                        "exampleBold":"我的孩子<b>比</b>我高。",
+                        "meaning":"Con tôi cao hơn tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"别",
@@ -120,13 +121,13 @@
                 "meaning":"đừng",
                 "examples":[
                     {
-                        "example":"太 晚 了 ， 〜看 电 视 了 。",
-                        "meaning":""
+                        "example":"太晚了，别看电视了。",
+                        "exampleBold":"太晚了，<b>别</b>看电视了。",
+                        "meaning":"Đã quá muộn, không xem TV."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"长",
@@ -137,16 +138,16 @@
                 "meaning":"dài",
                 "examples":[
                     {
-                        "example":"姐 姐 的 腿 〜，跑 得 快 。",
-                        "meaning":""
+                        "example":"姐姐的腿长，跑得快。",
+                        "exampleBold":"姐姐的腿<b>长</b>，跑得快。",
+                        "meaning":"Em gái tôi chân dài và chạy nhanh."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"唱 歌",
+        "word":"唱歌",
         "pronunciation":"chànggẽ",
         "meanings":[
             {
@@ -154,13 +155,13 @@
                 "meaning":"hát",
                 "examples":[
                     {
-                        "example":"我 最 爱 〜了 ，我 给 你 们 唱 一 个 。",
-                        "meaning":""
+                        "example":"我最爱唱歌了，我给你们唱一个。",
+                        "exampleBold":"我最爱<b>唱歌</b>了，我给你们唱一个。",
+                        "meaning":"Em thích hát nhất, anh sẽ hát cho em nghe một bài."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"出",
@@ -171,13 +172,13 @@
                 "meaning":"lối ra; đi ra ngoài",
                 "examples":[
                     {
-                        "example":"我 已 经 走 〜火 车 站 了 。",
-                        "meaning":""
+                        "example":"我已经走出火车站了。",
+                        "exampleBold":"我已经走<b>出</b>火车站了。",
+                        "meaning":"Tôi đã bước ra khỏi ga xe lửa."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"穿",
@@ -188,13 +189,13 @@
                 "meaning":"mặc vào",
                 "examples":[
                     {
-                        "example":"天 冷 了 ， 多 〜些 衣 服 吧 。",
-                        "meaning":""
+                        "example":"天冷了，多穿些衣服吧。",
+                        "exampleBold":"天冷了，多<b>穿</b>些衣服吧。",
+                        "meaning":"Trời lạnh nên mặc thêm quần áo vào."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"次",
@@ -205,13 +206,13 @@
                 "meaning":"số lần",
                 "examples":[
                     {
-                        "example":"我 去 过 一 〜北 京 。",
-                        "meaning":""
+                        "example":"我去过一次北京。",
+                        "exampleBold":"我去过一<b>次</b>北京。",
+                        "meaning":"Tôi đã đến Bắc Kinh một lần."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"从",
@@ -222,13 +223,13 @@
                 "meaning":"từ; kể từ (thời gian)",
                 "examples":[
                     {
-                        "example":"〜我 家 到 公 司 ，开 车 要 2 0 分 钟 。",
-                        "meaning":""
+                        "example":"从我家到公司，开车要20分钟。",
+                        "exampleBold":"<b>从</b>我家到公司，开车要20分钟。",
+                        "meaning":"Từ nhà tôi đến công ty mất 20 phút lái xe."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"错",
@@ -239,16 +240,16 @@
                 "meaning":"sai, không đúng",
                 "examples":[
                     {
-                        "example":"对 不 起 ，我 〜了 。",
-                        "meaning":""
+                        "example":"对不起，我错了。",
+                        "exampleBold":"对不起，我<b>错</b>了。",
+                        "meaning":"Xin lỗi, tôi đã nhầm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"打 篮 球",
+        "word":"打篮球",
         "pronunciation":"dă lánqiú",
         "meanings":[
             {
@@ -256,16 +257,16 @@
                 "meaning":"chơi bóng rổ",
                 "examples":[
                     {
-                        "example":"我 每 天 下 午 都 去 〜。",
-                        "meaning":""
+                        "example":"我每天下午都去打篮球。",
+                        "exampleBold":"我每天下午都去<b>打篮球</b>。",
+                        "meaning":"Tôi đi chơi bóng rổ vào mỗi buổi chiều."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"大 家",
+        "word":"大家",
         "pronunciation":"dajia",
         "meanings":[
             {
@@ -273,13 +274,13 @@
                 "meaning":"mọi người",
                 "examples":[
                     {
-                        "example":"请 〜不 要 等 我 了 。",
-                        "meaning":""
+                        "example":"请大家不要等我了。",
+                        "exampleBold":"请<b>大家</b>不要等我了。",
+                        "meaning":"Xin đừng đợi tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"到",
@@ -290,13 +291,13 @@
                 "meaning":"đến; chạm tới",
                 "examples":[
                     {
-                        "example":"我 早 上 9 点 〜公 司 。",
-                        "meaning":""
+                        "example":"我早上9点到公司。",
+                        "exampleBold":"我早上9点<b>到</b>公司。",
+                        "meaning":"Tôi đến công ty lúc 9 giờ sáng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"得",
@@ -307,13 +308,13 @@
                 "meaning":"điểm đánh dấu của phần bổ sung",
                 "examples":[
                     {
-                        "example":"你 走 〜太 快 了 。",
-                        "meaning":""
+                        "example":"你走得太快了。",
+                        "exampleBold":"你走<b>得</b>太快了。",
+                        "meaning":"Bạn đã đi quá nhanh."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"等",
@@ -324,16 +325,16 @@
                 "meaning":"đợi",
                 "examples":[
                     {
-                        "example":"你 还 要 再 〜我 1 0 分 钟 。",
-                        "meaning":""
+                        "example":"你还要再等我10分钟。",
+                        "exampleBold":"你还要再<b>等</b>我10分钟。",
+                        "meaning":"Bạn phải đợi tôi 10 phút nữa."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"弟 弟",
+        "word":"弟弟",
         "pronunciation":"dìdi",
         "meanings":[
             {
@@ -341,16 +342,16 @@
                 "meaning":"em trai",
                 "examples":[
                     {
-                        "example":"在 我 们 家 ，我 最 大 ，我 下 面 还 有 两 个 〜。",
-                        "meaning":""
+                        "example":"在我们家，我最大，我下面还有两个弟弟。",
+                        "exampleBold":"在我们家，我最大，我下面还有两个<b>弟弟</b>。",
+                        "meaning":"Trong gia đình chúng tôi, tôi là anh cả, dưới tôi còn có hai em trai."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"第 一",
+        "word":"第一",
         "pronunciation":"dì-yĩ",
         "meanings":[
             {
@@ -358,13 +359,13 @@
                 "meaning":"đầu tiên",
                 "examples":[
                     {
-                        "example":"这 是 我 〜次 见 到 他 。",
-                        "meaning":""
+                        "example":"这是我第一次见到他。",
+                        "exampleBold":"这是我<b>第一</b>次见到他。",
+                        "meaning":"Đây là lần đầu tiên tôi nhìn thấy anh ấy."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"懂",
@@ -375,13 +376,13 @@
                 "meaning":"hiểu",
                 "examples":[
                     {
-                        "example":"你 的 意 思 我 〜了 。",
-                        "meaning":""
+                        "example":"你的意思我懂了。",
+                        "exampleBold":"你的意思我<b>懂</b>了。",
+                        "meaning":"Tôi hiểu ý bạn."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"对",
@@ -392,13 +393,13 @@
                 "meaning":"đúng; chính xác",
                 "examples":[
                     {
-                        "example":"你 是 〜的 ，我 错 了 。",
-                        "meaning":""
+                        "example":"你是对的，我错了。",
+                        "exampleBold":"你是<b>对</b>的，我错了。",
+                        "meaning":"Bạn đúng, tôi sai."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"对",
@@ -409,16 +410,16 @@
                 "meaning":"đến; hướng tới",
                 "examples":[
                     {
-                        "example":"孩 子 〜妈 妈 说 ：“妈 妈 ，我 爱 你 。”",
-                        "meaning":""
+                        "example":"孩子对妈妈说：“妈妈，我爱你。”",
+                        "exampleBold":"孩子<b>对</b>妈妈说：“妈妈，我爱你。”",
+                        "meaning":"Đứa trẻ nói với mẹ: \"Mẹ ơi, con yêu mẹ\"."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"房 间",
+        "word":"房间",
         "pronunciation":"fangjian",
         "meanings":[
             {
@@ -426,16 +427,16 @@
                 "meaning":"căn phòng",
                 "examples":[
                     {
-                        "example":"我 们 两 个 人 住 一 个 〜。",
-                        "meaning":""
+                        "example":"我们两个人住一个房间。",
+                        "exampleBold":"我们两个人住一个<b>房间</b>。",
+                        "meaning":"Hai chúng tôi sống trong cùng một phòng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"非 常",
+        "word":"非常",
         "pronunciation":"feichang",
         "meanings":[
             {
@@ -443,16 +444,16 @@
                 "meaning":"rất",
                 "examples":[
                     {
-                        "example":"奶 奶 〜喜 欢 我 们 送 的 礼 物 。",
-                        "meaning":""
+                        "example":"奶奶非常喜欢我们送的礼物。",
+                        "exampleBold":"奶奶<b>非常</b>喜欢我们送的礼物。",
+                        "meaning":"Bà rất thích những món quà mà chúng tôi đã tặng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"服 务 员",
+        "word":"服务员",
         "pronunciation":"fủw ùyuán",
         "meanings":[
             {
@@ -460,13 +461,13 @@
                 "meaning":"người phục vụ; nam phục vụ; nữ phục vụ",
                 "examples":[
                     {
-                        "example":"我 在 饭 馆 做 〜。",
-                        "meaning":""
+                        "example":"我在饭馆做服务员。",
+                        "exampleBold":"我在饭馆做<b>服务员</b>。",
+                        "meaning":"Tôi làm bồi bàn trong một nhà hàng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"高",
@@ -477,16 +478,16 @@
                 "meaning":"cao",
                 "examples":[
                     {
-                        "example":"我 比 爸 爸 还 〜。",
-                        "meaning":""
+                        "example":"我比爸爸还高。",
+                        "exampleBold":"我比爸爸还<b>高</b>。",
+                        "meaning":"Tôi cao hơn bố tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"告 诉",
+        "word":"告诉",
         "pronunciation":"gàosu",
         "meanings":[
             {
@@ -494,16 +495,16 @@
                 "meaning":"kể",
                 "examples":[
                     {
-                        "example":"你 能 〜我 学 校 怎 么 走 吗 ？",
-                        "meaning":""
+                        "example":"你能告诉我学校怎么走吗？",
+                        "exampleBold":"你能<b>告诉</b>我学校怎么走吗？",
+                        "meaning":"Bạn có thể cho tôi biết làm thế nào để đến trường?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"哥 哥",
+        "word":"哥哥",
         "pronunciation":"gẽ ge",
         "meanings":[
             {
@@ -511,13 +512,13 @@
                 "meaning":"anh trai",
                 "examples":[
                     {
-                        "example":"我 〜比 我 大 三 岁 。",
-                        "meaning":""
+                        "example":"我哥哥比我大三岁。",
+                        "exampleBold":"我<b>哥哥</b>比我大三岁。",
+                        "meaning":"Anh trai tôi hơn tôi ba tuổi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"给",
@@ -528,16 +529,16 @@
                 "meaning":"bàn giao",
                 "examples":[
                     {
-                        "example":"请 把 这 本 书 〜他 。",
-                        "meaning":""
+                        "example":"请把这本书给他。",
+                        "exampleBold":"请把这本书<b>给</b>他。",
+                        "meaning":"Hãy tặng anh ấy cuốn sách này."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"公 共 汽 车 ",
+        "word":"公共汽车",
         "pronunciation":"",
         "meanings":[
             {
@@ -545,16 +546,16 @@
                 "meaning":"xe buýt",
                 "examples":[
                     {
-                        "example":"坐 〜去 ，要 2 0 分 钟 。",
-                        "meaning":""
+                        "example":"坐公共汽车去，要20分钟。",
+                        "exampleBold":"坐<b>公共汽车</b>去，要20分钟。",
+                        "meaning":"Mất 20 phút đi xe buýt."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"公 司",
+        "word":"公司",
         "pronunciation":"",
         "meanings":[
             {
@@ -562,13 +563,13 @@
                 "meaning":"công ty; cứng",
                 "examples":[
                     {
-                        "example":"我 在 一 个 〜上 班 。",
-                        "meaning":""
+                        "example":"我在一个公司上班。",
+                        "exampleBold":"我在一个<b>公司</b>上班。",
+                        "meaning":"Tôi lam trong một công ty."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"狗",
@@ -579,13 +580,13 @@
                 "meaning":"con chó",
                 "examples":[
                     {
-                        "example":"女 儿 很 喜 欢 小 〜。",
-                        "meaning":""
+                        "example":"女儿很喜欢小狗。",
+                        "exampleBold":"女儿很喜欢小<b>狗</b>。",
+                        "meaning":"Con gái tôi rất thích chó con."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"贵",
@@ -596,13 +597,13 @@
                 "meaning":"đắt; tốn kém",
                 "examples":[
                     {
-                        "example":"这 块 手 表 很 〜。",
-                        "meaning":""
+                        "example":"这块手表很贵。",
+                        "exampleBold":"这块手表很<b>贵</b>。",
+                        "meaning":"Đồng hồ này rất đắt."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"过",
@@ -613,13 +614,13 @@
                 "meaning":"được sử dụng sau động từ, đề cập đến điều gì đó đã xảy ra trước đó",
                 "examples":[
                     {
-                        "example":"我 没 看 〜这 本 书 。",
-                        "meaning":""
+                        "example":"我没看过这本书。",
+                        "exampleBold":"我没看<b>过</b>这本书。",
+                        "meaning":"Tôi chưa đọc cuốn sách này."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"还",
@@ -630,8 +631,9 @@
                 "meaning":"vẫn; chưa",
                 "examples":[
                     {
-                        "example":"他 〜没 来 呢 。",
-                        "meaning":""
+                        "example":"他还没来呢。",
+                        "exampleBold":"他<b>还</b>没来呢。",
+                        "meaning":"Anh ấy vẫn chưa đến."
                     }
                 ]
             },
@@ -640,16 +642,16 @@
                 "meaning":"ngoài ra",
                 "examples":[
                     {
-                        "example":"除 了 不 吃 肉 ，我 〜不 吃 鸡 蛋 。",
-                        "meaning":""
+                        "example":"除了不吃肉，我还不吃鸡蛋。",
+                        "exampleBold":"除了不吃肉，我<b>还</b>不吃鸡蛋。",
+                        "meaning":"Ngoại trừ việc không ăn thịt, tôi cũng không ăn trứng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"孩 子",
+        "word":"孩子",
         "pronunciation":"",
         "meanings":[
             {
@@ -657,8 +659,9 @@
                 "meaning":"con trai hay con gái",
                 "examples":[
                     {
-                        "example":"我 有 三 个 〜。",
-                        "meaning":""
+                        "example":"我有三个孩子。",
+                        "exampleBold":"我有三个<b>孩子</b>。",
+                        "meaning":"Tôi có ba đứa con."
                     }
                 ]
             },
@@ -667,16 +670,16 @@
                 "meaning":"đứa trẻ",
                 "examples":[
                     {
-                        "example":"我 们 这 里 女 〜比 男 〜多 。",
-                        "meaning":""
+                        "example":"我们这里女〜比男〜多。",
+                        "exampleBold":"我们这里女〜比男〜多。",
+                        "meaning":"Chúng tôi có nhiều phụ nữ hơn nam giới ở đây."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"好 吃 ",
+        "word":"好吃",
         "pronunciation":"",
         "meanings":[
             {
@@ -684,13 +687,13 @@
                 "meaning":"ngon",
                 "examples":[
                     {
-                        "example":"您 做 的 米 饭 真 〜。",
-                        "meaning":""
+                        "example":"您做的米饭真好吃。",
+                        "exampleBold":"您做的米饭真<b>好吃</b>。",
+                        "meaning":"Cơm bạn làm rất ngon."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"黑",
@@ -701,13 +704,13 @@
                 "meaning":"đen; tối",
                 "examples":[
                     {
-                        "example":"我 不 喜 欢 〜颜 色 的 衣 服 。",
-                        "meaning":""
+                        "example":"我不喜欢黑颜色的衣服。",
+                        "exampleBold":"我不喜欢<b>黑</b>颜色的衣服。",
+                        "meaning":"Tôi không thích quần áo màu đen."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"红",
@@ -718,16 +721,16 @@
                 "meaning":"màu đỏ",
                 "examples":[
                     {
-                        "example":"我 的 自 行 车 是 〜色 的 。",
-                        "meaning":""
+                        "example":"我的自行车是红色的。",
+                        "exampleBold":"我的自行车是<b>红</b>色的。",
+                        "meaning":"Xe đạp của tôi màu đỏ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"欢 迎",
+        "word":"欢迎",
         "pronunciation":"",
         "meanings":[
             {
@@ -735,16 +738,16 @@
                 "meaning":"chào mừng",
                 "examples":[
                     {
-                        "example":"〜你 们 来 我 们 家 。",
-                        "meaning":""
+                        "example":"欢迎你们来我们家。",
+                        "exampleBold":"<b>欢迎</b>你们来我们家。",
+                        "meaning":"Chào mừng bạn đến với ngôi nhà của chúng tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"回 答",
+        "word":"回答",
         "pronunciation":"",
         "meanings":[
             {
@@ -752,16 +755,16 @@
                 "meaning":"trả lời; đáp lại",
                 "examples":[
                     {
-                        "example":"我 能 〜这 个 问 题 。",
-                        "meaning":""
+                        "example":"我能回答这个问题。",
+                        "exampleBold":"我能<b>回答</b>这个问题。",
+                        "meaning":"Tôi có thể trả lời câu hỏi này."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"火 车 站",
+        "word":"火车站",
         "pronunciation":"",
         "meanings":[
             {
@@ -769,16 +772,16 @@
                 "meaning":"nhà ga xe lửa",
                 "examples":[
                     {
-                        "example":"我 下 午 3 点 去 〜。",
-                        "meaning":""
+                        "example":"我下午3点去火车站。",
+                        "exampleBold":"我下午3点去<b>火车站</b>。",
+                        "meaning":"Tôi đến ga xe lửa lúc 3 giờ chiều."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"机 场",
+        "word":"机场",
         "pronunciation":"",
         "meanings":[
             {
@@ -786,16 +789,16 @@
                 "meaning":"sân bay",
                 "examples":[
                     {
-                        "example":"我 在 〜工 作 了 三 年 了 。",
-                        "meaning":""
+                        "example":"我在机场工作了三年了。",
+                        "exampleBold":"我在<b>机场</b>工作了三年了。",
+                        "meaning":"Tôi đã làm việc ở sân bay trong ba năm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"鸡 蛋",
+        "word":"鸡蛋",
         "pronunciation":"",
         "meanings":[
             {
@@ -803,13 +806,13 @@
                 "meaning":"trứng",
                 "examples":[
                     {
-                        "example":"我 每 天 早 上 都 要 吃 个 〜。",
-                        "meaning":""
+                        "example":"我每天早上都要吃个鸡蛋。",
+                        "exampleBold":"我每天早上都要吃个<b>鸡蛋</b>。",
+                        "meaning":"Tôi phải ăn một quả trứng vào mỗi buổi sáng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"件",
@@ -820,16 +823,16 @@
                 "meaning":"dùng cho quần áo và đồ vật",
                 "examples":[
                     {
-                        "example":"这 〜衣 服 颜 色 非 常 好 看 。",
-                        "meaning":""
+                        "example":"这件衣服颜色非常好看。",
+                        "exampleBold":"这<b>件</b>衣服颜色非常好看。",
+                        "meaning":"Màu sắc của chiếc váy này rất đẹp."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"教 室",
+        "word":"教室",
         "pronunciation":"",
         "meanings":[
             {
@@ -837,16 +840,16 @@
                 "meaning":"phòng học",
                 "examples":[
                     {
-                        "example":"请 大 家 都 到 〜去 上 课 。",
-                        "meaning":""
+                        "example":"请大家都到教室去上课。",
+                        "exampleBold":"请大家都到<b>教室</b>去上课。",
+                        "meaning":"Mọi người vào lớp nhé."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"姐 姐",
+        "word":"姐姐",
         "pronunciation":"",
         "meanings":[
             {
@@ -854,16 +857,16 @@
                 "meaning":"chị gái",
                 "examples":[
                     {
-                        "example":"我 有 两 个 〜。",
-                        "meaning":""
+                        "example":"我有两个姐姐。",
+                        "exampleBold":"我有两个<b>姐姐</b>。",
+                        "meaning":"Tôi có hai chị em gái."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"介 绍",
+        "word":"介绍",
         "pronunciation":"",
         "meanings":[
             {
@@ -871,13 +874,13 @@
                 "meaning":"giới thiệu (ai hay vật)",
                 "examples":[
                     {
-                        "example":"我 来 〜一 下 我 的 朋 友 。",
-                        "meaning":""
+                        "example":"我来介绍一下我的朋友。",
+                        "exampleBold":"我来<b>介绍</b>一下我的朋友。",
+                        "meaning":"Hãy để tôi giới thiệu bạn của tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"进",
@@ -888,13 +891,13 @@
                 "meaning":"bước vào",
                 "examples":[
                     {
-                        "example":"我 马 上 要 〜机 场 了 。",
-                        "meaning":""
+                        "example":"我马上要进机场了。",
+                        "exampleBold":"我马上要<b>进</b>机场了。",
+                        "meaning":"Tôi sẽ đến sân bay sớm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"近",
@@ -905,13 +908,13 @@
                 "meaning":"sát; gần",
                 "examples":[
                     {
-                        "example":"我 们 家 离 公 司 很 〜。",
-                        "meaning":""
+                        "example":"我们家离公司很近。",
+                        "exampleBold":"我们家离公司很<b>近</b>。",
+                        "meaning":"Nhà của chúng tôi rất gần công ty."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"就",
@@ -922,8 +925,9 @@
                 "meaning":"chỉ ra sự không chắc chắn; ngay trên",
                 "examples":[
                     {
-                        "example":"我 〜知 道 他 会 来 的 。",
-                        "meaning":""
+                        "example":"我就知道他会来的。",
+                        "exampleBold":"我<b>就</b>知道他会来的。",
+                        "meaning":"Tôi biết anh ấy sẽ đến."
                     }
                 ]
             },
@@ -932,16 +936,16 @@
                 "meaning":"ngay; ngay bây giờ; ngay lập tức",
                 "examples":[
                     {
-                        "example":"我 一 到 家 〜给 他 打 电 话 。",
-                        "meaning":""
+                        "example":"我一到家就给他打电话。",
+                        "exampleBold":"我一到家<b>就</b>给他打电话。",
+                        "meaning":"Tôi sẽ gọi cho anh ấy ngay khi tôi về đến nhà."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"觉 得",
+        "word":"觉得",
         "pronunciation":"",
         "meanings":[
             {
@@ -949,16 +953,16 @@
                 "meaning":"cảm thấy; nghĩ",
                 "examples":[
                     {
-                        "example":"你 〜这 本 书 怎 么 样 ？",
-                        "meaning":""
+                        "example":"你觉得这本书怎么样？",
+                        "exampleBold":"你<b>觉得</b>这本书怎么样？",
+                        "meaning":"Bạn nghĩ gì về cuốn sách này?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"咖 啡",
+        "word":"咖啡",
         "pronunciation":"",
         "meanings":[
             {
@@ -966,16 +970,16 @@
                 "meaning":"cà phê",
                 "examples":[
                     {
-                        "example":"您 想 喝 〜，还 是 茶 ？",
-                        "meaning":""
+                        "example":"您想喝咖啡，还是茶？",
+                        "exampleBold":"您想喝<b>咖啡</b>，还是茶？",
+                        "meaning":"Bạn muốn trà hay cà phê?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"开 始",
+        "word":"开始",
         "pronunciation":"",
         "meanings":[
             {
@@ -983,16 +987,16 @@
                 "meaning":"bắt đầu; khởi đầu",
                 "examples":[
                     {
-                        "example":"我 们 从 第 十 课 〜学 习 。",
-                        "meaning":""
+                        "example":"我们从第十课开始学习。",
+                        "exampleBold":"我们从第十课<b>开始</b>学习。",
+                        "meaning":"Hãy bắt đầu với bài học thứ mười."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"考 试",
+        "word":"考试",
         "pronunciation":"",
         "meanings":[
             {
@@ -1000,16 +1004,16 @@
                 "meaning":"kiểm tra / làm bài kiểm tra",
                 "examples":[
                     {
-                        "example":"为 了 准 备 〜，他 每 天 都 学 习 到 很 晚 。",
-                        "meaning":""
+                        "example":"为了准备考试，他每天都学习到很晚。",
+                        "exampleBold":"为了准备<b>考试</b>，他每天都学习到很晚。",
+                        "meaning":"Để chuẩn bị cho kỳ thi, anh ấy học muộn mỗi ngày."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"可 能",
+        "word":"可能",
         "pronunciation":"",
         "meanings":[
             {
@@ -1017,16 +1021,16 @@
                 "meaning":"có thể",
                 "examples":[
                     {
-                        "example":"我 〜不 能 去 上 班 了 。",
-                        "meaning":""
+                        "example":"我可能不能去上班了。",
+                        "exampleBold":"我<b>可能</b>不能去上班了。",
+                        "meaning":"Tôi có thể không thể đi làm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"可 以",
+        "word":"可以",
         "pronunciation":"",
         "meanings":[
             {
@@ -1034,13 +1038,13 @@
                 "meaning":"có thể",
                 "examples":[
                     {
-                        "example":"你 〜开 我 的 车 去 上 班 。",
-                        "meaning":""
+                        "example":"你可以开我的车去上班。",
+                        "exampleBold":"你<b>可以</b>开我的车去上班。",
+                        "meaning":"Bạn có thể lái xe của tôi để làm việc."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"课",
@@ -1051,8 +1055,9 @@
                 "meaning":"bài học",
                 "examples":[
                     {
-                        "example":"今 天 我 们 学 习 第 一〜 。",
-                        "meaning":""
+                        "example":"今天我们学习第一课。",
+                        "exampleBold":"今天我们学习第一<b>课</b>。",
+                        "meaning":"Hôm nay chúng ta học bài đầu tiên."
                     }
                 ]
             },
@@ -1061,13 +1066,13 @@
                 "meaning":"lớp học",
                 "examples":[
                     {
-                        "example":"现 在 ，我 们 上 〜。",
-                        "meaning":""
+                        "example":"现在，我们上课。",
+                        "exampleBold":"现在，我们上<b>课</b>。",
+                        "meaning":"Bây giờ chúng ta có lớp học."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"快",
@@ -1078,8 +1083,9 @@
                 "meaning":"nhanh",
                 "examples":[
                     {
-                        "example":"他 跑 得 真 〜。",
-                        "meaning":""
+                        "example":"他跑得真快。",
+                        "exampleBold":"他跑得真<b>快</b>。",
+                        "meaning":"Anh ấy chạy rất nhanh."
                     }
                 ]
             },
@@ -1088,16 +1094,16 @@
                 "meaning":"sẽ; sắp",
                 "examples":[
                     {
-                        "example":"7 点 50 了 ， 〜上 课 了",
-                        "meaning":""
+                        "example":"7点50了，快上课了",
+                        "exampleBold":"7点50了，<b>快</b>上课了",
+                        "meaning":"Bây giờ là 7:50 và lớp học sắp bắt đầu"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"快 乐",
+        "word":"快乐",
         "pronunciation":"",
         "meanings":[
             {
@@ -1105,13 +1111,13 @@
                 "meaning":"vui mừng; hân hoan; vui lòng; vui vẻ",
                 "examples":[
                     {
-                        "example":"祝 你 生 日 〜！",
-                        "meaning":""
+                        "example":"祝你生日快乐！",
+                        "exampleBold":"祝你生日<b>快乐</b>！",
+                        "meaning":"chúc mừng sinh nhật!"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"累",
@@ -1122,13 +1128,13 @@
                 "meaning":"mệt mỏi;",
                 "examples":[
                     {
-                        "example":"我 〜了 ，想 休 息 。",
-                        "meaning":""
+                        "example":"我累了，想休息。",
+                        "exampleBold":"我<b>累</b>了，想休息。",
+                        "meaning":"Tôi mệt mỏi và muốn nghỉ ngơi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"禺",
@@ -1139,13 +1145,13 @@
                 "meaning":"tránh xa",
                 "examples":[
                     {
-                        "example":"我 家 〜学 校 很 近 。",
-                        "meaning":""
+                        "example":"我家禺学校很近。",
+                        "exampleBold":"我家<b>禺</b>学校很近。",
+                        "meaning":"Gia đình tôi trường Yu rất gần."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"两",
@@ -1156,13 +1162,13 @@
                 "meaning":"số 2",
                 "examples":[
                     {
-                        "example":"苹 果 〜块 钱 一 斤 。",
-                        "meaning":""
+                        "example":"苹果两块钱一斤。",
+                        "exampleBold":"苹果<b>两</b>块钱一斤。",
+                        "meaning":"Apple là hai nhân dân tệ một bảng Anh."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"路",
@@ -1173,8 +1179,9 @@
                 "meaning":"con đường",
                 "examples":[
                     {
-                        "example":"我 每 天 走 〜去 上 学 。",
-                        "meaning":""
+                        "example":"我每天走路去上学。",
+                        "exampleBold":"我每天走<b>路</b>去上学。",
+                        "meaning":"Tôi đi bộ đến trường mỗi ngày."
                     }
                 ]
             },
@@ -1183,16 +1190,16 @@
                 "meaning":"được sử dụng để chỉ một tuyến đường xe buýt",
                 "examples":[
                     {
-                        "example":"我 们 可 以 坐 10〜 公 共 汽 车 去 。",
-                        "meaning":""
+                        "example":"我们可以坐10路公共汽车去。",
+                        "exampleBold":"我们可以坐10<b>路</b>公共汽车去。",
+                        "meaning":"Chúng ta có thể đến đó bằng xe buýt số 10."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"旅 游",
+        "word":"旅游",
         "pronunciation":"",
         "meanings":[
             {
@@ -1200,13 +1207,13 @@
                 "meaning":"du lịch",
                 "examples":[
                     {
-                        "example":"我 们 开 车 去 〜。",
-                        "meaning":""
+                        "example":"我们开车去旅游。",
+                        "exampleBold":"我们开车去<b>旅游</b>。",
+                        "meaning":"Chúng tôi lái xe để đi du lịch."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"卖",
@@ -1217,13 +1224,13 @@
                 "meaning":"bán",
                 "examples":[
                     {
-                        "example":"这 个 商 店 〜的 东 西 比 较 便 宜 。",
-                        "meaning":""
+                        "example":"这个商店卖的东西比较便宜。",
+                        "exampleBold":"这个商店<b>卖</b>的东西比较便宜。",
+                        "meaning":"Những thứ được bán trong cửa hàng này rẻ hơn."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"慢",
@@ -1234,13 +1241,13 @@
                 "meaning":"chậm",
                 "examples":[
                     {
-                        "example":"我 们 走 得 很 〜。",
-                        "meaning":""
+                        "example":"我们走得很慢。",
+                        "exampleBold":"我们走得很<b>慢</b>。",
+                        "meaning":"Chúng tôi đi bộ rất chậm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"忙",
@@ -1251,13 +1258,13 @@
                 "meaning":"bận rộn",
                 "examples":[
                     {
-                        "example":"这 个 星 期 ，我 很 〜。",
-                        "meaning":""
+                        "example":"这个星期，我很忙。",
+                        "exampleBold":"这个星期，我很<b>忙</b>。",
+                        "meaning":"Tuần này, tôi rất bận."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"猫",
@@ -1268,13 +1275,13 @@
                 "meaning":"mèo",
                 "examples":[
                     {
-                        "example":"你 的 小 〜去 哪 儿 了 ？",
-                        "meaning":""
+                        "example":"你的小猫去哪儿了？",
+                        "exampleBold":"你的小<b>猫</b>去哪儿了？",
+                        "meaning":"Con mèo con của bạn đã đi đâu?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"每",
@@ -1285,16 +1292,16 @@
                 "meaning":"mỗi",
                 "examples":[
                     {
-                        "example":"你 〜天 都 看 报 纸 吗 ？",
-                        "meaning":""
+                        "example":"你每天都看报纸吗？",
+                        "exampleBold":"你<b>每</b>天都看报纸吗？",
+                        "meaning":"Bạn có đọc báo mỗi ngày không?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"妹 妹",
+        "word":"妹妹",
         "pronunciation":"",
         "meanings":[
             {
@@ -1302,13 +1309,13 @@
                 "meaning":"em gái",
                 "examples":[
                     {
-                        "example":"我 有 两 个 〜。",
-                        "meaning":""
+                        "example":"我有两个妹妹。",
+                        "exampleBold":"我有两个<b>妹妹</b>。",
+                        "meaning":"Tôi có hai em gái."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"门",
@@ -1319,13 +1326,13 @@
                 "meaning":"lối ra và lối vào; ngỏ vào trước nhà",
                 "examples":[
                     {
-                        "example":"我 在 〜外 等 你 。",
-                        "meaning":""
+                        "example":"我在门外等你。",
+                        "exampleBold":"我在<b>门</b>外等你。",
+                        "meaning":"Tôi đang đợi bạn ở cửa."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"男",
@@ -1336,13 +1343,13 @@
                 "meaning":"đàn ông, con trai",
                 "examples":[
                     {
-                        "example":"我 不 认 识 那 个 〜人 。",
-                        "meaning":""
+                        "example":"我不认识那个男人。",
+                        "exampleBold":"我不认识那个<b>男</b>人。",
+                        "meaning":"Tôi không biết người đàn ông đó."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"您",
@@ -1353,16 +1360,16 @@
                 "meaning":"bạn hoặc của bạn (được sử dụng để xưng hô với ai đó một cách tôn trọng)",
                 "examples":[
                     {
-                        "example":"老 师 ， 〜好 ！",
-                        "meaning":""
+                        "example":"老师，您好！",
+                        "exampleBold":"老师，<b>您</b>好！",
+                        "meaning":"Xin chào thầy!"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"牛 奶",
+        "word":"牛奶",
         "pronunciation":"",
         "meanings":[
             {
@@ -1370,13 +1377,13 @@
                 "meaning":"sữa",
                 "examples":[
                     {
-                        "example":"睡 觉 前 喝 杯 〜吧 。",
-                        "meaning":""
+                        "example":"睡觉前喝杯牛奶吧。",
+                        "exampleBold":"睡觉前喝杯<b>牛奶</b>吧。",
+                        "meaning":"Uống một ly sữa trước khi đi ngủ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"女",
@@ -1387,16 +1394,16 @@
                 "meaning":"phụ nữ, con gái",
                 "examples":[
                     {
-                        "example":"",
-                        "meaning":""
+                        "example":"那个女人你认识吗？",
+                        "exampleBold":"那个<b>女</b>人你认识吗？",
+                        "meaning":"Bạn có biết người phụ nữ đó không?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"旁 边",
+        "word":"旁边",
         "pronunciation":"",
         "meanings":[
             {
@@ -1404,16 +1411,16 @@
                 "meaning":"bên; bên cạnh; gần đây",
                 "examples":[
                     {
-                        "example":"爸 爸 在 我 〜。",
-                        "meaning":""
+                        "example":"爸爸在我旁边。",
+                        "exampleBold":"爸爸在我<b>旁边</b>。",
+                        "meaning":"Bố ở bên cạnh tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"跑 步",
+        "word":"跑步",
         "pronunciation":"",
         "meanings":[
             {
@@ -1421,16 +1428,16 @@
                 "meaning":"chạy; chạy bộ",
                 "examples":[
                     {
-                        "example":"我 每 天 早 上 都 〜。",
-                        "meaning":""
+                        "example":"我每天早上都跑步。",
+                        "exampleBold":"我每天早上都<b>跑步</b>。",
+                        "meaning":"Tôi chạy mỗi sáng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"便 宜",
+        "word":"便宜",
         "pronunciation":"",
         "meanings":[
             {
@@ -1438,13 +1445,13 @@
                 "meaning":"rẻ; không mắc",
                 "examples":[
                     {
-                        "example":"苹 果 很 〜，我 们 买 点 儿 吧 。",
-                        "meaning":""
+                        "example":"苹果很便宜，我们买点儿吧。",
+                        "exampleBold":"苹果很<b>便宜</b>，我们买点儿吧。",
+                        "meaning":"Táo rất rẻ, chúng ta hãy mua một ít."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"票",
@@ -1455,16 +1462,16 @@
                 "meaning":"vé",
                 "examples":[
                     {
-                        "example":"我 要 去 火 车 站 买 车 〜。",
-                        "meaning":""
+                        "example":"我要去火车站买车票。",
+                        "exampleBold":"我要去火车站买车<b>票</b>。",
+                        "meaning":"Tôi sẽ ra ga để mua vé."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"妻 子",
+        "word":"妻子",
         "pronunciation":"",
         "meanings":[
             {
@@ -1472,16 +1479,16 @@
                 "meaning":"vợ",
                 "examples":[
                     {
-                        "example":"我 〜上 班 去 了 。",
-                        "meaning":""
+                        "example":"我妻子上班去了。",
+                        "exampleBold":"我<b>妻子</b>上班去了。",
+                        "meaning":"Vợ tôi đã đi làm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"起 床",
+        "word":"起床",
         "pronunciation":"",
         "meanings":[
             {
@@ -1489,13 +1496,13 @@
                 "meaning":"trỗi dậy (khỏi giường); thức dậy",
                 "examples":[
                     {
-                        "example":"我 早 上 七 点 〜。",
-                        "meaning":""
+                        "example":"我早上七点起床。",
+                        "exampleBold":"我早上七点<b>起床</b>。",
+                        "meaning":"Tôi thức dậy lúc bảy giờ sáng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"千",
@@ -1506,16 +1513,16 @@
                 "meaning":"nghìn",
                 "examples":[
                     {
-                        "example":"这 个 手 机 一 〜元 。",
-                        "meaning":""
+                        "example":"这个手机一千元。",
+                        "exampleBold":"这个手机一<b>千</b>元。",
+                        "meaning":"Điện thoại di động này là một nghìn nhân dân tệ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"铅 笔",
+        "word":"铅笔",
         "pronunciation":"",
         "meanings":[
             {
@@ -1523,13 +1530,13 @@
                 "meaning":"bút chì",
                 "examples":[
                     {
-                        "example":"你 看 见 我 的 〜了 吗 ？",
-                        "meaning":""
+                        "example":"你看见我的铅笔了吗？",
+                        "exampleBold":"你看见我的<b>铅笔</b>了吗？",
+                        "meaning":"Bạn có thấy bút chì của tôi không?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"晴",
@@ -1540,16 +1547,16 @@
                 "meaning":"tốt; rõ ràng",
                 "examples":[
                     {
-                        "example":"今 天 是 〜天 。",
-                        "meaning":""
+                        "example":"今天是晴天。",
+                        "exampleBold":"今天是<b>晴</b>天。",
+                        "meaning":"hôm nay trời nắng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"去 年",
+        "word":"去年",
         "pronunciation":"",
         "meanings":[
             {
@@ -1557,13 +1564,13 @@
                 "meaning":"năm ngoái; năm trước",
                 "examples":[
                     {
-                        "example":"我 是 〜8 月 来 北 京 的 。",
-                        "meaning":""
+                        "example":"我是去年8月来北京的。",
+                        "exampleBold":"我是<b>去年</b>8月来北京的。",
+                        "meaning":"Tôi đến Bắc Kinh vào tháng 8 năm ngoái."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"让",
@@ -1574,13 +1581,13 @@
                 "meaning":"để cho; cho phép; làm; hỏi",
                 "examples":[
                     {
-                        "example":"他 爸 爸 不 〜他 来 。",
-                        "meaning":""
+                        "example":"他爸爸不让他来。",
+                        "exampleBold":"他爸爸不<b>让</b>他来。",
+                        "meaning":"Cha anh ấy không cho anh ấy đến."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"日",
@@ -1591,16 +1598,16 @@
                 "meaning":"ngày",
                 "examples":[
                     {
-                        "example":"今 天 是 2 0 1 2 年 2 月 2 6 〜 。",
-                        "meaning":""
+                        "example":"今天是2012年2月26日。",
+                        "exampleBold":"今天是2012年2月26<b>日</b>。",
+                        "meaning":"Hôm nay là ngày 26 tháng 2 năm 2012."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"上 班",
+        "word":"上班",
         "pronunciation":"",
         "meanings":[
             {
@@ -1608,16 +1615,16 @@
                 "meaning":"đi làm",
                 "examples":[
                     {
-                        "example":"我 七 点 半 去 〜。",
-                        "meaning":""
+                        "example":"我七点半去上班。",
+                        "exampleBold":"我七点半去<b>上班</b>。",
+                        "meaning":"Tôi đi làm lúc bảy giờ rưỡi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"身 体",
+        "word":"身体",
         "pronunciation":"",
         "meanings":[
             {
@@ -1625,16 +1632,16 @@
                 "meaning":"cơ thể (người hay động vật)",
                 "examples":[
                     {
-                        "example":"今 天 我 的 〜不 太 舒 服 。",
-                        "meaning":""
+                        "example":"今天我的身体不太舒服。",
+                        "exampleBold":"今天我的<b>身体</b>不太舒服。",
+                        "meaning":"Hôm nay cơ thể tôi không được khỏe."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"生 病",
+        "word":"生病",
         "pronunciation":"",
         "meanings":[
             {
@@ -1642,16 +1649,16 @@
                 "meaning":"ngã bệnh; bị ốm",
                 "examples":[
                     {
-                        "example":"我 〜了 ，不 能 去 上 班 了 。",
-                        "meaning":""
+                        "example":"我生病了，不能去上班了。",
+                        "exampleBold":"我<b>生病</b>了，不能去上班了。",
+                        "meaning":"Tôi bị ốm và không thể đi làm."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"生 日",
+        "word":"生日",
         "pronunciation":"",
         "meanings":[
             {
@@ -1659,16 +1666,16 @@
                 "meaning":"sinh nhật",
                 "examples":[
                     {
-                        "example":"祝 你 〜快 乐 ！",
-                        "meaning":""
+                        "example":"祝你生日快乐！",
+                        "exampleBold":"祝你<b>生日</b>快乐！",
+                        "meaning":"chúc mừng sinh nhật!"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"时 间",
+        "word":"时间",
         "pronunciation":"",
         "meanings":[
             {
@@ -1676,16 +1683,16 @@
                 "meaning":"thời gian",
                 "examples":[
                     {
-                        "example":"我 没 〜去 北 京 。",
-                        "meaning":""
+                        "example":"我没时间去北京。",
+                        "exampleBold":"我没<b>时间</b>去北京。",
+                        "meaning":"Tôi không có thời gian để đến Bắc Kinh."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"事 情",
+        "word":"事情",
         "pronunciation":"",
         "meanings":[
             {
@@ -1693,16 +1700,16 @@
                 "meaning":"vấn đề; hoàn cảnh; biến cố; biến cố",
                 "examples":[
                     {
-                        "example":"你 下 午 有 什 么 〜吗 ？",
-                        "meaning":""
+                        "example":"你下午有什么事情吗？",
+                        "exampleBold":"你下午有什么<b>事情</b>吗？",
+                        "meaning":"Bạn có gì chiều nay không?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"手 表",
+        "word":"手表",
         "pronunciation":"",
         "meanings":[
             {
@@ -1710,16 +1717,16 @@
                 "meaning":"đồng hồ đeo tay",
                 "examples":[
                     {
-                        "example":"这 块 〜非 常 漂 亮 。",
-                        "meaning":""
+                        "example":"这块手表非常漂亮。",
+                        "exampleBold":"这块<b>手表</b>非常漂亮。",
+                        "meaning":"Đồng hồ này rất đẹp."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"手 机 ",
+        "word":"手机",
         "pronunciation":"",
         "meanings":[
             {
@@ -1727,13 +1734,13 @@
                 "meaning":"điện thoại di động",
                 "examples":[
                     {
-                        "example":"你 看 ，我 新 买 了 一 个 〜。",
-                        "meaning":""
+                        "example":"你看，我新买了一个手机。",
+                        "exampleBold":"你看，我新买了一个<b>手机</b>。",
+                        "meaning":"Bạn thấy đấy, tôi đã mua một chiếc điện thoại di động mới."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"送",
@@ -1744,13 +1751,13 @@
                 "meaning":"tặng (cái gì) như 1 món quà",
                 "examples":[
                     {
-                        "example":"我 〜你 一 本 书 。",
-                        "meaning":""
+                        "example":"我送你一本书。",
+                        "exampleBold":"我<b>送</b>你一本书。",
+                        "meaning":"Tôi đưa cho bạn một cuốn sách."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"虽然。。。但是。。。",
@@ -1761,13 +1768,13 @@
                 "meaning":"mặc dù...tuy nhiên...",
                 "examples":[
                     {
-                        "example":"〜下 雨 了 ， 〜我 们 还 是 想 去 看 电 影 。",
-                        "meaning":""
+                        "example":"虽然下雨了，但是我们还是想去看电影。",
+                        "exampleBold":"虽然下雨了，但是我们还是想去看电影。",
+                        "meaning":"Dù trời mưa nhưng chúng tôi vẫn muốn đi xem phim."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"它",
@@ -1778,16 +1785,16 @@
                 "meaning":"nó",
                 "examples":[
                     {
-                        "example":"我 知 道 小 猫 在 哪 儿 ，〜在 桌 子 下 面 。",
-                        "meaning":""
+                        "example":"我知道小猫在哪儿，它在桌子下面。",
+                        "exampleBold":"我知道小猫在哪儿，<b>它</b>在桌子下面。",
+                        "meaning":"Tôi biết con mèo con ở đâu, nó ở dưới gầm bàn."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"踢 足 球 ",
+        "word":"踢足球",
         "pronunciation":"",
         "meanings":[
             {
@@ -1795,13 +1802,13 @@
                 "meaning":"chơi bóng đá",
                 "examples":[
                     {
-                        "example":"我 和 同 学 们 在 〜。",
-                        "meaning":""
+                        "example":"我和同学们在踢足球。",
+                        "exampleBold":"我和同学们在<b>踢足球</b>。",
+                        "meaning":"Các bạn cùng lớp của tôi và tôi đang chơi bóng đá."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"题",
@@ -1812,16 +1819,16 @@
                 "meaning":"câu hỏi, vấn đề (trong bài thi hay bài trắc nghiệm)",
                 "examples":[
                     {
-                        "example":"这 个 〜我 不 会 做 。",
-                        "meaning":""
+                        "example":"这个题我不会做。",
+                        "exampleBold":"这个<b>题</b>我不会做。",
+                        "meaning":"Tôi không thể làm câu hỏi này."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"跳 舞 ",
+        "word":"跳舞",
         "pronunciation":"",
         "meanings":[
             {
@@ -1829,13 +1836,13 @@
                 "meaning":"nhảy (múa)",
                 "examples":[
                     {
-                        "example":"妹 妹 会 唱 歌 ， 也 会 〜。",
-                        "meaning":""
+                        "example":"妹妹会唱歌，也会跳舞。",
+                        "exampleBold":"妹妹会唱歌，也会<b>跳舞</b>。",
+                        "meaning":"Em gái tôi có thể hát và nhảy."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"外",
@@ -1846,13 +1853,13 @@
                 "meaning":"bên ngoài; ở ngoài",
                 "examples":[
                     {
-                        "example":"〜面 下 雨 了 。",
-                        "meaning":""
+                        "example":"外面下雨了。",
+                        "exampleBold":"<b>外</b>面下雨了。",
+                        "meaning":"ngoài trời đang mưa."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"完",
@@ -1863,13 +1870,13 @@
                 "meaning":"cho biết đã hoàn thành; được sử dụng hết; cạn kiệt",
                 "examples":[
                     {
-                        "example":"这 本 书 我 看 〜了 。",
-                        "meaning":""
+                        "example":"这本书我看完了。",
+                        "exampleBold":"这本书我看<b>完</b>了。",
+                        "meaning":"Tôi đã đọc xong cuốn sách này."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"玩",
@@ -1880,16 +1887,16 @@
                 "meaning":"chơi",
                 "examples":[
                     {
-                        "example":"他 在 〜，没 有 学 习 。",
-                        "meaning":""
+                        "example":"他在玩，没有学习。",
+                        "exampleBold":"他在<b>玩</b>，没有学习。",
+                        "meaning":"Anh ấy đang chơi, không học."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"晚 上 ",
+        "word":"晚上",
         "pronunciation":"",
         "meanings":[
             {
@@ -1897,16 +1904,16 @@
                 "meaning":"buổi tối",
                 "examples":[
                     {
-                        "example":"今 天 〜我 不 能 看 电 视 了 。",
-                        "meaning":""
+                        "example":"今天晚上我不能看电视了。",
+                        "exampleBold":"今天<b>晚上</b>我不能看电视了。",
+                        "meaning":"Tôi không thể xem TV tối nay."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"为 什 么",
+        "word":"为什么",
         "pronunciation":"",
         "meanings":[
             {
@@ -1914,13 +1921,13 @@
                 "meaning":"tại sao",
                 "examples":[
                     {
-                        "example":"你 〜不 喝 点 儿 水 呢 ？",
-                        "meaning":""
+                        "example":"你为什么不喝点儿水呢？",
+                        "exampleBold":"你<b>为什么</b>不喝点儿水呢？",
+                        "meaning":"Tại sao bạn không uống một chút nước?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"问",
@@ -1931,16 +1938,16 @@
                 "meaning":"hỏi; hỏi sau",
                 "examples":[
                     {
-                        "example":"老 师 ，我 可 以 〜你 一 个 问 题 吗 ？",
-                        "meaning":""
+                        "example":"老师，我可以问你一个问题吗？",
+                        "exampleBold":"老师，我可以<b>问</b>你一个问题吗？",
+                        "meaning":"Thầy ơi cho em hỏi 1 câu được không ạ?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"问 题",
+        "word":"问题",
         "pronunciation":"",
         "meanings":[
             {
@@ -1948,16 +1955,16 @@
                 "meaning":"câu hỏi; vấn đề",
                 "examples":[
                     {
-                        "example":"这 个 〜太 难 了 ！",
-                        "meaning":""
+                        "example":"这个问题太难了！",
+                        "exampleBold":"这个<b>问题</b>太难了！",
+                        "meaning":"Câu hỏi này khó quá!"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"西 瓜",
+        "word":"西瓜",
         "pronunciation":"",
         "meanings":[
             {
@@ -1965,16 +1972,16 @@
                 "meaning":"dưa hấu",
                 "examples":[
                     {
-                        "example":"请 吃 块 儿 〜。",
-                        "meaning":""
+                        "example":"请吃块儿西瓜。",
+                        "exampleBold":"请吃块儿<b>西瓜</b>。",
+                        "meaning":"Xin vui lòng có một miếng dưa hấu."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"希 望",
+        "word":"希望",
         "pronunciation":"",
         "meanings":[
             {
@@ -1982,13 +1989,13 @@
                 "meaning":"mong; ước; muốn; khao khát",
                 "examples":[
                     {
-                        "example":"我 〜你 别 走 了 。",
-                        "meaning":""
+                        "example":"我希望你别走了。",
+                        "exampleBold":"我<b>希望</b>你别走了。",
+                        "meaning":"Tôi hy vọng bạn không rời đi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"洗",
@@ -1999,16 +2006,16 @@
                 "meaning":"rửa",
                 "examples":[
                     {
-                        "example":"今 天 我 要 〜很 多 衣 服 。",
-                        "meaning":""
+                        "example":"今天我要洗很多衣服。",
+                        "exampleBold":"今天我要<b>洗</b>很多衣服。",
+                        "meaning":"Hôm nay tôi phải giặt rất nhiều quần áo."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"小 时",
+        "word":"小时",
         "pronunciation":"",
         "meanings":[
             {
@@ -2016,16 +2023,16 @@
                 "meaning":"giờ",
                 "examples":[
                     {
-                        "example":"我 看 了 一 〜的 书 。",
-                        "meaning":""
+                        "example":"我看了一小时的书。",
+                        "exampleBold":"我看了一<b>小时</b>的书。",
+                        "meaning":"Tôi đọc cuốn sách trong một giờ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"笑 ",
+        "word":"笑",
         "pronunciation":"",
         "meanings":[
             {
@@ -2033,13 +2040,13 @@
                 "meaning":"cười; mỉm cười",
                 "examples":[
                     {
-                        "example":"听 到 他 这 么 说 ，我 们 都 〜了 。",
-                        "meaning":""
+                        "example":"听到他这么说，我们都笑了。",
+                        "exampleBold":"听到他这么说，我们都<b>笑</b>了。",
+                        "meaning":"Tất cả chúng tôi đều bật cười khi nghe anh ấy nói vậy."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"新",
@@ -2050,13 +2057,13 @@
                 "meaning":"mới; kiểu tối tân",
                 "examples":[
                     {
-                        "example":"这 是 我 买 的 〜衣 服 。",
-                        "meaning":""
+                        "example":"这是我买的新衣服。",
+                        "exampleBold":"这是我买的<b>新</b>衣服。",
+                        "meaning":"Đây là chiếc váy tôi mới mua."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"姓",
@@ -2067,8 +2074,9 @@
                 "meaning":"họ",
                 "examples":[
                     {
-                        "example":"中 国 人 的 〜在 名 字 的 前 面 。",
-                        "meaning":""
+                        "example":"中国人的姓在名字的前面。",
+                        "exampleBold":"中国人的<b>姓</b>在名字的前面。",
+                        "meaning":"Họ của Trung Quốc đứng trước tên đầu tiên."
                     }
                 ]
             },
@@ -2077,16 +2085,16 @@
                 "meaning":"lấy họ ...",
                 "examples":[
                     {
-                        "example":"我 〜张 。",
-                        "meaning":""
+                        "example":"我姓张。",
+                        "exampleBold":"我<b>姓</b>张。",
+                        "meaning":"Họ của tôi là Zhang."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"休 息",
+        "word":"休息",
         "pronunciation":"",
         "meanings":[
             {
@@ -2094,13 +2102,13 @@
                 "meaning":"thư giãn; nghỉ ngơi; nghỉ ngơi một lát",
                 "examples":[
                     {
-                        "example":"太 累 了 ，让 我 〜一 下 。",
-                        "meaning":""
+                        "example":"太累了，让我休息一下。",
+                        "exampleBold":"太累了，让我<b>休息</b>一下。",
+                        "meaning":"Tôi mệt quá, để tôi nghỉ ngơi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"雪",
@@ -2111,16 +2119,16 @@
                 "meaning":"tuyết",
                 "examples":[
                     {
-                        "example":"今 年 冬 天 下 了 几 次 大 〜。",
-                        "meaning":""
+                        "example":"今年冬天下了几次大雪。",
+                        "exampleBold":"今年冬天下了几次大<b>雪</b>。",
+                        "meaning":"Nó có tuyết rơi nhiều lần trong mùa đông này."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"颜 色",
+        "word":"颜色",
         "pronunciation":"",
         "meanings":[
             {
@@ -2128,16 +2136,16 @@
                 "meaning":"màu sắc",
                 "examples":[
                     {
-                        "example":"你 喜 欢 哪 种 〜？",
-                        "meaning":""
+                        "example":"你喜欢哪种颜色？",
+                        "exampleBold":"你喜欢哪种<b>颜色</b>？",
+                        "meaning":"Màu bạn thích là gì?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"眼 睛",
+        "word":"眼睛",
         "pronunciation":"",
         "meanings":[
             {
@@ -2145,16 +2153,16 @@
                 "meaning":"mắt",
                 "examples":[
                     {
-                        "example":"我 的 〜是 黑 色 的 。",
-                        "meaning":""
+                        "example":"我的眼睛是黑色的。",
+                        "exampleBold":"我的<b>眼睛</b>是黑色的。",
+                        "meaning":"Mắt tôi màu đen."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"羊 肉",
+        "word":"羊肉",
         "pronunciation":"",
         "meanings":[
             {
@@ -2162,13 +2170,13 @@
                 "meaning":"thịt cừu",
                 "examples":[
                     {
-                        "example":"有 些 人 不 爱 吃 〜。",
-                        "meaning":""
+                        "example":"有些人不爱吃羊肉。",
+                        "exampleBold":"有些人不爱吃<b>羊肉</b>。",
+                        "meaning":"Một số người không thích ăn thịt cừu."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"药",
@@ -2179,13 +2187,13 @@
                 "meaning":"thuốc (chữa bệnh)",
                 "examples":[
                     {
-                        "example":"这 个 〜一 天 吃 三 次 。",
-                        "meaning":""
+                        "example":"这个药一天吃三次。",
+                        "exampleBold":"这个<b>药</b>一天吃三次。",
+                        "meaning":"Uống thuốc này ba lần một ngày."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"要",
@@ -2196,8 +2204,9 @@
                 "meaning":"hi vọng; muốn",
                 "examples":[
                     {
-                        "example":"我 〜去 北 京 。",
-                        "meaning":""
+                        "example":"我要去北京。",
+                        "exampleBold":"我<b>要</b>去北京。",
+                        "meaning":"Tôi sẽ đi Bắc Kinh."
                     }
                 ]
             },
@@ -2206,8 +2215,9 @@
                 "meaning":"yêu cầu, hỏi ai làm gì",
                 "examples":[
                     {
-                        "example":"妈 妈 〜我 去 买 菜 。",
-                        "meaning":""
+                        "example":"妈妈要我去买菜。",
+                        "exampleBold":"妈妈<b>要</b>我去买菜。",
+                        "meaning":"Mẹ muốn tôi đi mua hàng tạp hóa."
                     }
                 ]
             },
@@ -2216,8 +2226,9 @@
                 "meaning":"phải; có thể; nên",
                 "examples":[
                     {
-                        "example":"你 〜认 真 地 做 这 件 事 。",
-                        "meaning":""
+                        "example":"你要认真地做这件事。",
+                        "exampleBold":"你<b>要</b>认真地做这件事。",
+                        "meaning":"Bạn phải làm điều này một cách nghiêm túc."
                     }
                 ]
             },
@@ -2226,8 +2237,9 @@
                 "meaning":"dự đinh, sẽ",
                 "examples":[
                     {
-                        "example":"〜下 雨 了 。",
-                        "meaning":""
+                        "example":"要下雨了。",
+                        "exampleBold":"<b>要</b>下雨了。",
+                        "meaning":"Nó sắp mưa."
                     }
                 ]
             },
@@ -2236,13 +2248,13 @@
                 "meaning":"tốn",
                 "examples":[
                     {
-                        "example":"一 斤 菜 〜两 块 钱 。",
-                        "meaning":""
+                        "example":"一斤菜要两块钱。",
+                        "exampleBold":"一斤菜<b>要</b>两块钱。",
+                        "meaning":"Một catty rau có giá hai nhân dân tệ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"也",
@@ -2253,16 +2265,16 @@
                 "meaning":"cũng thế; quá; cũng; hoặc",
                 "examples":[
                     {
-                        "example":"你 去 ，我 〜去 。",
-                        "meaning":""
+                        "example":"你去，我也去。",
+                        "exampleBold":"你去，我<b>也</b>去。",
+                        "meaning":"Bạn đi và tôi cũng sẽ đi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"一 下",
+        "word":"一下",
         "pronunciation":"",
         "meanings":[
             {
@@ -2270,16 +2282,16 @@
                 "meaning":"một lần; trong khoảng thời gian ngắn",
                 "examples":[
                     {
-                        "example":"请 等 我 〜。",
-                        "meaning":""
+                        "example":"请等我一下。",
+                        "exampleBold":"请等我<b>一下</b>。",
+                        "meaning":"Xin hãy đợi tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"一 起",
+        "word":"一起",
         "pronunciation":"",
         "meanings":[
             {
@@ -2287,16 +2299,16 @@
                 "meaning":"cùng nhau",
                 "examples":[
                     {
-                        "example":"我 和 你 〜去 北 京 。",
-                        "meaning":""
+                        "example":"我和你一起去北京。",
+                        "exampleBold":"我和你<b>一起</b>去北京。",
+                        "meaning":"Tôi sẽ đến Bắc Kinh với bạn."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"已 经",
+        "word":"已经",
         "pronunciation":"",
         "meanings":[
             {
@@ -2304,16 +2316,16 @@
                 "meaning":"đã sẵn sàng; chưa",
                 "examples":[
                     {
-                        "example":"我 们 〜吃 完 饭 了 。",
-                        "meaning":""
+                        "example":"我们已经吃完饭了。",
+                        "exampleBold":"我们<b>已经</b>吃完饭了。",
+                        "meaning":"Chúng tôi đã hoàn thành bữa ăn của mình."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"意 思",
+        "word":"意思",
         "pronunciation":"",
         "meanings":[
             {
@@ -2321,8 +2333,9 @@
                 "meaning":"ý nghĩa; nội dung; sự chỉ dẫn; dấu",
                 "examples":[
                     {
-                        "example":"这 个 词 是 什 么 〜？",
-                        "meaning":""
+                        "example":"这个词是什么意思？",
+                        "exampleBold":"这个词是什么<b>意思</b>？",
+                        "meaning":"Từ này có nghĩa là gì?"
                     }
                 ]
             },
@@ -2331,8 +2344,9 @@
                 "meaning":"ý kiến; ý tưởng",
                 "examples":[
                     {
-                        "example":"把 你 的 〜告 诉 我 吧 。",
-                        "meaning":""
+                        "example":"把你的意思告诉我吧。",
+                        "exampleBold":"把你的<b>意思</b>告诉我吧。",
+                        "meaning":"Nói tôi biết ý bạn là gì."
                     }
                 ]
             },
@@ -2341,16 +2355,16 @@
                 "meaning":"vui vẻ; thích thú; sự hưởng thụ",
                 "examples":[
                     {
-                        "example":"这 个 电 影 真 有 〜。",
-                        "meaning":""
+                        "example":"这个电影真有意思。",
+                        "exampleBold":"这个电影真有<b>意思</b>。",
+                        "meaning":"Bộ phim này thực sự rất thú vị."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"因 为 .....所 以 .....",
+        "word":"因为.....所以.....",
         "pronunciation":"",
         "meanings":[
             {
@@ -2358,13 +2372,13 @@
                 "meaning":"do là; bởi vì",
                 "examples":[
                     {
-                        "example":"〜下 雨 了 ， 〜我 没 去 跑 步 。",
-                        "meaning":""
+                        "example":"因为下雨了，所以我没去跑步。",
+                        "exampleBold":"因为下雨了，所以我没去跑步。",
+                        "meaning":"Vì trời mưa nên tôi không chạy."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"阴",
@@ -2375,16 +2389,16 @@
                 "meaning":"nhiều mây; u ám",
                 "examples":[
                     {
-                        "example":"今 天 是 〜天 。",
-                        "meaning":""
+                        "example":"今天是阴天。",
+                        "exampleBold":"今天是<b>阴</b>天。",
+                        "meaning":"Hôm nay trời nhiều mây."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"游 泳",
+        "word":"游泳",
         "pronunciation":"",
         "meanings":[
             {
@@ -2392,16 +2406,16 @@
                 "meaning":"bơi lội",
                 "examples":[
                     {
-                        "example":"我 会 〜了 。",
-                        "meaning":""
+                        "example":"我会游泳了。",
+                        "exampleBold":"我会<b>游泳</b>了。",
+                        "meaning":"Tôi có thể bơi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"右 边",
+        "word":"右边",
         "pronunciation":"",
         "meanings":[
             {
@@ -2409,13 +2423,13 @@
                 "meaning":"bên phải; phía bên phải",
                 "examples":[
                     {
-                        "example":"王 医 生 〜那 个 人 是 谁 ？",
-                        "meaning":""
+                        "example":"王医生右边那个人是谁？",
+                        "exampleBold":"王医生<b>右边</b>那个人是谁？",
+                        "meaning":"Người đàn ông bên phải bác sĩ Vương là ai?"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"鱼",
@@ -2426,13 +2440,13 @@
                 "meaning":"con cá",
                 "examples":[
                     {
-                        "example":"水 里 有 很 多 〜。",
-                        "meaning":""
+                        "example":"水里有很多鱼。",
+                        "exampleBold":"水里有很多<b>鱼</b>。",
+                        "meaning":"Có rất nhiều cá trong nước."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"远",
@@ -2443,16 +2457,16 @@
                 "meaning":"xa",
                 "examples":[
                     {
-                        "example":"我 家 离 公 司 很 〜。",
-                        "meaning":""
+                        "example":"我家离公司很远。",
+                        "exampleBold":"我家离公司很<b>远</b>。",
+                        "meaning":"Nhà tôi ở xa công ty."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"运 动",
+        "word":"运动",
         "pronunciation":"",
         "meanings":[
             {
@@ -2460,13 +2474,13 @@
                 "meaning":"tập thể dục",
                 "examples":[
                     {
-                        "example":"我 们 都 很 喜 欢 〜。",
-                        "meaning":""
+                        "example":"我们都很喜欢运动。",
+                        "exampleBold":"我们都很喜欢<b>运动</b>。",
+                        "meaning":"Tất cả chúng ta đều thích thể thao."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"再",
@@ -2477,8 +2491,9 @@
                 "meaning":"lại; lần nữa",
                 "examples":[
                     {
-                        "example":"我 吃 完 饭 〜去 商 店 。",
-                        "meaning":""
+                        "example":"我吃完饭再去商店。",
+                        "exampleBold":"我吃完饭<b>再</b>去商店。",
+                        "meaning":"Tôi sẽ đến cửa hàng sau khi ăn xong."
                     }
                 ]
             },
@@ -2487,16 +2502,16 @@
                 "meaning":"hơn; thêm nữa",
                 "examples":[
                     {
-                        "example":"〜尚 点 儿 ，现 在 太 低 了 。",
-                        "meaning":""
+                        "example":"再尚点儿，现在太低了。",
+                        "exampleBold":"<b>再</b>尚点儿，现在太低了。",
+                        "meaning":"Thêm một chút nữa, bây giờ nó quá thấp."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"早 上",
+        "word":"早上",
         "pronunciation":"",
         "meanings":[
             {
@@ -2504,16 +2519,16 @@
                 "meaning":"buổi sáng",
                 "examples":[
                     {
-                        "example":"我 〜看 见 过 他 。",
-                        "meaning":""
+                        "example":"我早上看见过他。",
+                        "exampleBold":"我<b>早上</b>看见过他。",
+                        "meaning":"Tôi đã nhìn thấy anh ấy vào buổi sáng."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"丈 夫",
+        "word":"丈夫",
         "pronunciation":"",
         "meanings":[
             {
@@ -2521,13 +2536,13 @@
                 "meaning":"chồng",
                 "examples":[
                     {
-                        "example":"我 〜在 医 院 工 作 。",
-                        "meaning":""
+                        "example":"我丈夫在医院工作。",
+                        "exampleBold":"我<b>丈夫</b>在医院工作。",
+                        "meaning":"Chồng tôi làm việc trong bệnh viện."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"找",
@@ -2538,13 +2553,13 @@
                 "meaning":"tìm; tìm kiếm",
                 "examples":[
                     {
-                        "example":"他 想 〜一 个 工 作 。",
-                        "meaning":""
+                        "example":"他想找一个工作。",
+                        "exampleBold":"他想<b>找</b>一个工作。",
+                        "meaning":"Anh ấy muốn tìm một công việc."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"着",
@@ -2555,13 +2570,13 @@
                 "meaning":"được sử dụng sau một động từ, cho biết rằng hành động bắt đầu và tiếp tục",
                 "examples":[
                     {
-                        "example":"他 笑 〜说 ：“你 不 认 识 我 ，但 是 我 认 识 你 。”",
-                        "meaning":""
+                        "example":"他笑着说：“你不认识我，但是我认识你。”",
+                        "exampleBold":"他笑<b>着</b>说：“你不认识我，但是我认识你。”",
+                        "meaning":"Anh cười và nói: \"Bạn không biết tôi, nhưng tôi biết bạn.\""
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"真",
@@ -2572,16 +2587,16 @@
                 "meaning":"trong quá trình; ở giữa; trong hành động của",
                 "examples":[
                     {
-                        "example":"弟 弟 〜打 篮 球 。",
-                        "meaning":""
+                        "example":"弟弟真打篮球。",
+                        "exampleBold":"弟弟<b>真</b>打篮球。",
+                        "meaning":"Em trai rất thích chơi bóng rổ."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"知 道",
+        "word":"知道",
         "pronunciation":"",
         "meanings":[
             {
@@ -2589,16 +2604,16 @@
                 "meaning":"biết; nhận thức",
                 "examples":[
                     {
-                        "example":"我 不 〜他 现 在 在 哪 里 。",
-                        "meaning":""
+                        "example":"我不知道他现在在哪里。",
+                        "exampleBold":"我不<b>知道</b>他现在在哪里。",
+                        "meaning":"Tôi không biết bây giờ anh ấy đang ở đâu."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"准 备",
+        "word":"准备",
         "pronunciation":"",
         "meanings":[
             {
@@ -2606,16 +2621,16 @@
                 "meaning":"sẽ đến; dự định; kế hoạch; chuẩn bị",
                 "examples":[
                     {
-                        "example":"我 〜星 期 日 去 北 京 。",
-                        "meaning":""
+                        "example":"我准备星期日去北京。",
+                        "exampleBold":"我<b>准备</b>星期日去北京。",
+                        "meaning":"Tôi sẽ đến Bắc Kinh vào Chủ nhật."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"自 行 车 ",
+        "word":"自行车",
         "pronunciation":"",
         "meanings":[
             {
@@ -2623,13 +2638,13 @@
                 "meaning":"xe đạp",
                 "examples":[
                     {
-                        "example":"这 是 我 新 买 的 〜。",
-                        "meaning":""
+                        "example":"这是我新买的自行车。",
+                        "exampleBold":"这是我新买的<b>自行车</b>。",
+                        "meaning":"Đây là chiếc xe đạp mới của tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"走",
@@ -2640,8 +2655,9 @@
                 "meaning":"đi bộ",
                 "examples":[
                     {
-                        "example":"我 女 儿 9 个 月 就 会 〜了 。",
-                        "meaning":""
+                        "example":"我女儿9个月就会走了。",
+                        "exampleBold":"我女儿9个月就会<b>走</b>了。",
+                        "meaning":"Con gái tôi sẽ ra đi sau 9 tháng nữa."
                     }
                 ]
             },
@@ -2650,13 +2666,13 @@
                 "meaning":"rời khỏi; đi chỗ khác; khởi hành",
                 "examples":[
                     {
-                        "example":"我 〜了 ，再 见 ！",
-                        "meaning":""
+                        "example":"我走了，再见！",
+                        "exampleBold":"我<b>走</b>了，再见！",
+                        "meaning":"Tôi đi đây, tạm biệt!"
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
         "word":"最",
@@ -2667,16 +2683,16 @@
                 "meaning":"nhất",
                 "examples":[
                     {
-                        "example":"她 是 我 〜好 的 朋 友 。",
-                        "meaning":""
+                        "example":"她是我最好的朋友。",
+                        "exampleBold":"她是我<b>最</b>好的朋友。",
+                        "meaning":"cô ấy là bạn thân nhất của tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     },
     {
-        "word":"左 边",
+        "word":"左边",
         "pronunciation":"",
         "meanings":[
             {
@@ -2684,12 +2700,12 @@
                 "meaning":"bên trái; phía bên trái",
                 "examples":[
                     {
-                        "example":"〜的 那 个 杯 子 是 你 的 ， 右 边 的 是 我 的 。",
-                        "meaning":""
+                        "example":"左边的那个杯子是你的，右边的是我的。",
+                        "exampleBold":"<b>左边</b>的那个杯子是你的，右边的是我的。",
+                        "meaning":"Chiếc cốc bên trái là của bạn, và chiếc cốc bên phải là của tôi."
                     }
                 ]
             }
-        ],
-        "topicId":"ow5qqf1bez47qhjcnad4"
+        ]
     }
 ]
