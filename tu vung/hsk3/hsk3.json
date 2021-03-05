@@ -2334,15 +2334,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"街 道",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"đường phố",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 条 〜很 长 ，有 四 千 多 米 。",
                         "meaning":""
                     }
                 ]
@@ -2351,15 +2351,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"节 目",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"màn thể hiện; hiệu suất; chương trình",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"今 天 我 们 一 共 演 出 1 2 个 〜。",
                         "meaning":""
                     }
                 ]
@@ -2368,15 +2368,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"节 日",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"ngày lễ; lễ hội",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"祝 大 家 〜快 乐 ！",
                         "meaning":""
                     }
                 ]
@@ -2385,15 +2385,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"结 婚",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"kết hôn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 们 〜1 0 年 了 。",
                         "meaning":""
                     }
                 ]
@@ -2402,15 +2402,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"结 束",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"dừng lại; hoàn thành; kết thúc; chấm dứt",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"会 议 马 上 就 要 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -2419,15 +2419,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"解 决",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"giải quyết một vấn đề",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 问 题 你 打 算 怎 么 〜？",
                         "meaning":""
                     }
                 ]
@@ -2436,15 +2436,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"借",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"vay; cho vay",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 从 图 书 馆 〜了 三 本 书 。",
                         "meaning":""
                     }
                 ]
@@ -2453,15 +2453,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"经 常",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adv",
+                "meaning":"thường thường",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 〜在 学 校 遇 到 他 。",
                         "meaning":""
                     }
                 ]
@@ -2470,32 +2470,42 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"经 过",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"đi qua",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"上 下 班 的 时 候 ， 我 都 要 〜这 条 街 道 。",
                         "meaning":""
                     }
                 ]
+            },
+            {
+                "wordType":"prep",
+                "meaning":"xuyên qua; bên dưới",
+                "examples":[
+                    {
+                        "example":"〜你 这 么 一 说 ， 我 终 于 明 白 了 。",
+                        "meaning":""
+                    }
+                ]
             }
         ],
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"经 理",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"người quản lý",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"他 是 我 们 公 司 的 〜。",
                         "meaning":""
                     }
                 ]
@@ -2504,15 +2514,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"久",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"cũ; trong một khoảng thời gian dài",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 问 题 我 想 了 很 〜才 明 白 。",
                         "meaning":""
                     }
                 ]
@@ -2521,15 +2531,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"旧",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"cũ; mòn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 件 衣 服 穿 了 两 年 ， 已 经 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -2538,15 +2548,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"句 子",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"câu văn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"请 用 这 些 词 语 说 几 个 〜。",
                         "meaning":""
                     }
                 ]
@@ -2555,15 +2565,25 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"决 定",
         "pronunciation":"",
         "meanings":[
+            {
+                "wordType":"v",
+                "meaning":"quyết định; mục đích",
+                "examples":[
+                    {
+                        "example":"这 件 事 是 经 理 〜的 。",
+                        "meaning":""
+                    }
+                ]
+            },
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"phán quyết; sự quyết tâm; sự phân giải",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"他 已 经 做 出 了 〜。",
                         "meaning":""
                     }
                 ]
@@ -2572,15 +2592,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"可 爱",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"dễ thương; đáng yêu; dễ mến",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"你 的 儿 子 真 〜。",
                         "meaning":""
                     }
                 ]
@@ -2589,15 +2609,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"渴",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"khát (nước)",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 〜了 ，想 喝 点 儿 水 。",
                         "meaning":""
                     }
                 ]
@@ -2606,15 +2626,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"刻",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"15 phút",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"现 在 是 二 点 一 〜。",
                         "meaning":""
                     }
                 ]
@@ -2623,15 +2643,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"客 人",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"khách mời",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"春 节 的 时 候 ， 家 里 会 来 很 多 〜。",
                         "meaning":""
                     }
                 ]
@@ -2640,15 +2660,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"空 调",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"máy điều hòa",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"太 热 了 ，请 把 〜打 开 。",
                         "meaning":""
                     }
                 ]
@@ -2657,15 +2677,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"囗",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"nm",
+                "meaning":"dùng cho người và một số động vật",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 们 家 一 共 三 〜人 。",
                         "meaning":""
                     }
                 ]
@@ -2674,15 +2694,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"哭",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"khóc",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"孩 子 又 〜了 起 来 。",
                         "meaning":""
                     }
                 ]
@@ -2691,15 +2711,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"裤 子",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"quần; quân dài",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 条 〜有 点 儿 短 。",
                         "meaning":""
                     }
                 ]
@@ -2708,15 +2728,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"筷 子",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"đũa",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 来 中 国 1 个 月 了 ， 已 经 会 用 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -2725,15 +2745,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"蓝",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"màu xanh nước biển",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 条 〜裙 子 你 喜 欢 吗 ？",
                         "meaning":""
                     }
                 ]
@@ -2742,15 +2762,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"老",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"lớn tuổi; già",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"爷 爷 六 十 岁 了 ，但 是 看 起 来 一 点 儿 也 不 〜。",
                         "meaning":""
                     }
                 ]
@@ -2759,15 +2779,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"离 开",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"rời khỏi; xa; một phần của; được tách ra từ",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"下 个 月 我 要 〜一 段 时 间 ，你 好 好 照 顾 自 己 。",
                         "meaning":""
                     }
                 ]
@@ -2776,15 +2796,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"礼 物",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"quà tặng",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"过 生 日 的 时 候 ， 我 收 到 了 很 多 〜。",
                         "meaning":""
                     }
                 ]
@@ -2793,15 +2813,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"历 史",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"lịch sử",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 房 子 差 不 多 有 3 0 0 年 的 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -2810,15 +2830,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"脸",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"khuôn mặt",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"女 儿 的 〜圆 圆 的 ，很 可 爱 。",
                         "meaning":""
                     }
                 ]
@@ -2827,15 +2847,25 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"练 习",
         "pronunciation":"",
         "meanings":[
+            {
+                "wordType":"v",
+                "meaning":"thực hành",
+                "examples":[
+                    {
+                        "example":"学 过 的 东 西 ，要 多 〜才 能 记 住 。",
+                        "meaning":""
+                    }
+                ]
+            },
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"bài tập",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"同 学 们 ，下 面 我 们 开 始 做 〜。",
                         "meaning":""
                     }
                 ]
@@ -2844,15 +2874,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"辆",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"nm",
+                "meaning":"dùng cho ô tô",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 〜车 ，是 我 新 买 的 。",
                         "meaning":""
                     }
                 ]
@@ -2861,15 +2891,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"聊 天",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"sv",
+                "meaning":"tán gẫu",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 们 经 常 在 网 上 〜。",
                         "meaning":""
                     }
                 ]
@@ -2878,15 +2908,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"了 解",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"biết; hiểu biết; hiểu",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 对 她 〜得 不 多 。",
                         "meaning":""
                     }
                 ]
@@ -2895,15 +2925,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"邻 居",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"hàng xóm",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 跟 〜们 的 关 系 非 常 好 。",
                         "meaning":""
                     }
                 ]
@@ -2912,15 +2942,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"留 学",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"du học",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 哥 哥 在 中 国 〜。",
                         "meaning":""
                     }
                 ]
@@ -2929,15 +2959,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"楼",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"xây dựng",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 在 你 家 〜下 等 你 。",
                         "meaning":""
                     }
                 ]
@@ -2946,15 +2976,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"绿",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"màu xanh lá",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"春 天 来 了 ，树 和 草 都 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -2963,15 +2993,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"马",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"con ngựa",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 们 学 会 骑 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -2980,15 +3010,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"马 上",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adv",
+                "meaning":"ngay; một lần",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 〜就 到 学 校 ，你 再 等 我 几 分 钟 。",
                         "meaning":""
                     }
                 ]
@@ -2997,15 +3027,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"满 意",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"được thỏa mãn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"经 理 对 他 很 〜。",
                         "meaning":""
                     }
                 ]
@@ -3014,15 +3044,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"帽 子",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"cái mũ; mũ lưỡi trai",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 〜太 小 了 ，有 大 一 点 儿 的 吗 ？",
                         "meaning":""
                     }
                 ]
@@ -3031,15 +3061,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"米",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"nm",
+                "meaning":"mét (đơn vị)",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 张 桌 子 有 两 〜长 。",
                         "meaning":""
                     }
                 ]
@@ -3048,15 +3078,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"面 包",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"bánh mì",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"〜已 经 卖 完 了 。",
                         "meaning":""
                     }
                 ]
@@ -3065,15 +3095,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"面 条",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"mì",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"服 务 员 ，我 要 一 碗 〜。",
                         "meaning":""
                     }
                 ]
@@ -3082,32 +3112,42 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"明 白",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"biết; hiểu biết",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 〜你 的 意 思 了 。",
                         "meaning":""
                     }
                 ]
+            },
+            {
+                "wordType":"adj",
+                "meaning":"rõ ràng; thông thoáng",
+                "examples":[
+                    {
+                        "example":"他 说 得 很 〜，我 懂 了 。",
+                        "meaning":""
+                    }
+                ]
             }
         ],
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"拿",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"giữ; lấy",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"你 手 里 〜的 是 什 么 ？",
                         "meaning":""
                     }
                 ]
@@ -3116,15 +3156,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"奶 奶",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"bà",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 〜住 在 北 京 。",
                         "meaning":""
                     }
                 ]
@@ -3133,15 +3173,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"南",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"phía nam",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 家 在 火 车 站 的 〜边 。",
                         "meaning":""
                     }
                 ]
@@ -3150,15 +3190,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"难",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"khó khăn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 题 很 〜。",
                         "meaning":""
                     }
                 ]
@@ -3167,15 +3207,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"难 过",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"có một khoảng thời gian khó khăn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"他 要 离 开 了 ，我 很 〜。",
                         "meaning":""
                     }
                 ]
@@ -3184,15 +3224,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"年 级",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"lớp (ở trường tiểu học hoặc trung học cơ sở); năm (ở trường cao đẳng hoặc đại học)",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 儿 子 现 在 上 三 〜。",
                         "meaning":""
                     }
                 ]
@@ -3201,15 +3241,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"年 轻",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"trẻ",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"妈 妈 5 0 岁 了 ，看 起 来 还 很 〜。",
                         "meaning":""
                     }
                 ]
@@ -3218,15 +3258,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"鸟",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"(loài) chim",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"树 上 有 很 多 〜在 唱 歌 。",
                         "meaning":""
                     }
                 ]
@@ -3235,15 +3275,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"努 力",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"làm việc chăm chỉ; siêng năng",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"学 生 们 学 习 很 〜。",
                         "meaning":""
                     }
                 ]
@@ -3252,15 +3292,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"爬 山",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"leo núi",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 们 决 定 明 天 去 〜。",
                         "meaning":""
                     }
                 ]
@@ -3269,15 +3309,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"盘 子",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"cái mâm; đĩa; món ăn",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"〜里 有 鱼 ，请 吃 吧 。",
                         "meaning":""
                     }
                 ]
@@ -3286,15 +3326,25 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"胖",
         "pronunciation":"",
         "meanings":[
+            {
+                "wordType":"adj",
+                "meaning":"mập",
+                "examples":[
+                    {
+                        "example":"熊 猫 很 〜，很 可 爱 。",
+                        "meaning":""
+                    }
+                ]
+            },
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"tăng cân",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 月 我 〜了 五 斤 多 。",
                         "meaning":""
                     }
                 ]
@@ -3303,15 +3353,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"皮 鞋",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"giày da",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"他 穿 着 一 双 黑 色 的 〜。",
                         "meaning":""
                     }
                 ]
@@ -3320,15 +3370,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"啤 酒",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"bia",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"爸 爸 爱 喝 〜。",
                         "meaning":""
                     }
                 ]
@@ -3337,15 +3387,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"普 通 话",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"Tiếng phổ thông",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"你 的 〜说 得 很 好 。",
                         "meaning":""
                     }
                 ]
@@ -3354,15 +3404,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"其 实",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adv",
+                "meaning":"thực ra; trong thực tế; như một vấn đề của thực tế",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 〜不 太 了 解 他 。",
                         "meaning":""
                     }
                 ]
@@ -3371,15 +3421,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"其 他",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"pron",
+                "meaning":"khác",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"只 有 小 明 在 教 室 里 ， 〜人 都 回 家 了 。",
                         "meaning":""
                     }
                 ]
@@ -3388,15 +3438,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"奇 怪",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"kỳ quặc; người kỳ lạ; lạ lùng; bất thường; kỳ lạ",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 觉 得 这 个 问 题 很 〜。",
                         "meaning":""
                     }
                 ]
@@ -3405,15 +3455,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"骑",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"cưỡi/lái (một con vật hoặc xe đạp); ngồi trên lưng của",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"今 天 我 〜自 行 车 去 学 校 。",
                         "meaning":""
                     }
                 ]
@@ -3422,15 +3472,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"起 飞",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"(của máy bay) cất cánh; nhấc ra; phóng",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"各 位 乘 客 ， 飞 机 马 上 就 要 〜了 。",
                         "meaning":""
                     }
                 ]
@@ -3439,15 +3489,25 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"清 楚",
         "pronunciation":"",
         "meanings":[
+            {
+                "wordType":"adj",
+                "meaning":"rõ ràng; khác biệt",
+                "examples":[
+                    {
+                        "example":"他 把 这 件 事 儿 说 得 很 〜了 。",
+                        "meaning":""
+                    }
+                ]
+            },
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"được rõ ràng về; hiểu biết",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"你 〜这 句 话 的 意 思 吗 ？",
                         "meaning":""
                     }
                 ]
@@ -3456,15 +3516,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"秋",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"mùa thu",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"〜天 最 舒 服 ，不 冷 也 不 热 。",
                         "meaning":""
                     }
                 ]
@@ -3473,15 +3533,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"裙 子",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"váy",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"姐 姐 穿 着 漂 亮 的 〜。",
                         "meaning":""
                     }
                 ]
@@ -3490,15 +3550,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"然 后",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"conj",
+                "meaning":"sau đó",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 要 先 写 完 作 业 ， 〜再 看 电 视 。",
                         "meaning":""
                     }
                 ]
@@ -3507,15 +3567,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"热 情",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"nhiệt thành; ấm áp",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"我 们 〜地 欢 迎 客 人 。",
                         "meaning":""
                     }
                 ]
@@ -3524,15 +3584,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"认 为",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"v",
+                "meaning":"nghĩ; xem xét",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"你 〜他 会 来 吗 ？",
                         "meaning":""
                     }
                 ]
@@ -3541,15 +3601,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"认 真",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"conscientious; earnest; serious",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 同 学 学 习 很 〜，很 努 力 。",
                         "meaning":""
                     }
                 ]
@@ -3558,15 +3618,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"容 易",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"adj",
+                "meaning":"dễ dàng; sẵn sàng",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"这 个 问 题 很 〜回 答 。",
                         "meaning":""
                     }
                 ]
@@ -3575,15 +3635,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"如 果",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"conj",
+                "meaning":"nếu; trong trường hợp; trong trường hợp của; giả sử rằng",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"〜你 去 ，我 就 和 你 一 1起 去 。",
                         "meaning":""
                     }
                 ]
@@ -3592,15 +3652,15 @@
         "topicId":"lvscsjun8hrnt9azuklq"
     },
     {
-        "word":"",
+        "word":"伞",
         "pronunciation":"",
         "meanings":[
             {
-                "wordType":"",
-                "meaning":"",
+                "wordType":"n",
+                "meaning":"cái dù; cái ô",
                 "examples":[
                     {
-                        "example":"",
+                        "example":"下 雨 了 ，别 忘 了 带 〜。",
                         "meaning":""
                     }
                 ]
