@@ -4123,7 +4123,7 @@
                     {
                         "example":"妈妈的头发又黑又亮。",
                         "exampleBold":"妈妈的<b>头发</b>又黑又亮。",
-                        "meaning":"Tôi không hoàn toàn đồng ý với ý tưởng của anh ấy."
+                        "meaning":"<b>Tóc</b> mẹ đen bóng."
                     }
                 ]
             }
@@ -4135,23 +4135,23 @@
         "meanings":[
             {
                 "wordType":"adj",
-                "meaning":"đột nhiên; đột ngột; bất ngờ",
+                "meaning":"đột nhiên",
                 "examples":[
                     {
                         "example":"他突然站了起来。",
                         "exampleBold":"他<b>突然</b>站了起来。",
-                        "meaning":"Tóc mẹ đen bóng."
+                        "meaning":"Anh <b>đột nhiên</b> đứng dậy."
                     }
                 ]
             },
             {
                 "wordType":"adv",
-                "meaning":"đột ngột; bất ngờ",
+                "meaning":"đột ngột",
                 "examples":[
                     {
                         "example":"小狗突然跑了出来。",
                         "exampleBold":"小狗<b>突然</b>跑了出来。",
-                        "meaning":"Anh đột ngột đứng dậy."
+                        "meaning":"Con chó con chạy ra ngoài <b>đột ngột</b>."
                     }
                 ]
             }
@@ -4168,7 +4168,7 @@
                     {
                         "example":"我从图书馆借来了两本书。",
                         "exampleBold":"我从<b>图书馆</b>借来了两本书。",
-                        "meaning":"Con chó con chạy ra ngoài đột ngột."
+                        "meaning":"Tôi đã mượn hai cuốn sách từ <b>thư viện</b>."
                     }
                 ]
             }
@@ -4185,7 +4185,7 @@
                     {
                         "example":"你的腿还疼吗？",
                         "exampleBold":"你的<b>腿</b>还疼吗？",
-                        "meaning":"Tôi đã mượn hai cuốn sách từ thư viện."
+                        "meaning":"<b>Chân</b> của bạn vẫn còn đau hả?"
                     }
                 ]
             }
@@ -4202,7 +4202,7 @@
                     {
                         "example":"这件事，在周末前必须完成。",
                         "exampleBold":"这件事，在周末前必须<b>完成</b>。",
-                        "meaning":"Chân của bạn vẫn còn đau?"
+                        "meaning":"Vấn đề này phải được <b>hoàn thành</b> trước cuối tuần."
                     }
                 ]
             }
@@ -4214,23 +4214,23 @@
         "meanings":[
             {
                 "wordType":"n",
-                "meaning":"cái tô",
+                "meaning":"cái tô; cái bát",
                 "examples":[
                     {
                         "example":"把米饭放在这个碗里吧。",
                         "exampleBold":"把米饭放在这个<b>碗</b>里吧。",
-                        "meaning":"Vấn đề này phải được hoàn thành trước cuối tuần."
+                        "meaning":"Cho cơm vào <b>bát</b> này."
                     }
                 ]
             },
             {
                 "wordType":"nm",
-                "meaning":"1 tô của",
+                "meaning":"1 bát (của)",
                 "examples":[
                     {
                         "example":"我吃一碗就可以了。",
                         "exampleBold":"我吃一<b>碗</b>就可以了。",
-                        "meaning":"Cho cơm vào bát này."
+                        "meaning":"Tôi có thể ăn <b>một bát</b>."
                     }
                 ]
             }
@@ -4247,7 +4247,7 @@
                     {
                         "example":"我们学校有一万名学生。",
                         "exampleBold":"我们学校有一<b>万</b>名学生。",
-                        "meaning":"Tôi có thể ăn một bát."
+                        "meaning":"Có <b>mười nghìn</b> học sinh trong trường của chúng tôi."
                     }
                 ]
             }
@@ -4264,7 +4264,7 @@
                     {
                         "example":"我忘记今天是他的生日了。",
                         "exampleBold":"我<b>忘记</b>今天是他的生日了。",
-                        "meaning":"Có mười nghìn học sinh trong trường của chúng tôi."
+                        "meaning":"Tôi <b>quên</b> rằng hôm nay là sinh nhật của anh ấy."
                     }
                 ]
             }
@@ -4281,7 +4281,7 @@
                     {
                         "example":"这些菜都是为你准备的。",
                         "exampleBold":"这些菜都是<b>为</b>你准备的。",
-                        "meaning":"Tôi quên rằng hôm nay là sinh nhật của anh ấy."
+                        "meaning":"Những món ăn này được chuẩn bị <b>cho</b> bạn."
                     }
                 ]
             }
@@ -4293,12 +4293,12 @@
         "meanings":[
             {
                 "wordType":"prep",
-                "meaning":"đối với",
+                "meaning":"vì",
                 "examples":[
                     {
                         "example":"为了身体健康，我每天都去运动。",
                         "exampleBold":"<b>为了</b>身体健康，我每天都去运动。",
-                        "meaning":"Những món ăn này được chuẩn bị cho bạn."
+                        "meaning":"<b>Vì</b> sức khỏe của mình, tôi tập thể dục hàng ngày."
                     }
                 ]
             }
@@ -4310,12 +4310,12 @@
         "meanings":[
             {
                 "wordType":"nm",
-                "meaning":"được sử dụng cho người",
+                "meaning":"chức vị (được sử dụng cho người)",
                 "examples":[
                     {
                         "example":"他真是一位好老师。",
                         "exampleBold":"他真是一<b>位</b>好老师。",
-                        "meaning":"Vì sức khỏe của mình, tôi tập thể dục hàng ngày."
+                        "meaning":"Anh ấy thực sự là một giáo viên tốt."
                     }
                 ]
             }
@@ -4332,7 +4332,7 @@
                     {
                         "example":"我对中国文化很感兴趣。",
                         "exampleBold":"我对中国<b>文化</b>很感兴趣。",
-                        "meaning":"Anh ấy thực sự là một giáo viên tốt."
+                        "meaning":"Tôi rất quan tâm đến <b>văn hóa</b> Trung Quốc."
                     }
                 ]
             }
@@ -4349,7 +4349,7 @@
                     {
                         "example":"火车站在西边，你走错了。",
                         "exampleBold":"火车站在<b>西</b>边，你走错了。",
-                        "meaning":"Tôi rất quan tâm đến văn hóa Trung Quốc."
+                        "meaning":"Ga xe lửa ở <b>phía tây</b>, bạn đã đi sai."
                     }
                 ]
             }
@@ -4366,7 +4366,7 @@
                     {
                         "example":"他已经习惯了一个人生活。",
                         "exampleBold":"他已经<b>习惯</b>了一个人生活。",
-                        "meaning":"Ga xe lửa ở phía tây, bạn đã đi sai."
+                        "meaning":"Anh đã <b>quen với</b> một kiếp người."
                     }
                 ]
             },
@@ -4377,7 +4377,7 @@
                     {
                         "example":"饭前洗手是好习惯。",
                         "exampleBold":"饭前洗手是好<b>习惯</b>。",
-                        "meaning":"Anh đã quen với một kiếp người."
+                        "meaning":"Rửa tay trước bữa ăn là một <b>thói quen</b> tốt."
                     }
                 ]
             }
@@ -4394,7 +4394,7 @@
                     {
                         "example":"我去一下洗手间。",
                         "exampleBold":"我去一下<b>洗手间</b>。",
-                        "meaning":"Rửa tay trước bữa ăn là một thói quen tốt."
+                        "meaning":"Để tôi đi <b>vệ sinh</b>."
                     }
                 ]
             }
@@ -4411,7 +4411,7 @@
                     {
                         "example":"太热了，我先去洗澡。",
                         "exampleBold":"太热了，我先去<b>洗澡</b>。",
-                        "meaning":"Để tôi đi vệ sinh."
+                        "meaning":"Nóng quá, tôi đi <b>tắm</b> trước."
                     }
                 ]
             }
@@ -4428,7 +4428,7 @@
                     {
                         "example":"今年夏天太热了。",
                         "exampleBold":"今年<b>夏</b>天太热了。",
-                        "meaning":"Nóng quá, tôi đi tắm trước."
+                        "meaning":"<b>Mùa hè</b> này nóng quá."
                     }
                 ]
             }
@@ -4440,12 +4440,12 @@
         "meanings":[
             {
                 "wordType":"adv",
-                "meaning":"lần đầu; trước hết",
+                "meaning":"trước",
                 "examples":[
                     {
                         "example":"你先去，我一个小时后再去。",
                         "exampleBold":"你<b>先</b>去，我一个小时后再去。",
-                        "meaning":"Mùa hè này nóng quá."
+                        "meaning":"Anh đi <b>trước</b> đi, một tiếng nữa tôi lại đi."
                     }
                 ]
             }
@@ -4462,7 +4462,7 @@
                     {
                         "example":"我完全相信你说的话。",
                         "exampleBold":"我完全<b>相信</b>你说的话。",
-                        "meaning":"Anh đi trước đi, một tiếng nữa tôi lại đi."
+                        "meaning":"Tôi hoàn toàn <b>tin</b> những gì bạn nói."
                     }
                 ]
             }
@@ -4479,7 +4479,7 @@
                     {
                         "example":"你想吃香蕉吗？",
                         "exampleBold":"你想吃<b>香蕉</b>吗？",
-                        "meaning":"Tôi hoàn toàn tin những gì bạn nói."
+                        "meaning":"Bạn có muốn ăn <b>chuối</b> không?"
                     }
                 ]
             }
@@ -4496,7 +4496,7 @@
                     {
                         "example":"向东走，就可以看到那个学校了。",
                         "exampleBold":"<b>向</b>东走，就可以看到那个学校了。",
-                        "meaning":"Bạn có muốn ăn chuối không?"
+                        "meaning":"Đi <b>đến</b> phía đông, bạn có thể nhìn thấy ngôi trường đó."
                     }
                 ]
             }
@@ -4513,18 +4513,18 @@
                     {
                         "example":"他长得像他爸爸。",
                         "exampleBold":"他长得<b>像</b>他爸爸。",
-                        "meaning":"Đi về phía đông, bạn có thể nhìn thấy ngôi trường đó."
+                        "meaning":"Nhìn anh ấy có vẻ <b>giống</b> bố."
                     }
                 ]
             },
             {
                 "wordType":"prep",
-                "meaning":"ví dụ",
+                "meaning":"như; giống như",
                 "examples":[
                     {
                         "example":"像校长这样的人，到哪里都很受欢迎。",
                         "exampleBold":"<b>像</b>校长这样的人，到哪里都很受欢迎。",
-                        "meaning":"Nhìn anh ấy có vẻ giống bố."
+                        "meaning":"Những người <b>như</b> hiệu trưởng rất phổ biến ở khắp mọi nơi."
                     }
                 ]
             }
@@ -4536,12 +4536,12 @@
         "meanings":[
             {
                 "wordType":"v",
-                "meaning":"bảo trọng; coi chừng",
+                "meaning":"bảo trọng; coi chừng; cẩn thận",
                 "examples":[
                     {
                         "example":"请小心，路上有很多水。",
                         "exampleBold":"请<b>小心</b>，路上有很多水。",
-                        "meaning":"Những người như hiệu trưởng rất phổ biến ở khắp mọi nơi."
+                        "meaning":"Xin hãy <b>cẩn thận</b>, có rất nhiều nước trên đường."
                     }
                 ]
             },
@@ -4552,7 +4552,7 @@
                     {
                         "example":"我很小心地抱起了小猫。",
                         "exampleBold":"我很<b>小心</b>地抱起了小猫。",
-                        "meaning":"Xin hãy cẩn thận, có rất nhiều nước trên đường."
+                        "meaning":"Tôi bế chú mèo con rất <b>cẩn thận</b>."
                     }
                 ]
             }
@@ -4569,7 +4569,7 @@
                     {
                         "example":"校长已经同意了我们的计划。",
                         "exampleBold":"<b>校长</b>已经同意了我们的计划。",
-                        "meaning":"Tôi nhặt con mèo con rất cẩn thận."
+                        "meaning":"<b>Hiệu trưởng</b> đã đồng ý với kế hoạch của chúng tôi."
                     }
                 ]
             }
@@ -4586,7 +4586,7 @@
                     {
                         "example":"我每天晚上七点都看新闻。",
                         "exampleBold":"我每天晚上七点都看<b>新闻</b>。",
-                        "meaning":"Hiệu trưởng đã đồng ý với kế hoạch của chúng tôi."
+                        "meaning":"Tôi xem <b>tin tức</b> lúc bảy giờ mỗi đêm."
                     }
                 ]
             }
@@ -4603,7 +4603,7 @@
                     {
                         "example":"这些都是新鲜水果。",
                         "exampleBold":"这些都是<b>新鲜</b>水果。",
-                        "meaning":"Tôi xem tin tức lúc bảy giờ mỗi đêm."
+                        "meaning":"Đây là những trái cây <b>tươi</b>."
                     }
                 ]
             }
@@ -4620,7 +4620,7 @@
                     {
                         "example":"我想去银行办一张信用卡。",
                         "exampleBold":"我想去银行办一张<b>信用卡</b>。",
-                        "meaning":"Đây là những trái cây tươi."
+                        "meaning":"Tôi muốn đến ngân hàng để lấy <b>thẻ tín dụng</b>."
                     }
                 ]
             }
@@ -4632,12 +4632,12 @@
         "meanings":[
             {
                 "wordType":"n",
-                "meaning":"rương đựng quần áo; hành lý",
+                "meaning":"rương đựng quần áo; hành lý; vali",
                 "examples":[
                     {
                         "example":"请把行李箱打开。",
                         "exampleBold":"请把<b>行李箱</b>打开。",
-                        "meaning":"Tôi muốn đến ngân hàng để lấy thẻ tín dụng."
+                        "meaning":"Vui lòng mở <b>vali</b> ra."
                     }
                 ]
             }
@@ -4654,7 +4654,7 @@
                     {
                         "example":"我特别喜欢到动物园去看大熊猫。",
                         "exampleBold":"我特别喜欢到动物园去看大<b>熊猫</b>。",
-                        "meaning":"Vui lòng mở vali."
+                        "meaning":"Tôi đặc biệt thích đến sở thú để xem những con <b>gấu trúc</b> khổng lồ."
                     }
                 ]
             }
@@ -4666,12 +4666,12 @@
         "meanings":[
             {
                 "wordType":"v",
-                "meaning":"nhu cầu; yêu cầu",
+                "meaning":"cần",
                 "examples":[
                     {
                         "example":"我们需要一些帮助。",
                         "exampleBold":"我们<b>需要</b>一些帮助。",
-                        "meaning":"Tôi đặc biệt thích đến sở thú để xem những con gấu trúc khổng lồ."
+                        "meaning":"Chúng tôi <b>cần</b> một số trợ giúp."
                     }
                 ]
             }
@@ -4688,7 +4688,7 @@
                     {
                         "example":"今年夏天你选择去哪儿旅游？",
                         "exampleBold":"今年夏天你<b>选择</b>去哪儿旅游？",
-                        "meaning":"Chúng tôi cần một số trợ giúp."
+                        "meaning":"Hè này bạn <b>chọn</b> đi du lịch ở đâu?"
                     }
                 ]
             },
@@ -4699,7 +4699,7 @@
                     {
                         "example":"我们需要自己做出选择。",
                         "exampleBold":"我们需要自己做出<b>选择</b>。",
-                        "meaning":"Hè này bạn chọn đi du lịch ở đâu?"
+                        "meaning":"Chúng ta cần phải đưa ra <b>lựa chọn</b> của riêng mình."
                     }
                 ]
             }
@@ -4711,23 +4711,17 @@
         "meanings":[
             {
                 "wordType":"v",
-                "meaning":"hỏi; yêu cầu; nhu cầu",
+                "meaning":"yêu cầu",
                 "examples":[
                     {
                         "example":"老师要求我们把这些题做完。",
                         "exampleBold":"老师<b>要求</b>我们把这些题做完。",
-                        "meaning":"Chúng ta cần phải đưa ra lựa chọn của riêng mình."
-                    }
-                ]
-            },
-            {
-                "wordType":"n",
-                "meaning":"yêu cầu; nhu cầu",
-                "examples":[
+                        "meaning":"Giáo viên <b>yêu cầu</b> chúng tôi hoàn thành những câu hỏi này."
+                    },
                     {
                         "example":"这是爸爸对我的要求。",
                         "exampleBold":"这是爸爸对我的<b>要求</b>。",
-                        "meaning":"Giáo viên yêu cầu chúng tôi hoàn thành những câu hỏi này."
+                        "meaning":"Đây là những gì bố tôi <b>yêu cầu</b> ở tôi."
                     }
                 ]
             }
@@ -4744,7 +4738,7 @@
                     {
                         "example":"爷爷，请您坐这儿吧。",
                         "exampleBold":"<b>爷爷</b>，请您坐这儿吧。",
-                        "meaning":"Đây là những gì bố tôi yêu cầu ở tôi."
+                        "meaning":"<b>Ông</b> ơi, <b>ông</b> hãy ngồi đây này."
                     }
                 ]
             }
@@ -4761,7 +4755,7 @@
                     {
                         "example":"明天的会议，请大家一定要参加。",
                         "exampleBold":"明天的会议，请大家<b>一定</b>要参加。",
-                        "meaning":"Ông ơi, ông hãy ngồi đây."
+                        "meaning":"Cuộc họp ngày mai, hãy <b>chắc chắn</b> là tham dự được."
                     }
                 ]
             }
@@ -4778,7 +4772,7 @@
                     {
                         "example":"我们班一共有20名学生。",
                         "exampleBold":"我们班<b>一共</b>有20名学生。",
-                        "meaning":"Cuộc họp ngày mai, hãy chắc chắn để tham dự."
+                        "meaning":"Có 20 học sinh <b>trong</b> lớp của chúng tôi."
                     }
                 ]
             }
@@ -4790,12 +4784,12 @@
         "meanings":[
             {
                 "wordType":"n",
-                "meaning":"1 khoảnh khắc",
+                "meaning":"một lúc",
                 "examples":[
                     {
                         "example":"我看一会儿电视就睡觉。",
                         "exampleBold":"我看<b>一会儿</b>电视就睡觉。",
-                        "meaning":"Có 20 học sinh trong lớp của chúng tôi."
+                        "meaning":"Tôi xem TV <b>một lúc</b> rồi đi ngủ."
                     }
                 ]
             }
@@ -4812,7 +4806,7 @@
                     {
                         "example":"他跟爸爸长得一样。",
                         "exampleBold":"他跟爸爸长得<b>一样</b>。",
-                        "meaning":"Tôi xem TV một lúc rồi đi ngủ."
+                        "meaning":"Anh ấy trông <b>giống hệt</b> cha mình."
                     }
                 ]
             }
@@ -4829,7 +4823,7 @@
                     {
                         "example":"我一般7点钟起床。",
                         "exampleBold":"我<b>一般</b>7点钟起床。",
-                        "meaning":"Anh ấy trông giống hệt cha mình."
+                        "meaning":"Tôi <b>thường</b> dậy lúc 7 giờ."
                     }
                 ]
             }
@@ -4841,12 +4835,12 @@
         "meanings":[
             {
                 "wordType":"adv",
-                "meaning":"trong khi; như; đồng thời",
+                "meaning":"đồng thời",
                 "examples":[
                     {
                         "example":"他喜欢一边看书，一边听音乐。",
                         "exampleBold":"他喜欢<b>一边</b>看书，<b>一边</b>听音乐。",
-                        "meaning":"Tôi thường dậy lúc 7 giờ."
+                        "meaning":"Anh ấy thích <b>đồng thời</b> cả đọc sách và nghe nhạc."
                     }
                 ]
             }
@@ -4863,7 +4857,7 @@
                     {
                         "example":"我一直不明白这句话的意思。",
                         "exampleBold":"我<b>一直</b>不明白这句话的意思。",
-                        "meaning":"Anh ấy thích đọc sách và nghe nhạc."
+                        "meaning":"Tôi chưa bao giờ hiểu ý nghĩa của câu này."
                     }
                 ]
             }
@@ -4880,7 +4874,7 @@
                     {
                         "example":"我们看电影以前，先去吃个饭吧。",
                         "exampleBold":"我们看电影<b>以前</b>，先去吃个饭吧。",
-                        "meaning":"Tôi chưa bao giờ hiểu ý nghĩa của câu này."
+                        "meaning":"Đi ăn cơm <b>trước</b> khi xem phim."
                     }
                 ]
             }
@@ -4892,12 +4886,12 @@
         "meanings":[
             {
                 "wordType":"n",
-                "meaning":"âm nhạc",
+                "meaning":"âm nhạc; ca nhạc",
                 "examples":[
                     {
                         "example":"她最喜欢看音乐节目。",
                         "exampleBold":"她最喜欢看<b>音乐</b>节目。",
-                        "meaning":"Đi ăn cơm trước khi xem phim."
+                        "meaning":"Cô ấy thích xem các chương trình <b>ca nhạc</b> nhất."
                     }
                 ]
             }
@@ -4914,7 +4908,7 @@
                     {
                         "example":"银行下午5点关门。",
                         "exampleBold":"<b>银行</b>下午5点关门。",
-                        "meaning":"Cô ấy thích xem các chương trình ca nhạc nhất."
+                        "meaning":"<b>Ngân hàng</b> đóng cửa lúc 5 giờ chiều."
                     }
                 ]
             }
