@@ -11,5 +11,5 @@ Array.prototype.getMeaningSQL = function() {
 }
 
 Array.prototype.getListExamplesSQL = function() {
-    return this.map(({ id, example, meaning, meaningId, createdDate, lastModifiedDate, pronunciation }) => `INSERT INTO Examples VALUES('${id}', N'${example}', N'${meaning}', '${meaningId}', '${createdDate}', '${lastModifiedDate}', N'${pronunciation}')`).join(';\n');
+    return this.map(({ id, exampleBold, meaning, meaningId, createdDate, lastModifiedDate, pronunciation }) => `INSERT INTO Examples VALUES('${id}', N'${exampleBold}', N'${meaning}', '${meaningId}', '${createdDate}', '${lastModifiedDate}', N'${pronunciation}')`).join(';\n');
 }
