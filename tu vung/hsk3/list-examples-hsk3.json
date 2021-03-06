@@ -1,0 +1,3432 @@
+[
+    {
+        "id":"v9qa8tijtk7tqqh2tdsf",
+        "meaningId":"bwcd2zz7tng71avdbnpb",
+        "createdDate":"2021-03-06T13:19:52.464Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.464Z",
+        "pronunciation":"ā yí fù jìn yǒu dì tiě zhàn ma",
+        "example":"阿姨，附近有地铁站吗？",
+        "exampleBold":"<b>阿姨</b>，附近有地铁站吗？",
+        "meaning":"<b>Cô</b> ơi, có ga tàu điện ngầm nào gần đây không?"
+    },
+    {
+        "id":"53m9syp14owug9vju250",
+        "meaningId":"5vd4656evnhbfgjizryk",
+        "createdDate":"2021-03-06T13:19:52.465Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.465Z",
+        "pronunciation":"a zhè ér dē huán jìng duō me hǎo a",
+        "example":"啊，这儿的环境多么好啊！",
+        "exampleBold":"<b>啊</b>，这儿的环境多么好啊！",
+        "meaning":"<b>Ah</b>, thật là một môi trường tốt ở đây!"
+    },
+    {
+        "id":"4iysu8x9yvnji602a3nn",
+        "meaningId":"5vd4656evnhbfgjizryk",
+        "createdDate":"2021-03-06T13:19:52.467Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.467Z",
+        "pronunciation":"nǐ men jiā zhù zài nǎ ér a",
+        "example":"你们家住在哪儿啊？",
+        "exampleBold":"你们家住在哪儿<b>啊</b>？",
+        "meaning":"Bạn sống ở đâu?"
+    },
+    {
+        "id":"kwe8ggihj2geae4dux1e",
+        "meaningId":"5vd4656evnhbfgjizryk",
+        "createdDate":"2021-03-06T13:19:52.468Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.468Z",
+        "pronunciation":"a hǎo dē wǒ xiàn zài jiù qù",
+        "example":"啊，好的，我现在就去。",
+        "exampleBold":"<b>啊</b>，好的，我现在就去。",
+        "meaning":"<b>À</b>, vâng, tôi sẽ đi ngay bây giờ."
+    },
+    {
+        "id":"vr9h4eqrcffui7crv86q",
+        "meaningId":"ovpx38nvgmpq9bsg8tdk",
+        "createdDate":"2021-03-06T13:19:52.470Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.470Z",
+        "pronunciation":"dì di dē gè zi bǐ wǒ ǎi",
+        "example":"弟弟的个子比我矮。",
+        "exampleBold":"弟弟的个子比我<b>矮</b>。",
+        "meaning":"Em trai <b>thấp</b> hơn tôi."
+    },
+    {
+        "id":"r8ifal4e2p1r0e19gshk",
+        "meaningId":"zcu0x2pofl7o24m8lncx",
+        "createdDate":"2021-03-06T13:19:52.471Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.471Z",
+        "pronunciation":"wǒ zuì dà dē ài hào jiù shì dǎ lán qiú",
+        "example":"我最大的爱好就是打篮球。",
+        "exampleBold":"我最大的<b>爱好</b>就是打篮球。",
+        "meaning":"<b>Sở thích</b> lớn nhất của tôi là chơi bóng rổ."
+    },
+    {
+        "id":"eclx6sxdps32oqazelz7",
+        "meaningId":"qvyyygbxgovz90a0sp97",
+        "createdDate":"2021-03-06T13:19:52.472Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.472Z",
+        "pronunciation":"wǒ cóng xiǎo jiù ài hào yīn yuè",
+        "example":"我从小就爱好音乐。",
+        "exampleBold":"我从小就<b>爱好</b>音乐。",
+        "meaning":"Tôi đã <b>thích</b> âm nhạc từ khi tôi còn là một đứa trẻ."
+    },
+    {
+        "id":"36dw7v68p10i45o9ilpe",
+        "meaningId":"g1ec3d8i132crlwlzbho",
+        "createdDate":"2021-03-06T13:19:52.474Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.474Z",
+        "pronunciation":"yīn wèi jiào shì lǐ méi shén me rén suǒ yǐ hěn ān jìng",
+        "example":"因为教室里没什么人，所以很安静。",
+        "exampleBold":"因为教室里没什么人，所以很<b>安静</b>。",
+        "meaning":"Vì không có người trong phòng học nên rất <b>yên tĩnh</b>."
+    },
+    {
+        "id":"03i4zl51ff4xtdtaccf1",
+        "meaningId":"4kg61jvv71ih9qmdwnkh",
+        "createdDate":"2021-03-06T13:19:52.476Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.476Z",
+        "pronunciation":"hái zi men dōu shuì zháo le jiā lǐ ān jìng le xià lái",
+        "example":"孩子们都睡着了，家里安静了下来。",
+        "exampleBold":"孩子们都睡着了，家里<b>安静</b>了下来。",
+        "meaning":"Bọn trẻ ngủ say, trong nhà <b>vắng lặng</b>."
+    },
+    {
+        "id":"98ionx6s5uorf2dfhejo",
+        "meaningId":"7uu6kexk5yj9e64s6j0l",
+        "createdDate":"2021-03-06T13:19:52.477Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.477Z",
+        "pronunciation":"qǐng bǎ zhuō zi shàng dē qiān bǐ gěi wǒ",
+        "example":"请把桌子上的铅笔给我。",
+        "exampleBold":"请<b>把</b>桌子上的铅笔给我。",
+        "meaning":"Làm ơn đưa tôi cây bút chì trên bàn."
+    },
+    {
+        "id":"xh3k6xn2vv156jeo4he2",
+        "meaningId":"alf8i74on3od2gwmqyl7",
+        "createdDate":"2021-03-06T13:19:52.479Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.479Z",
+        "pronunciation":"fáng jiān lǐ yǒu sì bǎ yǐ zi",
+        "example":"房间里有四把椅子。",
+        "exampleBold":"房间里有四<b>把</b>椅子。",
+        "meaning":"Có bốn cái ghế trong phòng."
+    },
+    {
+        "id":"vzau8nwxagec5lzsg2jx",
+        "meaningId":"dzcr49e2sk2cshu98i01",
+        "createdDate":"2021-03-06T13:19:52.480Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.480Z",
+        "pronunciation":"wǒ zài sān nián jí èr bān",
+        "example":"我在三年级二班。",
+        "exampleBold":"我在三年级二<b>班</b>。",
+        "meaning":"Tôi học <b>lớp</b> hai lớp ba."
+    },
+    {
+        "id":"ka2ktxxhltpy3z4pzsim",
+        "meaningId":"jzklffwdtxa34lyx3rzd",
+        "createdDate":"2021-03-06T13:19:52.482Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.482Z",
+        "pronunciation":"qǐng bāng wǒ bǎ zhè zhāng zhuō zi bān dào lóu xià hǎo ma",
+        "example":"请帮我把这张桌子搬到楼下好吗？",
+        "exampleBold":"请帮我把这张桌子<b>搬</b>到楼下好吗？",
+        "meaning":"Bạn vui lòng giúp tôi <b>chuyển</b> cái bàn này xuống tầng dưới được không?"
+    },
+    {
+        "id":"ikp1trmc6r724llzaloe",
+        "meaningId":"ta6udppnnjo33fgt6in7",
+        "createdDate":"2021-03-06T13:19:52.484Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.484Z",
+        "pronunciation":"nǐ bié jí wǒ men zài xiǎng xiǎng bàn fǎ",
+        "example":"你别急，我们再想想办法。",
+        "exampleBold":"你别急，我们再想想<b>办法</b>。",
+        "meaning":"Đừng lo lắng, chúng tôi sẽ nghĩ ra <b>cách</b>."
+    },
+    {
+        "id":"ituylrz3rgxnyv6azvt3",
+        "meaningId":"98cyvnk7hwv5n0k89nho",
+        "createdDate":"2021-03-06T13:19:52.485Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.485Z",
+        "pronunciation":"qǐng wèn xiào zhǎng bàn gōng shì zěn me zǒu",
+        "example":"请问，校长办公室怎么走？",
+        "exampleBold":"请问，校长<b>办公室</b>怎么走？",
+        "meaning":"Xin lỗi, làm thế nào tôi có thể đến <b>văn phòng</b> hiệu trưởng?"
+    },
+    {
+        "id":"0dnhlaawqqyvi8w3n5nn",
+        "meaningId":"h9r15v3sx1iafxepuuxf",
+        "createdDate":"2021-03-06T13:19:52.486Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.486Z",
+        "pronunciation":"xiàn zài shì èr diǎn bàn",
+        "example":"现在是二点半。",
+        "exampleBold":"现在是二点<b>半</b>。",
+        "meaning":"Hai giờ <b>rưỡi</b>."
+    },
+    {
+        "id":"tgtqegd8djhs246jtj36",
+        "meaningId":"re5yzwyx870n4ngguy8a",
+        "createdDate":"2021-03-06T13:19:52.488Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.488Z",
+        "pronunciation":"yīn wèi yǒu nǐ bāng máng zhè jiàn shì qíng chǔ lǐ de hěn hǎo",
+        "example":"因为有你帮忙，这件事情处理得很好。",
+        "exampleBold":"因为有你<b>帮忙</b>，这件事情处理得很好。",
+        "meaning":"Vì sự <b>giúp đỡ</b> của bạn, vấn đề này đã được xử lý rất tốt."
+    },
+    {
+        "id":"25wy8lqzd7k1qnqm05i5",
+        "meaningId":"q14296vbdzdwatigvigl",
+        "createdDate":"2021-03-06T13:19:52.489Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.489Z",
+        "pronunciation":"wǒ dē bāo wàng zài fáng jiān lǐ le",
+        "example":"我的包忘在房间里了。",
+        "exampleBold":"我的<b>包</b>忘在房间里了。",
+        "meaning":"Tôi để quên <b>balo</b> trong phòng."
+    },
+    {
+        "id":"0c9nmf9pporbpulnxbqo",
+        "meaningId":"ut1q9zf4qd81q7184wmn",
+        "createdDate":"2021-03-06T13:19:52.491Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.491Z",
+        "pronunciation":"wǒ yǐ jīng chī bǎo le",
+        "example":"我已经吃饱了。",
+        "exampleBold":"我已经吃<b>饱</b>了。",
+        "meaning":"Tôi <b>no</b> rồi."
+    },
+    {
+        "id":"ijh75t5ql3huf4xfofld",
+        "meaningId":"j5p7kfy18cf4wlm3doau",
+        "createdDate":"2021-03-06T13:19:52.492Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.492Z",
+        "pronunciation":"dōng tiān běi fāng bǐ nán fāng lěng duō le",
+        "example":"冬天，北方比南方冷多了。",
+        "exampleBold":"冬天，<b>北方</b>比南方冷多了。",
+        "meaning":"Vào mùa đông, <b>phía bắc</b> lạnh hơn nhiều so với miền nam."
+    },
+    {
+        "id":"gajk6crzy3bkgtr9eaop",
+        "meaningId":"53ty831m6icmepd4hpen",
+        "createdDate":"2021-03-06T13:19:52.494Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.494Z",
+        "pronunciation":"cí diǎn bèi wáng lǎo shī ná zǒu le",
+        "example":"词典被王老师拿走了。",
+        "exampleBold":"词典<b>被</b>王老师拿走了。",
+        "meaning":"Từ điển đã <b>bị</b> cô giáo Vương lấy đi."
+    },
+    {
+        "id":"31zpk7maitndw1cei08m",
+        "meaningId":"6go5kepheozci9ocq5wj",
+        "createdDate":"2021-03-06T13:19:52.495Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.495Z",
+        "pronunciation":"jiě jie dē bí zi hěn gāo hěn piào liàng",
+        "example":"姐姐的鼻子很高，很漂亮。",
+        "exampleBold":"姐姐的<b>鼻子</b>很高，很漂亮。",
+        "meaning":"<b>Mũi</b> của chị tôi rất cao và rất đẹp."
+    },
+    {
+        "id":"j6n7g2w0yxqjv7d2emu9",
+        "meaningId":"ree983px5d5gvl9d4i3l",
+        "createdDate":"2021-03-06T13:19:52.497Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.497Z",
+        "pronunciation":"jīn tiān tiān qì bǐ jiào lěng",
+        "example":"今天天气比较冷。",
+        "exampleBold":"今天天气<b>比较</b>冷。",
+        "meaning":"Thời tiết hôm nay <b>tương đối</b> lạnh."
+    },
+    {
+        "id":"5g623fidbaplduxva7hv",
+        "meaningId":"e7lu0awcivvnz0ufdj0b",
+        "createdDate":"2021-03-06T13:19:52.498Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.498Z",
+        "pronunciation":"jīn tiān wǎn shàng yǒu zú qiú bǐ sài",
+        "example":"今天晚上有足球比赛。",
+        "exampleBold":"今天晚上有足球<b>比赛</b>。",
+        "meaning":"Có một <b>trận đấu</b> bóng đá tối nay."
+    },
+    {
+        "id":"tidatihouuahxq9j1o3m",
+        "meaningId":"8ngpzsyzn92kturwpbvz",
+        "createdDate":"2021-03-06T13:19:52.499Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.499Z",
+        "pronunciation":"wǒ men bǐ sài pǎo bù ba",
+        "example":"我们比赛跑步吧。",
+        "exampleBold":"我们<b>比赛</b>跑步吧。",
+        "meaning":"Hãy đua và chạy."
+    },
+    {
+        "id":"hvl8ujrdy8nnbvvf1hor",
+        "meaningId":"sxc84k6nqjbtuajbh06f",
+        "createdDate":"2021-03-06T13:19:52.501Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.501Z",
+        "pronunciation":"lǎo shī jiǎng dē nèi róng wǒ dōu xiě zài bǐ jì běn shàng le",
+        "example":"老师讲的内容，我都写在笔记本上了。",
+        "exampleBold":"老师讲的内容，我都写在<b>笔记本</b>上了。",
+        "meaning":"Cô giáo nói gì, tôi ghi vào <b>vở</b>."
+    },
+    {
+        "id":"3txapj21nb7rjuyzmfmh",
+        "meaningId":"mqrpswx1z3f88wgoi6x4",
+        "createdDate":"2021-03-06T13:19:52.502Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.502Z",
+        "pronunciation":"nǐ kàn zhè shì wǒ xīn mǎi dē bǐ jì běn",
+        "example":"你看，这是我新买的笔记本。",
+        "exampleBold":"你看，这是我新买的<b>笔记本</b>。",
+        "meaning":"Bạn thấy đấy, đây là <b>sổ tay</b> mới của tôi."
+    },
+    {
+        "id":"0gmbunaxmuw89smnjycj",
+        "meaningId":"5fhei6jwyk081hdnygye",
+        "createdDate":"2021-03-06T13:19:52.504Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.504Z",
+        "pronunciation":"wǒ jīn tiān bì xū qù shàng bān",
+        "example":"我今天必须去上班。",
+        "exampleBold":"我今天<b>必须</b>去上班。",
+        "meaning":"Tôi <b>phải</b> đi làm hôm nay."
+    },
+    {
+        "id":"d2zemvxydcejrqasdca6",
+        "meaningId":"2mfehjea00p8ql93ga1z",
+        "createdDate":"2021-03-06T13:19:52.505Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.505Z",
+        "pronunciation":"shí nián bú jiàn tā hǎo xiàng méi shén me biàn huà",
+        "example":"十年不见，他好像没什么变化。",
+        "exampleBold":"十年不见，他好像没什么<b>变化</b>。",
+        "meaning":"Sau mười năm vắng bóng, anh ấy dường như không có nhiều <b>thay đổi</b>."
+    },
+    {
+        "id":"d1kachywmk7m534jxff4",
+        "meaningId":"lhrm9snxw276f284g0bc",
+        "createdDate":"2021-03-06T13:19:52.507Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.507Z",
+        "pronunciation":"chéng shì biàn huà dé tài kuài le",
+        "example":"城市变化得太快了。",
+        "exampleBold":"城市<b>变化</b>得太快了。",
+        "meaning":"Thành phố đang <b>thay đổi</b> quá nhanh."
+    },
+    {
+        "id":"nsvlcljd2o59y5r2foh0",
+        "meaningId":"jdxaon7srgut66srhym6",
+        "createdDate":"2021-03-06T13:19:52.508Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.508Z",
+        "pronunciation":"bié rén dōu zǒu le wèi shí me nǐ hái zài zhè lǐ",
+        "example":"别人都走了，为什么你还在这里？",
+        "exampleBold":"<b>别人</b>都走了，为什么你还在这里？",
+        "meaning":"<b>Những người khác</b> đã đi hết, tại sao bạn vẫn còn ở đây?"
+    },
+    {
+        "id":"okocjhuy6j78lszvww9a",
+        "meaningId":"g0jzyezjy8tef8jnol4t",
+        "createdDate":"2021-03-06T13:19:52.510Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.510Z",
+        "pronunciation":"zhè shì wǒ men zhè ér zuì dà dē bīn guǎn kě yǐ zhù gè kè rén",
+        "example":"这是我们这儿最大的宾馆，可以住300个客人。",
+        "exampleBold":"这是我们这儿最大的<b>宾馆</b>，可以住300个客人。",
+        "meaning":"Đây là <b>khách sạn</b> lớn nhất của chúng tôi ở đây và có thể chứa 300 khách."
+    },
+    {
+        "id":"ch9b85hh6wsh9w7kawlc",
+        "meaningId":"8it5l80obhcseasjmqho",
+        "createdDate":"2021-03-06T13:19:52.511Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.511Z",
+        "pronunciation":"mā mā bǎ gāng mǎi dē yú fàng jìn le bīng xiāng",
+        "example":"妈妈把刚买的鱼放进了冰箱。",
+        "exampleBold":"妈妈把刚买的鱼放进了<b>冰箱</b>。",
+        "meaning":"Mẹ cho cá vừa mua vào <b>tủ lạnh</b>."
+    },
+    {
+        "id":"wobxe92wwrviysptchm0",
+        "meaningId":"yn0m0urpz8pgysqnfyb0",
+        "createdDate":"2021-03-06T13:19:52.513Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.513Z",
+        "pronunciation":"mèi mei bù wò xǐ huān chàng gē ér qiě ài tiào wǔ",
+        "example":"妹妹不仴喜欢唱歌，而且爱跳舞。",
+        "exampleBold":"妹妹<b>不仴</b>喜欢唱歌，<b>而且</b>爱跳舞。",
+        "meaning":"Em gái tôi <b>không những</b> thích ca hát, <b>mà còn</b> thích nhảy múa."
+    },
+    {
+        "id":"s9gu3mrkmmvyd8x9fz9e",
+        "meaningId":"rrxytihnim03j5iaiau2",
+        "createdDate":"2021-03-06T13:19:52.515Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.516Z",
+        "pronunciation":"tā suì cái dú wán dà xué",
+        "example":"他30岁才读完大学。",
+        "exampleBold":"他30岁<b>才</b>读完大学。",
+        "meaning":"Anh ấy chưa học xong đại học cho đến năm 30 tuổi."
+    },
+    {
+        "id":"zv7159byn6ly00l8n744",
+        "meaningId":"6d3uy8byo139m1xscgqw",
+        "createdDate":"2021-03-06T13:19:52.517Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.517Z",
+        "pronunciation":"zhè jiàn shì zhǐ yǒu tā cái néng zuò hǎo",
+        "example":"这件事，只有他才能做好。",
+        "exampleBold":"这件事，只有他<b>才</b>能做好。",
+        "meaning":"Vấn đề này, <b>chỉ</b> có anh ấy mới có thể làm tốt."
+    },
+    {
+        "id":"qt1jjdu0672mydiriw1c",
+        "meaningId":"5yimx7w2u12gbxs68p8x",
+        "createdDate":"2021-03-06T13:19:52.519Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.519Z",
+        "pronunciation":"fú wù yuán qǐng bāng wǒ ná yī xià cài dān",
+        "example":"服务员，请帮我拿一下菜单。",
+        "exampleBold":"服务员，请帮我拿一下<b>菜单</b>。",
+        "meaning":"Người phục vụ, vui lòng giúp tôi lấy <b>thực đơn</b>."
+    },
+    {
+        "id":"kosaeimdklp21fdyq31s",
+        "meaningId":"ha2mfes4j6bqnzyem5on",
+        "createdDate":"2021-03-06T13:19:52.520Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.520Z",
+        "pronunciation":"zhè cì huì yì yǒu liǎng bǎi duō rén shēn jiā",
+        "example":"这次会议有两百多人参加。",
+        "exampleBold":"这次会议有两百多人<b>参加</b>。",
+        "meaning":"Hơn hai trăm người đã <b>tham dự</b> cuộc họp này."
+    },
+    {
+        "id":"7lmb5ffgnjdcjt1pvqqx",
+        "meaningId":"32pxufe73m08enr5qjwp",
+        "createdDate":"2021-03-06T13:19:52.522Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.522Z",
+        "pronunciation":"chūn tiān lái le xiǎo cǎo lǜ le",
+        "example":"春天来了，小草绿了。",
+        "exampleBold":"春天来了，小<b>草</b>绿了。",
+        "meaning":"Mùa xuân đến rồi <b>cỏ</b> xanh tươi."
+    },
+    {
+        "id":"u1jyd0crtj5tm21ytqn3",
+        "meaningId":"vr7uqddcxk7p97a8s7zk",
+        "createdDate":"2021-03-06T13:19:52.523Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.523Z",
+        "pronunciation":"wǒ zhù zài sān céng",
+        "example":"我住在三层，306。",
+        "exampleBold":"我住在三<b>层</b>，306。",
+        "meaning":"Tôi sống trên <b>tầng</b> ba, phòng 306."
+    },
+    {
+        "id":"x1ym9072sb5l7i9p79ow",
+        "meaningId":"nntz9mcw7n82ckwawnmz",
+        "createdDate":"2021-03-06T13:19:52.525Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.525Z",
+        "pronunciation":"wǒ zhè cì kǎo shì kǎo de hěn chà",
+        "example":"我这次考试考得很差。",
+        "exampleBold":"我这次考试考得很<b>差</b>。",
+        "meaning":"Tôi đã làm bài <b>tệ</b> trong kỳ thi này."
+    },
+    {
+        "id":"ttxyn3ji4dmsfz1jav0o",
+        "meaningId":"4qnldpj9q9ddrsigd4ll",
+        "createdDate":"2021-03-06T13:19:52.526Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.526Z",
+        "pronunciation":"xiàn zài shì chà fēn diǎn",
+        "example":"现在是差5分12点。",
+        "exampleBold":"现在是<b>差</b>5分12点。",
+        "meaning":"Bây giờ là 5 giờ kém 12 phút."
+    },
+    {
+        "id":"h1cmhqxebbj10n5v3hng",
+        "meaningId":"y4d3af9cu8258frvzjwk",
+        "createdDate":"2021-03-06T13:19:52.527Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.527Z",
+        "pronunciation":"jiě jie dē tóu fà yòu hēi yòu zhǎng",
+        "example":"姐姐的头发又黑又长。",
+        "exampleBold":"姐姐的头发又黑又<b>长</b>。",
+        "meaning":"Tóc chị tôi đen và <b>dài</b>."
+    },
+    {
+        "id":"zby87kkxn4l34x7lmfuc",
+        "meaningId":"83uge9j84dvdgzdgf3sf",
+        "createdDate":"2021-03-06T13:19:52.529Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.529Z",
+        "pronunciation":"zhè jiā chāo shì lǐ dē dōng xī bǐ jiào pián yí",
+        "example":"这家超市里的东西比较便宜。",
+        "exampleBold":"这家<b>超市</b>里的东西比较便宜。",
+        "meaning":"Những thứ trong <b>siêu thị</b> này rẻ hơn."
+    },
+    {
+        "id":"9m5cyejd28ut5jriuere",
+        "meaningId":"osvjp7joa6jlkb19bnkn",
+        "createdDate":"2021-03-06T13:19:52.530Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.530Z",
+        "pronunciation":"jīn tiān wǒ chuān zhè jiàn chèn shān",
+        "example":"今天我穿这件衬衫。",
+        "exampleBold":"今天我穿这件<b>衬衫</b>。",
+        "meaning":"Tôi mặc chiếc <b>áo</b> này hôm nay."
+    },
+    {
+        "id":"9zyqm9m1xeye68te6t4t",
+        "meaningId":"bnnl1uvozchslzi4b2b0",
+        "createdDate":"2021-03-06T13:19:52.532Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.532Z",
+        "pronunciation":"wǒ men kě yǐ zài wǎng shàng chá dào kǎo shì chéng jī",
+        "example":"我们可以在网上查到考试成绩。",
+        "exampleBold":"我们可以在网上查到考试<b>成绩</b>。",
+        "meaning":"Chúng tôi có thể kiểm tra <b>điểm</b> bài làm trực tuyến."
+    },
+    {
+        "id":"besjfmz0evvtp12gu4hp",
+        "meaningId":"9svfklsrlpokxjrj1f6r",
+        "createdDate":"2021-03-06T13:19:52.533Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.533Z",
+        "pronunciation":"wǒ yǐ jīng xǐ huān shàng le zhè gè chéng shì",
+        "example":"我已经喜欢上了这个城市。",
+        "exampleBold":"我已经喜欢上了这个<b>城市</b>。",
+        "meaning":"Tôi đã yêu <b>thành phố</b> này."
+    },
+    {
+        "id":"9u66uho7xdp1poqwhbxp",
+        "meaningId":"vdxnpyawff4zatntluhr",
+        "createdDate":"2021-03-06T13:19:52.535Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.535Z",
+        "pronunciation":"duì bù qǐ wǒ jīn tiān yòu chí dào le",
+        "example":"对不起，我今天又迟到了。",
+        "exampleBold":"对不起，我今天又<b>迟到</b>了。",
+        "meaning":"Xin lỗi, hôm nay tôi lại đến <b>muộn</b>."
+    },
+    {
+        "id":"eckgh3nakjbtufgaprk5",
+        "meaningId":"txyn5btunhu86ejol7ig",
+        "createdDate":"2021-03-06T13:19:52.536Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.536Z",
+        "pronunciation":"wǒ men děng le tā yí gè xiǎo shí tā yě méi yǒu chū xiàn",
+        "example":"我们等了他一个小时，他也没有出现。",
+        "exampleBold":"我们等了他一个小时，他也没有<b>出现</b>。",
+        "meaning":"Chúng tôi đợi anh ấy cả tiếng đồng hồ mà anh ấy cũng không <b>xuất hiện</b>."
+    },
+    {
+        "id":"90pp0yf3lvxz7liobg0n",
+        "meaningId":"txyn5btunhu86ejol7ig",
+        "createdDate":"2021-03-06T13:19:52.538Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.538Z",
+        "pronunciation":"wǒ men gōng zuò zhōng chū xiàn liǎo bù shǎo wèn tí",
+        "example":"我们工作中出现了不少问题。",
+        "exampleBold":"我们工作中<b>出现</b>了不少问题。",
+        "meaning":"Nhiều vấn đề đã <b>nảy sinh</b> trong công việc của chúng tôi."
+    },
+    {
+        "id":"zcfnaj6t546146wmt5zx",
+        "meaningId":"w6ftfb0rc2xlstlp2mrd",
+        "createdDate":"2021-03-06T13:19:52.539Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.539Z",
+        "pronunciation":"chú le xiǎo wáng qí tā rén dōu lái le",
+        "example":"除了小王，其他人都来了。",
+        "exampleBold":"<b>除了</b>小王，其他人都来了。",
+        "meaning":"<b>Ngoại trừ</b> Tiểu Vương, những người khác đều đến."
+    },
+    {
+        "id":"ysrmzf477h0qk4bvdc4e",
+        "meaningId":"roug5oi3ohp5mketruqr",
+        "createdDate":"2021-03-06T13:19:52.541Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.541Z",
+        "pronunciation":"nǐ kě yǐ zuò chuán qù shàng hǎi",
+        "example":"你可以坐船去上海。",
+        "exampleBold":"你可以坐<b>船</b>去上海。",
+        "meaning":"Bạn có thể đến Thượng Hải bằng <b>thuyền</b>."
+    },
+    {
+        "id":"ibhc9zt3zypi8gbll7ik",
+        "meaningId":"96ulnajn0sqid7a2ko0r",
+        "createdDate":"2021-03-06T13:19:52.542Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.542Z",
+        "pronunciation":"chūn tiān shì yī nián dē kāi shǐ",
+        "example":"春天是一年的开始。",
+        "exampleBold":"<b>春</b>天是一年的开始。",
+        "meaning":"<b>Mùa xuân</b> là mùa đầu tiên của năm."
+    },
+    {
+        "id":"dsbtkmmzlfhpx4p9hu0j",
+        "meaningId":"u7i3ua17dxl9kvgyjpgs",
+        "createdDate":"2021-03-06T13:19:52.544Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.544Z",
+        "pronunciation":"zhè běn cí diǎn duì wǒ dē xué xí hěn yǒu bāng zhù",
+        "example":"这本词典对我的学习很有帮助。",
+        "exampleBold":"这本<b>词典</b>对我的学习很有帮助。",
+        "meaning":"<b>Từ điển</b> này rất hữu ích cho việc học của tôi."
+    },
+    {
+        "id":"ekjneli7nkj1nw2ztqlr",
+        "meaningId":"cuqtpzb8yrnvlcdz0972",
+        "createdDate":"2021-03-06T13:19:52.545Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.545Z",
+        "pronunciation":"dì di bù dàn hěn cōng míng ér qiě hěn ài xué xí",
+        "example":"弟弟不但很聪明，而且很爱学习。",
+        "exampleBold":"弟弟不但很<b>聪明</b>，而且很爱学习。",
+        "meaning":"Em trai không chỉ rất <b>thông minh</b> mà còn rất thích học."
+    },
+    {
+        "id":"z9gbwcc7swh9sxqhwq8l",
+        "meaningId":"pezlz9r8g848jij352jq",
+        "createdDate":"2021-03-06T13:19:52.547Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.547Z",
+        "pronunciation":"wǒ zhǔn bèi zhōu mò bǎ fáng jiān dǎ sǎo xià",
+        "example":"我准备周末把房间打扫下。",
+        "exampleBold":"我准备周末把房间<b>打扫</b>下。",
+        "meaning":"Tôi sẽ <b>dọn</b> phòng vào cuối tuần."
+    },
+    {
+        "id":"sqqyioeqv81g1oyshkg2",
+        "meaningId":"gwxegd8iwbabw73kgj9u",
+        "createdDate":"2021-03-06T13:19:52.548Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.548Z",
+        "pronunciation":"wǒ dǎ suàn xià gè xīng qī qù lǚ yóu",
+        "example":"我打算下个星期去旅游。",
+        "exampleBold":"我<b>打算</b>下个星期去旅游。",
+        "meaning":"Tôi <b>dự định</b> đi du lịch vào tuần tới."
+    },
+    {
+        "id":"unlwzsil2ftgwncnxto9",
+        "meaningId":"q7gyrwuzbko1tgf5un3f",
+        "createdDate":"2021-03-06T13:19:52.550Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.550Z",
+        "pronunciation":"wǒ hái méi yǒu jié hūn dē dǎ suàn",
+        "example":"我还没有结婚的打算。",
+        "exampleBold":"我还没有结婚的<b>打算</b>。",
+        "meaning":"Tôi chưa có <b>kế hoạch</b> kết hôn."
+    },
+    {
+        "id":"5ngouw93cjwouulhdhhs",
+        "meaningId":"xjh85yntci8764ejym79",
+        "createdDate":"2021-03-06T13:19:52.551Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.551Z",
+        "pronunciation":"wǒ jīn tiān wàng jì dài qián bāo le",
+        "example":"我今天忘记带钱包了。",
+        "exampleBold":"我今天忘记<b>带</b>钱包了。",
+        "meaning":"Hôm nay tôi quên <b>mang</b> ví."
+    },
+    {
+        "id":"g77qjlew8czud34tbzoq",
+        "meaningId":"xon6k0f788jgjx56g7uy",
+        "createdDate":"2021-03-06T13:19:52.553Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.553Z",
+        "pronunciation":"yé ye zhù yuàn le wǒ hěn dān xīn",
+        "example":"爷爷住院了，我很担心。",
+        "exampleBold":"爷爷住院了，我很<b>担心</b>。",
+        "meaning":"Ông nội đang nằm viện, tôi rất <b>lo lắng</b>."
+    },
+    {
+        "id":"u86augrmmegznomb01kz",
+        "meaningId":"npv4vdogxy0eg3b0r7ir",
+        "createdDate":"2021-03-06T13:19:52.554Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.554Z",
+        "pronunciation":"nǐ è le ma xiān chī kuài dàn gāo ba",
+        "example":"你饿了吗？先吃块蛋糕吧。",
+        "exampleBold":"你饿了吗？先吃块<b>蛋糕</b>吧。",
+        "meaning":"Bạn có đói không? Hãy ăn một miếng <b>bánh</b> trước."
+    },
+    {
+        "id":"jt1enxvktfc8kux84wm6",
+        "meaningId":"96jjly0dg2xw4grajuy5",
+        "createdDate":"2021-03-06T13:19:52.556Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.556Z",
+        "pronunciation":"nǐ shēng bìng le wǒ dāng rán yào lái kàn kàn nǐ",
+        "example":"你生病了，我当然要来看看你。",
+        "exampleBold":"你生病了，我<b>当然</b>要来看看你。",
+        "meaning":"Ngươi bị bệnh, ta <b>đương nhiên</b> muốn tới gặp ngươi."
+    },
+    {
+        "id":"hyv29xvfvwtw14llz6fs",
+        "meaningId":"mfn6dih1uamp9eryxtz4",
+        "createdDate":"2021-03-06T13:19:52.557Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.557Z",
+        "pronunciation":"fáng jiān lǐ dē dēng zěn me bù liàng le",
+        "example":"房间里的灯怎么不亮了？",
+        "exampleBold":"房间里的<b>灯</b>怎么不亮了？",
+        "meaning":"Tại sao <b>đèn</b> trong phòng không bật?"
+    },
+    {
+        "id":"ar1elaf6rc6uaaxyaxy3",
+        "meaningId":"xiu2kiqyax462akoxh0g",
+        "createdDate":"2021-03-06T13:19:52.558Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.558Z",
+        "pronunciation":"tiān màn màn dì hēi le",
+        "example":"天慢慢地黑了。",
+        "exampleBold":"天慢慢<b>地</b>黑了。",
+        "meaning":"Trời tối dần."
+    },
+    {
+        "id":"5ice1kmb5i0lcktpk2ze",
+        "meaningId":"pslnrwrvsf1j9m1w4l85",
+        "createdDate":"2021-03-06T13:19:52.560Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.560Z",
+        "pronunciation":"zhè gè dì fāng wǒ lái guò sān cì le",
+        "example":"这个地方我来过三次了。",
+        "exampleBold":"这个<b>地方</b>我来过三次了。",
+        "meaning":"Tôi đã đến <b>nơi</b> này ba lần."
+    },
+    {
+        "id":"eiekva9dk6ytqact6g5v",
+        "meaningId":"txikhehl3bzsze02m5fx",
+        "createdDate":"2021-03-06T13:19:52.561Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.561Z",
+        "pronunciation":"wǒ men xiān zuò sān zhàn dì tiě zài zǒu yī huì ér jiù dào le",
+        "example":"我们先坐三站地铁，再走一会儿就到了。",
+        "exampleBold":"我们先坐三站<b>地铁</b>，再走一会儿就到了。",
+        "meaning":"Hãy đi <b>tàu điện ngầm</b> ba điểm dừng, và sau đó chúng ta sẽ đến nơi."
+    },
+    {
+        "id":"6m97pibkrod3f033o8fw",
+        "meaningId":"apm3a7bxcatyjdupswoq",
+        "createdDate":"2021-03-06T13:19:52.563Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.563Z",
+        "pronunciation":"wǒ dē shǒu jī shàng yǒu diàn zǐ dì tú",
+        "example":"我的手机上有电子地图。",
+        "exampleBold":"我的手机上有电子<b>地图</b>。",
+        "meaning":"Có một <b>bản đồ</b> điện tử trên điện thoại của tôi."
+    },
+    {
+        "id":"flusto83wucmnxjuhzni",
+        "meaningId":"2pnwy77y9ninonv05p6y",
+        "createdDate":"2021-03-06T13:19:52.564Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.564Z",
+        "pronunciation":"wǒ men zuò diàn tī shǎng qù ba",
+        "example":"我们坐电梯上去吧。",
+        "exampleBold":"我们坐<b>电梯</b>上去吧。",
+        "meaning":"Đi <b>thang máy</b> lên thôi."
+    },
+    {
+        "id":"v148friohq49h8e4h2wd",
+        "meaningId":"8aiz0me93ke6kezdgwum",
+        "createdDate":"2021-03-06T13:19:52.566Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.566Z",
+        "pronunciation":"wǒ wǎn shàng zài gěi nǐ fā gè diàn zǐ yóu jiàn",
+        "example":"我晚上再给你发个电子邮件。",
+        "exampleBold":"我晚上再给你发个<b>电子邮件</b>。",
+        "meaning":"Tôi sẽ gửi cho bạn một <b>email</b> tối nay."
+    },
+    {
+        "id":"iyddxsjxjd5afys5kais",
+        "meaningId":"sncget607uult8qe50mm",
+        "createdDate":"2021-03-06T13:19:52.567Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.567Z",
+        "pronunciation":"nǐ yī zhí xiàng dōng zǒu jiù dào le",
+        "example":"你一直向东走就到了。",
+        "exampleBold":"你一直向<b>东</b>走就到了。",
+        "meaning":"Bạn sẽ đến đó chỉ bằng cách đi bộ về <b>phía đông</b>."
+    },
+    {
+        "id":"67j352xx7ds0e9vx02ol",
+        "meaningId":"twq5i1jfy12gwimztcs3",
+        "createdDate":"2021-03-06T13:19:52.569Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.569Z",
+        "pronunciation":"běi fāng dē dōng tiān hěn lěng",
+        "example":"北方的冬天很冷。",
+        "exampleBold":"北方的<b>冬</b>天很冷。",
+        "meaning":"<b>Mùa đông</b> ở miền bắc rất lạnh."
+    },
+    {
+        "id":"t8sww6npvl2ayjycxj3f",
+        "meaningId":"k6ke88ldsp7hqz0703dj",
+        "createdDate":"2021-03-06T13:19:52.570Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.570Z",
+        "pronunciation":"dòng wù yuán lǐ yǒu yī bǎi duō zhǒng dòng wù",
+        "example":"动物园里有一百多种动物。",
+        "exampleBold":"<b>动物园</b>里有一百多种动物。",
+        "meaning":"Có hơn một trăm loài động vật trong <b>vườn thú</b>."
+    },
+    {
+        "id":"cv80iu57zimcmqzsevs6",
+        "meaningId":"wjaqllg6vzepmgtje24c",
+        "createdDate":"2021-03-06T13:19:52.572Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.572Z",
+        "pronunciation":"zhè jiàn shì zài duǎn shí jiān nèi hěn nán zuò wán",
+        "example":"这件事在短时间内很难做完。",
+        "exampleBold":"这件事在<b>短</b>时间内很难做完。",
+        "meaning":"Điều này khó có thể hoàn thành trong thời gian <b>ngắn</b>."
+    },
+    {
+        "id":"rph4tdqutgnj6nb1znyx",
+        "meaningId":"fugrvr74elvyfnuekf3w",
+        "createdDate":"2021-03-06T13:19:52.573Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.573Z",
+        "pronunciation":"zhè duàn shí jiān wǒ hěn máng",
+        "example":"这段时间我很忙。",
+        "exampleBold":"这<b>段</b>时间我很忙。",
+        "meaning":"Tôi rất bận trong <b>khoảng thời gian</b> này."
+    },
+    {
+        "id":"mpluatlpidtr6hmn52ab",
+        "meaningId":"58o75xmta0aipbjh7axq",
+        "createdDate":"2021-03-06T13:19:52.574Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.574Z",
+        "pronunciation":"wǒ měi tiān zǎo shàng dōu qù duàn liàn shēn tǐ",
+        "example":"我每天早上都去锻炼身体。",
+        "exampleBold":"我每天早上都去<b>锻炼</b>身体。",
+        "meaning":"Tôi đi <b>tập thể dục</b> mỗi sáng."
+    },
+    {
+        "id":"guzn3cnxd2ydd13h415t",
+        "meaningId":"sapb8zt9gzckuydmnzcv",
+        "createdDate":"2021-03-06T13:19:52.576Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.576Z",
+        "pronunciation":"zhè lǐ duō me piào liàng a",
+        "example":"这里多么漂亮啊！",
+        "exampleBold":"这里<b>多么</b>漂亮啊！",
+        "meaning":"Ở đây đẹp <b>làm sao</b>!"
+    },
+    {
+        "id":"tl90a9y4me3g490455rl",
+        "meaningId":"rek5v3c2t3g2ukjc5i1d",
+        "createdDate":"2021-03-06T13:19:52.577Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.577Z",
+        "pronunciation":"wǒ è le xiǎng chī diǎn dōng xī",
+        "example":"我饿了，想吃点东西。",
+        "exampleBold":"我<b>饿</b>了，想吃点东西。",
+        "meaning":"Tôi <b>đói bụng</b> và muốn ăn gì đó."
+    },
+    {
+        "id":"j0vubqxn0dxj5z59qpo4",
+        "meaningId":"itgzeyld4vh19dhpak3i",
+        "createdDate":"2021-03-06T13:19:52.579Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.579Z",
+        "pronunciation":"wǒ dē ěr duǒ yǒu diǎn téng yào qù yī yuàn kàn kàn",
+        "example":"我的耳朵有点疼，要去医院看看。",
+        "exampleBold":"我的<b>耳朵</b>有点疼，要去医院看看。",
+        "meaning":"<b>Tai</b> tôi hơi đau nên tôi cần đến bệnh viện để khám."
+    },
+    {
+        "id":"2us34vicpoqhgxucngkj",
+        "meaningId":"ekx6i73c9dxma9rbey7p",
+        "createdDate":"2021-03-06T13:19:52.580Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.580Z",
+        "pronunciation":"nǐ gěi wǒ fā diàn zǐ yóu jiàn le ma",
+        "example":"你给我发电子邮件了吗？",
+        "exampleBold":"你给我<b>发</b>电子邮件了吗？",
+        "meaning":"Bạn đã <b>gửi</b> email cho tôi?"
+    },
+    {
+        "id":"fhs56s2tir0svupffcb2",
+        "meaningId":"f0xxojn5ey4oqehjzpbc",
+        "createdDate":"2021-03-06T13:19:52.582Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.582Z",
+        "pronunciation":"wǒ shēn tǐ bù shū fu fā shāo le",
+        "example":"我身体不舒服，发烧了。",
+        "exampleBold":"我身体不舒服，<b>发烧</b>了。",
+        "meaning":"Tôi cảm thấy ốm và <b>sốt</b>."
+    },
+    {
+        "id":"k28x00zn4w8oagwn7q3v",
+        "meaningId":"jwfjr5zuk8bwuzqwdalg",
+        "createdDate":"2021-03-06T13:19:52.584Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.584Z",
+        "pronunciation":"wǒ fā xiàn tā shòu le hěn duō",
+        "example":"我发现他痩了很多。",
+        "exampleBold":"我<b>发现</b>他痩了很多。",
+        "meaning":"Tôi <b>thấy</b> anh ấy yếu đi rất nhiều."
+    },
+    {
+        "id":"gmrbvtgz8zwjbr32gs6y",
+        "meaningId":"j8nxi9pub20rhw040guf",
+        "createdDate":"2021-03-06T13:19:52.585Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.585Z",
+        "pronunciation":"wǒ zuò dì tiě qù shàng bān hěn fāng biàn",
+        "example":"我坐地铁去上班很方便。",
+        "exampleBold":"我坐地铁去上班很<b>方便</b>。",
+        "meaning":"Tôi rất <b>thuận tiện</b> khi đi làm bằng tàu điện ngầm."
+    },
+    {
+        "id":"mflfllm7zmyz4qeqrefn",
+        "meaningId":"835nda8yfey5tg9bcsdr",
+        "createdDate":"2021-03-06T13:19:52.586Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.586Z",
+        "pronunciation":"bǎ shū fàng zài zhuō zi shàng ba",
+        "example":"把书放在桌子上吧。",
+        "exampleBold":"把书<b>放</b>在桌子上吧。",
+        "meaning":"<b>Đặt</b> quyển sách lên trên bàn."
+    },
+    {
+        "id":"8mb14w7qxcz7ceni49pr",
+        "meaningId":"8sl6cvvhh4779n43kh4o",
+        "createdDate":"2021-03-06T13:19:52.588Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.588Z",
+        "pronunciation":"qǐng fàng xīn wǒ huì bǎ shì qíng bàn hǎo dē",
+        "example":"请放心，我会把事情办好的。",
+        "exampleBold":"请<b>放心</b>，我会把事情办好的。",
+        "meaning":"Hãy <b>yên tâm</b>, tôi sẽ hoàn thành công việc."
+    },
+    {
+        "id":"nvsdrsoxmn8yicr8d815",
+        "meaningId":"rctvot8gsorlo41m5s0j",
+        "createdDate":"2021-03-06T13:19:52.589Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.589Z",
+        "pronunciation":"xiàn zài diǎn fēn",
+        "example":"现在8点30分。",
+        "exampleBold":"现在8点30<b>分</b>。",
+        "meaning":"Bây giờ là 8 giờ 30 <b>phút</b>."
+    },
+    {
+        "id":"o4v8k2ej3obb36hgixja",
+        "meaningId":"e7z79xh4drljp4rll6d6",
+        "createdDate":"2021-03-06T13:19:52.591Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.591Z",
+        "pronunciation":"zhè cì kǎo shì wǒ dé le fēn",
+        "example":"这次考试，我得了85分。",
+        "exampleBold":"这次考试，我得了85<b>分</b>。",
+        "meaning":"Trong kỳ thi này, tôi đạt 85 <b>điểm</b>."
+    },
+    {
+        "id":"zrafj74mpkcaffsd5vw7",
+        "meaningId":"x3z20k32togr20dkqd3y",
+        "createdDate":"2021-03-06T13:19:52.592Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.592Z",
+        "pronunciation":"zhè gè píng guǒ bèi fēn chéng le liǎng kuài ér",
+        "example":"这个苹果被分成了两块儿。",
+        "exampleBold":"这个苹果被<b>分</b>成了两块儿。",
+        "meaning":"Quả táo được <b>chia</b> thành hai miếng."
+    },
+    {
+        "id":"yh6xzfahgc9xz0c9n1n3",
+        "meaningId":"8trphqzrqeoeu5hrf0l5",
+        "createdDate":"2021-03-06T13:19:52.593Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.593Z",
+        "pronunciation":"tā jiā jiù zhù zài gōng sī fù jìn",
+        "example":"他家就住在公司附近。",
+        "exampleBold":"他家就住在公司<b>附近</b>。",
+        "meaning":"Gia đình anh ấy sống <b>gần</b> công ty."
+    },
+    {
+        "id":"8y3tzqtl59vm16u4nivh",
+        "meaningId":"41kycdcjp3q3y0t6ykwx",
+        "createdDate":"2021-03-06T13:19:52.595Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.595Z",
+        "pronunciation":"kǎo shì qián yāo hǎo hǎo dì fù xí",
+        "example":"考试前要好好地复习。",
+        "exampleBold":"考试前要好好地<b>复习</b>。",
+        "meaning":"<b>Ôn tập</b> thật tốt trước khi thi."
+    },
+    {
+        "id":"5liv0hokestw0hm4bh1u",
+        "meaningId":"6r7fxfb01z4m65mlmpij",
+        "createdDate":"2021-03-06T13:19:52.596Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.596Z",
+        "pronunciation":"wǒ bǎ yī fú xǐ gān jìng le",
+        "example":"我把衣服洗干净了。",
+        "exampleBold":"我把衣服洗<b>干净</b>了。",
+        "meaning":"Tôi đã <b>giặt</b> quần áo của mình."
+    },
+    {
+        "id":"cr6gmd3ienzz7nlgca0v",
+        "meaningId":"hryqfikbah1sc7n6h7zm",
+        "createdDate":"2021-03-06T13:19:52.598Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.598Z",
+        "pronunciation":"wǒ gǎn mào le yào chī diǎn ér yào",
+        "example":"我感冒了，要吃点儿药。",
+        "exampleBold":"我<b>感冒</b>了，要吃点儿药。",
+        "meaning":"Tôi <b>bị cảm lạnh</b> và cần một ít thuốc."
+    },
+    {
+        "id":"o0yuxvdoqjg7zqivtatk",
+        "meaningId":"lgs8ok9fbatg4wkg89rc",
+        "createdDate":"2021-03-06T13:19:52.599Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.599Z",
+        "pronunciation":"xiǎo wáng duì yīn yuè hěn gǎn xīng qù",
+        "example":"小王对音乐很感兴趣。",
+        "exampleBold":"小王对音乐很<b>感兴趣</b>。",
+        "meaning":"Xiao Wang rất <b>quan tâm</b> đến âm nhạc."
+    },
+    {
+        "id":"cpqk24r1fmu8q0fm4mt4",
+        "meaningId":"s5efe5wbzrowlvigdod8",
+        "createdDate":"2021-03-06T13:19:52.601Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.601Z",
+        "pronunciation":"gāng cái shì shuí lái dē diàn huà",
+        "example":"刚才是谁来的电话？",
+        "exampleBold":"<b>刚才</b>是谁来的电话？",
+        "meaning":"Ai <b>vừa</b> gọi vậy?"
+    },
+    {
+        "id":"3b3pp3rg5p116tal4pra",
+        "meaningId":"dachtiinnjsnyisqbcey",
+        "createdDate":"2021-03-06T13:19:52.602Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.602Z",
+        "pronunciation":"gē ge bǐ wǒ gè zi gāo",
+        "example":"哥哥比我个子高。",
+        "exampleBold":"哥哥比我<b>个子</b>高。",
+        "meaning":"Anh trai tôi <b>cao</b> hơn tôi."
+    },
+    {
+        "id":"922nuk7a9atv4q7x1jkt",
+        "meaningId":"pig52g0p38tt70cgq7on",
+        "createdDate":"2021-03-06T13:19:52.604Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.604Z",
+        "pronunciation":"qǐng gēn jù zhè piān wén zhāng tán yī tán zì jǐ dē xiǎng fǎ",
+        "example":"请根据这篇文章谈一谈自己的想法。",
+        "exampleBold":"请<b>根据</b>这篇文章谈一谈自己的想法。",
+        "meaning":"Hãy nói về suy nghĩ của bạn <b>dựa trên</b> bài viết này."
+    },
+    {
+        "id":"427998xinonkzjkev4pa",
+        "meaningId":"dxg2e7vf0x4dxc0mbz7n",
+        "createdDate":"2021-03-06T13:19:52.605Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.605Z",
+        "pronunciation":"tā zhè me shuō shì yǒu gēn jù dē",
+        "example":"他这么说，是有根据的。",
+        "exampleBold":"他这么说，是有<b>根据</b>的。",
+        "meaning":"Anh ấy có <b>cơ sở</b> để nói điều này."
+    },
+    {
+        "id":"ez7b0lvn8mo9wldbb7hw",
+        "meaningId":"9ics2d98lig6q3mptxeh",
+        "createdDate":"2021-03-06T13:19:52.606Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.606Z",
+        "pronunciation":"sàn bù dē shí hòu xiǎo gǒu yī zhí gēn zài wǒ shēn hòu",
+        "example":"散步的时候，小狗一直跟在我身后。",
+        "exampleBold":"散步的时候，小狗一直<b>跟</b>在我身后。",
+        "meaning":"Chú chó con luôn <b>đi theo</b> tôi khi tôi đi dạo."
+    },
+    {
+        "id":"15zmw3xyhswk9jrg76hc",
+        "meaningId":"gulzxy85skgqt8np02zk",
+        "createdDate":"2021-03-06T13:19:52.608Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.608Z",
+        "pronunciation":"jiě jie gēn mā mā yì qǐ qù gōng yuán le",
+        "example":"姐姐跟妈妈一起去公园了。",
+        "exampleBold":"姐姐<b>跟</b>妈妈一起去公园了。",
+        "meaning":"Em gái tôi đã đi đến công viên <b>với</b> mẹ tôi."
+    },
+    {
+        "id":"4zql0ea3ahwyw5zwlfmn",
+        "meaningId":"ug3xkjqcghtrz2wwotz4",
+        "createdDate":"2021-03-06T13:19:52.610Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.610Z",
+        "pronunciation":"tā bǐ wǒ gèng xǐ huān yóu yǒng",
+        "example":"他比我更喜欢游泳。",
+        "exampleBold":"他比我<b>更</b>喜欢游泳。",
+        "meaning":"Anh ấy thích bơi <b>hơn</b> tôi."
+    },
+    {
+        "id":"in0p7xbgp6owcmildt3z",
+        "meaningId":"6yqlmo914bds3oy7iqf5",
+        "createdDate":"2021-03-06T13:19:52.611Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.611Z",
+        "pronunciation":"wǒ mǎi le yī gōng jīn jī dàn",
+        "example":"我买了一公斤鸡蛋。",
+        "exampleBold":"我买了一<b>公斤</b>鸡蛋。",
+        "meaning":"Tôi đã mua một <b>ký lô</b> trứng."
+    },
+    {
+        "id":"r0oxcd7j3cwa67yfii4q",
+        "meaningId":"dkqhuj6puqx28iz2op7p",
+        "createdDate":"2021-03-06T13:19:52.612Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.612Z",
+        "pronunciation":"wǒ jiā fù jìn yǒu gè gōng yuán wǒ cháng qù nà lǐ sàn bù",
+        "example":"我家附近有个公园，我常去那里散步。",
+        "exampleBold":"我家附近有个<b>公园</b>，我常去那里散步。",
+        "meaning":"Có một <b>công viên</b> gần nhà tôi và tôi thường đi dạo ở đó."
+    },
+    {
+        "id":"dtth75naned6j8hbg696",
+        "meaningId":"k5ex1u6k4b4srlzdy6yb",
+        "createdDate":"2021-03-06T13:19:52.614Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.614Z",
+        "pronunciation":"shuì jiào qián wǒ dōu gěi nǚ ér jiǎng gù shì",
+        "example":"睡觉前，我都给女儿讲故事。",
+        "exampleBold":"睡觉前，我都给女儿讲<b>故事</b>。",
+        "meaning":"Trước khi đi ngủ, tôi kể <b>chuyện</b> cho con gái nghe."
+    },
+    {
+        "id":"ybkkag84dqqy2dao2qk1",
+        "meaningId":"tt12g9n22ecr8m4x3gse",
+        "createdDate":"2021-03-06T13:19:52.615Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.615Z",
+        "pronunciation":"jīn tiān guā fēng le bié qí zì xíng chē le",
+        "example":"今天刮风了，别骑自行车了。",
+        "exampleBold":"今天<b>刮风</b>了，别骑自行车了。",
+        "meaning":"Hôm nay trời <b>có gió</b>, đừng đạp xe."
+    },
+    {
+        "id":"atyky62nawuqc5ecuh0q",
+        "meaningId":"rnz23xwg4zfck0xunha6",
+        "createdDate":"2021-03-06T13:19:52.617Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.617Z",
+        "pronunciation":"tā guān shàng le mén",
+        "example":"他关上了门。",
+        "exampleBold":"他<b>关</b>上了门。",
+        "meaning":"Anh ấy đã <b>đóng</b> cái cửa."
+    },
+    {
+        "id":"hhpu818gool43tsb0xk2",
+        "meaningId":"rnz23xwg4zfck0xunha6",
+        "createdDate":"2021-03-06T13:19:52.618Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.618Z",
+        "pronunciation":"wǒ bǎ diàn shì guān le",
+        "example":"我把电视关了。",
+        "exampleBold":"我把电视<b>关</b>了。",
+        "meaning":"Tôi đã <b>tắt</b> TV."
+    },
+    {
+        "id":"vesx1y2bi22wtf6fvrcs",
+        "meaningId":"23mb8ub3h0tup3r1gij7",
+        "createdDate":"2021-03-06T13:19:52.619Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.619Z",
+        "pronunciation":"zhè jiàn shì hé tā méi yǒu guān xi",
+        "example":"这件事和她没有关系。",
+        "exampleBold":"这件事和她没有<b>关系</b>。",
+        "meaning":"Vấn đề này không <b>liên quan</b> gì đến cô ấy."
+    },
+    {
+        "id":"mi858d6lzlcekd9xomn5",
+        "meaningId":"3go1fuvoln2h5eq890fz",
+        "createdDate":"2021-03-06T13:19:52.621Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.621Z",
+        "pronunciation":"bà bà hěn guān xīn wǒ dē xué xí",
+        "example":"爸爸很关心我的学习。",
+        "exampleBold":"爸爸很<b>关心</b>我的学习。",
+        "meaning":"Bố rất <b>quan tâm đến</b> việc học của tôi."
+    },
+    {
+        "id":"kl7llg55gmclz6othgd0",
+        "meaningId":"vb2lth37qtdr5m8ncxfs",
+        "createdDate":"2021-03-06T13:19:52.623Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.623Z",
+        "pronunciation":"xiè xiè nǐ dē guān xīn wǒ dē shēn tǐ hǎo duō le",
+        "example":"谢谢你的关心，我的身体好多了。",
+        "exampleBold":"谢谢你的<b>关心</b>，我的身体好多了。",
+        "meaning":"Cảm ơn bạn đã <b>quan tâm</b>, sức khỏe của tôi đã tốt hơn rất nhiều."
+    },
+    {
+        "id":"yyrcnp76f69j4jo6m0k8",
+        "meaningId":"fgwve0p2q3alkhqxrry3",
+        "createdDate":"2021-03-06T13:19:52.630Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.630Z",
+        "pronunciation":"guān yú zhè gè wèn tí wǒ men hái yào zài xiǎng yī xiǎng",
+        "example":"关于这个问题，我们还要再想一想。",
+        "exampleBold":"<b>关于</b>这个问题，我们还要再想一想。",
+        "meaning":"<b>Về</b> vấn đề này, chúng ta phải suy nghĩ lại."
+    },
+    {
+        "id":"5feupjxtvnk9r15tu8vh",
+        "meaningId":"ivdhdw7it4i07ykaf0d5",
+        "createdDate":"2021-03-06T13:19:52.631Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.631Z",
+        "pronunciation":"wǒ ài lǚ yóu qù guò jǐ shí gè guó jiā",
+        "example":"我爱旅游，去过几十个国家",
+        "exampleBold":"我爱旅游，去过几十个<b>国家</b>",
+        "meaning":"Tôi thích đi du lịch và đã đến hàng chục <b>quốc gia</b>."
+    },
+    {
+        "id":"8xzhnestklbgh91b5eei",
+        "meaningId":"8n0i0ux2bvf4lbtzwj3j",
+        "createdDate":"2021-03-06T13:19:52.633Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.633Z",
+        "pronunciation":"jīn tiān wǒ guò shēng rì péng yǒu men dōu lái le",
+        "example":"今天我过生日，朋友们都来了。",
+        "exampleBold":"今天我<b>过</b>生日，朋友们都来了。",
+        "meaning":"Hôm nay là sinh nhật của tôi và những người bạn của tôi đều ở đây."
+    },
+    {
+        "id":"7vixsu4n6ris86cdaswq",
+        "meaningId":"s3nltpb7mcgnz6i8wkrr",
+        "createdDate":"2021-03-06T13:19:52.634Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.634Z",
+        "pronunciation":"shí jiān guò de zhēn kuài yào guò chūn jié le",
+        "example":"时间过得真快，要过春节了。",
+        "exampleBold":"时间<b>过</b>得真快，要过春节了。",
+        "meaning":"<b>Thời gian trôi</b> nhanh quá, đã đến lễ hội mùa xuân."
+    },
+    {
+        "id":"t759s4czvb2wh4hfsxqt",
+        "meaningId":"vlhlrzajqsbpqpetzj74",
+        "createdDate":"2021-03-06T13:19:52.636Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.636Z",
+        "pronunciation":"nǎi nǎi jīng cháng gěi wǒ jiǎng guò qù dē shì qíng",
+        "example":"奶奶经常给我讲过去的事情。",
+        "exampleBold":"奶奶经常给我讲<b>过去</b>的事情。",
+        "meaning":"Bà thường kể cho tôi nghe về <b>quá khứ</b>."
+    },
+    {
+        "id":"6ws3btznpstmrl7vphfn",
+        "meaningId":"bq8m3uy0jjwd49mj4dt2",
+        "createdDate":"2021-03-06T13:19:52.637Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.637Z",
+        "pronunciation":"wǒ hái shì zài běi jīng méi qù qí tā dì fāng",
+        "example":"我还是在北京，没去其他地方。",
+        "exampleBold":"我<b>还是</b>在北京，没去其他地方。",
+        "meaning":"Tôi <b>vẫn</b> ở Bắc Kinh và không đi đâu khác."
+    },
+    {
+        "id":"3jij6p3930f635lqoplv",
+        "meaningId":"hmhza8vnrizofm0a20bn",
+        "createdDate":"2021-03-06T13:19:52.639Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.639Z",
+        "pronunciation":"nǐ hái shì chī diǎn ér shuǐ guǒ ba bié hē pí jiǔ le",
+        "example":"你还是吃点儿水果吧，别喝啤酒了。",
+        "exampleBold":"你<b>还是</b>吃点儿水果吧，别喝啤酒了。",
+        "meaning":"Tốt hơn là bạn <b>nên</b> ăn một ít trái cây thay vì uống bia."
+    },
+    {
+        "id":"jekq58t372max4vit82h",
+        "meaningId":"5ykl19v23cfwwvuhrogm",
+        "createdDate":"2021-03-06T13:19:52.640Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.640Z",
+        "pronunciation":"nǐ shì kāi chē qù hái shì zuò gōng gòng qì chē qù",
+        "example":"你是开车去还是坐公共汽车去？",
+        "exampleBold":"你是开车去<b>还是</b>坐公共汽车去？",
+        "meaning":"Bạn đang đi ô tô <b>hay</b> xe buýt?"
+    },
+    {
+        "id":"u12lbfaeofal655h06tl",
+        "meaningId":"logb2agvso0izernhxob",
+        "createdDate":"2021-03-06T13:19:52.641Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.641Z",
+        "pronunciation":"wǒ hài pà yí ge rén wǎn shàng chū mén",
+        "example":"我害怕一个人晚上出门。",
+        "exampleBold":"我<b>害怕</b>一个人晚上出门。",
+        "meaning":"Tôi <b>sợ</b> đi chơi một mình vào ban đêm."
+    },
+    {
+        "id":"plc4a6ylljns36hqhx6e",
+        "meaningId":"ceo55h16682ek2s7pb9z",
+        "createdDate":"2021-03-06T13:19:52.643Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.643Z",
+        "pronunciation":"gè wèi gù kè huān yíng nín chéng zuò wǒ men dē háng bān",
+        "example":"各位顾客，欢迎您乘坐我们的航班。",
+        "exampleBold":"各位顾客，欢迎您乘坐我们的<b>航班</b>。",
+        "meaning":"Kính gửi quý khách hàng, chào mừng quý khách đến với <b>chuyến bay</b> của chúng tôi."
+    },
+    {
+        "id":"gngg8aed68eiqd3obolf",
+        "meaningId":"aijqbbj2rixa67b8ztif",
+        "createdDate":"2021-03-06T13:19:52.645Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.645Z",
+        "pronunciation":"qǐng dà jiā kàn hēi bǎn",
+        "example":"请大家看黑板。",
+        "exampleBold":"请大家看<b>黑板</b>。",
+        "meaning":"Hãy nhìn vào <b>bảng đen</b>."
+    },
+    {
+        "id":"4jpexcgzlgll4gb9331l",
+        "meaningId":"6fe9m3y3hijjrqzvkub4",
+        "createdDate":"2021-03-06T13:19:52.646Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.646Z",
+        "pronunciation":"hòu lái wǒ zài yě méi jiàn guò tā",
+        "example":"后来我再也没见过他。",
+        "exampleBold":"<b>后来</b>我再也没见过他。",
+        "meaning":"<b>Sau đó</b> tôi không bao giờ gặp lại anh ta nữa."
+    },
+    {
+        "id":"k2cx9ofk83y4rlavn3u0",
+        "meaningId":"p1tzwygl03mov5wgh0kb",
+        "createdDate":"2021-03-06T13:19:52.648Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.648Z",
+        "pronunciation":"nǐ dē hù zhào bàn hǎo le ma",
+        "example":"你的护照办好了吗？",
+        "exampleBold":"你的<b>护照</b>办好了吗？",
+        "meaning":"<b>Hộ chiếu</b> của bạn đã sẵn sàng chưa?"
+    },
+    {
+        "id":"kkfmg8zbfe7647jhxqet",
+        "meaningId":"xroafw2stjxfq87k5se3",
+        "createdDate":"2021-03-06T13:19:52.649Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.649Z",
+        "pronunciation":"jīn tiān wǒ huā liǎo bù shǎo qián",
+        "example":"今天我花了不少钱。",
+        "exampleBold":"今天我<b>花</b>了不少钱。",
+        "meaning":"Tôi đã <b>tiêu</b> rất nhiều tiền trong ngày hôm nay."
+    },
+    {
+        "id":"pumbjbu7yynwvrt195eg",
+        "meaningId":"y4gisqxbpsuhpzkwq1zx",
+        "createdDate":"2021-03-06T13:19:52.651Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.651Z",
+        "pronunciation":"jīn tiān shì mā mā dē shēng rì wǒ men sòng yī xiē huā gěi tā ba",
+        "example":"今天是妈妈的生日，我们送一些花给她吧。",
+        "exampleBold":"今天是妈妈的生日，我们送一些<b>花</b>给她吧。",
+        "meaning":"Hôm nay là sinh nhật của mẹ, chúng ta hãy gửi cho mẹ một ít <b>hoa</b>."
+    },
+    {
+        "id":"gopze8getykooz40d7u9",
+        "meaningId":"rodwcpb9hn82o8ivaj4f",
+        "createdDate":"2021-03-06T13:19:52.652Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.652Z",
+        "pronunciation":"wǒ cóng xiǎo jiù xǐ huān huà huà ér",
+        "example":"我从小就喜欢画画儿。",
+        "exampleBold":"我从小就喜欢<b>画</b>画儿。",
+        "meaning":"Tôi đã thích <b>vẽ</b> từ khi tôi còn là một đứa trẻ."
+    },
+    {
+        "id":"1fs7b3geijnz9f7wz0xo",
+        "meaningId":"vf8e2ny52byuu7942u8h",
+        "createdDate":"2021-03-06T13:19:52.654Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.654Z",
+        "pronunciation":"tā dē huà ér hěn shòu dà jiā huān yíng",
+        "example":"他的画儿很受大家欢迎。",
+        "exampleBold":"他的<b>画</b>儿很受大家欢迎。",
+        "meaning":"<b>Tranh</b> của anh ấy rất được mọi người yêu thích."
+    },
+    {
+        "id":"e3ofiewqu3lmsnco6vec",
+        "meaningId":"ate3e111g4gzhymh2s5i",
+        "createdDate":"2021-03-06T13:19:52.655Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.655Z",
+        "pronunciation":"miàn bāo hěn xīn xiān méi yǒu huài",
+        "example":"面包很新鲜，没有坏。",
+        "exampleBold":"面包很新鲜，没有<b>坏</b>。",
+        "meaning":"Bánh mì tươi và không bị <b>hư</b>."
+    },
+    {
+        "id":"1qn410x661l84qyvunws",
+        "meaningId":"uy7pf8du8s184qw718mq",
+        "createdDate":"2021-03-06T13:19:52.657Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.657Z",
+        "pronunciation":"wǒ bǎ shū huán gěi tú shū guǎn le",
+        "example":"我把书还给图书馆了。",
+        "exampleBold":"我把书<b>还</b>给图书馆了。",
+        "meaning":"Tôi <b>trả</b> sách cho thư viện."
+    },
+    {
+        "id":"sykyvuc45f1v81d0fxmc",
+        "meaningId":"dstvgkln9fcpm6k1wi30",
+        "createdDate":"2021-03-06T13:19:52.658Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.658Z",
+        "pronunciation":"zhè lǐ dē huán jìng hěn bù cuò zài zhè lǐ zhù hěn shū fú",
+        "example":"这里的环境很不错，在这里住很舒服。",
+        "exampleBold":"这里的<b>环境</b>很不错，在这里住很舒服。",
+        "meaning":"<b>Môi trường</b> ở đây rất tốt và rất thoải mái khi sống ở đây."
+    },
+    {
+        "id":"mpxh111v3xgkm7h32ped",
+        "meaningId":"mheknp9055avxh4vreql",
+        "createdDate":"2021-03-06T13:19:52.660Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.660Z",
+        "pronunciation":"nǐ děng wǒ yī xià wǒ qù huàn jiàn yī fú",
+        "example":"你等我一下，我去换件衣服。",
+        "exampleBold":"你等我一下，我去<b>换</b>件衣服。",
+        "meaning":"Chờ tôi với, tôi sẽ <b>thay</b> quần áo cho tôi."
+    },
+    {
+        "id":"6jxql8hig7nv4jy5hid8",
+        "meaningId":"wardxi0bzhpp39qs6e9l",
+        "createdDate":"2021-03-06T13:19:52.661Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.661Z",
+        "pronunciation":"wǒ qù yín háng huàn diǎn ér qián",
+        "example":"我去银行换点儿钱。",
+        "exampleBold":"我去银行<b>换</b>点儿钱。",
+        "meaning":"Tôi sẽ đến ngân hàng để <b>đổi</b> một ít tiền."
+    },
+    {
+        "id":"2j1l88ru2uvmkd091z96",
+        "meaningId":"kb8byasc27hvtsihfr2a",
+        "createdDate":"2021-03-06T13:19:52.663Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.663Z",
+        "pronunciation":"huáng hé shì zhōng guó dē dì èr dà hé",
+        "example":"黄河是中国的第二大河。",
+        "exampleBold":"<b>黄河</b>是中国的第二大河。",
+        "meaning":"<b>Hoàng Hà</b> là con sông lớn thứ hai ở Trung Quốc."
+    },
+    {
+        "id":"7cpytze9vgs1vbnaih7c",
+        "meaningId":"exukon2l31shms6ejzj7",
+        "createdDate":"2021-03-06T13:19:52.665Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.665Z",
+        "pronunciation":"wǒ men xià wǔ yǒu gè huì yì",
+        "example":"我们下午有个会议。",
+        "exampleBold":"我们下午有个<b>会议</b>。",
+        "meaning":"Chúng ta có một <b>cuộc họp</b> vào buổi chiều."
+    },
+    {
+        "id":"cb5hxsu26j7vzeq834w9",
+        "meaningId":"4lsedoyetjm49yrwx9lp",
+        "createdDate":"2021-03-06T13:19:52.666Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.666Z",
+        "pronunciation":"nǐ qù huò zhě wǒ qù dōu kě yǐ",
+        "example":"你去，或者我去，都可以。",
+        "exampleBold":"你去，<b>或者</b>我去，都可以。",
+        "meaning":"Bạn có thể đi, <b>hoặc</b> tôi có thể đi."
+    },
+    {
+        "id":"y19uxflhk846p7mbfqli",
+        "meaningId":"j80e117i64e6jpvkxf4r",
+        "createdDate":"2021-03-06T13:19:52.667Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.667Z",
+        "pronunciation":"wǒ gǎn dòng dé jī hū yào liú lèi le",
+        "example":"我感动得几乎要流泪了。",
+        "exampleBold":"我感动得<b>几乎</b>要流泪了。",
+        "meaning":"Tôi xúc động đến mức <b>suýt</b> rơi nước mắt."
+    },
+    {
+        "id":"ovp5j8g8tdg2kmrhyad5",
+        "meaningId":"6o466a3g0cm63jw1jnmt",
+        "createdDate":"2021-03-06T13:19:52.669Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.669Z",
+        "pronunciation":"wǒ xī wàng yǒu jī huì cān jiā bǐ sài",
+        "example":"我希望有机会参加比赛。",
+        "exampleBold":"我希望有<b>机会</b>参加比赛。",
+        "meaning":"Tôi hy vọng sẽ có <b>cơ hội</b> tham gia cuộc thi."
+    },
+    {
+        "id":"ifdvfy7dvrpu72vvuhzq",
+        "meaningId":"20zpqm54xkjoifarrik9",
+        "createdDate":"2021-03-06T13:19:52.670Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.670Z",
+        "pronunciation":"tā duì yīn yuè jí gǎn xīng qù jīn tiān dē jié mù hǎo kàn jí le",
+        "example":"他对音乐极感兴趣。\n今天的节目好看极了。",
+        "exampleBold":"他对音乐<b>极</b>感兴趣。\n今天的节目好看<b>极</b>了。",
+        "meaning":"Anh ấy <b>cực kỳ</b> quan tâm đến âm nhạc."
+    },
+    {
+        "id":"wo82vkhqu48h0dmrfruw",
+        "meaningId":"e09ckgwbwi0hdnehr4k2",
+        "createdDate":"2021-03-06T13:19:52.672Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.672Z",
+        "pronunciation":"wǒ bù jì de tā zhù zài nǎ ér le",
+        "example":"我不记得他住在哪儿了。",
+        "exampleBold":"我不<b>记得</b>他住在哪儿了。",
+        "meaning":"Tôi không <b>nhớ</b> anh ta sống ở đâu."
+    },
+    {
+        "id":"s8txgeg3vd4h1cz9ucir",
+        "meaningId":"m5vx98axux5q36wwtqo9",
+        "createdDate":"2021-03-06T13:19:52.673Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.673Z",
+        "pronunciation":"yī nián yǒu sì gè jì jié",
+        "example":"一年有四个季节",
+        "exampleBold":"一年有四个<b>季节</b>",
+        "meaning":"Có bốn <b>mùa</b> trong một năm."
+    },
+    {
+        "id":"e3xttj8q9zlayyusry8a",
+        "meaningId":"r5i7tkeu6s7og7xo1tb6",
+        "createdDate":"2021-03-06T13:19:52.675Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.675Z",
+        "pronunciation":"nǐ qù yī yuàn jiǎn chá yī xià shēn tǐ ba",
+        "example":"你去医院检查一下身体吧。",
+        "exampleBold":"你去医院<b>检查</b>一下身体吧。",
+        "meaning":"Hãy đến bệnh viện để <b>kiểm tra</b> cơ thể của bạn."
+    },
+    {
+        "id":"2d7vp07qqx111g02xu6i",
+        "meaningId":"mgtvd3hsf7mip29fxexz",
+        "createdDate":"2021-03-06T13:19:52.676Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.676Z",
+        "pronunciation":"zhèi xiē tí duì tā lái shuō hěn jiǎn dān",
+        "example":"这些题对他来说很简单。",
+        "exampleBold":"这些题对他来说很<b>简单</b>。",
+        "meaning":"Những câu hỏi này rất <b>đơn giản</b> đối với anh ta."
+    },
+    {
+        "id":"tafwdudeuk9jzn4vg3t3",
+        "meaningId":"yza9oe4bsr946kw4fi63",
+        "createdDate":"2021-03-06T13:19:52.678Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.678Z",
+        "pronunciation":"shàng cì hé tā jiàn miàn yǐ jīng shì qù nián le",
+        "example":"上次和他见面，已经是去年了。",
+        "exampleBold":"上次和他<b>见面</b>，已经是去年了。",
+        "meaning":"Lần cuối cùng tôi <b>gặp</b> anh ấy là năm ngoái."
+    },
+    {
+        "id":"vzae7mqsrox6q7g2l478",
+        "meaningId":"g9cmxd4bppz9dtwlcq9r",
+        "createdDate":"2021-03-06T13:19:52.679Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.679Z",
+        "pronunciation":"bà bà dē shēn tǐ tè bié jiàn kāng",
+        "example":"爸爸的身体特别健康。",
+        "exampleBold":"爸爸的身体特别<b>健康</b>。",
+        "meaning":"Cơ thể của bố đặc biệt <b>khỏe mạnh</b>."
+    },
+    {
+        "id":"1augvt0x9m9ghuommmm3",
+        "meaningId":"n7861mzirwrd7j79azz3",
+        "createdDate":"2021-03-06T13:19:52.681Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.681Z",
+        "pronunciation":"lǐ lǎo shī dē kè jiǎng de hěn yǒu qù",
+        "example":"李老师的课讲得很有趣。",
+        "exampleBold":"李老师的课<b>讲</b>得很有趣。",
+        "meaning":"Bài giảng của cô giáo Li rất thú vị."
+    },
+    {
+        "id":"558y921re9c9j96i7yj9",
+        "meaningId":"hataiclu5wug5q6q0zlx",
+        "createdDate":"2021-03-06T13:19:52.682Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.682Z",
+        "pronunciation":"fēi jī mǎ shàng jiù yào jiàng luò le",
+        "example":"飞机马上就要降落了。",
+        "exampleBold":"飞机马上就要<b>降落</b>了。",
+        "meaning":"Máy bay sẽ sớm <b>hạ cánh</b>."
+    },
+    {
+        "id":"p81xog9kdbx7i2rlf7at",
+        "meaningId":"d2n6t6xwzerxh87t953h",
+        "createdDate":"2021-03-06T13:19:52.684Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.684Z",
+        "pronunciation":"zhuō zi shàng yǒu wǔ jiǎo qián",
+        "example":"桌子上有五角钱。",
+        "exampleBold":"桌子上有五<b>角</b>钱。",
+        "meaning":"Có năm <b>dimes</b> trên bàn."
+    },
+    {
+        "id":"crbwme809kvxxx7qbv4f",
+        "meaningId":"2ulo8mf850eyzomi700v",
+        "createdDate":"2021-03-06T13:19:52.685Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.685Z",
+        "pronunciation":"mèi mei jiǎo shàng chuān zhe piào liàng dē hóng pí xié",
+        "example":"妹妹脚上穿着漂亮的红皮鞋。",
+        "exampleBold":"妹妹<b>脚</b>上穿着漂亮的红皮鞋。",
+        "meaning":"Em gái tôi đi đôi giày da màu đỏ rất đẹp."
+    },
+    {
+        "id":"1932e9ug4uhnqxovyeee",
+        "meaningId":"addbuoeugjwc8don4fm8",
+        "createdDate":"2021-03-06T13:19:52.687Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.687Z",
+        "pronunciation":"lǐ lǎo shī jiào wǒ men shù xué",
+        "example":"李老师教我们数学。",
+        "exampleBold":"李老师<b>教</b>我们数学。",
+        "meaning":"Cô giáo Li <b>dạy</b> toán cho chúng tôi."
+    },
+    {
+        "id":"4odk87ascco1ibmzxgsi",
+        "meaningId":"dwrlghy91g39mkti8cxa",
+        "createdDate":"2021-03-06T13:19:52.688Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.688Z",
+        "pronunciation":"xià wǔ wǒ qù jī chǎng jiē nǐ",
+        "example":"下午我去机场接你。",
+        "exampleBold":"下午我去机场<b>接</b>你。",
+        "meaning":"Tôi sẽ <b>đón</b> bạn ở sân bay vào buổi chiều."
+    },
+    {
+        "id":"8ccemxnb612m7oh9zy3k",
+        "meaningId":"z8lsilvrswn3m6xupj8v",
+        "createdDate":"2021-03-06T13:19:52.689Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.689Z",
+        "pronunciation":"tā kàn le kàn biǎo tǎng xià jiē zhe shuì jiào",
+        "example":"他看了看表，躺下接着睡觉。",
+        "exampleBold":"他看了看表，躺下<b>接</b>着睡觉。",
+        "meaning":"Anh nhìn đồng hồ, rồi <b>tiếp tục</b> nằm xuống và đi ngủ."
+    },
+    {
+        "id":"ez12p78lpecvc498jz8s",
+        "meaningId":"dxufu79pezs499y30y55",
+        "createdDate":"2021-03-06T13:19:52.691Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.691Z",
+        "pronunciation":"zhè tiáo jiē dào hěn zhǎng yǒu sì qiān duō mǐ",
+        "example":"这条街道很长，有四千多米。",
+        "exampleBold":"这条<b>街道</b>很长，有四千多米。",
+        "meaning":"<b>Con đường</b> này rất dài, có chiều dài hơn bốn nghìn mét."
+    },
+    {
+        "id":"83oxkcp3wmu142rff64h",
+        "meaningId":"vihpf1u47a4nr39uepa2",
+        "createdDate":"2021-03-06T13:19:52.692Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.692Z",
+        "pronunciation":"jīn tiān wǒ men yī gòng yǎn chū gè jié mù",
+        "example":"今天我们一共演出12个节目。",
+        "exampleBold":"今天我们一共演出12个<b>节目</b>。",
+        "meaning":"Hôm nay chúng tôi đã biểu diễn tổng cộng 12 <b>buổi biểu diễn</b>."
+    },
+    {
+        "id":"j91mr5ablr0xklbk9jgc",
+        "meaningId":"1ubk27fkupyux9s4kdev",
+        "createdDate":"2021-03-06T13:19:52.694Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.694Z",
+        "pronunciation":"zhù dà jiā jié rì kuài lè",
+        "example":"祝大家节日快乐！",
+        "exampleBold":"祝大家<b>节日</b>快乐！",
+        "meaning":"Mọi người nghỉ <b>lễ</b> vui vẽ!"
+    },
+    {
+        "id":"4vopa46ebnkqt9v1awxu",
+        "meaningId":"w6t0xsyxww95yey0pv49",
+        "createdDate":"2021-03-06T13:19:52.695Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.695Z",
+        "pronunciation":"wǒ men jié hūn nián le",
+        "example":"我们结婚10年了。",
+        "exampleBold":"我们<b>结婚</b>10年了。",
+        "meaning":"Chúng tôi đã <b>kết hôn</b> được 10 năm."
+    },
+    {
+        "id":"b251erqp2caaq1hxxvmt",
+        "meaningId":"i601lxadlniqz8s27so4",
+        "createdDate":"2021-03-06T13:19:52.697Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.697Z",
+        "pronunciation":"huì yì mǎ shàng jiù yào jié shù le",
+        "example":"会议马上就要结束了。",
+        "exampleBold":"会议马上就要<b>结束</b>了。",
+        "meaning":"Cuộc họp sẽ sớm <b>kết thúc</b>."
+    },
+    {
+        "id":"8knagrd93u4jifp1gdyw",
+        "meaningId":"m7d30lka03hny0hayp2q",
+        "createdDate":"2021-03-06T13:19:52.698Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.698Z",
+        "pronunciation":"zhè gè wèn tí nǐ dǎ suàn zěn me jiě jué",
+        "example":"这个问题你打算怎么解决？",
+        "exampleBold":"这个问题你打算怎么<b>解决</b>？",
+        "meaning":"Bạn dự định <b>giải quyết</b> vấn đề này như thế nào?"
+    },
+    {
+        "id":"002705kczieem98ghcay",
+        "meaningId":"u4qwrj5gv0bn76havgdp",
+        "createdDate":"2021-03-06T13:19:52.700Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.700Z",
+        "pronunciation":"wǒ cóng tú shū guǎn jiè le sān běn shū",
+        "example":"我从图书馆借了三本书。",
+        "exampleBold":"我从图书馆<b>借</b>了三本书。",
+        "meaning":"Tôi đã <b>mượn</b> ba cuốn sách từ thư viện."
+    },
+    {
+        "id":"9yw3kcoo4eyxlyfv8323",
+        "meaningId":"9q5w51ikliylc3djlhlh",
+        "createdDate":"2021-03-06T13:19:52.701Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.701Z",
+        "pronunciation":"wǒ jīng cháng zài xué xiào yù dào tā",
+        "example":"我经常在学校遇到他。",
+        "exampleBold":"我<b>经常</b>在学校遇到他。",
+        "meaning":"Tôi <b>thường</b> gặp anh ấy ở trường."
+    },
+    {
+        "id":"k7x3a8nuzd3ob89j0fj0",
+        "meaningId":"nvs0bg8aqc9vcr4s1kny",
+        "createdDate":"2021-03-06T13:19:52.702Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.702Z",
+        "pronunciation":"shàng xià bān dē shí hòu wǒ dōu yào jīng guò zhè tiáo jiē dào",
+        "example":"上下班的时候，我都要经过这条街道。",
+        "exampleBold":"上下班的时候，我都要<b>经过</b>这条街道。",
+        "meaning":"Khi tôi đi làm, tôi phải <b>đi qua</b> con phố này."
+    },
+    {
+        "id":"rzkn43oyaeoha3a7vgmo",
+        "meaningId":"lfc6nceoowz3q12rllqr",
+        "createdDate":"2021-03-06T13:19:52.704Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.704Z",
+        "pronunciation":"jīng guò nǐ zhè me yī shuō wǒ zhōng yú míng bái le",
+        "example":"经过你这么一说，我终于明白了。",
+        "exampleBold":"<b>经过</b>你这么一说，我终于明白了。",
+        "meaning":"<b>Sau khi</b> bạn nói như vậy, cuối cùng tôi cũng hiểu."
+    },
+    {
+        "id":"4k2j3ds24ldvke0ghlrt",
+        "meaningId":"nykzw0cumy60icnqopvs",
+        "createdDate":"2021-03-06T13:19:52.706Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.706Z",
+        "pronunciation":"tā shì wǒ men gōng sī dē jīng lǐ",
+        "example":"他是我们公司的经理。",
+        "exampleBold":"他是我们公司的<b>经理</b>。",
+        "meaning":"Anh ấy là <b>giám đốc</b> của công ty chúng tôi."
+    },
+    {
+        "id":"1xin1lu424e7wss1dr4n",
+        "meaningId":"510j366gx4ope46gccvt",
+        "createdDate":"2021-03-06T13:19:52.707Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.707Z",
+        "pronunciation":"zhè gè wèn tí wǒ xiǎng le hěn jiǔ cái míng bái",
+        "example":"这个问题我想了很久才明白。",
+        "exampleBold":"这个问题我想了很<b>久</b>才明白。",
+        "meaning":"Tôi đã suy nghĩ về vấn đề này rất <b>lâu</b> trước khi tôi hiểu nó."
+    },
+    {
+        "id":"ecgwrebrhtbylnx47ej1",
+        "meaningId":"mi78fdzob6cmwldbf50v",
+        "createdDate":"2021-03-06T13:19:52.709Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.709Z",
+        "pronunciation":"zhè jiàn yī fú chuān le liǎng nián yǐ jīng jiù le",
+        "example":"这件衣服穿了两年，已经旧了。",
+        "exampleBold":"这件衣服穿了两年，已经<b>旧</b>了。",
+        "meaning":"Chiếc váy này đã được mặc hai năm và nó <b>cũ</b> rồi."
+    },
+    {
+        "id":"ej0yikmi7e9dv6lsuh9u",
+        "meaningId":"pjoqtn9k80c469ip8t2s",
+        "createdDate":"2021-03-06T13:19:52.710Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.710Z",
+        "pronunciation":"qǐng yòng zhèi xiē cí yǔ shuō jǐ gè jù zi",
+        "example":"请用这些词语说几个句子。",
+        "exampleBold":"请用这些词语说几个<b>句子</b>。",
+        "meaning":"Hãy sử dụng những <b>câu</b> này để nói một vài câu."
+    },
+    {
+        "id":"seirynq6n7cvxiha0pnp",
+        "meaningId":"ez66do4lfm7ididmwxu3",
+        "createdDate":"2021-03-06T13:19:52.711Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.711Z",
+        "pronunciation":"zhè jiàn shì shì jīng lǐ jué dìng dē",
+        "example":"这件事是经理决定的。",
+        "exampleBold":"这件事是经理<b>决定</b>的。",
+        "meaning":"Vấn đề này do người quản lý <b>quyết định</b>."
+    },
+    {
+        "id":"l2yysylxt05okkotn058",
+        "meaningId":"44q8mg2tep09uwhj6txk",
+        "createdDate":"2021-03-06T13:19:52.713Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.713Z",
+        "pronunciation":"tā yǐ jīng zuò chū le jué dìng",
+        "example":"他已经做出了决定。",
+        "exampleBold":"他已经做出了<b>决定</b>。",
+        "meaning":"Anh ấy đã đưa ra <b>quyết định</b>."
+    },
+    {
+        "id":"nsqp9woqmxvb3w1aak1o",
+        "meaningId":"zg4fs48bytbx03uiyknr",
+        "createdDate":"2021-03-06T13:19:52.714Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.714Z",
+        "pronunciation":"nǐ dē ér zǐ zhēn kě ài",
+        "example":"你的儿子真可爱。",
+        "exampleBold":"你的儿子真<b>可爱</b>。",
+        "meaning":"Con trai bạn thật <b>dễ thương</b>."
+    },
+    {
+        "id":"tj3k6jk2oolqlpxf0544",
+        "meaningId":"pwp1izj9dnrjhkuqs0o3",
+        "createdDate":"2021-03-06T13:19:52.716Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.716Z",
+        "pronunciation":"wǒ kě le xiǎng hē diǎn ér shuǐ",
+        "example":"我渴了，想喝点儿水。",
+        "exampleBold":"我<b>渴</b>了，想喝点儿水。",
+        "meaning":"Tôi <b>khát</b> và muốn uống một chút nước."
+    },
+    {
+        "id":"m6srwdaeokdo4kgycdqi",
+        "meaningId":"pgr4wi1vlm6m62fg2pja",
+        "createdDate":"2021-03-06T13:19:52.717Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.717Z",
+        "pronunciation":"xiàn zài shì èr diǎn yī kè",
+        "example":"现在是二点一刻。",
+        "exampleBold":"现在是二点一<b>刻</b>。",
+        "meaning":"Bây giờ là hai giờ <b>mười lăm phút</b>."
+    },
+    {
+        "id":"qtpyjbinthori5xf3bzr",
+        "meaningId":"fqqb66grp9ua1nbwgol4",
+        "createdDate":"2021-03-06T13:19:52.719Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.719Z",
+        "pronunciation":"chūn jié dē shí hòu jiā lǐ huì lái hěn duō kè rén",
+        "example":"春节的时候，家里会来很多客人。",
+        "exampleBold":"春节的时候，家里会来很多<b>客人</b>。",
+        "meaning":"Bây giờ là hai giờ mười lăm phút."
+    },
+    {
+        "id":"eu46waf0l26pnykz76cs",
+        "meaningId":"52ybfuvgk2i4p61tasmu",
+        "createdDate":"2021-03-06T13:19:52.720Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.720Z",
+        "pronunciation":"tài rè le qǐng bǎ kōng tiáo dǎ kāi",
+        "example":"太热了，请把空调打开。",
+        "exampleBold":"太热了，请把<b>空调</b>打开。",
+        "meaning":"Nóng quá, làm ơn bật <b>điều hòa</b>."
+    },
+    {
+        "id":"fyrnyvsp01u1bq2kwfzn",
+        "meaningId":"oe7ooa86lcg63020jx42",
+        "createdDate":"2021-03-06T13:19:52.722Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.722Z",
+        "pronunciation":"wǒ men jiā yī gòng sān wéi rén",
+        "example":"我们家一共三囗人。",
+        "exampleBold":"我们家一共三<b>囗</b>人。",
+        "meaning":"Có ba người trong gia đình của chúng tôi."
+    },
+    {
+        "id":"4ni6vtdmqbvyxwygbtwe",
+        "meaningId":"8zle4ccm8pceat1e2dlu",
+        "createdDate":"2021-03-06T13:19:52.723Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.723Z",
+        "pronunciation":"hái zi yòu kū le qǐ lái",
+        "example":"孩子又哭了起来。",
+        "exampleBold":"孩子又<b>哭</b>了起来。",
+        "meaning":"Đứa trẻ lại bắt đầu <b>khóc</b>."
+    },
+    {
+        "id":"g7epld1lcc7ztjyonqjw",
+        "meaningId":"hsmu69sfzd49bd6v8h24",
+        "createdDate":"2021-03-06T13:19:52.725Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.725Z",
+        "pronunciation":"zhè tiáo kù zi yǒu diǎn ér duǎn",
+        "example":"这条裤子有点儿短。",
+        "exampleBold":"这条<b>裤子</b>有点儿短。",
+        "meaning":"<b>Quần</b> này hơi ngắn."
+    },
+    {
+        "id":"7bd9omloviidnj65wufp",
+        "meaningId":"lcw5vq1dzvqhhxl6ibqy",
+        "createdDate":"2021-03-06T13:19:52.726Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.726Z",
+        "pronunciation":"wǒ lái zhōng guó gè yuè le yǐ jīng huì yòng kuài zi le",
+        "example":"我来中国1个月了，已经会用筷子了。",
+        "exampleBold":"我来中国1个月了，已经会用<b>筷子</b>了。",
+        "meaning":"Tôi đến Trung Quốc được một tháng và đã biết dùng <b>đũa</b>."
+    },
+    {
+        "id":"9vbsi92ll5mhx3wm4c80",
+        "meaningId":"giogwuvlw2doj95ew5wh",
+        "createdDate":"2021-03-06T13:19:52.728Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.728Z",
+        "pronunciation":"zhè tiáo lán qún zi nǐ xǐ huān ma",
+        "example":"这条蓝裙子你喜欢吗？",
+        "exampleBold":"这条<b>蓝</b>裙子你喜欢吗？",
+        "meaning":"Bạn có thích chiếc váy <b>màu xanh</b> này không?"
+    },
+    {
+        "id":"vtosstquuq64zgouj794",
+        "meaningId":"h7alwimcof28rf0ilttl",
+        "createdDate":"2021-03-06T13:19:52.730Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.730Z",
+        "pronunciation":"yé ye liù shí suì le dàn shì kàn qǐ lái yì diǎn ér yě bù lǎo",
+        "example":"爷爷六十岁了，但是看起来一点儿也不老。",
+        "exampleBold":"爷爷六十岁了，但是看起来一点儿也不<b>老</b>。",
+        "meaning":"Ông nội đã sáu mươi tuổi, nhưng trông ông không <b>già</b> đi chút nào."
+    },
+    {
+        "id":"7zjryfj40s6ze3an3i28",
+        "meaningId":"cwlpm52hnjdt5b2zcts5",
+        "createdDate":"2021-03-06T13:19:52.732Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.732Z",
+        "pronunciation":"xià gè yuè wǒ yào lí kāi yī duàn shí jiān nǐ hǎo hǎo zhào gù zì jǐ",
+        "example":"下个月我要离开一段时间，你好好照顾自己。",
+        "exampleBold":"下个月我要<b>离开</b>一段时间，你好好照顾自己。",
+        "meaning":"Tôi sẽ <b>đi xa</b> một thời gian vào tháng tới, vì vậy hãy chăm sóc bản thân thật tốt."
+    },
+    {
+        "id":"ysf4g3zr9rkdl3huajim",
+        "meaningId":"z1pgb5t353eldsl0k6mr",
+        "createdDate":"2021-03-06T13:19:52.734Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.734Z",
+        "pronunciation":"guò shēng rì dē shí hòu wǒ shōu dào le hěn duō lǐ wù",
+        "example":"过生日的时候，我收到了很多礼物。",
+        "exampleBold":"过生日的时候，我收到了很多<b>礼物</b>。",
+        "meaning":"Vào ngày sinh nhật của mình, tôi đã nhận được rất nhiều <b>món quà</b>."
+    },
+    {
+        "id":"3jwq2pjl8ckqy4v77l33",
+        "meaningId":"cvsd8yl2bt12fpeumk52",
+        "createdDate":"2021-03-06T13:19:52.736Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.736Z",
+        "pronunciation":"zhè gè fáng zi chà bù duō yǒu nián dē lì shǐ le",
+        "example":"这个房子差不多有300年的历史了。",
+        "exampleBold":"这个房子差不多有300年的<b>历史</b>了。",
+        "meaning":"Ngôi nhà này đã gần 300 năm <b>lịch sử</b>."
+    },
+    {
+        "id":"sy4bdzzti6l6d5c6hj4a",
+        "meaningId":"5lkamq80xvaeds9bgwt7",
+        "createdDate":"2021-03-06T13:19:52.738Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.738Z",
+        "pronunciation":"nǚ ér dē liǎn yuán yuán dē hěn kě ài",
+        "example":"女儿的脸圆圆的，很可爱。",
+        "exampleBold":"女儿的<b>脸</b>圆圆的，很可爱。",
+        "meaning":"Cô gái với <b>khuôn mặt</b> tròn dễ thương."
+    },
+    {
+        "id":"n1gl9ie7y6rlmbt5a0pb",
+        "meaningId":"k4r7tevlzud83q3sj80n",
+        "createdDate":"2021-03-06T13:19:52.739Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.739Z",
+        "pronunciation":"xué guò dē dōng xī yào duō liàn xí cái néng jì zhù",
+        "example":"学过的东西，要多练习才能记住。",
+        "exampleBold":"学过的东西，要多<b>练习</b>才能记住。",
+        "meaning":"Cần <b>thực hành</b> nhiều hơn để ghi nhớ những gì bạn đã học."
+    },
+    {
+        "id":"036zol8c53za780ef84p",
+        "meaningId":"xyayrjkbin75y5xl0rp2",
+        "createdDate":"2021-03-06T13:19:52.741Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.741Z",
+        "pronunciation":"tóng xué men xià miàn wǒ men kāi shǐ zuò liàn xí",
+        "example":"同学们，下面我们开始做练习。",
+        "exampleBold":"同学们，下面我们开始做<b>练习</b>。",
+        "meaning":"Các em, chúng ta hãy bắt đầu làm <b>bài tập</b>."
+    },
+    {
+        "id":"pklibpn3vqvqt2md4r33",
+        "meaningId":"nbegf6xs0xpfhyl9bk0h",
+        "createdDate":"2021-03-06T13:19:52.742Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.742Z",
+        "pronunciation":"zhè liàng chē shì wǒ xīn mǎi dē",
+        "example":"这辆车，是我新买的。",
+        "exampleBold":"这<b>辆</b>车，是我新买的。",
+        "meaning":"Tôi mới mua chiếc xe này."
+    },
+    {
+        "id":"65udhknkwl5x5ohwo4sd",
+        "meaningId":"1f78tn3xpa1bzyigwf76",
+        "createdDate":"2021-03-06T13:19:52.744Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.744Z",
+        "pronunciation":"wǒ men jīng cháng zài wǎng shàng liáo tiān",
+        "example":"我们经常在网上聊天。",
+        "exampleBold":"我们经常在网上<b>聊天</b>。",
+        "meaning":"Chúng tôi thường <b>trò chuyện</b> trực tuyến."
+    },
+    {
+        "id":"aofrvuvbu4jlfy8h9jcm",
+        "meaningId":"wd4mxkjwtd7xjkluq1tt",
+        "createdDate":"2021-03-06T13:19:52.747Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.747Z",
+        "pronunciation":"wǒ duì tā liǎo jiě dé bù duō",
+        "example":"我对她了解得不多。",
+        "exampleBold":"我对她<b>了解</b>得不多。",
+        "meaning":"Tôi không <b>biết</b> nhiều về cô ấy."
+    },
+    {
+        "id":"isrv6kculik6jfg8jocn",
+        "meaningId":"3h11vq9l9drluuqegwxj",
+        "createdDate":"2021-03-06T13:19:52.748Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.748Z",
+        "pronunciation":"wǒ gēn lín jū men dē guān xì fēi cháng hǎo",
+        "example":"我跟邻居们的关系非常好。",
+        "exampleBold":"我跟<b>邻居</b>们的关系非常好。",
+        "meaning":"Mối quan hệ của tôi với <b>hàng xóm</b> của tôi rất tốt."
+    },
+    {
+        "id":"g6o4as8j0rp98rcdgr41",
+        "meaningId":"ls6qhr5sed5i4wqo28nk",
+        "createdDate":"2021-03-06T13:19:52.750Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.750Z",
+        "pronunciation":"wǒ gē ge zài zhōng guó liú xué",
+        "example":"我哥哥在中国留学。",
+        "exampleBold":"我哥哥在中国<b>留学</b>。",
+        "meaning":"Anh trai tôi đang <b>du học</b> ở Trung Quốc."
+    },
+    {
+        "id":"nvp1l447f00rzqpgl00t",
+        "meaningId":"pddk1sykes5ouqjw1arf",
+        "createdDate":"2021-03-06T13:19:52.751Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.751Z",
+        "pronunciation":"wǒ zài nǐ jiā lóu xià děng nǐ",
+        "example":"我在你家楼下等你。",
+        "exampleBold":"我在你家<b>楼</b>下等你。",
+        "meaning":"Tôi đang đợi bạn <b>tầng trệt</b> nhà bạn nè."
+    },
+    {
+        "id":"q76u20a8btdex27bvpei",
+        "meaningId":"7g0zornagop10a1hhhlg",
+        "createdDate":"2021-03-06T13:19:52.753Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.753Z",
+        "pronunciation":"chūn tiān lái le shù hé cǎo dōu lǜ le",
+        "example":"春天来了，树和草都绿了。",
+        "exampleBold":"春天来了，树和草都<b>绿</b>了。",
+        "meaning":"Mùa xuân đến rồi cỏ cây <b>xanh</b> tươi."
+    },
+    {
+        "id":"h1hg6d0id64v5l4otihf",
+        "meaningId":"x312xkz0k1hj27iqp7ib",
+        "createdDate":"2021-03-06T13:19:52.755Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.755Z",
+        "pronunciation":"wǒ men xué huì qí mǎ le",
+        "example":"我们学会骑马了。",
+        "exampleBold":"我们学会骑<b>马</b>了。",
+        "meaning":"Chúng tôi đã học cách cưỡi <b>ngựa</b>."
+    },
+    {
+        "id":"7skll2yq0xzpa3e7ksrp",
+        "meaningId":"bo4a5t5vxxz3apkjvkfz",
+        "createdDate":"2021-03-06T13:19:52.756Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.756Z",
+        "pronunciation":"wǒ mǎ shàng jiù dào xué xiào nǐ zài děng wǒ jǐ fēn zhōng",
+        "example":"我马上就到学校，你再等我几分钟。",
+        "exampleBold":"我<b>马上</b>就到学校，你再等我几分钟。",
+        "meaning":"Tôi sẽ đến trường <b>ngay</b>, vì vậy hãy đợi tôi một vài phút."
+    },
+    {
+        "id":"1eakchpxpsi8nfq9vfhc",
+        "meaningId":"rrnd0440qc2sa5uvs8xk",
+        "createdDate":"2021-03-06T13:19:52.758Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.758Z",
+        "pronunciation":"jīng lǐ duì tā hěn mǎn yì",
+        "example":"经理对他很满意。",
+        "exampleBold":"经理对他很<b>满意</b>。",
+        "meaning":"Người quản lý rất <b>hài lòng</b> với anh ta."
+    },
+    {
+        "id":"qxypbwdqcmbu7l1o2soe",
+        "meaningId":"vml49p0ew87fjtbly49i",
+        "createdDate":"2021-03-06T13:19:52.759Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.759Z",
+        "pronunciation":"zhè gè mào zi tài xiǎo le yǒu dà yì diǎn ér dē ma",
+        "example":"这个帽子太小了，有大一点儿的吗？",
+        "exampleBold":"这个<b>帽子</b>太小了，有大一点儿的吗？",
+        "meaning":"<b>Cái mũ</b> này quá nhỏ. Có cái nào lớn hơn không?"
+    },
+    {
+        "id":"tbxoo8yzj41wzi8ufqph",
+        "meaningId":"okpb18v46wwos5jvu9pj",
+        "createdDate":"2021-03-06T13:19:52.761Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.761Z",
+        "pronunciation":"zhè zhāng zhuō zi yǒu liǎng mǐ zhǎng",
+        "example":"这张桌子有两米长。",
+        "exampleBold":"这张桌子有两<b>米</b>长。",
+        "meaning":"Bàn này dài hai <b>mét</b>."
+    },
+    {
+        "id":"cxkphzl7mb0btp47ya87",
+        "meaningId":"s1xulyhjnxn4gndk5mgi",
+        "createdDate":"2021-03-06T13:19:52.763Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.763Z",
+        "pronunciation":"miàn bāo yǐ jīng mài wán le",
+        "example":"面包已经卖完了。",
+        "exampleBold":"<b>面包</b>已经卖完了。",
+        "meaning":"<b>Bánh mì</b> đã được bán hết."
+    },
+    {
+        "id":"homle45x66hcl9wqx8ev",
+        "meaningId":"lb5gb613sxo3q34kwrdn",
+        "createdDate":"2021-03-06T13:19:52.765Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.765Z",
+        "pronunciation":"fú wù yuán wǒ yào yī wǎn miàn tiáo",
+        "example":"服务员，我要一碗面条。",
+        "exampleBold":"服务员，我要一碗<b>面条</b>。",
+        "meaning":"Phục vụ, cho tôi một tô <b>mì</b>."
+    },
+    {
+        "id":"3tns51tu9fcnm0r6rpev",
+        "meaningId":"r8j43f7dumfoep4rdal9",
+        "createdDate":"2021-03-06T13:19:52.767Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.767Z",
+        "pronunciation":"wǒ míng bái nǐ dē yì sī le",
+        "example":"我明白你的意思了。",
+        "exampleBold":"我<b>明白</b>你的意思了。",
+        "meaning":"Tôi <b>hiểu</b> ý bạn."
+    },
+    {
+        "id":"w6vdlfun4d921qsyvc1t",
+        "meaningId":"56mh0wt339guwxfublyb",
+        "createdDate":"2021-03-06T13:19:52.768Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.768Z",
+        "pronunciation":"tā shuō de hěn míng bái wǒ dǒng le",
+        "example":"他说得很明白，我懂了。",
+        "exampleBold":"他说得很<b>明白</b>，我懂了。",
+        "meaning":"Anh ấy đã nói rất <b>rõ ràng</b>, tôi hiểu rồi."
+    },
+    {
+        "id":"sy87dtt47nuqbt06z29e",
+        "meaningId":"kibcd2oh50vjinb1dpuf",
+        "createdDate":"2021-03-06T13:19:52.769Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.769Z",
+        "pronunciation":"nǐ shǒu lǐ ná dē shì shén me",
+        "example":"你手里拿的是什么？",
+        "exampleBold":"你手里<b>拿</b>的是什么？",
+        "meaning":"Bạn đang <b>cầm</b> gì trên tay?"
+    },
+    {
+        "id":"rghwwnch5iym9sj8neb5",
+        "meaningId":"rniwqudsd15ve3nx79mw",
+        "createdDate":"2021-03-06T13:19:52.771Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.771Z",
+        "pronunciation":"wǒ nǎi nǎi zhù zài běi jīng",
+        "example":"我奶奶住在北京。",
+        "exampleBold":"我<b>奶奶</b>住在北京。",
+        "meaning":"<b>Bà</b> tôi sống ở Bắc Kinh."
+    },
+    {
+        "id":"dw12ttgtrfnbmvv83evm",
+        "meaningId":"9lzm9jneqguxqcjvk18i",
+        "createdDate":"2021-03-06T13:19:52.772Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.772Z",
+        "pronunciation":"wǒ jiā zài huǒ chē zhàn dē nán biān",
+        "example":"我家在火车站的南边。",
+        "exampleBold":"我家在火车站的<b>南</b>边。",
+        "meaning":"Nhà tôi ở <b>phía nam</b> nhà ga."
+    },
+    {
+        "id":"gpfdewrr9up6rnmoerch",
+        "meaningId":"v0e3o374ul9wfsre9cyo",
+        "createdDate":"2021-03-06T13:19:52.774Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.774Z",
+        "pronunciation":"zhè gè tí hěn nán",
+        "example":"这个题很难。",
+        "exampleBold":"这个题很<b>难</b>。",
+        "meaning":"Câu hỏi này <b>khó</b> thật."
+    },
+    {
+        "id":"k5aoedsblb0vavczg2re",
+        "meaningId":"k412npcvmpm1ug7kuuqn",
+        "createdDate":"2021-03-06T13:19:52.775Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.775Z",
+        "pronunciation":"tā yào lí kāi le wǒ hěn nán guò",
+        "example":"他要离开了，我很难过。",
+        "exampleBold":"他要离开了，我很<b>难过</b>。",
+        "meaning":"Tôi <b>buồn</b> vì anh ấy ra đi."
+    },
+    {
+        "id":"3gsgql381rx83tqp1vmt",
+        "meaningId":"b73kp4tvgsmexu8u51ie",
+        "createdDate":"2021-03-06T13:19:52.776Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.776Z",
+        "pronunciation":"wǒ ér zi xiàn zài shàng sān nián jí",
+        "example":"我儿子现在上三年级。",
+        "exampleBold":"我儿子现在上三<b>年级</b>。",
+        "meaning":"Con trai tôi bây giờ đang học <b>lớp</b> ba."
+    },
+    {
+        "id":"4yu6ylck5n85o9usg0kw",
+        "meaningId":"vfv3s29e0osltd3nvckc",
+        "createdDate":"2021-03-06T13:19:52.778Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.778Z",
+        "pronunciation":"mā mā suì le kàn qǐ lái huán hěn nián qīng",
+        "example":"妈妈50岁了，看起来还很年轻。",
+        "exampleBold":"妈妈50岁了，看起来还很<b>年轻</b>。",
+        "meaning":"Mẹ tôi năm nay 50 tuổi và trông còn rất <b>trẻ</b>."
+    },
+    {
+        "id":"h38cddgsekr2z9prcko4",
+        "meaningId":"4thtrtxbn32w2ng0669w",
+        "createdDate":"2021-03-06T13:19:52.780Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.780Z",
+        "pronunciation":"shù shàng yǒu hěn duō niǎo zài chàng gē",
+        "example":"树上有很多鸟在唱歌。",
+        "exampleBold":"树上有很多<b>鸟</b>在唱歌。",
+        "meaning":"Có nhiều <b>chim</b> hót trên cây."
+    },
+    {
+        "id":"ag4kcli6itq155mzrzcq",
+        "meaningId":"w33oh0nf0451hui6gvi4",
+        "createdDate":"2021-03-06T13:19:52.782Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.782Z",
+        "pronunciation":"xué shēng men xué xí hěn nǔ lì",
+        "example":"学生们学习很努力。",
+        "exampleBold":"学生们学习很<b>努力</b>。",
+        "meaning":"Có nhiều chim hót trên cây."
+    },
+    {
+        "id":"pbh0sgfkvu80jmcxo2nk",
+        "meaningId":"kovo32sghmldsofmhyyx",
+        "createdDate":"2021-03-06T13:19:52.784Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.784Z",
+        "pronunciation":"wǒ men jué dìng míng tiān qù pá shān",
+        "example":"我们决定明天去爬山。",
+        "exampleBold":"我们决定明天去<b>爬山</b>。",
+        "meaning":"Chúng tôi quyết định đi <b>leo núi</b> vào ngày mai."
+    },
+    {
+        "id":"6ht2y01ggfcwn3pdjq2p",
+        "meaningId":"iq8791rkeztl1inftqzx",
+        "createdDate":"2021-03-06T13:19:52.786Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.786Z",
+        "pronunciation":"pán zi lǐ yǒu yú qǐng chī ba",
+        "example":"盘子里有鱼，请吃吧。",
+        "exampleBold":"<b>盘子</b>里有鱼，请吃吧。",
+        "meaning":"Có cá trên <b>đĩa</b>, mời mọi người ăn."
+    },
+    {
+        "id":"zttvs8euwh99xfhmo653",
+        "meaningId":"3kxmmpt3x7pbrm4zpy4b",
+        "createdDate":"2021-03-06T13:19:52.788Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.788Z",
+        "pronunciation":"xióng māo hěn pàng hěn kě ài",
+        "example":"熊猫很胖，很可爱。",
+        "exampleBold":"熊猫很<b>胖</b>，很可爱。",
+        "meaning":"Chú <b>gấu trúc</b> mập mạp và dễ thương."
+    },
+    {
+        "id":"j0f7zanbvphj7wjgpw75",
+        "meaningId":"tg7o8kimfsj7wm30q2m6",
+        "createdDate":"2021-03-06T13:19:52.790Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.790Z",
+        "pronunciation":"zhè gè yuè wǒ pàng le wǔ jīn duō",
+        "example":"这个月我胖了五斤多。",
+        "exampleBold":"这个月我<b>胖</b>了五斤多。",
+        "meaning":"Tôi đã tăng được hơn năm cân trong tháng này."
+    },
+    {
+        "id":"77qt76borof0hbkfg3ck",
+        "meaningId":"n145v1dkbegymi6uzeoc",
+        "createdDate":"2021-03-06T13:19:52.792Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.792Z",
+        "pronunciation":"tā chuān zhe yī shuāng hēi sè dē pí xié",
+        "example":"他穿着一双黑色的皮鞋。",
+        "exampleBold":"他穿着一双黑色的<b>皮鞋</b>。",
+        "meaning":"Anh ấy đang đi một đôi <b>giày da</b> màu đen."
+    },
+    {
+        "id":"5hhazdvgvvtz7ku9nnr2",
+        "meaningId":"dq3u6p1a4mizvgfwpwqh",
+        "createdDate":"2021-03-06T13:19:52.794Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.794Z",
+        "pronunciation":"bà bà ài hē pí jiǔ",
+        "example":"爸爸爱喝啤酒。",
+        "exampleBold":"爸爸爱喝<b>啤酒</b>。",
+        "meaning":"Bố rất thích uống <b>bia</b>."
+    },
+    {
+        "id":"offifxasylefw05bi3nh",
+        "meaningId":"kp54x7bvrnz7rfrb3bj2",
+        "createdDate":"2021-03-06T13:19:52.796Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.796Z",
+        "pronunciation":"nǐ dē pǔ tōng huà shuō de hěn hǎo",
+        "example":"你的普通话说得很好。",
+        "exampleBold":"你的<b>普通话</b>说得很好。",
+        "meaning":"Bạn nói <b>tiếng phổ thông</b> rất tốt."
+    },
+    {
+        "id":"huettq14zz6xe1yi2now",
+        "meaningId":"cc4nadv8pg0ncz2js39l",
+        "createdDate":"2021-03-06T13:19:52.798Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.798Z",
+        "pronunciation":"wǒ qí shí bù tài liǎo jiě tā",
+        "example":"我其实不太了解他。",
+        "exampleBold":"我<b>其实</b>不太了解他。",
+        "meaning":"Tôi <b>thực sự</b> không biết rõ về anh ấy."
+    },
+    {
+        "id":"uw9rs35emx7yytbicc4d",
+        "meaningId":"uo4zm6n0kpqg2bpwl1nb",
+        "createdDate":"2021-03-06T13:19:52.799Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.799Z",
+        "pronunciation":"zhǐ yǒu xiǎo míng zài jiào shì lǐ qí tā rén dōu huí jiā le",
+        "example":"只有小明在教室里，其他人都回家了。",
+        "exampleBold":"只有小明在教室里，<b>其他</b>人都回家了。",
+        "meaning":"Chỉ có Xiao Ming ở trong lớp, còn những người <b>khác</b> đã về nhà."
+    },
+    {
+        "id":"ft4r1j5k2feag2869ye7",
+        "meaningId":"myx8bpmntzq1fhjyhrja",
+        "createdDate":"2021-03-06T13:19:52.801Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.801Z",
+        "pronunciation":"wǒ jué de zhè gè wèn tí hěn qí guài",
+        "example":"我觉得这个问题很奇怪。",
+        "exampleBold":"我觉得这个问题很<b>奇怪</b>。",
+        "meaning":"Tôi nghĩ câu hỏi này rất <b>lạ</b>."
+    },
+    {
+        "id":"qugbif3al0reau3o6u7l",
+        "meaningId":"e3elg1icpgm9v09g7l2n",
+        "createdDate":"2021-03-06T13:19:52.803Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.803Z",
+        "pronunciation":"jīn tiān wǒ qí zì xíng chē qù xué xiào",
+        "example":"今天我骑自行车去学校。",
+        "exampleBold":"今天我<b>骑</b>自行车去学校。",
+        "meaning":"Hôm nay tôi <b>đi</b> xe đạp đến trường."
+    },
+    {
+        "id":"as58xx6rxyx2xupixk6j",
+        "meaningId":"78u3j6zfvcls2aueaj6w",
+        "createdDate":"2021-03-06T13:19:52.804Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.804Z",
+        "pronunciation":"gè wèi chéng kè fēi jī mǎ shàng jiù yào qǐ fēi le",
+        "example":"各位乘客，飞机马上就要起飞了。",
+        "exampleBold":"各位乘客，飞机马上就要<b>起飞</b>了。",
+        "meaning":"Thưa các hành khách, máy bay sẽ sớm <b>cất cánh</b>."
+    },
+    {
+        "id":"1wqncanfi25lbhrxsecn",
+        "meaningId":"vzy8lxhkshcbtlueqkjj",
+        "createdDate":"2021-03-06T13:19:52.806Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.806Z",
+        "pronunciation":"tā bǎ zhè jiàn shì ér shuō de hěn qīng chǔ le",
+        "example":"他把这件事儿说得很清楚了。",
+        "exampleBold":"他把这件事儿说得很<b>清楚</b>了。",
+        "meaning":"Anh ấy đã nói rất <b>rõ ràng</b>."
+    },
+    {
+        "id":"lqezh8vw6aey1fax0d18",
+        "meaningId":"ips9ja289073x74gvt5d",
+        "createdDate":"2021-03-06T13:19:52.807Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.807Z",
+        "pronunciation":"nǐ qīng chǔ zhè jù huà dē yì sī ma",
+        "example":"你清楚这句话的意思吗？",
+        "exampleBold":"你<b>清楚</b>这句话的意思吗？",
+        "meaning":"Bạn có <b>biết</b> ý nghĩa của câu này không?"
+    },
+    {
+        "id":"tf71egdlxy81jmgirhj3",
+        "meaningId":"73fk23v0gsd2tqp634mo",
+        "createdDate":"2021-03-06T13:19:52.809Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.809Z",
+        "pronunciation":"qiū tiān zuì shū fú bù lěng yě bù rè",
+        "example":"秋天最舒服，不冷也不热。",
+        "exampleBold":"<b>秋</b>天最舒服，不冷也不热。",
+        "meaning":"<b>Mùa thu</b> là dễ chịu nhất, không lạnh cũng không nóng."
+    },
+    {
+        "id":"64dg2ed3ccmgbgu6rhng",
+        "meaningId":"vmwn8ycfs3jqqhcb71ig",
+        "createdDate":"2021-03-06T13:19:52.810Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.810Z",
+        "pronunciation":"jiě jie chuān zhe piào liàng dē qún zi",
+        "example":"姐姐穿着漂亮的裙子。",
+        "exampleBold":"姐姐穿着漂亮的<b>裙子</b>。",
+        "meaning":"Cô chị mặc <b>váy</b> rất đẹp."
+    },
+    {
+        "id":"lyckfcnt6j2q337zs91g",
+        "meaningId":"x5k1plxoo80pprfza84s",
+        "createdDate":"2021-03-06T13:19:52.813Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.813Z",
+        "pronunciation":"wǒ yào xiān xiě wán zuò yè rán hòu zài kàn diàn shì",
+        "example":"我要先写完作业，然后再看电视。",
+        "exampleBold":"我要先写完作业，<b>然后</b>再看电视。",
+        "meaning":"Tôi sẽ hoàn thành bài tập về nhà trước, và <b>sau đó</b> xem TV."
+    },
+    {
+        "id":"ja5zeot9r1djfl70txff",
+        "meaningId":"vuithmjo14orcitmvz9h",
+        "createdDate":"2021-03-06T13:19:52.815Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.815Z",
+        "pronunciation":"wǒ men rè qíng dì huān yíng kè rén",
+        "example":"我们热情地欢迎客人。",
+        "exampleBold":"我们<b>热情</b>地欢迎客人。",
+        "meaning":"Chúng tôi <b>nồng nhiệt</b> chào đón khách."
+    },
+    {
+        "id":"ti7da24ci5ven22e3zqc",
+        "meaningId":"0kcflf4rhbpyxutwga63",
+        "createdDate":"2021-03-06T13:19:52.816Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.816Z",
+        "pronunciation":"nǐ rèn wéi tā huì lái ma",
+        "example":"你认为他会来吗？",
+        "exampleBold":"你<b>认为</b>他会来吗？",
+        "meaning":"Bạn có <b>nghĩ</b> rằng anh ấy sẽ đến không?"
+    },
+    {
+        "id":"c2zmfyzbqu4zwkx186yq",
+        "meaningId":"z65lmuiljl9a0bi6iyg9",
+        "createdDate":"2021-03-06T13:19:52.818Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.818Z",
+        "pronunciation":"zhè gè tóng xué xué xí hěn rèn zhēn hěn nǔ lì",
+        "example":"这个同学学习很认真，很努力。",
+        "exampleBold":"这个同学学习很<b>认真</b>，很努力。",
+        "meaning":"Sinh viên này học tập <b>nghiêm túc</b> và làm việc rất chăm chỉ."
+    },
+    {
+        "id":"lgf34t83ug62pv8ego2m",
+        "meaningId":"ir02a9ybi3b7zulos6pw",
+        "createdDate":"2021-03-06T13:19:52.819Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.819Z",
+        "pronunciation":"zhè gè wèn tí hěn róng yì huí dá",
+        "example":"这个问题很容易回答。",
+        "exampleBold":"这个问题很<b>容易</b>回答。",
+        "meaning":"Câu hỏi này rất <b>dễ</b> trả lời."
+    },
+    {
+        "id":"m9a2guaqs3vfam02am7k",
+        "meaningId":"0kdfdcpk3dgtbz5rk08u",
+        "createdDate":"2021-03-06T13:19:52.821Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.821Z",
+        "pronunciation":"rú guǒ nǐ qù wǒ jiù hé nǐ yì qǐ qù",
+        "example":"如果你去，我就和你一1起去。",
+        "exampleBold":"<b>如果</b>你去，我就和你一1起去。",
+        "meaning":"<b>Nếu</b> bạn đi, tôi sẽ đi với bạn."
+    },
+    {
+        "id":"sf6inh1vc7lzej4o8fba",
+        "meaningId":"f7wyz1ttm6jdsu2uo440",
+        "createdDate":"2021-03-06T13:19:52.822Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.822Z",
+        "pronunciation":"xià yǔ le bié wàng le dài sǎn",
+        "example":"下雨了，别忘了带伞。",
+        "exampleBold":"下雨了，别忘了带<b>伞</b>。",
+        "meaning":"Trời mưa, đừng quên mang theo <b>ô</b>."
+    },
+    {
+        "id":"r7xvkzpqglfpc6diuqgl",
+        "meaningId":"x5y5lbhzgao7gkfexu2b",
+        "createdDate":"2021-03-06T13:19:52.824Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.824Z",
+        "pronunciation":"wǒ shàng wǎng qù kàn kàn xīn wén",
+        "example":"我上网去看看新闻。",
+        "exampleBold":"我<b>上网</b>去看看新闻。",
+        "meaning":"Tôi <b>lên mạng</b> để đọc tin tức."
+    },
+    {
+        "id":"phkajd3p2qogit3jnp0o",
+        "meaningId":"rffvwjvmk75ep00moa1c",
+        "createdDate":"2021-03-06T13:19:52.825Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.825Z",
+        "pronunciation":"qǐng bié shēng qì shì wǒ cuò le duì bù qǐ",
+        "example":"请别生气，是我错了，对不起。",
+        "exampleBold":"请别<b>生气</b>，是我错了，对不起。",
+        "meaning":"Xin đừng <b>giận</b>, tôi đã sai, xin lỗi."
+    },
+    {
+        "id":"wuj62puy8niycsg0p09v",
+        "meaningId":"ebuzmqilcl03sf1fx1fs",
+        "createdDate":"2021-03-06T13:19:52.827Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.827Z",
+        "pronunciation":"nǐ tīng zhè shì shén me shēng yīn",
+        "example":"你听，这是什么声音？",
+        "exampleBold":"你听，这是什么<b>声音</b>？",
+        "meaning":"Nghe này, <b>âm thanh</b> này là gì vậy?"
+    },
+    {
+        "id":"zpg3sq9cx08jneclhejy",
+        "meaningId":"fwkmwfr368zi6uzetybj",
+        "createdDate":"2021-03-06T13:19:52.829Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.829Z",
+        "pronunciation":"shì jiè shang yǒu hěn duō guó jiā",
+        "example":"世界上有很多国家。",
+        "exampleBold":"<b>世界</b>上有很多国家。",
+        "meaning":"Có rất nhiều quốc gia trên <b>thế giới</b>."
+    },
+    {
+        "id":"4y7b3itk5e0f8iti0bo9",
+        "meaningId":"whjxbvfrdadszs9e6ald",
+        "createdDate":"2021-03-06T13:19:52.831Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.831Z",
+        "pronunciation":"wǒ xiǎng shì yī xià nà jiàn hóng sè dē",
+        "example":"我想试一下那件红色的。",
+        "exampleBold":"我想<b>试</b>一下那件红色的。",
+        "meaning":"Tôi muốn <b>thử</b> cái màu đỏ đó."
+    },
+    {
+        "id":"oieyjgm4a68czb2hlh4a",
+        "meaningId":"s2dcw7yh7yboel0t5osy",
+        "createdDate":"2021-03-06T13:19:52.832Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.832Z",
+        "pronunciation":"jiě jie xiàn zài hěn shòu zhǐ yǒu gōng jīn",
+        "example":"姐姐现在很痩，只有45公斤。",
+        "exampleBold":"姐姐现在很<b>痩</b>，只有45公斤。",
+        "meaning":"Em gái tôi bây giờ rất <b>gầy</b>, chỉ được 45 ký."
+    },
+    {
+        "id":"gwb16ceqjp6up4miih6r",
+        "meaningId":"g73mjyxk8rt3n4k12tn9",
+        "createdDate":"2021-03-06T13:19:52.834Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.834Z",
+        "pronunciation":"zhè gè yuè wǒ shòu le sān jīn",
+        "example":"这个月我痩了三斤。",
+        "exampleBold":"这个月我<b>痩</b>了三斤。",
+        "meaning":"Tôi đã sụt mất ba ký trong tháng này."
+    },
+    {
+        "id":"cg8i19oljlnf0e1r1qdw",
+        "meaningId":"0mh9l036h1hqojxx1eky",
+        "createdDate":"2021-03-06T13:19:52.835Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.835Z",
+        "pronunciation":"shū shū nǐ xǐ huān zhè běn shū ma",
+        "example":"叔叔，你喜欢这本书吗？",
+        "exampleBold":"<b>叔叔</b>，你喜欢这本书吗？",
+        "meaning":"<b>Chú</b> ơi, <b>chú</b> có thích cuốn sách này không?"
+    },
+    {
+        "id":"xqj3xxjb8b1l5u6le1bq",
+        "meaningId":"0s0x8ri5gc0hvzss7og4",
+        "createdDate":"2021-03-06T13:19:52.837Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.837Z",
+        "pronunciation":"zuò zài zhè lǐ zhēn shū fú",
+        "example":"坐在这里，真舒服。",
+        "exampleBold":"坐在这里，真<b>舒服</b>。",
+        "meaning":"Thật <b>thoải mái<b/> khi ngồi ở đây."
+    },
+    {
+        "id":"3s0fxvvma56c34cksivj",
+        "meaningId":"zbus2ghxc68aprsykauh",
+        "createdDate":"2021-03-06T13:19:52.838Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.838Z",
+        "pronunciation":"wǒ men xué xiào lǐ yǒu hěn duō shù",
+        "example":"我们学校里有很多树。",
+        "exampleBold":"我们学校里有很多<b>树</b>。",
+        "meaning":"Có rất nhiều <b>cây</b> xanh trong trường học của chúng tôi."
+    },
+    {
+        "id":"jkjbg6jkzn82ugewf1fc",
+        "meaningId":"9d26dnfviicq1z1nyqhj",
+        "createdDate":"2021-03-06T13:19:52.840Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.840Z",
+        "pronunciation":"wǒ dē shù xué chéng jī hěn hǎo",
+        "example":"我的数学成绩很好。",
+        "exampleBold":"我的<b>数学</b>成绩很好。",
+        "meaning":"Điểm <b>toán</b> của tôi rất tốt."
+    },
+    {
+        "id":"yponoj7o28bt1ll0lbos",
+        "meaningId":"ivxmh3q5dfhnuiwdna1z",
+        "createdDate":"2021-03-06T13:19:52.841Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.841Z",
+        "pronunciation":"shuì jiào qián yào shuā yá",
+        "example":"睡觉前要刷牙。",
+        "exampleBold":"睡觉前要<b>刷牙</b>。",
+        "meaning":"<b>Đánh răng</b> trước khi đi ngủ."
+    },
+    {
+        "id":"6zvqjs2bozqjcuw2r50e",
+        "meaningId":"29efdd9e23eloz1c3jgb",
+        "createdDate":"2021-03-06T13:19:52.843Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.843Z",
+        "pronunciation":"wǒ jīn tiān xiǎng qù mǎi shuāng xié",
+        "example":"我今天想去买双鞋。",
+        "exampleBold":"我今天想去买<b>双</b>鞋。",
+        "meaning":"Tôi muốn mua một <b>đôi</b> giày hôm nay."
+    },
+    {
+        "id":"aphb92vvplp9ju6hnav4",
+        "meaningId":"fvxeo072se6z9dpiohff",
+        "createdDate":"2021-03-06T13:19:52.845Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.845Z",
+        "pronunciation":"tā dē hàn yǔ shuǐ píng hěn gāo",
+        "example":"他的汉语水平很高。",
+        "exampleBold":"他的汉语<b>水平</b>很高。",
+        "meaning":"<b>Trình độ</b> tiếng Trung của anh ấy rất cao."
+    },
+    {
+        "id":"0m7yfnlzw068rpwzrvui",
+        "meaningId":"suhckrkfluk7i53bv6xw",
+        "createdDate":"2021-03-06T13:19:52.848Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.848Z",
+        "pronunciation":"zhè wèi sī jī kāi chū zū chē nián duō le",
+        "example":"这位司机开出租车5年多了。",
+        "exampleBold":"这位<b>司机</b>开出租车5年多了。",
+        "meaning":"<b>Tài xế</b> này đã lái taxi hơn 5 năm."
+    },
+    {
+        "id":"nchsvl5okmas7avjtb2b",
+        "meaningId":"pony477r0o1cvb8ycqf3",
+        "createdDate":"2021-03-06T13:19:52.850Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.850Z",
+        "pronunciation":"nǐ kàn tài yáng chū lái le",
+        "example":"你看，太阳出来了。",
+        "exampleBold":"你看，<b>太阳</b>出来了。",
+        "meaning":"Bạn thấy đấy, <b>mặt trời</b> đã tắt."
+    },
+    {
+        "id":"teh7nn3yo6ok57ibpto9",
+        "meaningId":"cz6nk43bws698dnvnicp",
+        "createdDate":"2021-03-06T13:19:52.851Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.851Z",
+        "pronunciation":"wǒ tè bié xiǎng gēn nǐ yì qǐ qù",
+        "example":"我特别想跟你一起去。",
+        "exampleBold":"我<b>特别</b>想跟你一起去。",
+        "meaning":"Tôi <b>đặc biệt</b> muốn đi với bạn."
+    },
+    {
+        "id":"foxbtm9qt6z12yied18l",
+        "meaningId":"k2p71ffjicb72izvkqla",
+        "createdDate":"2021-03-06T13:19:52.853Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.853Z",
+        "pronunciation":"wǒ dē tuǐ yǒu diǎn ér téng",
+        "example":"我的腿有点儿疼。",
+        "exampleBold":"我的腿有点儿<b>疼</b>。",
+        "meaning":"Chân tôi hơi <b>đau</b>."
+    },
+    {
+        "id":"yrhwxyxg5wexxex52m7r",
+        "meaningId":"2a5cg6mdtepuva0pvvu4",
+        "createdDate":"2021-03-06T13:19:52.855Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.855Z",
+        "pronunciation":"nǐ shù xué chéng jī tí gāo liǎo bù shǎo",
+        "example":"你数学成绩提高了不少。",
+        "exampleBold":"你数学成绩<b>提高</b>了不少。",
+        "meaning":"Điểm toán của bạn đã được <b>cải thiện</b> rất nhiều."
+    },
+    {
+        "id":"39hb7a19bipgm64ox172",
+        "meaningId":"fjby1y5xdiqvsfck3z1d",
+        "createdDate":"2021-03-06T13:19:52.856Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.856Z",
+        "pronunciation":"rén men dē shēng huó shuǐ píng yǒu le hěn dà dē tí gāo",
+        "example":"人们的生活水平有了很大的提高。",
+        "exampleBold":"人们的生活水平有了很大的<b>提高</b>。",
+        "meaning":"Mức sống của người dân đã được cải thiện rất nhiều."
+    },
+    {
+        "id":"ckag13v9wa60u8q6j3ej",
+        "meaningId":"kukgavjuy2b8oahimimm",
+        "createdDate":"2021-03-06T13:19:52.858Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.858Z",
+        "pronunciation":"wǒ hěn xǐ huān tǐ yù yùn dòng",
+        "example":"我很喜欢体育运动。",
+        "exampleBold":"我很喜欢<b>体育</b>运动。",
+        "meaning":"Tôi rất thích <b>thể thao</b>."
+    },
+    {
+        "id":"tucxr0kpoauhpbdy75ae",
+        "meaningId":"1k8qbqpq1cexqr565lp2",
+        "createdDate":"2021-03-06T13:19:52.860Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.860Z",
+        "pronunciation":"zhè gè xī guā zhēn tián a",
+        "example":"这个西瓜真甜啊！",
+        "exampleBold":"这个西瓜真<b>甜</b>啊！",
+        "meaning":"Dưa hấu này <b>ngọt</b> quá!"
+    },
+    {
+        "id":"uy8cbb228euzuefk1h39",
+        "meaningId":"4fsxlglmo6qhs1o0rm33",
+        "createdDate":"2021-03-06T13:19:52.861Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.861Z",
+        "pronunciation":"zhè tiáo kù zi yǒu diǎn ér zhǎng",
+        "example":"这条裤子有点儿长。",
+        "exampleBold":"这<b>条</b>裤子有点儿长。",
+        "meaning":"Quần này hơi dài."
+    },
+    {
+        "id":"55j7crr46d0rc6fv0117",
+        "meaningId":"p2asq6bckbvuwgyzi6kf",
+        "createdDate":"2021-03-06T13:19:52.863Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.863Z",
+        "pronunciation":"zhè shì wǒ men dē xīn tóng shì lǐ huá",
+        "example":"这是我们的新同事，李华。",
+        "exampleBold":"这是我们的新<b>同事</b>，李华。",
+        "meaning":"Đây là <b>đồng nghiệp</b> mới của chúng tôi, Li Hua."
+    },
+    {
+        "id":"w334b8gzzfvrgvbqliks",
+        "meaningId":"7qtp8e9fqd22basx2cs0",
+        "createdDate":"2021-03-06T13:19:52.865Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.865Z",
+        "pronunciation":"wǒ bù tài tóng yì tā dē xiǎng fǎ",
+        "example":"我不太同意他的想法。",
+        "exampleBold":"我不太<b>同意</b>他的想法。",
+        "meaning":"Tôi không hoàn toàn <b>đồng ý</b> với ý tưởng của anh ấy."
+    },
+    {
+        "id":"n18c1wsqlu4yzcgywg1l",
+        "meaningId":"5slhqmb49ll4hx3bfry2",
+        "createdDate":"2021-03-06T13:19:52.866Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.866Z",
+        "pronunciation":"mā mā dē tóu fà yòu hēi yòu liàng",
+        "example":"妈妈的头发又黑又亮。",
+        "exampleBold":"妈妈的<b>头发</b>又黑又亮。",
+        "meaning":"<b>Tóc</b> mẹ đen bóng."
+    },
+    {
+        "id":"ik6vhphxerm1sreaaf2i",
+        "meaningId":"k8lemrkzro6pbib4ro9w",
+        "createdDate":"2021-03-06T13:19:52.868Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.868Z",
+        "pronunciation":"tā tū rán zhàn le qǐ lái",
+        "example":"他突然站了起来。",
+        "exampleBold":"他<b>突然</b>站了起来。",
+        "meaning":"Anh <b>đột nhiên</b> đứng dậy."
+    },
+    {
+        "id":"qliiuifk0hy6hucoobe4",
+        "meaningId":"w3o8kgt6ye0nt2urda51",
+        "createdDate":"2021-03-06T13:19:52.869Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.869Z",
+        "pronunciation":"xiǎo gǒu tū rán pǎo le chū lái",
+        "example":"小狗突然跑了出来。",
+        "exampleBold":"小狗<b>突然</b>跑了出来。",
+        "meaning":"Con chó con chạy ra ngoài <b>đột ngột</b>."
+    },
+    {
+        "id":"z5f72v9tj8i9066zj1ib",
+        "meaningId":"dtob3w1wlcrz6344kjn5",
+        "createdDate":"2021-03-06T13:19:52.871Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.871Z",
+        "pronunciation":"wǒ cóng tú shū guǎn jiè lái le liǎng běn shū",
+        "example":"我从图书馆借来了两本书。",
+        "exampleBold":"我从<b>图书馆</b>借来了两本书。",
+        "meaning":"Tôi đã mượn hai cuốn sách từ <b>thư viện</b>."
+    },
+    {
+        "id":"yezmvrwqyauuk9q0f7h1",
+        "meaningId":"m29zim17rm51usd2vm06",
+        "createdDate":"2021-03-06T13:19:52.873Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.873Z",
+        "pronunciation":"nǐ dē tuǐ hái téng ma",
+        "example":"你的腿还疼吗？",
+        "exampleBold":"你的<b>腿</b>还疼吗？",
+        "meaning":"<b>Chân</b> của bạn vẫn còn đau hả?"
+    },
+    {
+        "id":"e5sitr02lt0np212udvi",
+        "meaningId":"ws17gxq18x0g03b6qas5",
+        "createdDate":"2021-03-06T13:19:52.879Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.879Z",
+        "pronunciation":"zhè jiàn shì zài zhōu mò qián bì xū wán chéng",
+        "example":"这件事，在周末前必须完成。",
+        "exampleBold":"这件事，在周末前必须<b>完成</b>。",
+        "meaning":"Vấn đề này phải được <b>hoàn thành</b> trước cuối tuần."
+    },
+    {
+        "id":"z9ox5zx6q89sioxtyyf5",
+        "meaningId":"c0rozk2mg9pbn53zwlaa",
+        "createdDate":"2021-03-06T13:19:52.881Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.881Z",
+        "pronunciation":"bǎ mǐ fàn fàng zài zhè gè wǎn lǐ ba",
+        "example":"把米饭放在这个碗里吧。",
+        "exampleBold":"把米饭放在这个<b>碗</b>里吧。",
+        "meaning":"Cho cơm vào <b>bát</b> này."
+    },
+    {
+        "id":"nh6pybiidxpre45nyyvv",
+        "meaningId":"hu75y6oxpx0w3s2ogtac",
+        "createdDate":"2021-03-06T13:19:52.883Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.883Z",
+        "pronunciation":"wǒ chī yī wǎn jiù kě yǐ le",
+        "example":"我吃一碗就可以了。",
+        "exampleBold":"我吃一<b>碗</b>就可以了。",
+        "meaning":"Tôi có thể ăn <b>một bát</b>."
+    },
+    {
+        "id":"8yb1ksez4ts5gdbzhcs8",
+        "meaningId":"09tu9kdvk02exv05t16j",
+        "createdDate":"2021-03-06T13:19:52.884Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.884Z",
+        "pronunciation":"wǒ men xué xiào yǒu yī wàn míng xué shēng",
+        "example":"我们学校有一万名学生。",
+        "exampleBold":"我们学校有一<b>万</b>名学生。",
+        "meaning":"Có <b>mười nghìn</b> học sinh trong trường của chúng tôi."
+    },
+    {
+        "id":"kf9rhvxdg149985quzqm",
+        "meaningId":"niwwwatkyl4budqt299a",
+        "createdDate":"2021-03-06T13:19:52.886Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.886Z",
+        "pronunciation":"wǒ wàng jì jīn tiān shì tā dē shēng rì le",
+        "example":"我忘记今天是他的生日了。",
+        "exampleBold":"我<b>忘记</b>今天是他的生日了。",
+        "meaning":"Tôi <b>quên</b> rằng hôm nay là sinh nhật của anh ấy."
+    },
+    {
+        "id":"nsqs7pj19rrtgtnruzzy",
+        "meaningId":"edefbo5emi4jm2nv372s",
+        "createdDate":"2021-03-06T13:19:52.887Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.887Z",
+        "pronunciation":"zhèi xiē cài dōu shì wèi nǐ zhǔn bèi dē",
+        "example":"这些菜都是为你准备的。",
+        "exampleBold":"这些菜都是<b>为</b>你准备的。",
+        "meaning":"Những món ăn này được chuẩn bị <b>cho</b> bạn."
+    },
+    {
+        "id":"n0c2x52j39yu0oaj0slx",
+        "meaningId":"4f2jyimgnilsjl99nlqi",
+        "createdDate":"2021-03-06T13:19:52.889Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.889Z",
+        "pronunciation":"wèi le shēn tǐ jiàn kāng wǒ měi tiān dū qù yùn dòng",
+        "example":"为了身体健康，我每天都去运动。",
+        "exampleBold":"<b>为了</b>身体健康，我每天都去运动。",
+        "meaning":"<b>Vì</b> sức khỏe của mình, tôi tập thể dục hàng ngày."
+    },
+    {
+        "id":"wc4kod4f3d49rnlcd7nj",
+        "meaningId":"tjx0gifdcvtwa39iq8bi",
+        "createdDate":"2021-03-06T13:19:52.890Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.890Z",
+        "pronunciation":"tā zhēn shì yī wèi hǎo lǎo shī",
+        "example":"他真是一位好老师。",
+        "exampleBold":"他真是一<b>位</b>好老师。",
+        "meaning":"Anh ấy thực sự là một giáo viên tốt."
+    },
+    {
+        "id":"upj7brlkj392jue5ys93",
+        "meaningId":"e26cg3atbb87sfxtsa7f",
+        "createdDate":"2021-03-06T13:19:52.892Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.892Z",
+        "pronunciation":"wǒ duì zhōng guó wén huà hěn gǎn xīng qù",
+        "example":"我对中国文化很感兴趣。",
+        "exampleBold":"我对中国<b>文化</b>很感兴趣。",
+        "meaning":"Tôi rất quan tâm đến <b>văn hóa</b> Trung Quốc."
+    },
+    {
+        "id":"eytzj721wtgup1xomnlg",
+        "meaningId":"97hxx2k5j6l7lw4282li",
+        "createdDate":"2021-03-06T13:19:52.893Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.893Z",
+        "pronunciation":"huǒ chē zhàn zài xī biān nǐ zǒu cuò le",
+        "example":"火车站在西边，你走错了。",
+        "exampleBold":"火车站在<b>西</b>边，你走错了。",
+        "meaning":"Ga xe lửa ở <b>phía tây</b>, bạn đã đi sai."
+    },
+    {
+        "id":"dosovxz90gai1dbjghk2",
+        "meaningId":"54xy4v8wsv7gv9x3wemm",
+        "createdDate":"2021-03-06T13:19:52.895Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.895Z",
+        "pronunciation":"tā yǐ jīng xí guàn le yí ge rén shēng huó",
+        "example":"他已经习惯了一个人生活。",
+        "exampleBold":"他已经<b>习惯</b>了一个人生活。",
+        "meaning":"Anh đã <b>quen với</b> một kiếp người."
+    },
+    {
+        "id":"kbta7hgtqv22ywz0cte1",
+        "meaningId":"5e8j961m572mf1ahf0mq",
+        "createdDate":"2021-03-06T13:19:52.897Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.897Z",
+        "pronunciation":"fàn qián xǐ shǒu shì hǎo xí guàn",
+        "example":"饭前洗手是好习惯。",
+        "exampleBold":"饭前洗手是好<b>习惯</b>。",
+        "meaning":"Rửa tay trước bữa ăn là một <b>thói quen</b> tốt."
+    },
+    {
+        "id":"12d4wm2u2h5knb9lawqd",
+        "meaningId":"jn1jgoz6awqb9uhdpurc",
+        "createdDate":"2021-03-06T13:19:52.899Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.899Z",
+        "pronunciation":"wǒ qù yī xià xǐ shǒu jiān",
+        "example":"我去一下洗手间。",
+        "exampleBold":"我去一下<b>洗手间</b>。",
+        "meaning":"Để tôi đi <b>vệ sinh</b>."
+    },
+    {
+        "id":"hgan3no50kyrn3ws6b2z",
+        "meaningId":"r1m772w8mzrvrl1crcfa",
+        "createdDate":"2021-03-06T13:19:52.900Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.900Z",
+        "pronunciation":"tài rè le wǒ xiān qù xǐ zǎo",
+        "example":"太热了，我先去洗澡。",
+        "exampleBold":"太热了，我先去<b>洗澡</b>。",
+        "meaning":"Nóng quá, tôi đi <b>tắm</b> trước."
+    },
+    {
+        "id":"e2vlaj9wcggazblwx645",
+        "meaningId":"o9yseep0ckz0n0u98haa",
+        "createdDate":"2021-03-06T13:19:52.902Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.902Z",
+        "pronunciation":"jīn nián xià tiān tài rè le",
+        "example":"今年夏天太热了。",
+        "exampleBold":"今年<b>夏</b>天太热了。",
+        "meaning":"<b>Mùa hè</b> này nóng quá."
+    },
+    {
+        "id":"f7t98tcmdanpwzoo8ek7",
+        "meaningId":"alr60sopbly0ti6z6vex",
+        "createdDate":"2021-03-06T13:19:52.903Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.903Z",
+        "pronunciation":"nǐ xiān qù wǒ yí gè xiǎo shí hòu zài qù",
+        "example":"你先去，我一个小时后再去。",
+        "exampleBold":"你<b>先</b>去，我一个小时后再去。",
+        "meaning":"Anh đi <b>trước</b> đi, một tiếng nữa tôi lại đi."
+    },
+    {
+        "id":"jhrwodyayghr2yt9n3o1",
+        "meaningId":"t695v5k0jl98aj4szkwu",
+        "createdDate":"2021-03-06T13:19:52.905Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.905Z",
+        "pronunciation":"wǒ wán quán xiāng xìn nǐ shuō dē huà",
+        "example":"我完全相信你说的话。",
+        "exampleBold":"我完全<b>相信</b>你说的话。",
+        "meaning":"Tôi hoàn toàn <b>tin</b> những gì bạn nói."
+    },
+    {
+        "id":"5f0h4o2qtj4s64vqa67g",
+        "meaningId":"dcy1zygys50y6l09dy54",
+        "createdDate":"2021-03-06T13:19:52.907Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.907Z",
+        "pronunciation":"nǐ xiǎng chī xiāng jiāo ma",
+        "example":"你想吃香蕉吗？",
+        "exampleBold":"你想吃<b>香蕉</b>吗？",
+        "meaning":"Bạn có muốn ăn <b>chuối</b> không?"
+    },
+    {
+        "id":"21yqj7hmbkhrx5ez2mlm",
+        "meaningId":"cpl36muy7gpi1axciqx7",
+        "createdDate":"2021-03-06T13:19:52.908Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.908Z",
+        "pronunciation":"xiàng dōng zǒu jiù kě yǐ kàn dào nà gè xué xiào le",
+        "example":"向东走，就可以看到那个学校了。",
+        "exampleBold":"<b>向</b>东走，就可以看到那个学校了。",
+        "meaning":"Đi <b>đến</b> phía đông, bạn có thể nhìn thấy ngôi trường đó."
+    },
+    {
+        "id":"xvm50gswuzj43z2iqnqj",
+        "meaningId":"y9nzhow65raas457f18e",
+        "createdDate":"2021-03-06T13:19:52.910Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.910Z",
+        "pronunciation":"tā zhǎng de xiàng tā bà bà",
+        "example":"他长得像他爸爸。",
+        "exampleBold":"他长得<b>像</b>他爸爸。",
+        "meaning":"Nhìn anh ấy có vẻ <b>giống</b> bố."
+    },
+    {
+        "id":"c7pxcr14v1ft6kks8ojg",
+        "meaningId":"a90imzj5trxaotsyu5ef",
+        "createdDate":"2021-03-06T13:19:52.912Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.912Z",
+        "pronunciation":"xiàng xiào zhǎng zhè yàng dē rén dào nǎ lǐ dōu hěn shòu huān yíng",
+        "example":"像校长这样的人，到哪里都很受欢迎。",
+        "exampleBold":"<b>像</b>校长这样的人，到哪里都很受欢迎。",
+        "meaning":"Những người <b>như</b> hiệu trưởng rất phổ biến ở khắp mọi nơi."
+    },
+    {
+        "id":"zs4q9amll0z5mouufdx2",
+        "meaningId":"pln2fgetd2vzejhb249b",
+        "createdDate":"2021-03-06T13:19:52.915Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.915Z",
+        "pronunciation":"qǐng xiǎo xīn lù shàng yǒu hěn duō shuǐ",
+        "example":"请小心，路上有很多水。",
+        "exampleBold":"请<b>小心</b>，路上有很多水。",
+        "meaning":"Xin hãy <b>cẩn thận</b>, có rất nhiều nước trên đường."
+    },
+    {
+        "id":"rva1ao6ihc9pr9zggp3s",
+        "meaningId":"2ajiuz9ye6m2k4sam86h",
+        "createdDate":"2021-03-06T13:19:52.916Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.916Z",
+        "pronunciation":"wǒ hěn xiǎo xīn dì bào qǐ le xiǎo māo",
+        "example":"我很小心地抱起了小猫。",
+        "exampleBold":"我很<b>小心</b>地抱起了小猫。",
+        "meaning":"Tôi bế chú mèo con rất <b>cẩn thận</b>."
+    },
+    {
+        "id":"3i70g4r60u5lvsro6zs7",
+        "meaningId":"oydrko4i0nhtnu459rbb",
+        "createdDate":"2021-03-06T13:19:52.918Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.918Z",
+        "pronunciation":"xiào zhǎng yǐ jīng tóng yì le wǒ men dē jì huà",
+        "example":"校长已经同意了我们的计划。",
+        "exampleBold":"<b>校长</b>已经同意了我们的计划。",
+        "meaning":"<b>Hiệu trưởng</b> đã đồng ý với kế hoạch của chúng tôi."
+    },
+    {
+        "id":"o66g1pwtpkrfud94qtsu",
+        "meaningId":"t4fg7usg0qsgu3cajjkc",
+        "createdDate":"2021-03-06T13:19:52.920Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.920Z",
+        "pronunciation":"wǒ měi tiān wǎn shàng qī diǎn dōu kàn xīn wén",
+        "example":"我每天晚上七点都看新闻。",
+        "exampleBold":"我每天晚上七点都看<b>新闻</b>。",
+        "meaning":"Tôi xem <b>tin tức</b> lúc bảy giờ mỗi đêm."
+    },
+    {
+        "id":"fri1z5jyi6qhg4mcy379",
+        "meaningId":"rdoibhut9af1nn5rg5d0",
+        "createdDate":"2021-03-06T13:19:52.922Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.922Z",
+        "pronunciation":"zhèi xiē dōu shì xīn xiān shuǐ guǒ",
+        "example":"这些都是新鲜水果。",
+        "exampleBold":"这些都是<b>新鲜</b>水果。",
+        "meaning":"Đây là những trái cây <b>tươi</b>."
+    },
+    {
+        "id":"a8mt0b1r7fmxjd736rig",
+        "meaningId":"cdr6ws4bndwvihiiab7f",
+        "createdDate":"2021-03-06T13:19:52.924Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.924Z",
+        "pronunciation":"wǒ xiǎng qù yín háng bàn yī zhāng xìn yòng kǎ",
+        "example":"我想去银行办一张信用卡。",
+        "exampleBold":"我想去银行办一张<b>信用卡</b>。",
+        "meaning":"Tôi muốn đến ngân hàng để lấy <b>thẻ tín dụng</b>."
+    },
+    {
+        "id":"kmepuvd5mm2erncuyi86",
+        "meaningId":"obdr3lqvpazpyawjpm0q",
+        "createdDate":"2021-03-06T13:19:52.926Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.926Z",
+        "pronunciation":"qǐng bǎ xíng lǐ xiāng dǎ kāi",
+        "example":"请把行李箱打开。",
+        "exampleBold":"请把<b>行李箱</b>打开。",
+        "meaning":"Vui lòng mở <b>vali</b> ra."
+    },
+    {
+        "id":"qnvbzhbxgcu1qqzf1wc0",
+        "meaningId":"jki5tv1hqguxj4v8axfk",
+        "createdDate":"2021-03-06T13:19:52.927Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.927Z",
+        "pronunciation":"wǒ tè bié xǐ huān dào dòng wù yuán qù kàn dà xióng māo",
+        "example":"我特别喜欢到动物园去看大熊猫。",
+        "exampleBold":"我特别喜欢到动物园去看大<b>熊猫</b>。",
+        "meaning":"Tôi đặc biệt thích đến sở thú để xem những con <b>gấu trúc</b> khổng lồ."
+    },
+    {
+        "id":"2qnzpsffoejrn3axir77",
+        "meaningId":"84v02lpmobkbdc64hipl",
+        "createdDate":"2021-03-06T13:19:52.929Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.929Z",
+        "pronunciation":"wǒ men xū yào yī xiē bāng zhù",
+        "example":"我们需要一些帮助。",
+        "exampleBold":"我们<b>需要</b>一些帮助。",
+        "meaning":"Chúng tôi <b>cần</b> một số trợ giúp."
+    },
+    {
+        "id":"hxwbftsm5v0msmlls9ew",
+        "meaningId":"2wvyxrx9mibhle1vw58f",
+        "createdDate":"2021-03-06T13:19:52.931Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.931Z",
+        "pronunciation":"jīn nián xià tiān nǐ xuǎn zé qù nǎ ér lǚ yóu",
+        "example":"今年夏天你选择去哪儿旅游？",
+        "exampleBold":"今年夏天你<b>选择</b>去哪儿旅游？",
+        "meaning":"Hè này bạn <b>chọn</b> đi du lịch ở đâu?"
+    },
+    {
+        "id":"g9iipeevma85snfgi6xb",
+        "meaningId":"7412xfc59f8jug7fise9",
+        "createdDate":"2021-03-06T13:19:52.933Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.933Z",
+        "pronunciation":"wǒ men xū yào zì jǐ zuò chū xuǎn zé",
+        "example":"我们需要自己做出选择。",
+        "exampleBold":"我们需要自己做出<b>选择</b>。",
+        "meaning":"Chúng ta cần phải đưa ra <b>lựa chọn</b> của riêng mình."
+    },
+    {
+        "id":"gn7oa87pt7ojzo1vpx9e",
+        "meaningId":"hwwcmss5k61rzocb7r1l",
+        "createdDate":"2021-03-06T13:19:52.935Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.935Z",
+        "pronunciation":"lǎo shī yāo qiú wǒ men bǎ zhèi xiē tí zuò wán",
+        "example":"老师要求我们把这些题做完。",
+        "exampleBold":"老师<b>要求</b>我们把这些题做完。",
+        "meaning":"Giáo viên <b>yêu cầu</b> chúng tôi hoàn thành những câu hỏi này."
+    },
+    {
+        "id":"h4nj7rhjn4rsbhh5ivto",
+        "meaningId":"hwwcmss5k61rzocb7r1l",
+        "createdDate":"2021-03-06T13:19:52.939Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.939Z",
+        "pronunciation":"zhè shì bà bà duì wǒ dē yāo qiú",
+        "example":"这是爸爸对我的要求。",
+        "exampleBold":"这是爸爸对我的<b>要求</b>。",
+        "meaning":"Đây là những gì bố tôi <b>yêu cầu</b> ở tôi."
+    },
+    {
+        "id":"kk1rr8zdonobjkwzh6f4",
+        "meaningId":"z3z0aae4an6opgj1f82p",
+        "createdDate":"2021-03-06T13:19:52.941Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.941Z",
+        "pronunciation":"yé ye qǐng nín zuò zhè ér ba",
+        "example":"爷爷，请您坐这儿吧。",
+        "exampleBold":"<b>爷爷</b>，请您坐这儿吧。",
+        "meaning":"<b>Ông</b> ơi, <b>ông</b> hãy ngồi đây này."
+    },
+    {
+        "id":"mexbmzv2n0pq13ohf7wa",
+        "meaningId":"41sppzwk1f307qr463ev",
+        "createdDate":"2021-03-06T13:19:52.945Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.945Z",
+        "pronunciation":"míng tiān dē huì yì qǐng dà jiā yí dìng yào cān jiā",
+        "example":"明天的会议，请大家一定要参加。",
+        "exampleBold":"明天的会议，请大家<b>一定</b>要参加。",
+        "meaning":"Cuộc họp ngày mai, hãy <b>chắc chắn</b> là tham dự được."
+    },
+    {
+        "id":"3c8u3vve42upr4jf17r1",
+        "meaningId":"tg8n5hqc5aday01c6anr",
+        "createdDate":"2021-03-06T13:19:52.948Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.948Z",
+        "pronunciation":"wǒ men bān yī gòng yǒu míng xué shēng",
+        "example":"我们班一共有20名学生。",
+        "exampleBold":"我们班<b>一共</b>有20名学生。",
+        "meaning":"Có 20 học sinh <b>trong</b> lớp của chúng tôi."
+    },
+    {
+        "id":"uitczmykp65oj17372up",
+        "meaningId":"38n5sduw7nrruozg54pm",
+        "createdDate":"2021-03-06T13:19:52.950Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.950Z",
+        "pronunciation":"wǒ kàn yī huì ér diàn shì jiù shuì jiào",
+        "example":"我看一会儿电视就睡觉。",
+        "exampleBold":"我看<b>一会儿</b>电视就睡觉。",
+        "meaning":"Tôi xem TV <b>một lúc</b> rồi đi ngủ."
+    },
+    {
+        "id":"3or2wtgoazeh2ktt8v3h",
+        "meaningId":"0fwe0odham2heky5vvq7",
+        "createdDate":"2021-03-06T13:19:52.952Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.952Z",
+        "pronunciation":"tā gēn bà bà zhǎng de yí yàng",
+        "example":"他跟爸爸长得一样。",
+        "exampleBold":"他跟爸爸长得<b>一样</b>。",
+        "meaning":"Anh ấy trông <b>giống hệt</b> cha mình."
+    },
+    {
+        "id":"575mmvvr3qyza7bix8kb",
+        "meaningId":"p1w41nr2bq4jk47h5wtm",
+        "createdDate":"2021-03-06T13:19:52.954Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.954Z",
+        "pronunciation":"wǒ yì bān diǎn zhōng qǐ chuáng",
+        "example":"我一般7点钟起床。",
+        "exampleBold":"我<b>一般</b>7点钟起床。",
+        "meaning":"Tôi <b>thường</b> dậy lúc 7 giờ."
+    },
+    {
+        "id":"9odw8bq1rgh7umf47b1b",
+        "meaningId":"txabhmphbnyb428myrxp",
+        "createdDate":"2021-03-06T13:19:52.955Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.955Z",
+        "pronunciation":"tā xǐ huān yī biān kàn shū yī biān tīng yīn yuè",
+        "example":"他喜欢一边看书，一边听音乐。",
+        "exampleBold":"他喜欢<b>一边</b>看书，<b>一边</b>听音乐。",
+        "meaning":"Anh ấy thích <b>đồng thời</b> cả đọc sách và nghe nhạc."
+    },
+    {
+        "id":"p3k4cv5hnmjv4vu7qhy3",
+        "meaningId":"26xvru2z0upq8b7ii53b",
+        "createdDate":"2021-03-06T13:19:52.957Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.957Z",
+        "pronunciation":"wǒ yī zhí bù míng bái zhè jù huà dē yì sī",
+        "example":"我一直不明白这句话的意思。",
+        "exampleBold":"我<b>一直</b>不明白这句话的意思。",
+        "meaning":"Tôi chưa bao giờ hiểu ý nghĩa của câu này."
+    },
+    {
+        "id":"7mctpp2j2o6deq53yj7g",
+        "meaningId":"edc8lwigr8ckntv9qwy2",
+        "createdDate":"2021-03-06T13:19:52.959Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.959Z",
+        "pronunciation":"wǒ men kàn diàn yǐng yǐ qián xiān qù chī gè fàn ba",
+        "example":"我们看电影以前，先去吃个饭吧。",
+        "exampleBold":"我们看电影<b>以前</b>，先去吃个饭吧。",
+        "meaning":"Đi ăn cơm <b>trước</b> khi xem phim."
+    },
+    {
+        "id":"r97fh1vn6cimx0lf2fze",
+        "meaningId":"flwxjt7ghz8gqbk3fhu3",
+        "createdDate":"2021-03-06T13:19:52.960Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.960Z",
+        "pronunciation":"tā zuì xǐ huān kàn yīn yuè jié mù",
+        "example":"她最喜欢看音乐节目。",
+        "exampleBold":"她最喜欢看<b>音乐</b>节目。",
+        "meaning":"Cô ấy thích xem các chương trình <b>ca nhạc</b> nhất."
+    },
+    {
+        "id":"7yn7wlksjdpy0zcyzflb",
+        "meaningId":"nqqzyf6huo1quwtanxh2",
+        "createdDate":"2021-03-06T13:19:52.962Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.962Z",
+        "pronunciation":"yín háng xià wǔ diǎn guān mén",
+        "example":"银行下午5点关门。",
+        "exampleBold":"<b>银行</b>下午5点关门。",
+        "meaning":"<b>Ngân hàng</b> đóng cửa lúc 5 giờ chiều."
+    },
+    {
+        "id":"f36gb03s0hf74h7ulyeb",
+        "meaningId":"qz84960lvhuz5hyb1t88",
+        "createdDate":"2021-03-06T13:19:52.964Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.964Z",
+        "pronunciation":"bīng xiāng lǐ hái yǒu yǐn liào ma",
+        "example":"冰箱里还有饮料吗？",
+        "exampleBold":"冰箱里还有<b>饮料</b>吗？",
+        "meaning":"Có <b>đồ uống</b> nào trong tủ lạnh không?"
+    },
+    {
+        "id":"rc8xtjeu49608uyqibem",
+        "meaningId":"j9qyg63v77lf06qf7gvc",
+        "createdDate":"2021-03-06T13:19:52.965Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.965Z",
+        "pronunciation":"diǎn le yīng gāi qù shàng bān le",
+        "example":"8点了，应该去上班了。",
+        "exampleBold":"8点了，<b>应该</b>去上班了。",
+        "meaning":"Đã 8 giờ, đến giờ tôi <b>phải</b> đi làm."
+    },
+    {
+        "id":"7onmv9prmltizb2y0vpo",
+        "meaningId":"n68pw4099xne1ip7qkqj",
+        "createdDate":"2021-03-06T13:19:52.967Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.967Z",
+        "pronunciation":"qǐng bú yào yǐng xiǎng bié rén xiū xī",
+        "example":"请不要影响别人休息。",
+        "exampleBold":"请不要<b>影响</b>别人休息。",
+        "meaning":"Vui lòng không <b>ảnh hưởng</b> đến người khác để nghỉ ngơi."
+    },
+    {
+        "id":"1nketh8nx6ldreftmbdw",
+        "meaningId":"w8au4espmh6b53586qpa",
+        "createdDate":"2021-03-06T13:19:52.968Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.968Z",
+        "pronunciation":"huán jìng duì rén yǒu hěn dà dē yǐng xiǎng",
+        "example":"环境对人有很大的影响。",
+        "exampleBold":"环境对人有很大的<b>影响</b>。",
+        "meaning":"Môi trường có <b>ảnh hưởng</b> lớn đến con người."
+    },
+    {
+        "id":"co7h0zstj2238og9nnf8",
+        "meaningId":"g10f1tpd58lfb2xeboes",
+        "createdDate":"2021-03-06T13:19:52.970Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.970Z",
+        "pronunciation":"wǒ yòng le liǎng gè xiǎo shí dǎ sǎo fáng jiān",
+        "example":"我用了两个小时打扫房间。",
+        "exampleBold":"我<b>用</b>了两个小时打扫房间。",
+        "meaning":"Tôi đã <b>dành</b> hai giờ để dọn dẹp căn phòng."
+    },
+    {
+        "id":"t34tytbigs43lm4dtm56",
+        "meaningId":"1pjtkpqqip6yhueyr9l8",
+        "createdDate":"2021-03-06T13:19:52.972Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.972Z",
+        "pronunciation":"zhè shì hái zi men zuì xǐ huān wán ér dē yóu xì",
+        "example":"这是孩子们最喜欢玩儿的游戏。",
+        "exampleBold":"这是孩子们最喜欢玩儿的<b>游戏</b>。",
+        "meaning":"Đây là <b>trò chơi</b> yêu thích của trẻ em."
+    },
+    {
+        "id":"c7i0oa5s2hkysllpw0kl",
+        "meaningId":"wa2saixoym221mv7k3hq",
+        "createdDate":"2021-03-06T13:19:52.973Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.973Z",
+        "pronunciation":"zhè běn shū hěn yǒu míng",
+        "example":"这本书很有名。",
+        "exampleBold":"这本书很<b>有名</b>。",
+        "meaning":"Cuốn sách này rất <b>nổi tiếng</b>."
+    },
+    {
+        "id":"91eeazri4f9b3378v3xg",
+        "meaningId":"np12ms8j9ainki6w3dgq",
+        "createdDate":"2021-03-06T13:19:52.975Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.975Z",
+        "pronunciation":"wǒ men xiū xī le yī huì ér yòu kāi shǐ gōng zuò le",
+        "example":"我们休息了一会儿，又开始工作了。",
+        "exampleBold":"我们休息了一会儿，<b>又</b>开始工作了。",
+        "meaning":"Chúng tôi nghỉ ngơi một lúc và bắt đầu làm việc <b>trở lại</b>."
+    },
+    {
+        "id":"fct6565shop3j24tthen",
+        "meaningId":"xnxwvb0hhb0o9xpv8mwf",
+        "createdDate":"2021-03-06T13:19:52.976Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.976Z",
+        "pronunciation":"gāng cái wǒ zài jiē shàng yù dào le zhāng xiān shēng",
+        "example":"刚才我在街上遇到了张先生。",
+        "exampleBold":"刚才我在街上<b>遇到</b>了张先生。",
+        "meaning":"Tôi <b>gặp</b> anh Zhang trên phố vừa rồi."
+    },
+    {
+        "id":"24juoduqe6mmnkv74ifm",
+        "meaningId":"sraxmn66lrtlk2i5xthm",
+        "createdDate":"2021-03-06T13:19:52.978Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.978Z",
+        "pronunciation":"zhè kuài shǒu biǎo yuán",
+        "example":"这块手表600元。",
+        "exampleBold":"这块手表600<b>元</b>。",
+        "meaning":"Đồng hồ này giá 600 <b>nhân dân tệ</b>."
+    },
+    {
+        "id":"rrbjvms1q0crkurcglb7",
+        "meaningId":"9pwagkf58426782sad0f",
+        "createdDate":"2021-03-06T13:19:52.980Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.980Z",
+        "pronunciation":"tā hěn yuàn yì bāng zhù bié rén",
+        "example":"他很愿意帮助别人。",
+        "exampleBold":"他很<b>愿意</b>帮助别人。",
+        "meaning":"Anh ấy <b>sẵn sàng</b> giúp đỡ người khác."
+    },
+    {
+        "id":"cf3mndhqwaq6c2gr6jat",
+        "meaningId":"30w6o7xcmg54zobx794j",
+        "createdDate":"2021-03-06T13:19:52.981Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.981Z",
+        "pronunciation":"jīn wǎn dē yuè liàng zhēn yuán",
+        "example":"今晚的月亮真圆！",
+        "exampleBold":"今晚的<b>月亮</b>真圆！",
+        "meaning":"Đêm nay <b>trăng</b> thật tròn!"
+    },
+    {
+        "id":"v5ybvezm8uo2ixeqmas6",
+        "meaningId":"yc3vq1rr1o9634xvdzr1",
+        "createdDate":"2021-03-06T13:19:52.983Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.983Z",
+        "pronunciation":"tā yuè shuō yuè gāo xìng",
+        "example":"他越说越高兴。",
+        "exampleBold":"他<b>越</b>说<b>越</b>高兴。",
+        "meaning":"<b>Càng</b> nói chuyện, anh ấy <b>càng</b> vui hơn."
+    },
+    {
+        "id":"gtec4yulq5jxxqwwi0cj",
+        "meaningId":"xylv9qcbzz7ohbqqfi2h",
+        "createdDate":"2021-03-06T13:19:52.984Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.984Z",
+        "pronunciation":"bà bà zhàn zài wǒ dē shēn biān",
+        "example":"爸爸站在我的身边。",
+        "exampleBold":"爸爸<b>站</b>在我的身边。",
+        "meaning":"Bố đã <b>đứng</b> về phía tôi."
+    },
+    {
+        "id":"defj7x1x2fe6vh3drejg",
+        "meaningId":"cwkcnmbu5cbc786h9o3l",
+        "createdDate":"2021-03-06T13:19:52.985Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.985Z",
+        "pronunciation":"qù huǒ chē zhàn zuò dì tiě zhàn jiù dào le",
+        "example":"去火车站，坐地铁3站就到了。",
+        "exampleBold":"去火车站，坐地铁3<b>站</b>就到了。",
+        "meaning":"Đến ga xe lửa và đi tàu điện ngầm 3 <b>trạm dừng</b>."
+    },
+    {
+        "id":"cnhf35y2b7avh1aq5nwt",
+        "meaningId":"una8pxuf87ppexi0zwlc",
+        "createdDate":"2021-03-06T13:19:52.987Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.987Z",
+        "pronunciation":"qǐng gěi wǒ yī zhāng zhǐ",
+        "example":"请给我一张纸。",
+        "exampleBold":"请给我一<b>张</b>纸。",
+        "meaning":"Làm ơn cho tôi một <b>mảnh</b> giấy."
+    },
+    {
+        "id":"1rpb05qr4lfkw0urm5uy",
+        "meaningId":"lq0bt508njjjbrpzvkeu",
+        "createdDate":"2021-03-06T13:19:52.988Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.988Z",
+        "pronunciation":"xiǎo nǚ hái ér zhāng kāi zuǐ xiào le",
+        "example":"小女孩儿张开嘴，笑了。",
+        "exampleBold":"小女孩儿<b>张</b>开嘴，笑了。",
+        "meaning":"Cô gái nhỏ <b>mở</b> miệng cười."
+    },
+    {
+        "id":"ma43y9x1of4sgkewbqek",
+        "meaningId":"jjq92v9ffifuyt19p9fv",
+        "createdDate":"2021-03-06T13:19:52.990Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.990Z",
+        "pronunciation":"wǒ shēng bìng le mā mā yī zhí zhào gù wǒ",
+        "example":"我生病了，妈妈一直照顾我。",
+        "exampleBold":"我生病了，妈妈一直<b>照顾</b>我。",
+        "meaning":"Tôi ốm và mẹ tôi đã <b>chăm sóc</b> tôi."
+    },
+    {
+        "id":"fjvffqufzmwh4lkuvqzj",
+        "meaningId":"b3pkltn8u4jqflp58afc",
+        "createdDate":"2021-03-06T13:19:52.991Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.991Z",
+        "pronunciation":"zhè shì wǒ xiǎo shí hòu dē zhào piān",
+        "example":"这是我小时候的照片。",
+        "exampleBold":"这是我小时候的<b>照片</b>。",
+        "meaning":"Đây là một <b>bức ảnh</b> từ thời thơ ấu của tôi."
+    },
+    {
+        "id":"iz0rim7nsjdg03jwjma0",
+        "meaningId":"fpv14kitdl8auiqad8a3",
+        "createdDate":"2021-03-06T13:19:52.993Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.993Z",
+        "pronunciation":"wǒ xīn mǎi le yí gè zhào xiàng jī",
+        "example":"我新买了一个照相机。",
+        "exampleBold":"我新买了一个<b>照相机</b>。",
+        "meaning":"Tôi đã mua một chiếc <b>máy ảnh</b> mới."
+    },
+    {
+        "id":"30brhihzyzcpj2j74jy5",
+        "meaningId":"wzowzr7uqcb1mdq11zxk",
+        "createdDate":"2021-03-06T13:19:52.994Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.994Z",
+        "pronunciation":"wǒ yǒu yì zhī xié zhǎo bu dào le",
+        "example":"我有一只鞋找不到了。",
+        "exampleBold":"我有一<b>只</b>鞋找不到了。",
+        "meaning":"Tôi không thể tìm thấy <b>một</b> chiếc giày."
+    },
+    {
+        "id":"v6seanvqru98nez675nc",
+        "meaningId":"wzowzr7uqcb1mdq11zxk",
+        "createdDate":"2021-03-06T13:19:52.997Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.997Z",
+        "pronunciation":"shù shàng yǒu yì zhī xiǎo māo",
+        "example":"树上有一只小猫。",
+        "exampleBold":"树上有一<b></b>小猫。",
+        "meaning":"Có <b>một</b> con mèo con trên cây."
+    },
+    {
+        "id":"tpvvppl02l27qw2dorm4",
+        "meaningId":"nehuzde7cvmo3wa7edn3",
+        "createdDate":"2021-03-06T13:19:52.999Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.999Z",
+        "pronunciation":"fáng jiān lǐ zhǐ yǒu wǒ yí ge rén",
+        "example":"房间里只有我一个人。",
+        "exampleBold":"房间里<b>只</b>有我一个人。",
+        "meaning":"Tôi là người <b>duy nhất</b> trong phòng."
+    },
+    {
+        "id":"ka0hp4ii55u66hei835n",
+        "meaningId":"tde2xrj64ii9sr62bqwd",
+        "createdDate":"2021-03-06T13:19:53.001Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.001Z",
+        "pronunciation":"wǒ zhàn zài zhōng jiān páng biān dē shì wǒ dē tóng xué",
+        "example":"我站在中间，旁边的是我的同学。",
+        "exampleBold":"我站在<b>中间</b>，旁边的是我的同学。",
+        "meaning":"Tôi đứng <b>giữa</b>, bên cạnh người bạn cùng lớp."
+    },
+    {
+        "id":"qdovuxquukrsnj9i2pky",
+        "meaningId":"0c4ng6op965slzysn359",
+        "createdDate":"2021-03-06T13:19:53.003Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.003Z",
+        "pronunciation":"wǒ huì yòng zhōng wén xiě wén zhāng",
+        "example":"我会用中文写文章。",
+        "exampleBold":"我会用<b>中文</b>写文章。",
+        "meaning":"Tôi có thể viết bài bằng <b>tiếng Trung</b>."
+    },
+    {
+        "id":"nbocqr6psxtbzvn31qss",
+        "meaningId":"uy8ke9xxovi6ish69r72",
+        "createdDate":"2021-03-06T13:19:53.005Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.005Z",
+        "pronunciation":"chūn tiān zhōng yú lái le",
+        "example":"春天终于来了。",
+        "exampleBold":"春天<b>终于</b>来了。",
+        "meaning":"Mùa xuân <b>cuối cùng</b> cũng đến rồi."
+    },
+    {
+        "id":"w05d2a0pl9tdc92sof2f",
+        "meaningId":"ttgms2uaopnfs44c4udg",
+        "createdDate":"2021-03-06T13:19:53.007Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.007Z",
+        "pronunciation":"chāo shì lǐ yǒu hěn duō zhǒng xīn xiān shuǐ guǒ",
+        "example":"超市里有很多种新鲜水果。",
+        "exampleBold":"超市里有很多<b>种</b>新鲜水果。",
+        "meaning":"Có rất nhiều <b>loại</b> trái cây tươi trong siêu thị."
+    },
+    {
+        "id":"yofxculmdca197eopjpd",
+        "meaningId":"lr634kmk0h1js5b0ukr9",
+        "createdDate":"2021-03-06T13:19:53.009Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.009Z",
+        "pronunciation":"wǒ wàng le yī jiàn zhòng yào dē shì qíng",
+        "example":"我忘了一件重要的事情。",
+        "exampleBold":"我忘了一件<b>重要</b>的事情。",
+        "meaning":"Tôi đã quên một điều <b>quan trọng</b>."
+    },
+    {
+        "id":"2scf70q7c4qvii9zb8h2",
+        "meaningId":"kful2gapay77vko9iu16",
+        "createdDate":"2021-03-06T13:19:53.011Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.011Z",
+        "pronunciation":"zhè gè zhōu mò nǐ yǒu shén me ān pái",
+        "example":"这个周末你有什么安排？",
+        "exampleBold":"这个<b>周末</b>你有什么安排？",
+        "meaning":"Kế hoạch cho <b>cuối tuần</b> này là gì?"
+    },
+    {
+        "id":"6jcda0ejyda8cukzjla4",
+        "meaningId":"h6q486d1w8jky3k7w5ct",
+        "createdDate":"2021-03-06T13:19:53.013Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.013Z",
+        "pronunciation":"zhè běn shū zhǔ yào jiǎng le xiē shén me",
+        "example":"这本书主要讲了些什么？",
+        "exampleBold":"这本书<b>主要</b>讲了些什么？",
+        "meaning":"Cuốn sách này <b>chủ yếu</b> nói về điều gì vậy?"
+    },
+    {
+        "id":"e833bzkso5p9sut8vou4",
+        "meaningId":"3ne77l77bzvqcsenujzq",
+        "createdDate":"2021-03-06T13:19:53.015Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.015Z",
+        "pronunciation":"qǐng zhù yì ān quán",
+        "example":"请注意安全。",
+        "exampleBold":"请<b>注意</b>安全。",
+        "meaning":"Hãy <b>cẩn thận</b>."
+    },
+    {
+        "id":"dfiivy2462pob49lx2lh",
+        "meaningId":"t9yf4yq5thi2ngc5cmay",
+        "createdDate":"2021-03-06T13:19:53.016Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.016Z",
+        "pronunciation":"yù dào shì qíng bú yào zháo jí",
+        "example":"遇到事情，不要着急。",
+        "exampleBold":"遇到事情，不要<b>着急</b>。",
+        "meaning":"Đừng <b>lo lắng</b> nếu bạn gặp phải điều gì đó."
+    },
+    {
+        "id":"sedv60ndpf5utqcszuxg",
+        "meaningId":"bxifc1b30ni70n7q2k97",
+        "createdDate":"2021-03-06T13:19:53.017Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.017Z",
+        "pronunciation":"wǒ xǐ huān zì jǐ yí ge rén lǚ yóu",
+        "example":"我喜欢自己一个人旅游。",
+        "exampleBold":"我喜欢<b>自己</b>一个人旅游。",
+        "meaning":"Tôi thích đi du lịch <b>một mình</b>."
+    },
+    {
+        "id":"zgso9rcq1p09m1r5y8pn",
+        "meaningId":"detpex3b3bg6ar12x3hu",
+        "createdDate":"2021-03-06T13:19:53.019Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.019Z",
+        "pronunciation":"tā zǒng shì hěn zǎo qǐ chuáng",
+        "example":"他总是很早起床。",
+        "exampleBold":"他<b>总是</b>很早起床。",
+        "meaning":"Anh ấy <b>luôn luôn</b> dậy sớm."
+    },
+    {
+        "id":"d74ucd4dtuc64taku1qk",
+        "meaningId":"de823z504hyp6iug87nz",
+        "createdDate":"2021-03-06T13:19:53.020Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.020Z",
+        "pronunciation":"mèi mei dē zuǐ biān yǒu yī lì mǐ",
+        "example":"妹妹的嘴边有一粒米。",
+        "exampleBold":"妹妹的<b>嘴</b>边有一粒米。",
+        "meaning":"Có một hạt gạo dính bên <b>miệng</b> chị tôi."
+    },
+    {
+        "id":"xmuz8g5rnxkkrll8mszf",
+        "meaningId":"twkk0vnr6nzr1vrp9629",
+        "createdDate":"2021-03-06T13:19:53.022Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.022Z",
+        "pronunciation":"wǒ zuì jìn hěn máng",
+        "example":"我最近很忙。",
+        "exampleBold":"我<b>最近</b>很忙。",
+        "meaning":"Tôi đã rất bận rộn <b>gần đây</b>."
+    },
+    {
+        "id":"ixinrxk158heb2yxyku8",
+        "meaningId":"hyae932wzu7iq34j6j24",
+        "createdDate":"2021-03-06T13:19:53.023Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.023Z",
+        "pronunciation":"jīn tiān dē zuò yè nǐ xiě wán le ma",
+        "example":"今天的作业你写完了吗？",
+        "exampleBold":"今天的<b>作业</b>你写完了吗？",
+        "meaning":"Bạn đã hoàn thành <b>bài tập</b> hôm nay chưa?"
+    },
+    {
+        "id":"6xnx6h7mbpui9mp3ex7a",
+        "meaningId":"hv2pcaj22qxl2a7aifjx",
+        "createdDate":"2021-03-06T13:19:53.025Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.025Z",
+        "pronunciation":"zhè zhǒng gǎn mào yào duì wǒ méi shén me zuò yòng",
+        "example":"这种感冒药对我没什么作用。",
+        "exampleBold":"这种感冒药对我没什么<b>作用</b>。",
+        "meaning":"Thuốc cảm này không <b>ảnh hưởng</b> gì đến tôi."
+    }
+]

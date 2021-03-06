@@ -1,0 +1,2698 @@
+[
+    {
+        "id":"bwcd2zz7tng71avdbnpb",
+        "meaning":"cô, dì",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"zta8r7xb3bc85ikif16m",
+        "createdDate":"2021-03-06T13:19:52.464Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.464Z"
+    },
+    {
+        "id":"5vd4656evnhbfgjizryk",
+        "meaning":"được sử dụng để bày tỏ sự ngạc nhiên, cảm thán hoặc hứa hẹn",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"3cz6ofejrpz9oa0e1zsu",
+        "createdDate":"2021-03-06T13:19:52.465Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.465Z"
+    },
+    {
+        "id":"ovpx38nvgmpq9bsg8tdk",
+        "meaning":"ngắn, thấp",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"l22rbamf0tf178tmg366",
+        "createdDate":"2021-03-06T13:19:52.470Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.470Z"
+    },
+    {
+        "id":"zcu0x2pofl7o24m8lncx",
+        "meaning":"sở thích; một sự quan tâm; sự yêu mến",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"1wq01xwgetonf2njjhds",
+        "createdDate":"2021-03-06T13:19:52.471Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.471Z"
+    },
+    {
+        "id":"qvyyygbxgovz90a0sp97",
+        "meaning":"thích hoặc quan tâm đến",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"1wq01xwgetonf2njjhds",
+        "createdDate":"2021-03-06T13:19:52.472Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.472Z"
+    },
+    {
+        "id":"g1ec3d8i132crlwlzbho",
+        "meaning":"không ồn ào; yên tĩnh; điềm tĩnh",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"gfz78pduoklma18o6i4k",
+        "createdDate":"2021-03-06T13:19:52.474Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.474Z"
+    },
+    {
+        "id":"4kg61jvv71ih9qmdwnkh",
+        "meaning":"trật tự nào; giữ im lặng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"gfz78pduoklma18o6i4k",
+        "createdDate":"2021-03-06T13:19:52.476Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.476Z"
+    },
+    {
+        "id":"7uu6kexk5yj9e64s6j0l",
+        "meaning":"xử lý (được sử dụng trước một đối tượng, theo sau là một động từ bắc cầu)",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"8amx85sf5bnlakvcjsds",
+        "createdDate":"2021-03-06T13:19:52.477Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.477Z"
+    },
+    {
+        "id":"alf8i74on3od2gwmqyl7",
+        "meaning":"được sử dụng cho những thứ có tay cầm",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"8amx85sf5bnlakvcjsds",
+        "createdDate":"2021-03-06T13:19:52.479Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.479Z"
+    },
+    {
+        "id":"dzcr49e2sk2cshu98i01",
+        "meaning":"lớp học",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"fajjufod0q39tx447d4n",
+        "createdDate":"2021-03-06T13:19:52.480Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.480Z"
+    },
+    {
+        "id":"jzklffwdtxa34lyx3rzd",
+        "meaning":"mang; di chuyển",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"t6jbwaqc8o38l2l327pv",
+        "createdDate":"2021-03-06T13:19:52.482Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.482Z"
+    },
+    {
+        "id":"ta6udppnnjo33fgt6in7",
+        "meaning":"cách; bước để thực hiện; phương pháp",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"pr79runb3e681aizuadv",
+        "createdDate":"2021-03-06T13:19:52.484Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.484Z"
+    },
+    {
+        "id":"98cyvnk7hwv5n0k89nho",
+        "meaning":"văn phòng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"t0r75p9zufn4voj5qzyq",
+        "createdDate":"2021-03-06T13:19:52.485Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.485Z"
+    },
+    {
+        "id":"h9r15v3sx1iafxepuuxf",
+        "meaning":"một nửa; rưỡi (thời gian)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"oczi5cxneo9i0csy8ad8",
+        "createdDate":"2021-03-06T13:19:52.486Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.486Z"
+    },
+    {
+        "id":"re5yzwyx870n4ngguy8a",
+        "meaning":"cứu giúp; giúp một tay",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ixg119xv7skgk20i0jv7",
+        "createdDate":"2021-03-06T13:19:52.488Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.488Z"
+    },
+    {
+        "id":"q14296vbdzdwatigvigl",
+        "meaning":"túi, bao, balo",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"5n089o7qmihln3ew4cis",
+        "createdDate":"2021-03-06T13:19:52.489Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.489Z"
+    },
+    {
+        "id":"ut1q9zf4qd81q7184wmn",
+        "meaning":"không đói; no",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"nl7bv9yfgro0j6kbgk2h",
+        "createdDate":"2021-03-06T13:19:52.491Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.491Z"
+    },
+    {
+        "id":"j5p7kfy18cf4wlm3doau",
+        "meaning":"phía bắc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"vng65ioqu9mg7nep6yje",
+        "createdDate":"2021-03-06T13:19:52.492Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.492Z"
+    },
+    {
+        "id":"53ty831m6icmepd4hpen",
+        "meaning":"được thực hiện hoặc bị ép buộc, biểu thị giọng nói bị động",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"trat27i3wnzot888t414",
+        "createdDate":"2021-03-06T13:19:52.494Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.494Z"
+    },
+    {
+        "id":"6go5kepheozci9ocq5wj",
+        "meaning":"(cái) mũi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"abylxht989bvgaout09i",
+        "createdDate":"2021-03-06T13:19:52.495Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.495Z"
+    },
+    {
+        "id":"ree983px5d5gvl9d4i3l",
+        "meaning":"tương đối; khá",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"rbm09y4a0sjjubpjvzg6",
+        "createdDate":"2021-03-06T13:19:52.497Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.497Z"
+    },
+    {
+        "id":"e7lu0awcivvnz0ufdj0b",
+        "meaning":"cuộc thi; trận đấu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"trkxc28t6l718ju50pl6",
+        "createdDate":"2021-03-06T13:19:52.498Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.498Z"
+    },
+    {
+        "id":"8ngpzsyzn92kturwpbvz",
+        "meaning":"cạnh tranh",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"trkxc28t6l718ju50pl6",
+        "createdDate":"2021-03-06T13:19:52.499Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.499Z"
+    },
+    {
+        "id":"sxc84k6nqjbtuajbh06f",
+        "meaning":"vở",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"e2thub8fzjuy2br9qqdv",
+        "createdDate":"2021-03-06T13:19:52.501Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.501Z"
+    },
+    {
+        "id":"mqrpswx1z3f88wgoi6x4",
+        "meaning":"sổ tay",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"e2thub8fzjuy2br9qqdv",
+        "createdDate":"2021-03-06T13:19:52.502Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.502Z"
+    },
+    {
+        "id":"5fhei6jwyk081hdnygye",
+        "meaning":"phải (làm gì đó)",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"kqjr3koteeq8lbm09ora",
+        "createdDate":"2021-03-06T13:19:52.504Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.504Z"
+    },
+    {
+        "id":"2mfehjea00p8ql93ga1z",
+        "meaning":"sự thay đổi; sự biến thể",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"kjbyrecbl10n4um9bam2",
+        "createdDate":"2021-03-06T13:19:52.505Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.505Z"
+    },
+    {
+        "id":"lhrm9snxw276f284g0bc",
+        "meaning":"thay đổi",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"kjbyrecbl10n4um9bam2",
+        "createdDate":"2021-03-06T13:19:52.507Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.507Z"
+    },
+    {
+        "id":"jdxaon7srgut66srhym6",
+        "meaning":"những người khác; người khác",
+        "wordTypeId":"iss2po1tch1ixacftmu0",
+        "wordId":"eak7xxexqykzeu69yov6",
+        "createdDate":"2021-03-06T13:19:52.508Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.508Z"
+    },
+    {
+        "id":"g0jzyezjy8tef8jnol4t",
+        "meaning":"khách sạn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"1b5nzlp3xg2fq7v1mwop",
+        "createdDate":"2021-03-06T13:19:52.510Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.510Z"
+    },
+    {
+        "id":"8it5l80obhcseasjmqho",
+        "meaning":"tủ lạnh",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"czxjk3dyvqg0mi80ruc6",
+        "createdDate":"2021-03-06T13:19:52.511Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.511Z"
+    },
+    {
+        "id":"yn0m0urpz8pgysqnfyb0",
+        "meaning":"hơn nữa; không những...mà còn...",
+        "wordTypeId":"8tmz3eeqb3y2qw5jei0d",
+        "wordId":"94szksjy6szy8he8jh5x",
+        "createdDate":"2021-03-06T13:19:52.513Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.513Z"
+    },
+    {
+        "id":"rrxytihnim03j5iaiau2",
+        "meaning":"muộn, cho thấy vừa mới xảy ra",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"8um5d6qfkzro29o3p0nc",
+        "createdDate":"2021-03-06T13:19:52.515Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.515Z"
+    },
+    {
+        "id":"6d3uy8byo139m1xscgqw",
+        "meaning":"chỉ; chỉ một",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"8um5d6qfkzro29o3p0nc",
+        "createdDate":"2021-03-06T13:19:52.517Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.517Z"
+    },
+    {
+        "id":"5yimx7w2u12gbxs68p8x",
+        "meaning":"thực đơn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"lqi8cs1jm764hjwn7ab8",
+        "createdDate":"2021-03-06T13:19:52.519Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.519Z"
+    },
+    {
+        "id":"ha2mfes4j6bqnzyem5on",
+        "meaning":"tham gia; tham dự",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ioq4i7n4a6pp214l36dt",
+        "createdDate":"2021-03-06T13:19:52.520Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.520Z"
+    },
+    {
+        "id":"32pxufe73m08enr5qjwp",
+        "meaning":"cỏ; rơm rạ",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"mh13i9m41r3oqr7oq4md",
+        "createdDate":"2021-03-06T13:19:52.522Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.522Z"
+    },
+    {
+        "id":"vr7uqddcxk7p97a8s7zk",
+        "meaning":"lớp, tầng,... (được sử dụng cho những thứ có các cấp riêng biệt)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"6d6m8sr9chloaohod0gu",
+        "createdDate":"2021-03-06T13:19:52.523Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.523Z"
+    },
+    {
+        "id":"nntz9mcw7n82ckwawnmz",
+        "meaning":"tệ; nghèo",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"ub3va7nnwhlb7ee17s9d",
+        "createdDate":"2021-03-06T13:19:52.524Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.524Z"
+    },
+    {
+        "id":"4qnldpj9q9ddrsigd4ll",
+        "meaning":"kém (thời gian)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ub3va7nnwhlb7ee17s9d",
+        "createdDate":"2021-03-06T13:19:52.526Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.526Z"
+    },
+    {
+        "id":"y4d3af9cu8258frvzjwk",
+        "meaning":"dài",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"86oktr5vw5ut7ox7vjne",
+        "createdDate":"2021-03-06T13:19:52.527Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.527Z"
+    },
+    {
+        "id":"83uge9j84dvdgzdgf3sf",
+        "meaning":"siêu thị",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"12jo8f9jtqkjh8ee1peq",
+        "createdDate":"2021-03-06T13:19:52.529Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.529Z"
+    },
+    {
+        "id":"osvjp7joa6jlkb19bnkn",
+        "meaning":"áo sơ mi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"yy26aufvv3dl7d8zax7k",
+        "createdDate":"2021-03-06T13:19:52.530Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.530Z"
+    },
+    {
+        "id":"bnnl1uvozchslzi4b2b0",
+        "meaning":"điểm",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"1fr8a9nl5tz5yc7w54rr",
+        "createdDate":"2021-03-06T13:19:52.532Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.532Z"
+    },
+    {
+        "id":"9svfklsrlpokxjrj1f6r",
+        "meaning":"thành phố; thành thị",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"uhk5q6pflhuyleys9l5s",
+        "createdDate":"2021-03-06T13:19:52.533Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.533Z"
+    },
+    {
+        "id":"vdxnpyawff4zatntluhr",
+        "meaning":"trễ; muộn",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"8s8n9mkhsjqyih8gkxft",
+        "createdDate":"2021-03-06T13:19:52.535Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.535Z"
+    },
+    {
+        "id":"txyn5btunhu86ejol7ig",
+        "meaning":"đi ra; hiện hình; xuất hiện; nảy sinh",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"4cv6ut0frskzs7dgzshc",
+        "createdDate":"2021-03-06T13:19:52.536Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.536Z"
+    },
+    {
+        "id":"w6ftfb0rc2xlstlp2mrd",
+        "meaning":"ngoại (trừ); ngoài ra",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"k6e7jndlke853kqw9xxk",
+        "createdDate":"2021-03-06T13:19:52.539Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.539Z"
+    },
+    {
+        "id":"roug5oi3ohp5mketruqr",
+        "meaning":"thuyền; tàu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"lp9hi8e97t8p2rsd4xia",
+        "createdDate":"2021-03-06T13:19:52.541Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.541Z"
+    },
+    {
+        "id":"96ulnajn0sqid7a2ko0r",
+        "meaning":"mùa xuân",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"lngdu940cylzruev8z4j",
+        "createdDate":"2021-03-06T13:19:52.542Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.542Z"
+    },
+    {
+        "id":"u7i3ua17dxl9kvgyjpgs",
+        "meaning":"từ điển",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"94vqmsfyistektcq2lhk",
+        "createdDate":"2021-03-06T13:19:52.544Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.544Z"
+    },
+    {
+        "id":"cuqtpzb8yrnvlcdz0972",
+        "meaning":"sáng dạ; tài giỏi; thông minh",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"xig7zw811pho9as31clp",
+        "createdDate":"2021-03-06T13:19:52.545Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.545Z"
+    },
+    {
+        "id":"pezlz9r8g848jij352jq",
+        "meaning":"dọn dẹp; quét",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"5hu44oey0aruspx6udig",
+        "createdDate":"2021-03-06T13:19:52.547Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.547Z"
+    },
+    {
+        "id":"gwxegd8iwbabw73kgj9u",
+        "meaning":"dự định làm gì; lên kế hoạch",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"g8sg5zlj8h76e0ny2xk4",
+        "createdDate":"2021-03-06T13:19:52.548Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.548Z"
+    },
+    {
+        "id":"q7gyrwuzbko1tgf5un3f",
+        "meaning":"kế hoạch",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"g8sg5zlj8h76e0ny2xk4",
+        "createdDate":"2021-03-06T13:19:52.550Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.550Z"
+    },
+    {
+        "id":"xjh85yntci8764ejym79",
+        "meaning":"mang; lấy; mang đến; chịu",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"bs1gu859x6hmowt5b74z",
+        "createdDate":"2021-03-06T13:19:52.551Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.551Z"
+    },
+    {
+        "id":"xon6k0f788jgjx56g7uy",
+        "meaning":"lo; lo lắng; cảm thấy lo",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"y6nxnu3pxn7471c6vb61",
+        "createdDate":"2021-03-06T13:19:52.553Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.553Z"
+    },
+    {
+        "id":"npv4vdogxy0eg3b0r7ir",
+        "meaning":"bánh ngọt",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"a3l8kxvp95zcghwf35jo",
+        "createdDate":"2021-03-06T13:19:52.554Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.554Z"
+    },
+    {
+        "id":"96jjly0dg2xw4grajuy5",
+        "meaning":"tất nhiên; đương nhiên; chắc chắn",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"vh1f8jzauagujwdxbdu1",
+        "createdDate":"2021-03-06T13:19:52.556Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.556Z"
+    },
+    {
+        "id":"mfn6dih1uamp9eryxtz4",
+        "meaning":"đèn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"lu58njpoo4bmbpsqpxoo",
+        "createdDate":"2021-03-06T13:19:52.557Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.557Z"
+    },
+    {
+        "id":"xiu2kiqyax462akoxh0g",
+        "meaning":"một cách (trợ từ, biểu thị bộ phận đứng trước nó là một trạng ngữ.)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"w5t53ck9eaeh5h73zx4l",
+        "createdDate":"2021-03-06T13:19:52.558Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.558Z"
+    },
+    {
+        "id":"pslnrwrvsf1j9m1w4l85",
+        "meaning":"địa điểm; nơi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"i525vbseb1sse0o6w35f",
+        "createdDate":"2021-03-06T13:19:52.560Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.560Z"
+    },
+    {
+        "id":"txikhehl3bzsze02m5fx",
+        "meaning":"tàu điện ngầm",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"8ifesdm75hjgauvatp3z",
+        "createdDate":"2021-03-06T13:19:52.561Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.561Z"
+    },
+    {
+        "id":"apm3a7bxcatyjdupswoq",
+        "meaning":"bản đồ",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"s4bajiw7af4b0lhkxm6s",
+        "createdDate":"2021-03-06T13:19:52.563Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.563Z"
+    },
+    {
+        "id":"2pnwy77y9ninonv05p6y",
+        "meaning":"thang máy",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"8xylikgvvi0eoqpqib2e",
+        "createdDate":"2021-03-06T13:19:52.564Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.564Z"
+    },
+    {
+        "id":"8aiz0me93ke6kezdgwum",
+        "meaning":"email",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"8r1wdkg0i5299nonxya9",
+        "createdDate":"2021-03-06T13:19:52.566Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.566Z"
+    },
+    {
+        "id":"sncget607uult8qe50mm",
+        "meaning":"phía đông",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"pp16iqm298l0ly5m06s1",
+        "createdDate":"2021-03-06T13:19:52.567Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.567Z"
+    },
+    {
+        "id":"twq5i1jfy12gwimztcs3",
+        "meaning":"mùa đông",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"qi18on8gkfphsssbj97n",
+        "createdDate":"2021-03-06T13:19:52.569Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.569Z"
+    },
+    {
+        "id":"k6ke88ldsp7hqz0703dj",
+        "meaning":"sở thú; vườn thú",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"cjozkr367edm8ekyl2z1",
+        "createdDate":"2021-03-06T13:19:52.570Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.570Z"
+    },
+    {
+        "id":"wjaqllg6vzepmgtje24c",
+        "meaning":"ngắn",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"y8rs7ut3engq8grdhmj9",
+        "createdDate":"2021-03-06T13:19:52.572Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.572Z"
+    },
+    {
+        "id":"fugrvr74elvyfnuekf3w",
+        "meaning":"đoạn văn, đoạn văn (của một bài báo); khoảng thời gian; phần (của một khoảng cách)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"5hzy8evajdmu5ychrjk8",
+        "createdDate":"2021-03-06T13:19:52.573Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.573Z"
+    },
+    {
+        "id":"58o75xmta0aipbjh7axq",
+        "meaning":"rèn luyện thân thể; tập thể dục",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"rlwksm4ivzpe954cze8j",
+        "createdDate":"2021-03-06T13:19:52.574Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.574Z"
+    },
+    {
+        "id":"sapb8zt9gzckuydmnzcv",
+        "meaning":"(đẹp,...) làm sao",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"6zc6uvk8zbkp0h8c4x0j",
+        "createdDate":"2021-03-06T13:19:52.576Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.576Z"
+    },
+    {
+        "id":"rek5v3c2t3g2ukjc5i1d",
+        "meaning":"đói bụng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"exvovdh8cvguqvpirm6j",
+        "createdDate":"2021-03-06T13:19:52.577Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.577Z"
+    },
+    {
+        "id":"itgzeyld4vh19dhpak3i",
+        "meaning":"tai",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"addbulv4yhxs4ugd784z",
+        "createdDate":"2021-03-06T13:19:52.579Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.579Z"
+    },
+    {
+        "id":"ekx6i73c9dxma9rbey7p",
+        "meaning":"gửi",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"3xsc2k0tgch239bxwh52",
+        "createdDate":"2021-03-06T13:19:52.580Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.580Z"
+    },
+    {
+        "id":"f0xxojn5ey4oqehjzpbc",
+        "meaning":"bị sốt",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"6r3khw2luj4heat5yk0c",
+        "createdDate":"2021-03-06T13:19:52.582Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.582Z"
+    },
+    {
+        "id":"jwfjr5zuk8bwuzqwdalg",
+        "meaning":"(nhận) thấy; tìm ra; khám phá",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"t53g0fh3drgcpzpzt4zi",
+        "createdDate":"2021-03-06T13:19:52.584Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.584Z"
+    },
+    {
+        "id":"j8nxi9pub20rhw040guf",
+        "meaning":"thuận tiện",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"p59odbeet4g9fny2dyuv",
+        "createdDate":"2021-03-06T13:19:52.585Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.585Z"
+    },
+    {
+        "id":"835nda8yfey5tg9bcsdr",
+        "meaning":"đặt; để (vật gì ở đâu đó)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"f1ogix5y8m6id65l5dhe",
+        "createdDate":"2021-03-06T13:19:52.586Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.586Z"
+    },
+    {
+        "id":"8sl6cvvhh4779n43kh4o",
+        "meaning":"yên tâm",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"8ldycb03y65pmvvt4mzi",
+        "createdDate":"2021-03-06T13:19:52.588Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.588Z"
+    },
+    {
+        "id":"rctvot8gsorlo41m5s0j",
+        "meaning":"phút",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"kp1ya908naw029nmqsuv",
+        "createdDate":"2021-03-06T13:19:52.589Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.589Z"
+    },
+    {
+        "id":"e7z79xh4drljp4rll6d6",
+        "meaning":"điểm số",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"kp1ya908naw029nmqsuv",
+        "createdDate":"2021-03-06T13:19:52.591Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.591Z"
+    },
+    {
+        "id":"x3z20k32togr20dkqd3y",
+        "meaning":"chia; tách ra; tách rời",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"kp1ya908naw029nmqsuv",
+        "createdDate":"2021-03-06T13:19:52.592Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.592Z"
+    },
+    {
+        "id":"8trphqzrqeoeu5hrf0l5",
+        "meaning":"gần; lân cận; sự gần gũi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"r4yz7qehyy9j2y1ugq20",
+        "createdDate":"2021-03-06T13:19:52.593Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.593Z"
+    },
+    {
+        "id":"41kycdcjp3q3y0t6ykwx",
+        "meaning":"ôn tập; kiểm duyệt; xem lại",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"8irwu5xyoq172zivoxtq",
+        "createdDate":"2021-03-06T13:19:52.595Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.595Z"
+    },
+    {
+        "id":"6r7fxfb01z4m65mlmpij",
+        "meaning":"dọn dẹp; giặt",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"n4zm63yghllnqdtglinr",
+        "createdDate":"2021-03-06T13:19:52.596Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.596Z"
+    },
+    {
+        "id":"hryqfikbah1sc7n6h7zm",
+        "meaning":"bị cảm lạnh",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"mfw1dn9kcoox03h9ycff",
+        "createdDate":"2021-03-06T13:19:52.598Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.598Z"
+    },
+    {
+        "id":"lgs8ok9fbatg4wkg89rc",
+        "meaning":"yêu thích; quan tâm",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ra4dxc0vmiy4k415ft4u",
+        "createdDate":"2021-03-06T13:19:52.599Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.599Z"
+    },
+    {
+        "id":"s5efe5wbzrowlvigdod8",
+        "meaning":"lúc nãy; vừa rồi",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"bleg34q28jjpgdky99so",
+        "createdDate":"2021-03-06T13:19:52.601Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.601Z"
+    },
+    {
+        "id":"dachtiinnjsnyisqbcey",
+        "meaning":"cao",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"2bpvst4jlszlivcuqhql",
+        "createdDate":"2021-03-06T13:19:52.602Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.602Z"
+    },
+    {
+        "id":"pig52g0p38tt70cgq7on",
+        "meaning":"trên cơ sở; dựa theo; dựa trên",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"ww58xonak35x2wkhnpm7",
+        "createdDate":"2021-03-06T13:19:52.604Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.604Z"
+    },
+    {
+        "id":"dxg2e7vf0x4dxc0mbz7n",
+        "meaning":"nền tảng; cơ sở",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ww58xonak35x2wkhnpm7",
+        "createdDate":"2021-03-06T13:19:52.605Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.605Z"
+    },
+    {
+        "id":"9ics2d98lig6q3mptxeh",
+        "meaning":"theo sau; đi theo",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"q6uffx8s1zaw5srxk7vk",
+        "createdDate":"2021-03-06T13:19:52.606Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.606Z"
+    },
+    {
+        "id":"gulzxy85skgqt8np02zk",
+        "meaning":"với",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"q6uffx8s1zaw5srxk7vk",
+        "createdDate":"2021-03-06T13:19:52.608Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.608Z"
+    },
+    {
+        "id":"ug3xkjqcghtrz2wwotz4",
+        "meaning":"(nhiều, lớn,...) hơn, thêm",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"rkrqc500gt9dh4j60y4m",
+        "createdDate":"2021-03-06T13:19:52.610Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.610Z"
+    },
+    {
+        "id":"6yqlmo914bds3oy7iqf5",
+        "meaning":"ký lô (đơn vị)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"7tzxu5wog466ruyd7k9p",
+        "createdDate":"2021-03-06T13:19:52.611Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.611Z"
+    },
+    {
+        "id":"dkqhuj6puqx28iz2op7p",
+        "meaning":"công viên",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"5875ffqphr6ftcrln7eg",
+        "createdDate":"2021-03-06T13:19:52.612Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.612Z"
+    },
+    {
+        "id":"k5ex1u6k4b4srlzdy6yb",
+        "meaning":"câu chuyện; chuyện",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"0j3lc2e7nmbnngu9thzv",
+        "createdDate":"2021-03-06T13:19:52.614Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.614Z"
+    },
+    {
+        "id":"tt12g9n22ecr8m4x3gse",
+        "meaning":"có gió",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"an9m1p7i5g6n6x1war3l",
+        "createdDate":"2021-03-06T13:19:52.615Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.615Z"
+    },
+    {
+        "id":"rnz23xwg4zfck0xunha6",
+        "meaning":"đóng; tắt",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"okys4rkoatwpxyj89sxq",
+        "createdDate":"2021-03-06T13:19:52.617Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.617Z"
+    },
+    {
+        "id":"23mb8ub3h0tup3r1gij7",
+        "meaning":"quan hệ; mối quan hệ; liên quan",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"0o4tj79n9wwco4ym8xhu",
+        "createdDate":"2021-03-06T13:19:52.619Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.619Z"
+    },
+    {
+        "id":"3go1fuvoln2h5eq890fz",
+        "meaning":"chăm sóc cho; quan tâm đến",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"5ytaqsn4bq37n3fqkx6x",
+        "createdDate":"2021-03-06T13:19:52.621Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.621Z"
+    },
+    {
+        "id":"vb2lth37qtdr5m8ncxfs",
+        "meaning":"quan tâm",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"5ytaqsn4bq37n3fqkx6x",
+        "createdDate":"2021-03-06T13:19:52.623Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.623Z"
+    },
+    {
+        "id":"fgwve0p2q3alkhqxrry3",
+        "meaning":"về (thứ gì đó)",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"c6dxzn0pwjmdh7f7kg4a",
+        "createdDate":"2021-03-06T13:19:52.630Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.630Z"
+    },
+    {
+        "id":"ivdhdw7it4i07ykaf0d5",
+        "meaning":"quốc gia",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"hbrputzxyw7pzrnuykpu",
+        "createdDate":"2021-03-06T13:19:52.631Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.631Z"
+    },
+    {
+        "id":"8n0i0ux2bvf4lbtzwj3j",
+        "meaning":"sống sót; vượt qua",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"dl14tci62jnylnsuhj5d",
+        "createdDate":"2021-03-06T13:19:52.633Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.633Z"
+    },
+    {
+        "id":"s3nltpb7mcgnz6i8wkrr",
+        "meaning":"dành thời gian; thời gian trôi",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"dl14tci62jnylnsuhj5d",
+        "createdDate":"2021-03-06T13:19:52.634Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.634Z"
+    },
+    {
+        "id":"vlhlrzajqsbpqpetzj74",
+        "meaning":"quá khứ",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"lzbxbkkdzycl2fwib8zc",
+        "createdDate":"2021-03-06T13:19:52.636Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.636Z"
+    },
+    {
+        "id":"bq8m3uy0jjwd49mj4dt2",
+        "meaning":"vẫn; tất cả đều giống nhau",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"7yplx8zrrudd0myj9wyb",
+        "createdDate":"2021-03-06T13:19:52.637Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.637Z"
+    },
+    {
+        "id":"hmhza8vnrizofm0a20bn",
+        "meaning":"nên",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"7yplx8zrrudd0myj9wyb",
+        "createdDate":"2021-03-06T13:19:52.639Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.639Z"
+    },
+    {
+        "id":"5ykl19v23cfwwvuhrogm",
+        "meaning":"hoặc; hay",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"7yplx8zrrudd0myj9wyb",
+        "createdDate":"2021-03-06T13:19:52.640Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.640Z"
+    },
+    {
+        "id":"logb2agvso0izernhxob",
+        "meaning":"sợ; hoảng sợ",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"tfd9f02y5ndhzljj8p6q",
+        "createdDate":"2021-03-06T13:19:52.641Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.641Z"
+    },
+    {
+        "id":"ceo55h16682ek2s7pb9z",
+        "meaning":"chuyến bay; chuyến bay đã có lịch trình",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"nj5uor06yyk3dwelhlij",
+        "createdDate":"2021-03-06T13:19:52.643Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.643Z"
+    },
+    {
+        "id":"aijqbbj2rixa67b8ztif",
+        "meaning":"bảng đen",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"2yn0achwnyjyxen5l4wd",
+        "createdDate":"2021-03-06T13:19:52.645Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.645Z"
+    },
+    {
+        "id":"6fe9m3y3hijjrqzvkub4",
+        "meaning":"một lát sau, sau đó",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"96rxe0lrhicjp0h4a4un",
+        "createdDate":"2021-03-06T13:19:52.646Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.646Z"
+    },
+    {
+        "id":"p1tzwygl03mov5wgh0kb",
+        "meaning":"hộ chiếu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"q1eebramrlvvr5ccizzq",
+        "createdDate":"2021-03-06T13:19:52.648Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.648Z"
+    },
+    {
+        "id":"xroafw2stjxfq87k5se3",
+        "meaning":"tiêu xài (tiền)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"j5w6qobxx5db2dnebpez",
+        "createdDate":"2021-03-06T13:19:52.649Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.649Z"
+    },
+    {
+        "id":"y4gisqxbpsuhpzkwq1zx",
+        "meaning":"hoa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"j5w6qobxx5db2dnebpez",
+        "createdDate":"2021-03-06T13:19:52.651Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.651Z"
+    },
+    {
+        "id":"rodwcpb9hn82o8ivaj4f",
+        "meaning":"vẽ; tô",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"istglkak28y59d0ysxe0",
+        "createdDate":"2021-03-06T13:19:52.652Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.652Z"
+    },
+    {
+        "id":"vf8e2ny52byuu7942u8h",
+        "meaning":"hình ảnh; bức vẽ; tranh",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"istglkak28y59d0ysxe0",
+        "createdDate":"2021-03-06T13:19:52.654Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.654Z"
+    },
+    {
+        "id":"ate3e111g4gzhymh2s5i",
+        "meaning":"hư (đồ ăn)",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"as1bpgqv1gl9py0g1qie",
+        "createdDate":"2021-03-06T13:19:52.655Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.655Z"
+    },
+    {
+        "id":"uy7pf8du8s184qw718mq",
+        "meaning":"trả",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"tusr8qmgr6kmbp539e18",
+        "createdDate":"2021-03-06T13:19:52.657Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.657Z"
+    },
+    {
+        "id":"dstvgkln9fcpm6k1wi30",
+        "meaning":"môi trường; tình trạng; hoàn cảnh",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"j13vye4xsswsdu1j3seg",
+        "createdDate":"2021-03-06T13:19:52.658Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.658Z"
+    },
+    {
+        "id":"mheknp9055avxh4vreql",
+        "meaning":"thay (quần áo)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"yb2r3yo124ppkmk263aa",
+        "createdDate":"2021-03-06T13:19:52.660Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.660Z"
+    },
+    {
+        "id":"wardxi0bzhpp39qs6e9l",
+        "meaning":"đổi tiền",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"yb2r3yo124ppkmk263aa",
+        "createdDate":"2021-03-06T13:19:52.661Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.661Z"
+    },
+    {
+        "id":"kb8byasc27hvtsihfr2a",
+        "meaning":"sông Hoàng Hà",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"7gd1mex61a69b6592i1o",
+        "createdDate":"2021-03-06T13:19:52.663Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.663Z"
+    },
+    {
+        "id":"exukon2l31shms6ejzj7",
+        "meaning":"cuộc họp",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"rmyucebcj5f4ao9ssj06",
+        "createdDate":"2021-03-06T13:19:52.665Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.665Z"
+    },
+    {
+        "id":"4lsedoyetjm49yrwx9lp",
+        "meaning":"hoặc",
+        "wordTypeId":"8tmz3eeqb3y2qw5jei0d",
+        "wordId":"zrw6of69hu2k00yca3xa",
+        "createdDate":"2021-03-06T13:19:52.666Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.666Z"
+    },
+    {
+        "id":"j80e117i64e6jpvkxf4r",
+        "meaning":"gần; suýt",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"nchzjfcicgn9kwcngyzd",
+        "createdDate":"2021-03-06T13:19:52.667Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.667Z"
+    },
+    {
+        "id":"6o466a3g0cm63jw1jnmt",
+        "meaning":"cơ hội; dịp tốt",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"g9kyogb4a2gt3f6ll50c",
+        "createdDate":"2021-03-06T13:19:52.669Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.669Z"
+    },
+    {
+        "id":"20zpqm54xkjoifarrik9",
+        "meaning":"vô cùng; cực kỳ",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"rggrld9i4kpoy0fdv86u",
+        "createdDate":"2021-03-06T13:19:52.670Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.670Z"
+    },
+    {
+        "id":"e09ckgwbwi0hdnehr4k2",
+        "meaning":"nhớ; thuộc lòng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"pld72li385mg8egkmtas",
+        "createdDate":"2021-03-06T13:19:52.672Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.672Z"
+    },
+    {
+        "id":"m5vx98axux5q36wwtqo9",
+        "meaning":"mùa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"5lq0phyjsiphiod1c8zt",
+        "createdDate":"2021-03-06T13:19:52.673Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.673Z"
+    },
+    {
+        "id":"r5i7tkeu6s7og7xo1tb6",
+        "meaning":"quan sát; kiểm tra; xem xét",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"8d7u6smjprmkl40ihy6x",
+        "createdDate":"2021-03-06T13:19:52.675Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.675Z"
+    },
+    {
+        "id":"mgtvd3hsf7mip29fxexz",
+        "meaning":"dễ; đơn giản",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"c1z3nlvd6b9im26uwcor",
+        "createdDate":"2021-03-06T13:19:52.676Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.676Z"
+    },
+    {
+        "id":"yza9oe4bsr946kw4fi63",
+        "meaning":"gặp gỡ",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"4x5iqs3wxd7uyht5292t",
+        "createdDate":"2021-03-06T13:19:52.678Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.678Z"
+    },
+    {
+        "id":"g9cmxd4bppz9dtwlcq9r",
+        "meaning":"khỏe mạnh",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"dp5gf9y2xqz70ejdy8ez",
+        "createdDate":"2021-03-06T13:19:52.679Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.679Z"
+    },
+    {
+        "id":"n7861mzirwrd7j79azz3",
+        "meaning":"nói; kể",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"wj9adqx530lpsjmqbaym",
+        "createdDate":"2021-03-06T13:19:52.681Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.681Z"
+    },
+    {
+        "id":"hataiclu5wug5q6q0zlx",
+        "meaning":"hạ cánh (máy bay)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"1ykycgy2xu1jtis7zj2i",
+        "createdDate":"2021-03-06T13:19:52.682Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.682Z"
+    },
+    {
+        "id":"d2n6t6xwzerxh87t953h",
+        "meaning":"phần mười của một nhân dân tệ (tiền)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"jm3i1bteor1lfvuzpgng",
+        "createdDate":"2021-03-06T13:19:52.684Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.684Z"
+    },
+    {
+        "id":"2ulo8mf850eyzomi700v",
+        "meaning":"chân",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"f3suz5rcv2zvdb46m2p3",
+        "createdDate":"2021-03-06T13:19:52.685Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.685Z"
+    },
+    {
+        "id":"addbuoeugjwc8don4fm8",
+        "meaning":"dạy",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"pjuumlvvhj5usy8hg8ib",
+        "createdDate":"2021-03-06T13:19:52.687Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.687Z"
+    },
+    {
+        "id":"dwrlghy91g39mkti8cxa",
+        "meaning":"đón (ai)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"oc9x6yfnqslo4bm54smy",
+        "createdDate":"2021-03-06T13:19:52.688Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.688Z"
+    },
+    {
+        "id":"z8lsilvrswn3m6xupj8v",
+        "meaning":"tiếp tục",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"oc9x6yfnqslo4bm54smy",
+        "createdDate":"2021-03-06T13:19:52.689Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.689Z"
+    },
+    {
+        "id":"dxufu79pezs499y30y55",
+        "meaning":"đường phố",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ij1lpbds9vga6kfl0661",
+        "createdDate":"2021-03-06T13:19:52.691Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.691Z"
+    },
+    {
+        "id":"vihpf1u47a4nr39uepa2",
+        "meaning":"màn thể hiện; buổi biểu diễn; chương trình",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ch0rxrp5oevu9aj2xm2r",
+        "createdDate":"2021-03-06T13:19:52.692Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.692Z"
+    },
+    {
+        "id":"1ubk27fkupyux9s4kdev",
+        "meaning":"ngày lễ; lễ hội",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"akojl6lrvyhojmoj4v9r",
+        "createdDate":"2021-03-06T13:19:52.694Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.694Z"
+    },
+    {
+        "id":"w6t0xsyxww95yey0pv49",
+        "meaning":"kết hôn",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"o1z7gxwna9vey0tph81d",
+        "createdDate":"2021-03-06T13:19:52.695Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.695Z"
+    },
+    {
+        "id":"i601lxadlniqz8s27so4",
+        "meaning":"dừng lại; hoàn thành; kết thúc; chấm dứt",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"fefsdepm9bcasihv6r4c",
+        "createdDate":"2021-03-06T13:19:52.697Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.697Z"
+    },
+    {
+        "id":"m7d30lka03hny0hayp2q",
+        "meaning":"giải quyết (một vấn đề)",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"2q4t1wb36fk8fxlwfa65",
+        "createdDate":"2021-03-06T13:19:52.698Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.698Z"
+    },
+    {
+        "id":"u4qwrj5gv0bn76havgdp",
+        "meaning":"vay; mượn",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"j16ito7y0poaaratxw7b",
+        "createdDate":"2021-03-06T13:19:52.700Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.700Z"
+    },
+    {
+        "id":"9q5w51ikliylc3djlhlh",
+        "meaning":"thường thường",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"8bx2vrjl1ppqa1wovpsi",
+        "createdDate":"2021-03-06T13:19:52.701Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.701Z"
+    },
+    {
+        "id":"nvs0bg8aqc9vcr4s1kny",
+        "meaning":"đi qua",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"rjhyxbqr4l5qv8rk62yz",
+        "createdDate":"2021-03-06T13:19:52.702Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.702Z"
+    },
+    {
+        "id":"lfc6nceoowz3q12rllqr",
+        "meaning":"sau khi",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"rjhyxbqr4l5qv8rk62yz",
+        "createdDate":"2021-03-06T13:19:52.704Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.704Z"
+    },
+    {
+        "id":"nykzw0cumy60icnqopvs",
+        "meaning":"người quản lý; giám đốc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"urwlsd3ujfxk56hsrbqt",
+        "createdDate":"2021-03-06T13:19:52.706Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.706Z"
+    },
+    {
+        "id":"510j366gx4ope46gccvt",
+        "meaning":"lâu; trong một khoảng thời gian dài",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"52dzp8m4l7ip3dvr7xan",
+        "createdDate":"2021-03-06T13:19:52.707Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.707Z"
+    },
+    {
+        "id":"mi78fdzob6cmwldbf50v",
+        "meaning":"cũ; mòn",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"maq4kfljq7r7hztd3l4m",
+        "createdDate":"2021-03-06T13:19:52.709Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.709Z"
+    },
+    {
+        "id":"pjoqtn9k80c469ip8t2s",
+        "meaning":"câu văn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"gn9glagpv08lwhc7q28v",
+        "createdDate":"2021-03-06T13:19:52.710Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.710Z"
+    },
+    {
+        "id":"ez66do4lfm7ididmwxu3",
+        "meaning":"quyết định; mục đích",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"v4wb9xhj5osynrsb9qzr",
+        "createdDate":"2021-03-06T13:19:52.711Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.711Z"
+    },
+    {
+        "id":"44q8mg2tep09uwhj6txk",
+        "meaning":"phán quyết; sự quyết tâm; sự phân giải",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"v4wb9xhj5osynrsb9qzr",
+        "createdDate":"2021-03-06T13:19:52.713Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.713Z"
+    },
+    {
+        "id":"zg4fs48bytbx03uiyknr",
+        "meaning":"dễ thương; đáng yêu; dễ mến",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"nnxirozowrkwcoos4az7",
+        "createdDate":"2021-03-06T13:19:52.714Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.714Z"
+    },
+    {
+        "id":"pwp1izj9dnrjhkuqs0o3",
+        "meaning":"khát (nước)",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"x8d6tywotkrfo86z9f2l",
+        "createdDate":"2021-03-06T13:19:52.716Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.716Z"
+    },
+    {
+        "id":"pgr4wi1vlm6m62fg2pja",
+        "meaning":"15 phút",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"8681ogoi6m2ty42zt5dl",
+        "createdDate":"2021-03-06T13:19:52.717Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.717Z"
+    },
+    {
+        "id":"fqqb66grp9ua1nbwgol4",
+        "meaning":"khách mời",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"evfoufof0gkvdy1gcrde",
+        "createdDate":"2021-03-06T13:19:52.719Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.719Z"
+    },
+    {
+        "id":"52ybfuvgk2i4p61tasmu",
+        "meaning":"máy điều hòa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"qxe3ve8f170vdu2i52mx",
+        "createdDate":"2021-03-06T13:19:52.720Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.720Z"
+    },
+    {
+        "id":"oe7ooa86lcg63020jx42",
+        "meaning":"dùng cho người và một số động vật",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"bpsk1z1tmfbg1d6gcl98",
+        "createdDate":"2021-03-06T13:19:52.722Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.722Z"
+    },
+    {
+        "id":"8zle4ccm8pceat1e2dlu",
+        "meaning":"khóc",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"1i83klzts9islj5pdy24",
+        "createdDate":"2021-03-06T13:19:52.723Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.723Z"
+    },
+    {
+        "id":"hsmu69sfzd49bd6v8h24",
+        "meaning":"quần; quần dài",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"3irowvu7edj6h5gk937n",
+        "createdDate":"2021-03-06T13:19:52.725Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.725Z"
+    },
+    {
+        "id":"lcw5vq1dzvqhhxl6ibqy",
+        "meaning":"đũa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"39px3n34zm9bod7bfel9",
+        "createdDate":"2021-03-06T13:19:52.726Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.726Z"
+    },
+    {
+        "id":"giogwuvlw2doj95ew5wh",
+        "meaning":"màu xanh nước biển",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"wuk38b4kqwjq0b47qz1a",
+        "createdDate":"2021-03-06T13:19:52.728Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.728Z"
+    },
+    {
+        "id":"h7alwimcof28rf0ilttl",
+        "meaning":"lớn tuổi; già",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"gjqap2ttle4q5wgy2csk",
+        "createdDate":"2021-03-06T13:19:52.730Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.730Z"
+    },
+    {
+        "id":"cwlpm52hnjdt5b2zcts5",
+        "meaning":"rời khỏi; đi xa; một phần của; được tách ra từ",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"46loxlx1haq36uevv2ie",
+        "createdDate":"2021-03-06T13:19:52.732Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.732Z"
+    },
+    {
+        "id":"z1pgb5t353eldsl0k6mr",
+        "meaning":"quà tặng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"6atchysv0lkzv0ufrkp2",
+        "createdDate":"2021-03-06T13:19:52.734Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.734Z"
+    },
+    {
+        "id":"cvsd8yl2bt12fpeumk52",
+        "meaning":"lịch sử",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"a6dpjpct43syrddmbrl9",
+        "createdDate":"2021-03-06T13:19:52.736Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.736Z"
+    },
+    {
+        "id":"5lkamq80xvaeds9bgwt7",
+        "meaning":"khuôn mặt",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ozsf7rf5ulatdfgb9a18",
+        "createdDate":"2021-03-06T13:19:52.738Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.738Z"
+    },
+    {
+        "id":"k4r7tevlzud83q3sj80n",
+        "meaning":"thực hành",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ykt47ndauvxum53fv675",
+        "createdDate":"2021-03-06T13:19:52.739Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.739Z"
+    },
+    {
+        "id":"xyayrjkbin75y5xl0rp2",
+        "meaning":"bài tập",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ykt47ndauvxum53fv675",
+        "createdDate":"2021-03-06T13:19:52.741Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.741Z"
+    },
+    {
+        "id":"nbegf6xs0xpfhyl9bk0h",
+        "meaning":"dùng cho ô tô",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"ul3jl3kij7gebcigc1ip",
+        "createdDate":"2021-03-06T13:19:52.742Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.742Z"
+    },
+    {
+        "id":"1f78tn3xpa1bzyigwf76",
+        "meaning":"tán gẫu; trò chuyện",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"eakvaikpex5vgol1ixrv",
+        "createdDate":"2021-03-06T13:19:52.744Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.744Z"
+    },
+    {
+        "id":"wd4mxkjwtd7xjkluq1tt",
+        "meaning":"biết; hiểu biết; hiểu",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"cse8ezfqespi26bohjei",
+        "createdDate":"2021-03-06T13:19:52.747Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.747Z"
+    },
+    {
+        "id":"3h11vq9l9drluuqegwxj",
+        "meaning":"hàng xóm",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"wwf20mwbub0q82tny75h",
+        "createdDate":"2021-03-06T13:19:52.748Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.748Z"
+    },
+    {
+        "id":"ls6qhr5sed5i4wqo28nk",
+        "meaning":"du học",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"vvaewasnnet3fryuo58q",
+        "createdDate":"2021-03-06T13:19:52.750Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.750Z"
+    },
+    {
+        "id":"pddk1sykes5ouqjw1arf",
+        "meaning":"tầng trệt",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"kvbimtd050yk4zqr75l4",
+        "createdDate":"2021-03-06T13:19:52.751Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.751Z"
+    },
+    {
+        "id":"7g0zornagop10a1hhhlg",
+        "meaning":"màu xanh lá",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"2shbwdgxfh9oc38ct9l1",
+        "createdDate":"2021-03-06T13:19:52.753Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.753Z"
+    },
+    {
+        "id":"x312xkz0k1hj27iqp7ib",
+        "meaning":"con ngựa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"54pxx9gzlp5srnyjq6t5",
+        "createdDate":"2021-03-06T13:19:52.755Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.755Z"
+    },
+    {
+        "id":"bo4a5t5vxxz3apkjvkfz",
+        "meaning":"ngay; một lần",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"2fxjumbi5udavec1dngs",
+        "createdDate":"2021-03-06T13:19:52.756Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.756Z"
+    },
+    {
+        "id":"rrnd0440qc2sa5uvs8xk",
+        "meaning":"thỏa mãn; hài lòng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"o4nue6tfjtac3rqtrhtj",
+        "createdDate":"2021-03-06T13:19:52.758Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.758Z"
+    },
+    {
+        "id":"vml49p0ew87fjtbly49i",
+        "meaning":"cái mũ; mũ lưỡi trai",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"q7lo9ox1px7ts4nd8zj6",
+        "createdDate":"2021-03-06T13:19:52.759Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.759Z"
+    },
+    {
+        "id":"okpb18v46wwos5jvu9pj",
+        "meaning":"mét (đơn vị)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"1fd1s7nzj0pa4g1bzkgx",
+        "createdDate":"2021-03-06T13:19:52.761Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.761Z"
+    },
+    {
+        "id":"s1xulyhjnxn4gndk5mgi",
+        "meaning":"bánh mì",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"qi8eqqnr5sjj5o1eyydp",
+        "createdDate":"2021-03-06T13:19:52.763Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.763Z"
+    },
+    {
+        "id":"lb5gb613sxo3q34kwrdn",
+        "meaning":"mì",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"d3oq8fqr83e37kawg0ht",
+        "createdDate":"2021-03-06T13:19:52.765Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.765Z"
+    },
+    {
+        "id":"r8j43f7dumfoep4rdal9",
+        "meaning":"biết; hiểu",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ur0ufzga1ryjr5tixqtn",
+        "createdDate":"2021-03-06T13:19:52.767Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.767Z"
+    },
+    {
+        "id":"56mh0wt339guwxfublyb",
+        "meaning":"rõ ràng; thông thoáng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"ur0ufzga1ryjr5tixqtn",
+        "createdDate":"2021-03-06T13:19:52.768Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.768Z"
+    },
+    {
+        "id":"kibcd2oh50vjinb1dpuf",
+        "meaning":"giữ; lấy; cầm",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"giz6daznpwot8t9kmm88",
+        "createdDate":"2021-03-06T13:19:52.769Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.769Z"
+    },
+    {
+        "id":"rniwqudsd15ve3nx79mw",
+        "meaning":"bà",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"jwib5i14d6kqhojokk72",
+        "createdDate":"2021-03-06T13:19:52.771Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.771Z"
+    },
+    {
+        "id":"9lzm9jneqguxqcjvk18i",
+        "meaning":"phía nam",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"r1zu0d4mvd6lwm3le0e0",
+        "createdDate":"2021-03-06T13:19:52.772Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.772Z"
+    },
+    {
+        "id":"v0e3o374ul9wfsre9cyo",
+        "meaning":"khó",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"awjdbapv8kaqzyemgg8f",
+        "createdDate":"2021-03-06T13:19:52.774Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.774Z"
+    },
+    {
+        "id":"k412npcvmpm1ug7kuuqn",
+        "meaning":"buồn",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"t4ahdixn7zdq3unyk86e",
+        "createdDate":"2021-03-06T13:19:52.775Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.775Z"
+    },
+    {
+        "id":"b73kp4tvgsmexu8u51ie",
+        "meaning":"lớp (ở trường tiểu học hoặc trung học cơ sở); năm (ở trường cao đẳng hoặc đại học)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"cbxaqfj91ty94tgy7rga",
+        "createdDate":"2021-03-06T13:19:52.776Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.776Z"
+    },
+    {
+        "id":"vfv3s29e0osltd3nvckc",
+        "meaning":"trẻ",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"27vqt1ww7mfuo17lurhf",
+        "createdDate":"2021-03-06T13:19:52.778Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.778Z"
+    },
+    {
+        "id":"4thtrtxbn32w2ng0669w",
+        "meaning":"(loài) chim",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"6ajmmt9y5lkrbwlejojc",
+        "createdDate":"2021-03-06T13:19:52.780Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.780Z"
+    },
+    {
+        "id":"w33oh0nf0451hui6gvi4",
+        "meaning":"làm việc chăm chỉ; siêng năng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"1usyu0ljh3v1m824f2rd",
+        "createdDate":"2021-03-06T13:19:52.782Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.782Z"
+    },
+    {
+        "id":"kovo32sghmldsofmhyyx",
+        "meaning":"leo núi",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"xnh1l7c0c4tsfy5v3tbx",
+        "createdDate":"2021-03-06T13:19:52.784Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.784Z"
+    },
+    {
+        "id":"iq8791rkeztl1inftqzx",
+        "meaning":"cái mâm; đĩa; món ăn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"fw13w8otl9hvqx235mbh",
+        "createdDate":"2021-03-06T13:19:52.786Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.786Z"
+    },
+    {
+        "id":"3kxmmpt3x7pbrm4zpy4b",
+        "meaning":"mập",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"q8663e60o8qdd6ypzu5a",
+        "createdDate":"2021-03-06T13:19:52.788Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.788Z"
+    },
+    {
+        "id":"tg7o8kimfsj7wm30q2m6",
+        "meaning":"tăng cân",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"q8663e60o8qdd6ypzu5a",
+        "createdDate":"2021-03-06T13:19:52.790Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.790Z"
+    },
+    {
+        "id":"n145v1dkbegymi6uzeoc",
+        "meaning":"giày da",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"zqlo6odx8spsou2utn3n",
+        "createdDate":"2021-03-06T13:19:52.792Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.792Z"
+    },
+    {
+        "id":"dq3u6p1a4mizvgfwpwqh",
+        "meaning":"bia",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"v0tows1u3lptac8xssuj",
+        "createdDate":"2021-03-06T13:19:52.794Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.794Z"
+    },
+    {
+        "id":"kp54x7bvrnz7rfrb3bj2",
+        "meaning":"Tiếng phổ thông",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"h6h0qabmuf6lmnlkmlh2",
+        "createdDate":"2021-03-06T13:19:52.796Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.796Z"
+    },
+    {
+        "id":"cc4nadv8pg0ncz2js39l",
+        "meaning":"thực sự; trong thực tế; như một vấn đề của thực tế",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"kyeitl0aa4bpv1eq1z7q",
+        "createdDate":"2021-03-06T13:19:52.798Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.798Z"
+    },
+    {
+        "id":"uo4zm6n0kpqg2bpwl1nb",
+        "meaning":"khác",
+        "wordTypeId":"iss2po1tch1ixacftmu0",
+        "wordId":"9cbkoytvl03y2x0mr135",
+        "createdDate":"2021-03-06T13:19:52.799Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.799Z"
+    },
+    {
+        "id":"myx8bpmntzq1fhjyhrja",
+        "meaning":"kỳ quặc; người kỳ lạ; lạ lùng; bất thường; kỳ lạ",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"s8kbdqzlkqj4kf5c72ng",
+        "createdDate":"2021-03-06T13:19:52.801Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.801Z"
+    },
+    {
+        "id":"e3elg1icpgm9v09g7l2n",
+        "meaning":"cưỡi/lái (một con vật hoặc xe đạp); ngồi trên lưng của",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ofa760ni4nzmlf3r22xj",
+        "createdDate":"2021-03-06T13:19:52.803Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.803Z"
+    },
+    {
+        "id":"78u3j6zfvcls2aueaj6w",
+        "meaning":"(của máy bay) cất cánh; nhấc ra; phóng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"q2g8a1fxd0ahmqj3nx4r",
+        "createdDate":"2021-03-06T13:19:52.804Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.804Z"
+    },
+    {
+        "id":"vzy8lxhkshcbtlueqkjj",
+        "meaning":"rõ ràng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"pbjc60337dmfug57vjvd",
+        "createdDate":"2021-03-06T13:19:52.806Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.806Z"
+    },
+    {
+        "id":"ips9ja289073x74gvt5d",
+        "meaning":"được rõ ràng về; hiểu biết",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"pbjc60337dmfug57vjvd",
+        "createdDate":"2021-03-06T13:19:52.807Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.807Z"
+    },
+    {
+        "id":"73fk23v0gsd2tqp634mo",
+        "meaning":"mùa thu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"atpcs0j2mkfku45f7j1z",
+        "createdDate":"2021-03-06T13:19:52.809Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.809Z"
+    },
+    {
+        "id":"vmwn8ycfs3jqqhcb71ig",
+        "meaning":"váy",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"qlrwbcqxzpmrhkgl89jl",
+        "createdDate":"2021-03-06T13:19:52.810Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.810Z"
+    },
+    {
+        "id":"x5k1plxoo80pprfza84s",
+        "meaning":"sau đó",
+        "wordTypeId":"8tmz3eeqb3y2qw5jei0d",
+        "wordId":"koniumltrw4fng061al7",
+        "createdDate":"2021-03-06T13:19:52.813Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.813Z"
+    },
+    {
+        "id":"vuithmjo14orcitmvz9h",
+        "meaning":"nhiệt thành; ấm áp; nhiệt thành",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"xp0ntmbgmu7op21quiy1",
+        "createdDate":"2021-03-06T13:19:52.815Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.815Z"
+    },
+    {
+        "id":"0kcflf4rhbpyxutwga63",
+        "meaning":"nghĩ; xem xét",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"jhge6dfsuztvmxt0dvaj",
+        "createdDate":"2021-03-06T13:19:52.816Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.816Z"
+    },
+    {
+        "id":"z65lmuiljl9a0bi6iyg9",
+        "meaning":"tận tâm; nghiêm túc",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"shaf96hsw3bosipyhrkd",
+        "createdDate":"2021-03-06T13:19:52.818Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.818Z"
+    },
+    {
+        "id":"ir02a9ybi3b7zulos6pw",
+        "meaning":"dễ dàng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"gryops6d4ncv2e554p73",
+        "createdDate":"2021-03-06T13:19:52.819Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.819Z"
+    },
+    {
+        "id":"0kdfdcpk3dgtbz5rk08u",
+        "meaning":"nếu; trong trường hợp; trong trường hợp của; giả sử rằng",
+        "wordTypeId":"8tmz3eeqb3y2qw5jei0d",
+        "wordId":"3fex6oug35f64ealxpug",
+        "createdDate":"2021-03-06T13:19:52.821Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.821Z"
+    },
+    {
+        "id":"f7wyz1ttm6jdsu2uo440",
+        "meaning":"cái dù; cái ô",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"czz8rc4see3w69zqex4d",
+        "createdDate":"2021-03-06T13:19:52.822Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.822Z"
+    },
+    {
+        "id":"x5y5lbhzgao7gkfexu2b",
+        "meaning":"lên mạng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"00piehwntwdaf89iyw9a",
+        "createdDate":"2021-03-06T13:19:52.824Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.824Z"
+    },
+    {
+        "id":"rffvwjvmk75ep00moa1c",
+        "meaning":"xúc phạm; bị tức giận; bị xúc phạm",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"c5gsynsy9csxu7y0nyap",
+        "createdDate":"2021-03-06T13:19:52.825Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.825Z"
+    },
+    {
+        "id":"ebuzmqilcl03sf1fx1fs",
+        "meaning":"âm thanh; tiếng nói",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"hpntw6s8ouv8cb7uy36f",
+        "createdDate":"2021-03-06T13:19:52.827Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.827Z"
+    },
+    {
+        "id":"fwkmwfr368zi6uzetybj",
+        "meaning":"thế giới; trái đất; toàn cầu; vũ trụ",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ofcjqkgsp8aaloii3ptv",
+        "createdDate":"2021-03-06T13:19:52.829Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.829Z"
+    },
+    {
+        "id":"whjxbvfrdadszs9e6ald",
+        "meaning":"thử",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"ruk7nnk2i8a1vi0xlbt8",
+        "createdDate":"2021-03-06T13:19:52.831Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.831Z"
+    },
+    {
+        "id":"s2dcw7yh7yboel0t5osy",
+        "meaning":"gầy; hốc hác; gầy còm",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"iclsug51k1z94nzffn48",
+        "createdDate":"2021-03-06T13:19:52.832Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.832Z"
+    },
+    {
+        "id":"g73mjyxk8rt3n4k12tn9",
+        "meaning":"trở nên gầy; sụt cân",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"iclsug51k1z94nzffn48",
+        "createdDate":"2021-03-06T13:19:52.834Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.834Z"
+    },
+    {
+        "id":"0mh9l036h1hqojxx1eky",
+        "meaning":"chú (em trai của ba)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"xcnyp045ausqurcl71s9",
+        "createdDate":"2021-03-06T13:19:52.835Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.835Z"
+    },
+    {
+        "id":"0s0x8ri5gc0hvzss7og4",
+        "meaning":"vừa lòng; thoải mái",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"iiqjh41colj250fofr8b",
+        "createdDate":"2021-03-06T13:19:52.837Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.837Z"
+    },
+    {
+        "id":"zbus2ghxc68aprsykauh",
+        "meaning":"cây cối",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"1rlsyqdkztheafn9fnxt",
+        "createdDate":"2021-03-06T13:19:52.838Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.838Z"
+    },
+    {
+        "id":"9d26dnfviicq1z1nyqhj",
+        "meaning":"toán học",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"cwklj0uuf9t2lwi022ul",
+        "createdDate":"2021-03-06T13:19:52.840Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.840Z"
+    },
+    {
+        "id":"ivxmh3q5dfhnuiwdna1z",
+        "meaning":"đánh răng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"vysczx6izyy9emasimlv",
+        "createdDate":"2021-03-06T13:19:52.841Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.841Z"
+    },
+    {
+        "id":"29efdd9e23eloz1c3jgb",
+        "meaning":"đôi; cặp đôi",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"1mszmznz9vmq0hx0nw4i",
+        "createdDate":"2021-03-06T13:19:52.843Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.843Z"
+    },
+    {
+        "id":"fvxeo072se6z9dpiohff",
+        "meaning":"tiêu chuẩn; trình độ (kỹ năng, khả năng và kiến thức,...)",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"kp4s3hn9gohcqia2mwky",
+        "createdDate":"2021-03-06T13:19:52.845Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.845Z"
+    },
+    {
+        "id":"suhckrkfluk7i53bv6xw",
+        "meaning":"tài xế",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"t66wi0j5t0a4ndxsx7lk",
+        "createdDate":"2021-03-06T13:19:52.848Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.848Z"
+    },
+    {
+        "id":"pony477r0o1cvb8ycqf3",
+        "meaning":"mặt trời",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"kf24zxp6pdfrqjox2d86",
+        "createdDate":"2021-03-06T13:19:52.850Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.850Z"
+    },
+    {
+        "id":"cz6nk43bws698dnvnicp",
+        "meaning":"rất; đặc biệt",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"euw89lq1phrb7rb9w4qo",
+        "createdDate":"2021-03-06T13:19:52.851Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.851Z"
+    },
+    {
+        "id":"k2p71ffjicb72izvkqla",
+        "meaning":"nhức nhối; đau",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"4d0i399my3twa2es3yyz",
+        "createdDate":"2021-03-06T13:19:52.853Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.853Z"
+    },
+    {
+        "id":"2a5cg6mdtepuva0pvvu4",
+        "meaning":"nâng cao; tăng; cải thiện",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"4nfzfez9ds8dt0lklc0x",
+        "createdDate":"2021-03-06T13:19:52.855Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.855Z"
+    },
+    {
+        "id":"fjby1y5xdiqvsfck3z1d",
+        "meaning":"phát triển; tăng; cải thiện",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"4nfzfez9ds8dt0lklc0x",
+        "createdDate":"2021-03-06T13:19:52.856Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.856Z"
+    },
+    {
+        "id":"kukgavjuy2b8oahimimm",
+        "meaning":"các môn thể thao; hoạt động thể thao",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"98je9sxd1gpyrjrb7dwz",
+        "createdDate":"2021-03-06T13:19:52.858Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.858Z"
+    },
+    {
+        "id":"1k8qbqpq1cexqr565lp2",
+        "meaning":"ngọt",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"nkkui333r0ldo10tbx1a",
+        "createdDate":"2021-03-06T13:19:52.860Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.860Z"
+    },
+    {
+        "id":"4fsxlglmo6qhs1o0rm33",
+        "meaning":"được sử dụng cho những thứ dài và mảnh",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"bd7u0x33t8512df6837p",
+        "createdDate":"2021-03-06T13:19:52.861Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.861Z"
+    },
+    {
+        "id":"p2asq6bckbvuwgyzi6kf",
+        "meaning":"đồng nghiệp",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"r3eennlwj8m7c51kdc37",
+        "createdDate":"2021-03-06T13:19:52.863Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.863Z"
+    },
+    {
+        "id":"7qtp8e9fqd22basx2cs0",
+        "meaning":"đồng ý; chấp thuận; đồng ý với; tán thành; gia nhập",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"1s3eg9ggp0qgso912w1z",
+        "createdDate":"2021-03-06T13:19:52.865Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.865Z"
+    },
+    {
+        "id":"5slhqmb49ll4hx3bfry2",
+        "meaning":"tóc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"dammgw3aqu1bari80t9h",
+        "createdDate":"2021-03-06T13:19:52.866Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.866Z"
+    },
+    {
+        "id":"k8lemrkzro6pbib4ro9w",
+        "meaning":"đột nhiên",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"fqmmqgiliwbuyznkpg4h",
+        "createdDate":"2021-03-06T13:19:52.868Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.868Z"
+    },
+    {
+        "id":"w3o8kgt6ye0nt2urda51",
+        "meaning":"đột ngột",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"fqmmqgiliwbuyznkpg4h",
+        "createdDate":"2021-03-06T13:19:52.869Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.869Z"
+    },
+    {
+        "id":"dtob3w1wlcrz6344kjn5",
+        "meaning":"thư viện",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"0g8ysytzupv470707jeo",
+        "createdDate":"2021-03-06T13:19:52.871Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.871Z"
+    },
+    {
+        "id":"m29zim17rm51usd2vm06",
+        "meaning":"chân",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"24zzrox6oxpp7z6qrc7t",
+        "createdDate":"2021-03-06T13:19:52.873Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.873Z"
+    },
+    {
+        "id":"ws17gxq18x0g03b6qas5",
+        "meaning":"đạt được; hoàn thành",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"3tzbt8qtxpc1umxhmmss",
+        "createdDate":"2021-03-06T13:19:52.879Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.879Z"
+    },
+    {
+        "id":"c0rozk2mg9pbn53zwlaa",
+        "meaning":"cái tô; cái bát",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"oi98h9b4l2mgx5c72hs9",
+        "createdDate":"2021-03-06T13:19:52.881Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.881Z"
+    },
+    {
+        "id":"hu75y6oxpx0w3s2ogtac",
+        "meaning":"1 bát (của)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"oi98h9b4l2mgx5c72hs9",
+        "createdDate":"2021-03-06T13:19:52.883Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.883Z"
+    },
+    {
+        "id":"09tu9kdvk02exv05t16j",
+        "meaning":"mười nghìn; 1 vạn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"hzydd3i0ozjshmizti2l",
+        "createdDate":"2021-03-06T13:19:52.884Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.884Z"
+    },
+    {
+        "id":"niwwwatkyl4budqt299a",
+        "meaning":"quên; tẩy xóa; rơi (hoặc mờ dần, trượt) khỏi bộ nhớ; đi ra ngoài tâm trí của một người",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"yyigv20cv72ogslywnub",
+        "createdDate":"2021-03-06T13:19:52.886Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.886Z"
+    },
+    {
+        "id":"edefbo5emi4jm2nv372s",
+        "meaning":"dành cho",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"64ag94lsc988fnjmkp2p",
+        "createdDate":"2021-03-06T13:19:52.887Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.887Z"
+    },
+    {
+        "id":"4f2jyimgnilsjl99nlqi",
+        "meaning":"vì",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"q92tj7p6p6cq5x2ri95y",
+        "createdDate":"2021-03-06T13:19:52.889Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.889Z"
+    },
+    {
+        "id":"tjx0gifdcvtwa39iq8bi",
+        "meaning":"chức vị (được sử dụng cho người)",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"b35zc7psat57nsktywfi",
+        "createdDate":"2021-03-06T13:19:52.890Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.890Z"
+    },
+    {
+        "id":"e26cg3atbb87sfxtsa7f",
+        "meaning":"văn hóa; nền văn minh",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"qxsoumcldad56vzq25om",
+        "createdDate":"2021-03-06T13:19:52.892Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.892Z"
+    },
+    {
+        "id":"97hxx2k5j6l7lw4282li",
+        "meaning":"phía tây",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"r4r93c71wqhmjmncwlfv",
+        "createdDate":"2021-03-06T13:19:52.893Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.893Z"
+    },
+    {
+        "id":"54xy4v8wsv7gv9x3wemm",
+        "meaning":"quen với; được quen với",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"jfaa1qyerd64xjsjqdid",
+        "createdDate":"2021-03-06T13:19:52.895Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.895Z"
+    },
+    {
+        "id":"5e8j961m572mf1ahf0mq",
+        "meaning":"thói quen; tập quán; thực hành thông thường",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"jfaa1qyerd64xjsjqdid",
+        "createdDate":"2021-03-06T13:19:52.897Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.897Z"
+    },
+    {
+        "id":"jn1jgoz6awqb9uhdpurc",
+        "meaning":"phòng vệ sinh; phòng tắm",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"mo2rzij6qvnhqo1pyelh",
+        "createdDate":"2021-03-06T13:19:52.899Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.899Z"
+    },
+    {
+        "id":"r1m772w8mzrvrl1crcfa",
+        "meaning":"đi tắm; tắm rửa",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"59uzno25bppgp1hsyo0n",
+        "createdDate":"2021-03-06T13:19:52.900Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.900Z"
+    },
+    {
+        "id":"o9yseep0ckz0n0u98haa",
+        "meaning":"mùa hè",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"i4d3j696wnlq9ofmpped",
+        "createdDate":"2021-03-06T13:19:52.902Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.902Z"
+    },
+    {
+        "id":"alr60sopbly0ti6z6vex",
+        "meaning":"trước",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"nmikwkh7kl5g5yied6xe",
+        "createdDate":"2021-03-06T13:19:52.903Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.903Z"
+    },
+    {
+        "id":"t695v5k0jl98aj4szkwu",
+        "meaning":"tin tưởng vào; bị thuyết phục về; có niềm tin vào; nơi dựa vào; đặt niềm tin vào",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"0gaopnl2xjgmiecyb27g",
+        "createdDate":"2021-03-06T13:19:52.905Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.905Z"
+    },
+    {
+        "id":"dcy1zygys50y6l09dy54",
+        "meaning":"chuối",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"6db01wkc3nkca02oppte",
+        "createdDate":"2021-03-06T13:19:52.907Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.907Z"
+    },
+    {
+        "id":"cpl36muy7gpi1axciqx7",
+        "meaning":"đến; hướng tới",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"9f1pil68t3vs5xyx2w03",
+        "createdDate":"2021-03-06T13:19:52.908Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.908Z"
+    },
+    {
+        "id":"y9nzhow65raas457f18e",
+        "meaning":"trông giống nhau",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"vafsp7tpt2onh2xovstg",
+        "createdDate":"2021-03-06T13:19:52.910Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.910Z"
+    },
+    {
+        "id":"a90imzj5trxaotsyu5ef",
+        "meaning":"như; giống như",
+        "wordTypeId":"gtnyriek6m4ag4cfczp5",
+        "wordId":"vafsp7tpt2onh2xovstg",
+        "createdDate":"2021-03-06T13:19:52.912Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.912Z"
+    },
+    {
+        "id":"pln2fgetd2vzejhb249b",
+        "meaning":"bảo trọng; coi chừng; cẩn thận",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"s2banpyba79qm5admvyg",
+        "createdDate":"2021-03-06T13:19:52.915Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.915Z"
+    },
+    {
+        "id":"2ajiuz9ye6m2k4sam86h",
+        "meaning":"cẩn thận",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"s2banpyba79qm5admvyg",
+        "createdDate":"2021-03-06T13:19:52.916Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.916Z"
+    },
+    {
+        "id":"oydrko4i0nhtnu459rbb",
+        "meaning":"(của một trường trung học hoặc tiểu học) hiệu trưởng; hiệu trưởng; (của một trường đại học hoặc cao đẳng) chủ tịch; thủ tướng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"3w3gdz81jl803rcj34hz",
+        "createdDate":"2021-03-06T13:19:52.918Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.918Z"
+    },
+    {
+        "id":"t4fg7usg0qsgu3cajjkc",
+        "meaning":"tin tức",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"bcjdn3t0b40a5nvc0f7e",
+        "createdDate":"2021-03-06T13:19:52.920Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.920Z"
+    },
+    {
+        "id":"rdoibhut9af1nn5rg5d0",
+        "meaning":"tươi",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"upxuzpnt1eppj8ijj9yn",
+        "createdDate":"2021-03-06T13:19:52.922Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.922Z"
+    },
+    {
+        "id":"cdr6ws4bndwvihiiab7f",
+        "meaning":"thẻ tín dụng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"77hlhk5y9kycbmvmfiin",
+        "createdDate":"2021-03-06T13:19:52.924Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.924Z"
+    },
+    {
+        "id":"obdr3lqvpazpyawjpm0q",
+        "meaning":"rương đựng quần áo; hành lý; vali",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ntymp72y7cj2t1bjee02",
+        "createdDate":"2021-03-06T13:19:52.926Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.926Z"
+    },
+    {
+        "id":"jki5tv1hqguxj4v8axfk",
+        "meaning":"gấu trúc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"yqwtao5kk3v08cq0ikyq",
+        "createdDate":"2021-03-06T13:19:52.927Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.927Z"
+    },
+    {
+        "id":"84v02lpmobkbdc64hipl",
+        "meaning":"cần",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"qc0cxc4ojx232up1zt3t",
+        "createdDate":"2021-03-06T13:19:52.929Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.929Z"
+    },
+    {
+        "id":"2wvyxrx9mibhle1vw58f",
+        "meaning":"chọn; lựa chọn",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"varextigng85us7twexx",
+        "createdDate":"2021-03-06T13:19:52.931Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.931Z"
+    },
+    {
+        "id":"7412xfc59f8jug7fise9",
+        "meaning":"một sự lựa chọn; sự lựa chọn",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"varextigng85us7twexx",
+        "createdDate":"2021-03-06T13:19:52.933Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.933Z"
+    },
+    {
+        "id":"hwwcmss5k61rzocb7r1l",
+        "meaning":"yêu cầu",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"kj7wfyfxts2vwxb1i2kp",
+        "createdDate":"2021-03-06T13:19:52.935Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.935Z"
+    },
+    {
+        "id":"z3z0aae4an6opgj1f82p",
+        "meaning":"ông nội, cũng được sử dụng như một danh hiệu kính trọng đối với một ông lão",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ezt81x19ohw5mqgigzcc",
+        "createdDate":"2021-03-06T13:19:52.941Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.941Z"
+    },
+    {
+        "id":"41sppzwk1f307qr463ev",
+        "meaning":"chắc chắn; chắc chắn rồi; nhất thiết",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"zv4xk00kglu24091nf3r",
+        "createdDate":"2021-03-06T13:19:52.945Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.945Z"
+    },
+    {
+        "id":"tg8n5hqc5aday01c6anr",
+        "meaning":"hoàn toàn; trong tất cả các",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"8s5m3y5bb7dccjupprq2",
+        "createdDate":"2021-03-06T13:19:52.948Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.948Z"
+    },
+    {
+        "id":"38n5sduw7nrruozg54pm",
+        "meaning":"một lúc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"2j7sa6cerb95n1jwww9j",
+        "createdDate":"2021-03-06T13:19:52.950Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.950Z"
+    },
+    {
+        "id":"0fwe0odham2heky5vvq7",
+        "meaning":"giống nhau",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"ee35m2b51ypkihfle1hc",
+        "createdDate":"2021-03-06T13:19:52.952Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.952Z"
+    },
+    {
+        "id":"p1w41nr2bq4jk47h5wtm",
+        "meaning":"thông thường; nói chung là; theo thói quen; bình thường",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"aebodjwuz130odn4twqq",
+        "createdDate":"2021-03-06T13:19:52.954Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.954Z"
+    },
+    {
+        "id":"txabhmphbnyb428myrxp",
+        "meaning":"đồng thời",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"hk7b910xbjt986n9ma7p",
+        "createdDate":"2021-03-06T13:19:52.955Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.955Z"
+    },
+    {
+        "id":"26xvru2z0upq8b7ii53b",
+        "meaning":"mọi lúc",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"zyqs8yjt3kkyqohx5i8p",
+        "createdDate":"2021-03-06T13:19:52.957Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.957Z"
+    },
+    {
+        "id":"edc8lwigr8ckntv9qwy2",
+        "meaning":"trước (một thời điểm); trở lại; trước đây; trước kia",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"wxhk7jgfkbmj0yo9h7os",
+        "createdDate":"2021-03-06T13:19:52.959Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.959Z"
+    },
+    {
+        "id":"flwxjt7ghz8gqbk3fhu3",
+        "meaning":"âm nhạc; ca nhạc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"uf4ihcjm08vlijmjktq4",
+        "createdDate":"2021-03-06T13:19:52.960Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.960Z"
+    },
+    {
+        "id":"nqqzyf6huo1quwtanxh2",
+        "meaning":"ngân hàng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"psltygvq1kyrtahtptwl",
+        "createdDate":"2021-03-06T13:19:52.962Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.962Z"
+    },
+    {
+        "id":"qz84960lvhuz5hyb1t88",
+        "meaning":"đồ uống; thức uống",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"6h0aw471yth08xajsxqz",
+        "createdDate":"2021-03-06T13:19:52.964Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.964Z"
+    },
+    {
+        "id":"j9qyg63v77lf06qf7gvc",
+        "meaning":"nên; phải",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"1kj5m3qib2gqqe2y8u8k",
+        "createdDate":"2021-03-06T13:19:52.965Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.965Z"
+    },
+    {
+        "id":"n68pw4099xne1ip7qkqj",
+        "meaning":"ảnh hưởng; có ảnh hưởng đến; liên quan; làm việc dựa trên",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"54d5q8yafwvcm7kocip5",
+        "createdDate":"2021-03-06T13:19:52.967Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.967Z"
+    },
+    {
+        "id":"w8au4espmh6b53586qpa",
+        "meaning":"ảnh hưởng; hiệu ứng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"54d5q8yafwvcm7kocip5",
+        "createdDate":"2021-03-06T13:19:52.968Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.968Z"
+    },
+    {
+        "id":"g10f1tpd58lfb2xeboes",
+        "meaning":"sử dụng; dành ra",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"tvkjln2ctctkh5bp67sd",
+        "createdDate":"2021-03-06T13:19:52.970Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.970Z"
+    },
+    {
+        "id":"1pjtkpqqip6yhueyr9l8",
+        "meaning":"trò chơi; sự giải trí",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"rw7s11blyo8eouz9cih2",
+        "createdDate":"2021-03-06T13:19:52.972Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.972Z"
+    },
+    {
+        "id":"wa2saixoym221mv7k3hq",
+        "meaning":"nổi tiếng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"qpj9eozfozm9nr7ju0vn",
+        "createdDate":"2021-03-06T13:19:52.973Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.973Z"
+    },
+    {
+        "id":"np12ms8j9ainki6w3dgq",
+        "meaning":"lần nữa; một lần nữa",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"d92zzvt6upw7nku1ixq2",
+        "createdDate":"2021-03-06T13:19:52.975Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.975Z"
+    },
+    {
+        "id":"xnxwvb0hhb0o9xpv8mwf",
+        "meaning":"gặp gỡ; gặp nhau",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"8wlad7lrzc2pp8izt75e",
+        "createdDate":"2021-03-06T13:19:52.976Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.976Z"
+    },
+    {
+        "id":"sraxmn66lrtlk2i5xthm",
+        "meaning":"Nhân dân tệ",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"fbn3avhrxni72jggpvtq",
+        "createdDate":"2021-03-06T13:19:52.978Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.978Z"
+    },
+    {
+        "id":"9pwagkf58426782sad0f",
+        "meaning":"sẵn sàng; muốn; giống",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"jl6fqucf9oh3bx2vez46",
+        "createdDate":"2021-03-06T13:19:52.980Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.980Z"
+    },
+    {
+        "id":"30w6o7xcmg54zobx794j",
+        "meaning":"mặt trăng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"u3jnzt90luef5xuvr86c",
+        "createdDate":"2021-03-06T13:19:52.981Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.981Z"
+    },
+    {
+        "id":"yc3vq1rr1o9634xvdzr1",
+        "meaning":"càng… càng…",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"7b2xx30zsfsuc1qyl2m3",
+        "createdDate":"2021-03-06T13:19:52.983Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.983Z"
+    },
+    {
+        "id":"xylv9qcbzz7ohbqqfi2h",
+        "meaning":"đứng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"6n0yuer8ylh9rue0j9m8",
+        "createdDate":"2021-03-06T13:19:52.984Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.984Z"
+    },
+    {
+        "id":"cwkcnmbu5cbc786h9o3l",
+        "meaning":"khoảng cách giữa hai điểm dừng xe buýt",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"6n0yuer8ylh9rue0j9m8",
+        "createdDate":"2021-03-06T13:19:52.985Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.985Z"
+    },
+    {
+        "id":"una8pxuf87ppexi0zwlc",
+        "meaning":"đơn vị được sử dụng cho giấy, giường, bàn, mặt,...",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"w77oms55wfu3e5te1fuo",
+        "createdDate":"2021-03-06T13:19:52.987Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.987Z"
+    },
+    {
+        "id":"lq0bt508njjjbrpzvkeu",
+        "meaning":"mở ra",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"w77oms55wfu3e5te1fuo",
+        "createdDate":"2021-03-06T13:19:52.988Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.988Z"
+    },
+    {
+        "id":"jjq92v9ffifuyt19p9fv",
+        "meaning":"chăm sóc; bảo trọng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"0gf6ti6l36tobsoarlqa",
+        "createdDate":"2021-03-06T13:19:52.990Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.990Z"
+    },
+    {
+        "id":"b3pkltn8u4jqflp58afc",
+        "meaning":"bức ảnh",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"pjfr832j1ofypev9g2u7",
+        "createdDate":"2021-03-06T13:19:52.991Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.991Z"
+    },
+    {
+        "id":"fpv14kitdl8auiqad8a3",
+        "meaning":"máy ảnh",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"mfms4v3n8icgkbwewrm4",
+        "createdDate":"2021-03-06T13:19:52.993Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.993Z"
+    },
+    {
+        "id":"wzowzr7uqcb1mdq11zxk",
+        "meaning":"một trong một cặp; cho động vật, đồ đạc, thuyền hoặc tàu",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"cwhw7dfd6o6ff7bzt1wi",
+        "createdDate":"2021-03-06T13:19:52.994Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.994Z"
+    },
+    {
+        "id":"nehuzde7cvmo3wa7edn3",
+        "meaning":"duy nhất",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"cwhw7dfd6o6ff7bzt1wi",
+        "createdDate":"2021-03-06T13:19:52.999Z",
+        "lastModifiedDate":"2021-03-06T13:19:52.999Z"
+    },
+    {
+        "id":"tde2xrj64ii9sr62bqwd",
+        "meaning":"trung tâm; ở giữa",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"ux2aan1cej5blbd8jx4m",
+        "createdDate":"2021-03-06T13:19:53.001Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.001Z"
+    },
+    {
+        "id":"0c4ng6op965slzysn359",
+        "meaning":"tiếng Trung Quốc",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"0kubqxmahji4te0dzjt6",
+        "createdDate":"2021-03-06T13:19:53.003Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.003Z"
+    },
+    {
+        "id":"uy8ke9xxovi6ish69r72",
+        "meaning":"cuối cùng",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"lqo69wxl958tt4lckd3u",
+        "createdDate":"2021-03-06T13:19:53.005Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.005Z"
+    },
+    {
+        "id":"ttgms2uaopnfs44c4udg",
+        "meaning":"loại; kiểu",
+        "wordTypeId":"7do8r7szf5dy3ge95s6e",
+        "wordId":"44qtwbgmu1i8eawx6q62",
+        "createdDate":"2021-03-06T13:19:53.007Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.007Z"
+    },
+    {
+        "id":"lr634kmk0h1js5b0ukr9",
+        "meaning":"quan trọng",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"p759nudnt7gcaghsc0wk",
+        "createdDate":"2021-03-06T13:19:53.009Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.009Z"
+    },
+    {
+        "id":"kful2gapay77vko9iu16",
+        "meaning":"cuối tuần",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"k0sf3scrp1izbg3drwa7",
+        "createdDate":"2021-03-06T13:19:53.011Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.011Z"
+    },
+    {
+        "id":"h6q486d1w8jky3k7w5ct",
+        "meaning":"chính; chủ yếu",
+        "wordTypeId":"qym0hk7i9j0p5ozexxp0",
+        "wordId":"r6t9mzu44a1cm596bskt",
+        "createdDate":"2021-03-06T13:19:53.013Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.013Z"
+    },
+    {
+        "id":"3ne77l77bzvqcsenujzq",
+        "meaning":"chú ý; cẩn thận",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"4qf7w40p8bxep67cqvq3",
+        "createdDate":"2021-03-06T13:19:53.015Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.015Z"
+    },
+    {
+        "id":"t9yf4yq5thi2ngc5cmay",
+        "meaning":"lo; cảm thấy lo lắng",
+        "wordTypeId":"apfya7t9ddd7nt9btsgy",
+        "wordId":"gd1ohklhb0wfweoegr6i",
+        "createdDate":"2021-03-06T13:19:53.016Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.016Z"
+    },
+    {
+        "id":"bxifc1b30ni70n7q2k97",
+        "meaning":"bản thân cái gì; của chính cái gì",
+        "wordTypeId":"iss2po1tch1ixacftmu0",
+        "wordId":"8oq53my451qyxuz6c1u0",
+        "createdDate":"2021-03-06T13:19:53.017Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.017Z"
+    },
+    {
+        "id":"detpex3b3bg6ar12x3hu",
+        "meaning":"luôn luôn",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"76hralqw6ltzhyztoe35",
+        "createdDate":"2021-03-06T13:19:53.019Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.019Z"
+    },
+    {
+        "id":"de823z504hyp6iug87nz",
+        "meaning":"miệng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"gf64p7sr7pra0xkue8nl",
+        "createdDate":"2021-03-06T13:19:53.020Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.020Z"
+    },
+    {
+        "id":"twkk0vnr6nzr1vrp9629",
+        "meaning":"gần đây",
+        "wordTypeId":"tnb4bc5p8h33cy019qci",
+        "wordId":"yap5qqvt2ece3x4dqnjw",
+        "createdDate":"2021-03-06T13:19:53.022Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.022Z"
+    },
+    {
+        "id":"hyae932wzu7iq34j6j24",
+        "meaning":"phân công trường học; bài tập nghiên cứu",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"fynw3dmnt8p7faidcuhc",
+        "createdDate":"2021-03-06T13:19:53.023Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.023Z"
+    },
+    {
+        "id":"hv2pcaj22qxl2a7aifjx",
+        "meaning":"một hiệu ứng; sự ảnh hưởng",
+        "wordTypeId":"c8sx4l5o12k2r2cbkd2n",
+        "wordId":"1e9jp6hzsl9ei831y3ke",
+        "createdDate":"2021-03-06T13:19:53.025Z",
+        "lastModifiedDate":"2021-03-06T13:19:53.025Z"
+    }
+]
