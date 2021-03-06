@@ -4925,7 +4925,7 @@
                     {
                         "example":"冰箱里还有饮料吗？",
                         "exampleBold":"冰箱里还有<b>饮料</b>吗？",
-                        "meaning":"Ngân hàng đóng cửa lúc 5 giờ chiều."
+                        "meaning":"Có <b>đồ uống</b> nào trong tủ lạnh không?"
                     }
                 ]
             }
@@ -4942,7 +4942,7 @@
                     {
                         "example":"8点了，应该去上班了。",
                         "exampleBold":"8点了，<b>应该</b>去上班了。",
-                        "meaning":"Có đồ uống nào trong tủ lạnh không?"
+                        "meaning":"Đã 8 giờ, đến giờ tôi <b>phải</b> đi làm."
                     }
                 ]
             }
@@ -4959,7 +4959,7 @@
                     {
                         "example":"请不要影响别人休息。",
                         "exampleBold":"请不要<b>影响</b>别人休息。",
-                        "meaning":"Đã 8 giờ, đến giờ đi làm."
+                        "meaning":"Vui lòng không <b>ảnh hưởng</b> đến người khác để nghỉ ngơi."
                     }
                 ]
             },
@@ -4970,7 +4970,7 @@
                     {
                         "example":"环境对人有很大的影响。",
                         "exampleBold":"环境对人有很大的<b>影响</b>。",
-                        "meaning":"Vui lòng không ảnh hưởng đến người khác để nghỉ ngơi."
+                        "meaning":"Môi trường có <b>ảnh hưởng</b> lớn đến con người."
                     }
                 ]
             }
@@ -4982,12 +4982,12 @@
         "meanings":[
             {
                 "wordType":"v",
-                "meaning":"sử dụng; dùng",
+                "meaning":"sử dụng; dành ra",
                 "examples":[
                     {
                         "example":"我用了两个小时打扫房间。",
                         "exampleBold":"我<b>用</b>了两个小时打扫房间。",
-                        "meaning":"Môi trường có ảnh hưởng lớn đến con người."
+                        "meaning":"Tôi đã <b>dành</b> hai giờ để dọn dẹp căn phòng."
                     }
                 ]
             }
@@ -5004,7 +5004,7 @@
                     {
                         "example":"这是孩子们最喜欢玩儿的游戏。",
                         "exampleBold":"这是孩子们最喜欢玩儿的<b>游戏</b>。",
-                        "meaning":"Tôi đã dành hai giờ để dọn dẹp căn phòng."
+                        "meaning":"Đây là <b>trò chơi</b> yêu thích của trẻ em."
                     }
                 ]
             }
@@ -5021,7 +5021,7 @@
                     {
                         "example":"这本书很有名。",
                         "exampleBold":"这本书很<b>有名</b>。",
-                        "meaning":"Đây là trò chơi yêu thích của trẻ em."
+                        "meaning":"Cuốn sách này rất <b>nổi tiếng</b>."
                     }
                 ]
             }
@@ -5038,7 +5038,7 @@
                     {
                         "example":"我们休息了一会儿，又开始工作了。",
                         "exampleBold":"我们休息了一会儿，<b>又</b>开始工作了。",
-                        "meaning":"Cuốn sách này rất nổi tiếng."
+                        "meaning":"Chúng tôi nghỉ ngơi một lúc và bắt đầu làm việc <b>trở lại</b>."
                     }
                 ]
             }
@@ -5055,7 +5055,7 @@
                     {
                         "example":"刚才我在街上遇到了张先生。",
                         "exampleBold":"刚才我在街上<b>遇到</b>了张先生。",
-                        "meaning":"Chúng tôi nghỉ ngơi một lúc và bắt đầu làm việc trở lại."
+                        "meaning":"Tôi <b>gặp</b> anh Zhang trên phố vừa rồi."
                     }
                 ]
             }
@@ -5072,7 +5072,7 @@
                     {
                         "example":"这块手表600元。",
                         "exampleBold":"这块手表600<b>元</b>。",
-                        "meaning":"Tôi gặp anh Zhang trên phố vừa rồi."
+                        "meaning":"Đồng hồ này giá 600 <b>nhân dân tệ</b>."
                     }
                 ]
             }
@@ -5089,7 +5089,7 @@
                     {
                         "example":"他很愿意帮助别人。",
                         "exampleBold":"他很<b>愿意</b>帮助别人。",
-                        "meaning":"Đồng hồ này là 600 nhân dân tệ."
+                        "meaning":"Anh ấy <b>sẵn sàng</b> giúp đỡ người khác."
                     }
                 ]
             }
@@ -5106,7 +5106,7 @@
                     {
                         "example":"今晚的月亮真圆！",
                         "exampleBold":"今晚的<b>月亮</b>真圆！",
-                        "meaning":"Anh ấy sẵn sàng giúp đỡ người khác."
+                        "meaning":"Đêm nay <b>trăng</b> thật tròn!"
                     }
                 ]
             }
@@ -5123,7 +5123,7 @@
                     {
                         "example":"他越说越高兴。",
                         "exampleBold":"他<b>越</b>说<b>越</b>高兴。",
-                        "meaning":"Đêm nay trăng thật tròn!"
+                        "meaning":"<b>Càng</b> nói chuyện, anh ấy <b>càng</b> vui hơn."
                     }
                 ]
             }
@@ -5140,7 +5140,7 @@
                     {
                         "example":"爸爸站在我的身边。",
                         "exampleBold":"爸爸<b>站</b>在我的身边。",
-                        "meaning":"Càng nói chuyện, anh ấy càng vui hơn."
+                        "meaning":"Bố đã <b>đứng</b> về phía tôi."
                     }
                 ]
             },
@@ -5151,7 +5151,7 @@
                     {
                         "example":"去火车站，坐地铁3站就到了。",
                         "exampleBold":"去火车站，坐地铁3<b>站</b>就到了。",
-                        "meaning":"Bố đã đứng về phía tôi."
+                        "meaning":"Đến ga xe lửa và đi tàu điện ngầm 3 <b>trạm dừng</b>."
                     }
                 ]
             }
@@ -5163,12 +5163,12 @@
         "meanings":[
             {
                 "wordType":"nm",
-                "meaning":"được sử dụng cho giấy, giường, bàn, mặt,...",
+                "meaning":"đơn vị được sử dụng cho giấy, giường, bàn, mặt,...",
                 "examples":[
                     {
                         "example":"请给我一张纸。",
                         "exampleBold":"请给我一<b>张</b>纸。",
-                        "meaning":"Đến ga xe lửa và đi tàu điện ngầm 3 điểm dừng."
+                        "meaning":"Làm ơn cho tôi một <b>mảnh</b> giấy."
                     }
                 ]
             },
@@ -5179,7 +5179,7 @@
                     {
                         "example":"小女孩儿张开嘴，笑了。",
                         "exampleBold":"小女孩儿<b>张</b>开嘴，笑了。",
-                        "meaning":"Làm ơn cho tôi một mảnh giấy."
+                        "meaning":"Cô gái nhỏ <b>mở</b> miệng cười."
                     }
                 ]
             }
@@ -5196,7 +5196,7 @@
                     {
                         "example":"我生病了，妈妈一直照顾我。",
                         "exampleBold":"我生病了，妈妈一直<b>照顾</b>我。",
-                        "meaning":"Cô gái nhỏ mở miệng cười."
+                        "meaning":"Tôi ốm và mẹ tôi đã <b>chăm sóc</b> tôi."
                     }
                 ]
             }
@@ -5208,12 +5208,12 @@
         "meanings":[
             {
                 "wordType":"n",
-                "meaning":"tấm ảnh",
+                "meaning":"bức ảnh",
                 "examples":[
                     {
                         "example":"这是我小时候的照片。",
                         "exampleBold":"这是我小时候的<b>照片</b>。",
-                        "meaning":"Tôi ốm và mẹ tôi đã chăm sóc tôi."
+                        "meaning":"Đây là một <b>bức ảnh</b> từ thời thơ ấu của tôi."
                     }
                 ]
             }
@@ -5230,7 +5230,7 @@
                     {
                         "example":"我新买了一个照相机。",
                         "exampleBold":"我新买了一个<b>照相机</b>。",
-                        "meaning":"Đây là một bức ảnh từ thời thơ ấu của tôi."
+                        "meaning":"Tôi đã mua một chiếc <b>máy ảnh</b> mới."
                     }
                 ]
             }
@@ -5245,20 +5245,25 @@
                 "meaning":"một trong một cặp; cho động vật, đồ đạc, thuyền hoặc tàu",
                 "examples":[
                     {
-                        "example":"我有一只鞋找不到了。\n树上有一只小猫。",
-                        "exampleBold":"我有一<b>只</b>鞋找不到了。\n树上有一<b></b>小猫。",
-                        "meaning":"Tôi đã mua một chiếc máy ảnh mới."
+                        "example":"我有一只鞋找不到了。",
+                        "exampleBold":"我有一<b>只</b>鞋找不到了。",
+                        "meaning":"Tôi không thể tìm thấy <b>một</b> chiếc giày."
+                    },
+                    {
+                        "example":"树上有一只小猫。",
+                        "exampleBold":"树上有一<b></b>小猫。",
+                        "meaning":"Có <b>một</b> con mèo con trên cây."
                     }
                 ]
             },
             {
                 "wordType":"adv",
-                "meaning":"chỉ có; đơn thuần; chỉ",
+                "meaning":"duy nhất",
                 "examples":[
                     {
                         "example":"房间里只有我一个人。",
                         "exampleBold":"房间里<b>只</b>有我一个人。",
-                        "meaning":"Tôi không thể tìm thấy một chiếc giày."
+                        "meaning":"Tôi là người <b>duy nhất</b> trong phòng."
                     }
                 ]
             }
@@ -5275,7 +5280,7 @@
                     {
                         "example":"我站在中间，旁边的是我的同学。",
                         "exampleBold":"我站在<b>中间</b>，旁边的是我的同学。",
-                        "meaning":"Có một con mèo con trên cây."
+                        "meaning":"Tôi đứng <b>giữa</b>, bên cạnh người bạn cùng lớp."
                     }
                 ]
             }
@@ -5292,7 +5297,7 @@
                     {
                         "example":"我会用中文写文章。",
                         "exampleBold":"我会用<b>中文</b>写文章。",
-                        "meaning":"Tôi là người duy nhất trong phòng."
+                        "meaning":"Tôi có thể viết bài bằng <b>tiếng Trung</b>."
                     }
                 ]
             }
@@ -5309,7 +5314,7 @@
                     {
                         "example":"春天终于来了。",
                         "exampleBold":"春天<b>终于</b>来了。",
-                        "meaning":"Tôi đứng giữa, bên cạnh người bạn cùng lớp."
+                        "meaning":"Mùa xuân <b>cuối cùng</b> cũng đến rồi."
                     }
                 ]
             }
@@ -5326,7 +5331,7 @@
                     {
                         "example":"超市里有很多种新鲜水果。",
                         "exampleBold":"超市里有很多<b>种</b>新鲜水果。",
-                        "meaning":"Tôi có thể viết bài bằng tiếng Trung."
+                        "meaning":"Có rất nhiều <b>loại</b> trái cây tươi trong siêu thị."
                     }
                 ]
             }
@@ -5343,7 +5348,7 @@
                     {
                         "example":"我忘了一件重要的事情。",
                         "exampleBold":"我忘了一件<b>重要</b>的事情。",
-                        "meaning":"Mùa xuân cuối cùng cũng đến rồi."
+                        "meaning":"Tôi đã quên một điều <b>quan trọng</b>."
                     }
                 ]
             }
@@ -5360,7 +5365,7 @@
                     {
                         "example":"这个周末你有什么安排？",
                         "exampleBold":"这个<b>周末</b>你有什么安排？",
-                        "meaning":"Có rất nhiều loại trái cây tươi trong siêu thị."
+                        "meaning":"Kế hoạch cho <b>cuối tuần</b> này là gì?"
                     }
                 ]
             }
@@ -5377,7 +5382,7 @@
                     {
                         "example":"这本书主要讲了些什么？",
                         "exampleBold":"这本书<b>主要</b>讲了些什么？",
-                        "meaning":"Tôi đã quên một điều quan trọng."
+                        "meaning":"Cuốn sách này <b>chủ yếu</b> nói về điều gì vậy?"
                     }
                 ]
             }
@@ -5389,12 +5394,12 @@
         "meanings":[
             {
                 "wordType":"v",
-                "meaning":"chú ý đến; để mắt tới; để ý đến",
+                "meaning":"chú ý; cẩn thận",
                 "examples":[
                     {
                         "example":"请注意安全。",
                         "exampleBold":"请<b>注意</b>安全。",
-                        "meaning":"Kế hoạch cho cuối tuần này là gì?"
+                        "meaning":"Hãy <b>cẩn thận</b>."
                     }
                 ]
             }
@@ -5411,7 +5416,7 @@
                     {
                         "example":"遇到事情，不要着急。",
                         "exampleBold":"遇到事情，不要<b>着急</b>。",
-                        "meaning":"Cuốn sách này chủ yếu nói về điều gì?"
+                        "meaning":"Đừng <b>lo lắng</b> nếu bạn gặp phải điều gì đó."
                     }
                 ]
             }
@@ -5428,7 +5433,7 @@
                     {
                         "example":"我喜欢自己一个人旅游。",
                         "exampleBold":"我喜欢<b>自己</b>一个人旅游。",
-                        "meaning":"Hãy cẩn thận."
+                        "meaning":"Tôi thích đi du lịch <b>một mình</b>."
                     }
                 ]
             }
@@ -5445,7 +5450,7 @@
                     {
                         "example":"他总是很早起床。",
                         "exampleBold":"他<b>总是</b>很早起床。",
-                        "meaning":"Đừng lo lắng nếu bạn gặp phải điều gì đó."
+                        "meaning":"Anh ấy <b>luôn luôn</b> dậy sớm."
                     }
                 ]
             }
@@ -5462,7 +5467,7 @@
                     {
                         "example":"妹妹的嘴边有一粒米。",
                         "exampleBold":"妹妹的<b>嘴</b>边有一粒米。",
-                        "meaning":"Tôi thích đi du lịch một mình."
+                        "meaning":"Có một hạt gạo dính bên <b>miệng</b> chị tôi."
                     }
                 ]
             }
@@ -5479,7 +5484,7 @@
                     {
                         "example":"我最近很忙。",
                         "exampleBold":"我<b>最近</b>很忙。",
-                        "meaning":"Anh ấy luôn dậy sớm."
+                        "meaning":"Tôi đã rất bận rộn <b>gần đây</b>."
                     }
                 ]
             }
@@ -5496,7 +5501,7 @@
                     {
                         "example":"今天的作业你写完了吗？",
                         "exampleBold":"今天的<b>作业</b>你写完了吗？",
-                        "meaning":"Có một hạt gạo bên miệng chị tôi."
+                        "meaning":"Bạn đã hoàn thành <b>bài tập</b> hôm nay chưa?"
                     }
                 ]
             }
@@ -5513,7 +5518,7 @@
                     {
                         "example":"这种感冒药对我没什么作用。",
                         "exampleBold":"这种感冒药对我没什么<b>作用</b>。",
-                        "meaning":"Tôi đã rất bận rộn gần đây."
+                        "meaning":"Thuốc cảm này không <b>ảnh hưởng</b> gì đến tôi."
                     }
                 ]
             }
